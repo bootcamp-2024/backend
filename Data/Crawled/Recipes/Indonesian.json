@@ -5,18 +5,78 @@
         "summary": "Originated from North Sumatra (Padang or Minang), this humble dish can be easily bought from many street vendors (warung nasi). When I studied abroad, I found a shortcut to make this lovely dish. Serve with hot, steamed rice or Indonesian fried rice (nasi goreng) with prawn crackers on the side.",
         "photos": [],
         "ingredients": [
-            "1 cup vegetable oil for frying",
-            "6  hard-boiled eggs, shells removed",
-            "6  red chile peppers, seeded and chopped",
-            "4 cloves garlic",
-            "4 medium shallots",
-            "2  tomatoes, quartered",
-            "1 teaspoon shrimp paste",
-            "1 \u00bd tablespoons peanut oil",
-            "1 tablespoon vegetable oil",
-            "1 teaspoon white vinegar",
-            "1 teaspoon white sugar",
-            "salt and pepper to taste"
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "name": "vegetable oil for frying",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 6.0,
+                "unit": "",
+                "name": "hard-boiled eggs",
+                "prepare_type": "shells removed"
+            },
+            {
+                "quantity": 6.0,
+                "unit": "",
+                "name": "red chile peppers",
+                "prepare_type": "seeded and chopped"
+            },
+            {
+                "quantity": 4.0,
+                "unit": "cloves",
+                "name": "garlic",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 4.0,
+                "unit": "medium",
+                "name": "shallots",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "",
+                "name": "tomatoes",
+                "prepare_type": "quartered"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "shrimp paste",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.5,
+                "unit": "tablespoons",
+                "name": "peanut oil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "vegetable oil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "white vinegar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "white sugar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "name": "salt and pepper to taste",
+                "prepare_type": ""
+            }
         ],
         "directions": [
             "Heat 1 cup oil in a small saucepan over medium-high heat. Deep fry the eggs in the hot oil until they are golden brown, 5 to 7 minutes; set aside.",
@@ -32,19 +92,84 @@
         "summary": "This dish is also known as sayur lodeh, which is a vegetable medley that includes tempeh as the main ingredient topped with coconut milk. This traditional dish can be modified with seasonal vegetables. Serve over rice.",
         "photos": [],
         "ingredients": [
-            "1 tablespoon canola oil",
-            "4 small shallots, minced",
-            "4  whole habanero peppers (Optional)",
-            "1 medium tomato, diced",
-            "2 cloves garlic, minced",
-            "\u00be (8 ounce) package tempeh, diced",
-            "1 medium red bell pepper, diced",
-            "\u00bc pound okra, sliced",
-            "2 cups vegetable broth",
-            "1 small eggplant, peeled and large diced (Optional)",
-            "1 tablespoon coconut milk",
-            "1 teaspoon brown sugar (Optional)",
-            "salt and ground black pepper to taste"
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "canola oil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 4.0,
+                "unit": "small",
+                "name": "shallots",
+                "prepare_type": "minced"
+            },
+            {
+                "quantity": 4.0,
+                "unit": "",
+                "name": "whole habanero peppers (Optional)",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "medium",
+                "name": "tomato",
+                "prepare_type": "diced"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "cloves",
+                "name": "garlic",
+                "prepare_type": "minced"
+            },
+            {
+                "quantity": 0.75,
+                "unit": "(8 ounce)",
+                "name": "package tempeh",
+                "prepare_type": "diced"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "medium",
+                "name": "red bell pepper",
+                "prepare_type": "diced"
+            },
+            {
+                "quantity": 0.25,
+                "unit": "pound",
+                "name": "okra",
+                "prepare_type": "sliced"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "cups",
+                "name": "vegetable broth",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "small",
+                "name": "eggplant",
+                "prepare_type": "peeled and large diced (Optional)"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "coconut milk",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "brown sugar (Optional)",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "name": "salt and ground black pepper to taste",
+                "prepare_type": ""
+            }
         ],
         "directions": [
             "Coat the bottom of a skillet with oil and place it over medium heat. Combine shallots, peppers, tomato, and garlic in the skillet and stir until fragrant, about 3 minutes. Add tempeh, bell pepper, and okra; stir quickly to combine. Add broth and eggplant; bring to a low boil and cook for about 5 minutes. Reduce heat, cover, and simmer until all vegetables are tender, 5 to 7 minutes. Stir in coconut milk and brown sugar. Season with salt and pepper."
@@ -58,28 +183,138 @@
         "summary": "Opor ayam is an Indonesian chicken dish originating from the central to Eastern parts of the Java islands. This is usually served to enliven Ramadan in our tradition, along with ketupat and sambal goreng kentang (chile-fried potato).",
         "photos": [],
         "ingredients": [
-            "1 (2 to 3 pound) chicken, cut into 8 pieces",
-            "1  lemon, juiced",
-            "4  candlenuts",
-            "1 teaspoon ground coriander",
-            "\u00bd teaspoon cumin seeds",
-            "7  shallots, peeled",
-            "5 cloves garlic, peeled",
-            "1 tablespoon chopped galangal",
-            "\u00bd tablespoon chopped ginger",
-            "\u00bd teaspoon white peppercorns",
-            "\u00bd teaspoon chopped fresh turmeric root",
-            "3 tablespoons vegetable oil",
-            "2 stalks lemongrass, bruised",
-            "1 tablespoon tamarind juice",
-            "5  makrut lime leaves",
-            "3  bay leaves",
-            "1 teaspoon salt",
-            "\u00bd teaspoon white sugar",
-            "3 \u2153 cups thin coconut milk",
-            "1 cup thick coconut milk",
-            "1 small bunch Thai basil (Optional)",
-            "1 (2.8 ounce) package fried shallots"
+            {
+                "quantity": 1.0,
+                "unit": "(2",
+                "name": "to 3 pound) chicken",
+                "prepare_type": "cut into 8 pieces"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "",
+                "name": "lemon",
+                "prepare_type": "juiced"
+            },
+            {
+                "quantity": 4.0,
+                "unit": "",
+                "name": "candlenuts",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "ground coriander",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "name": "cumin seeds",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 7.0,
+                "unit": "",
+                "name": "shallots",
+                "prepare_type": "peeled"
+            },
+            {
+                "quantity": 5.0,
+                "unit": "cloves",
+                "name": "garlic",
+                "prepare_type": "peeled"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "chopped galangal",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "tablespoon",
+                "name": "chopped ginger",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "name": "white peppercorns",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "name": "chopped fresh turmeric root",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 3.0,
+                "unit": "tablespoons",
+                "name": "vegetable oil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "stalks",
+                "name": "lemongrass",
+                "prepare_type": "bruised"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "tamarind juice",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 5.0,
+                "unit": "",
+                "name": "makrut lime leaves",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 3.0,
+                "unit": "",
+                "name": "bay leaves",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "salt",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "name": "white sugar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 3.33,
+                "unit": "cups",
+                "name": "thin coconut milk",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "name": "thick coconut milk",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "small",
+                "name": "bunch Thai basil (Optional)",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "(2.8 ounce)",
+                "name": "package fried shallots",
+                "prepare_type": ""
+            }
         ],
         "directions": [
             "Soak chicken pieces in lemon juice for 30 minutes.",
@@ -97,20 +332,90 @@
         "summary": "A tasty Indonesian dish combining stir-fried vegetables, prawns, and rice to create a delicious treat in a flavorful sauce!",
         "photos": [],
         "ingredients": [
-            "2 tablespoons vegetable oil, divided",
-            "3  eggs, beaten",
-            "2 tablespoons dark soy sauce",
-            "2 tablespoons ketchup",
-            "1 tablespoon brown sugar",
-            "1 teaspoon toasted sesame oil",
-            "1 teaspoon sweet chili sauce",
-            "1  zucchini, chopped",
-            "1  carrot, chopped",
-            "8  green onions, sliced",
-            "1 clove garlic, crushed",
-            "2 cups cooked rice",
-            "\u00bd pound cooked prawns",
-            "2 tablespoons fresh chives, chopped"
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "vegetable oil",
+                "prepare_type": "divided"
+            },
+            {
+                "quantity": 3.0,
+                "unit": "",
+                "name": "eggs",
+                "prepare_type": "beaten"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "dark soy sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "ketchup",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "brown sugar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "toasted sesame oil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "sweet chili sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "",
+                "name": "zucchini",
+                "prepare_type": "chopped"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "",
+                "name": "carrot",
+                "prepare_type": "chopped"
+            },
+            {
+                "quantity": 8.0,
+                "unit": "",
+                "name": "green onions",
+                "prepare_type": "sliced"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "clove",
+                "name": "garlic",
+                "prepare_type": "crushed"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "cups",
+                "name": "cooked rice",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "pound",
+                "name": "cooked prawns",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "fresh chives",
+                "prepare_type": "chopped"
+            }
         ],
         "directions": [
             "Heat 1 tablespoon vegetable oil in a skillet over medium heat. Swirl the beaten egg into the pan so that it coats the surface. Flip the egg after 30 seconds, and cook for an additional 20 seconds on the other side. Remove the egg from the pan and, when cool enough to handle, roll up on a cutting board. Slice the rolled egg to make thin strips and set aside.",
@@ -127,16 +432,66 @@
         "summary": "A spicy pan-seared shrimp dish flavored with sambal oelek.",
         "photos": [],
         "ingredients": [
-            "1 pound large frozen shrimp, tails removed",
-            "\u00bd cup butter",
-            "3 cloves garlic, minced, or more to taste",
-            "\u00bd  lemon, juiced, divided",
-            "1 \u00bd teaspoons butter",
-            "\u00be cup chopped onion",
-            "\u00bd cup sambal oelek (Indonesian red chile paste)",
-            "3 cups water",
-            "3 cups sushi rice",
-            "\u00bd bunch green onions, chopped"
+            {
+                "quantity": 1.0,
+                "unit": "pound",
+                "name": "large frozen shrimp",
+                "prepare_type": "tails removed"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "name": "butter",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 3.0,
+                "unit": "cloves",
+                "name": "garlic",
+                "prepare_type": "minced, or more to taste"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "",
+                "name": "lemon",
+                "prepare_type": "juiced, divided"
+            },
+            {
+                "quantity": 1.5,
+                "unit": "teaspoons",
+                "name": "butter",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.75,
+                "unit": "cup",
+                "name": "chopped onion",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "name": "sambal oelek (Indonesian red chile paste)",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 3.0,
+                "unit": "cups",
+                "name": "water",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 3.0,
+                "unit": "cups",
+                "name": "sushi rice",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "bunch",
+                "name": "green onions",
+                "prepare_type": "chopped"
+            }
         ],
         "directions": [
             "Place shrimp in a large bowl of cold water until thawed, 10 to 15 minutes.",
@@ -154,19 +509,84 @@
         "summary": "Serve with dipping sauce on the side. Chicken, beef, or lamb can also be used instead of pork.",
         "photos": [],
         "ingredients": [
-            "2 cloves garlic",
-            "\u00bd cup chopped green onions",
-            "1 tablespoon chopped fresh ginger root",
-            "1 cup roasted, salted Spanish peanuts",
-            "2 tablespoons lemon juice",
-            "2 tablespoons honey",
-            "\u00bd cup soy sauce",
-            "2 teaspoons crushed coriander seed",
-            "1 teaspoon red pepper flakes",
-            "\u00bd cup chicken broth",
-            "\u00bd cup melted butter",
-            "1 \u00bd pounds pork tenderloin, cut into 1 inch cubes",
-            "skewers"
+            {
+                "quantity": 2.0,
+                "unit": "cloves",
+                "name": "garlic",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "name": "chopped green onions",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "chopped fresh ginger root",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "name": "roasted",
+                "prepare_type": "salted Spanish peanuts"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "lemon juice",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "honey",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "name": "soy sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "teaspoons",
+                "name": "crushed coriander seed",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "red pepper flakes",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "name": "chicken broth",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "name": "melted butter",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.5,
+                "unit": "pounds",
+                "name": "pork tenderloin",
+                "prepare_type": "cut into 1 inch cubes"
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "name": "skewers",
+                "prepare_type": ""
+            }
         ],
         "directions": [
             "In a food processor, process garlic, green onions, ginger, peanuts, lemon juice, honey, soy sauce, coriander, and red pepper flakes. Puree until almost smooth. Pour in broth and butter, and mix again.",
@@ -183,19 +603,84 @@
         "summary": "This is an all time favorite that has lasted me from grade school through adulthood. I've served it to just about everyone I know and have received nothing but rave reviews!",
         "photos": [],
         "ingredients": [
-            "1 cup uncooked long grain white rice",
-            "2 cups water",
-            "1 pound fresh green beans, trimmed and snapped",
-            "2 teaspoons olive oil",
-            "1 pound skinless, boneless chicken breast halves - cut into chunks",
-            "\u00be cup low-sodium chicken broth",
-            "\u2153 cup smooth peanut butter",
-            "2 teaspoons honey",
-            "1 tablespoon low sodium soy sauce",
-            "1 teaspoon red chile paste",
-            "2 tablespoons lemon juice",
-            "3  green onions, thinly sliced",
-            "2 tablespoons chopped peanuts (Optional)"
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "name": "uncooked long grain white rice",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "cups",
+                "name": "water",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "pound",
+                "name": "fresh green beans",
+                "prepare_type": "trimmed and snapped"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "teaspoons",
+                "name": "olive oil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "pound",
+                "name": "skinless",
+                "prepare_type": "boneless chicken breast halves - cut into chunks"
+            },
+            {
+                "quantity": 0.75,
+                "unit": "cup",
+                "name": "low-sodium chicken broth",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.33,
+                "unit": "cup",
+                "name": "smooth peanut butter",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "teaspoons",
+                "name": "honey",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "low sodium soy sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "red chile paste",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "lemon juice",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 3.0,
+                "unit": "",
+                "name": "green onions",
+                "prepare_type": "thinly sliced"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "chopped peanuts (Optional)",
+                "prepare_type": ""
+            }
         ],
         "directions": [
             "Bring the rice and water to boil in a pot. Reduce heat to low, cover, and simmer 20 minutes.",
@@ -212,12 +697,42 @@
         "summary": "Jemput jemput banana fritters are traditional Indonesian fritters. They're delicious!",
         "photos": [],
         "ingredients": [
-            "oil for frying",
-            "10 tablespoons all-purpose flour",
-            "1 pinch salt",
-            "1 teaspoon baking powder",
-            "6  ripe bananas",
-            "3 tablespoons white sugar"
+            {
+                "quantity": 0,
+                "unit": "",
+                "name": "oil for frying",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 10.0,
+                "unit": "tablespoons",
+                "name": "all-purpose flour",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "pinch",
+                "name": "salt",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "baking powder",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 6.0,
+                "unit": "",
+                "name": "ripe bananas",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 3.0,
+                "unit": "tablespoons",
+                "name": "white sugar",
+                "prepare_type": ""
+            }
         ],
         "directions": [
             "Heat oil in a deep fryer or heavy-bottomed pan to 375 degrees F (190 degrees C).",
@@ -234,17 +749,72 @@
         "summary": "This spicy rice is perfectly seasoned with garlic, jalape\u00f1os, and fragrant spices. Great with kabobs or grilled lamb.",
         "photos": [],
         "ingredients": [
-            "3 tablespoons vegetable oil",
-            "1 large onion, chopped",
-            "2  jalapeno peppers, seeded and minced",
-            "2 cloves garlic, crushed",
-            "1 teaspoon ground turmeric",
-            "\u00bd teaspoon ground cinnamon",
-            "2 cups uncooked long-grain white rice",
-            "2 (14.5 ounce) cans chicken broth",
-            "1 cup water",
-            "1  bay leaf",
-            "2  green onions, chopped"
+            {
+                "quantity": 3.0,
+                "unit": "tablespoons",
+                "name": "vegetable oil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "large",
+                "name": "onion",
+                "prepare_type": "chopped"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "",
+                "name": "jalapeno peppers",
+                "prepare_type": "seeded and minced"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "cloves",
+                "name": "garlic",
+                "prepare_type": "crushed"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "ground turmeric",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "name": "ground cinnamon",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "cups",
+                "name": "uncooked long-grain white rice",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "(14.5 ounce)",
+                "name": "cans chicken broth",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "name": "water",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "",
+                "name": "bay leaf",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "",
+                "name": "green onions",
+                "prepare_type": "chopped"
+            }
         ],
         "directions": [
             "Heat oil in a large, heavy pan over medium heat. Stir in onion, jalape\u00f1os, and garlic. Saut\u00e9 until onion is translucent; about 6 to 8 minutes.",
@@ -260,26 +830,126 @@
         "summary": "This is my version of Indonesian sop buntut, a deeply comforting oxtail and vegetable soup. Rich in collagen and filled with complex flavors, I always serve this with steamed rice and extra sliced tomatoes, fish sauce, shallot flakes (or French-fried onions), and lime wedges on the side.",
         "photos": [],
         "ingredients": [
-            "4  shallots, peeled and halved",
-            "1 large onion, quartered, divided",
-            "1 (2 inch) piece ginger, peeled and thinly sliced across the grain",
-            "5 cloves garlic, peeled",
-            "3 tablespoons canola oil",
-            "6  whole cloves (Optional)",
-            "\u00bd teaspoon ground nutmeg",
-            "\u00bc teaspoon ground cinnamon",
-            "4 pounds meaty oxtail pieces, at room temperature",
-            "3 stalks celery, cut into 1-inch pieces",
-            "2 large carrots, cut into 2-inch pieces, divided",
-            "4 cups water, or as needed to cover",
-            "3  waxy potatoes, scrubbed and cut into 1 1/2-inch chunks",
-            "3 large carrots, cut into 2-inch pieces",
-            "2 teaspoons salt",
-            "\u00bd teaspoon ground black pepper",
-            "2 tablespoons white sugar",
-            "2 tablespoons fish sauce",
-            "3  ripe roma tomatoes, sliced horizontally into 1/2-inch wedges",
-            "1 (2.8 ounce) can French-fried onions"
+            {
+                "quantity": 4.0,
+                "unit": "",
+                "name": "shallots",
+                "prepare_type": "peeled and halved"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "large",
+                "name": "onion",
+                "prepare_type": "quartered, divided"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "(2 inch)",
+                "name": "piece ginger",
+                "prepare_type": "peeled and thinly sliced across the grain"
+            },
+            {
+                "quantity": 5.0,
+                "unit": "cloves",
+                "name": "garlic",
+                "prepare_type": "peeled"
+            },
+            {
+                "quantity": 3.0,
+                "unit": "tablespoons",
+                "name": "canola oil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 6.0,
+                "unit": "",
+                "name": "whole cloves (Optional)",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "name": "ground nutmeg",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "teaspoon",
+                "name": "ground cinnamon",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 4.0,
+                "unit": "pounds",
+                "name": "meaty oxtail pieces",
+                "prepare_type": "at room temperature"
+            },
+            {
+                "quantity": 3.0,
+                "unit": "stalks",
+                "name": "celery",
+                "prepare_type": "cut into 1-inch pieces"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "large",
+                "name": "carrots",
+                "prepare_type": "cut into 2-inch pieces, divided"
+            },
+            {
+                "quantity": 4.0,
+                "unit": "cups",
+                "name": "water",
+                "prepare_type": "or as needed to cover"
+            },
+            {
+                "quantity": 3.0,
+                "unit": "",
+                "name": "waxy potatoes",
+                "prepare_type": "scrubbed and cut into 1 1/2-inch chunks"
+            },
+            {
+                "quantity": 3.0,
+                "unit": "large",
+                "name": "carrots",
+                "prepare_type": "cut into 2-inch pieces"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "teaspoons",
+                "name": "salt",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "name": "ground black pepper",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "white sugar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "fish sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 3.0,
+                "unit": "",
+                "name": "ripe roma tomatoes",
+                "prepare_type": "sliced horizontally into 1/2-inch wedges"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "(2.8 ounce)",
+                "name": "can French-fried onions",
+                "prepare_type": ""
+            }
         ],
         "directions": [
             "Combine shallots, 2 onion quarters, ginger, and garlic in a food processor; pulse into a paste.",
@@ -297,22 +967,102 @@
         "summary": "Learn how to make cap cai, a yummy Chinese-Indonesian vegetable dish that you'll find in restaurants all over Jakarta. It's a great pescetarian dish, too. We usually serve it with brown rice and fried tofu. You can leave out the prawns and the taste is still great, or even substitute for chicken.",
         "photos": [],
         "ingredients": [
-            "3 tablespoons vegetable oil",
-            "4 cloves garlic, minced",
-            "1  onion, thinly sliced",
-            "10 ounces peeled and deveined medium shrimp (30-40 per pound)",
-            "1 head bok choy, chopped",
-            "1 \u00bd cups chopped broccoli",
-            "1 \u00bd cups chopped cauliflower",
-            "1 large carrot, thinly sliced at an angle",
-            "3  green onions, chopped",
-            "\u2154 cup water",
-            "2 tablespoons cornstarch",
-            "2 tablespoons fish sauce",
-            "2 tablespoons oyster sauce",
-            "1 teaspoon white sugar",
-            "\u00bd teaspoon ground black pepper",
-            "salt to taste"
+            {
+                "quantity": 3.0,
+                "unit": "tablespoons",
+                "name": "vegetable oil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 4.0,
+                "unit": "cloves",
+                "name": "garlic",
+                "prepare_type": "minced"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "",
+                "name": "onion",
+                "prepare_type": "thinly sliced"
+            },
+            {
+                "quantity": 10.0,
+                "unit": "ounces",
+                "name": "peeled and deveined medium shrimp (30-40 per pound)",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "head",
+                "name": "bok choy",
+                "prepare_type": "chopped"
+            },
+            {
+                "quantity": 1.5,
+                "unit": "cups",
+                "name": "chopped broccoli",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.5,
+                "unit": "cups",
+                "name": "chopped cauliflower",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "large",
+                "name": "carrot",
+                "prepare_type": "thinly sliced at an angle"
+            },
+            {
+                "quantity": 3.0,
+                "unit": "",
+                "name": "green onions",
+                "prepare_type": "chopped"
+            },
+            {
+                "quantity": 0.66,
+                "unit": "cup",
+                "name": "water",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "cornstarch",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "fish sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "oyster sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "white sugar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "name": "ground black pepper",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "name": "salt to taste",
+                "prepare_type": ""
+            }
         ],
         "directions": [
             "Heat vegetable oil in a large saucepan over medium heat. Stir in garlic and onion; cook and stir until onion has softened and turned translucent, about 5 minutes. Add shrimp, bok choy, broccoli, cauliflower, carrot, and green onion. Pour in water, cover, and cook until shrimp is no longer translucent in the center and vegetables are tender, about 15 minutes.",
@@ -327,16 +1077,66 @@
         "summary": "This chicken in coconut sauce dish is a delicious recipe from Indonesia. The coconut adds a creamy taste to the chicken!",
         "photos": [],
         "ingredients": [
-            "1 (15 ounce) can cream of coconut",
-            "1 cup hot water",
-            "3 tablespoons vegetable oil",
-            "4  skinless, boneless chicken breast halves",
-            "1 tablespoon lemon juice",
-            "1 teaspoon ground ginger",
-            "1 teaspoon chili powder",
-            "salt and pepper to taste",
-            "2  onions, chopped",
-            "3 cloves garlic, peeled and crushed"
+            {
+                "quantity": 1.0,
+                "unit": "(15 ounce)",
+                "name": "can cream of coconut",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "name": "hot water",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 3.0,
+                "unit": "tablespoons",
+                "name": "vegetable oil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 4.0,
+                "unit": "",
+                "name": "skinless",
+                "prepare_type": "boneless chicken breast halves"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "lemon juice",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "ground ginger",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "chili powder",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "name": "salt and pepper to taste",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "",
+                "name": "onions",
+                "prepare_type": "chopped"
+            },
+            {
+                "quantity": 3.0,
+                "unit": "cloves",
+                "name": "garlic",
+                "prepare_type": "peeled and crushed"
+            }
         ],
         "directions": [
             "Mix cream of coconut with hot water until smooth and well blended; set aside.",
@@ -352,23 +1152,108 @@
         "summary": "This tasty noodle dish is the same one my mom used to make for me when I was growing up. It's definitely comfort food. You can alter it with adding your favorite meats and veggies.",
         "photos": [],
         "ingredients": [
-            "3 (3 ounce) packages ramen noodles (without flavor packets)",
-            "1 tablespoon vegetable oil",
-            "1 pound skinless, boneless chicken breast halves, cut into strips",
-            "1 teaspoon olive oil",
-            "1 teaspoon garlic salt",
-            "1 pinch ground black pepper, or to taste",
-            "1 tablespoon vegetable oil",
-            "\u00bd cup chopped shallots",
-            "5 cloves garlic, chopped",
-            "1 cup shredded cabbage",
-            "1 cup shredded carrots",
-            "1 cup broccoli florets",
-            "1 cup sliced fresh mushrooms",
-            "\u00bc cup soy sauce",
-            "\u00bc cup sweet soy sauce (Indonesian kecap manis)",
-            "\u00bc cup oyster sauce",
-            "salt and pepper to taste"
+            {
+                "quantity": 3.0,
+                "unit": "(3 ounce)",
+                "name": "packages ramen noodles (without flavor packets)",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "vegetable oil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "pound",
+                "name": "skinless",
+                "prepare_type": "boneless chicken breast halves, cut into strips"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "olive oil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "garlic salt",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "pinch",
+                "name": "ground black pepper",
+                "prepare_type": "or to taste"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "vegetable oil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "name": "chopped shallots",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 5.0,
+                "unit": "cloves",
+                "name": "garlic",
+                "prepare_type": "chopped"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "name": "shredded cabbage",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "name": "shredded carrots",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "name": "broccoli florets",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "name": "sliced fresh mushrooms",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "soy sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "sweet soy sauce (Indonesian kecap manis)",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "oyster sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "name": "salt and pepper to taste",
+                "prepare_type": ""
+            }
         ],
         "directions": [
             "Bring a pan of water to a boil, and cook the ramen until tender, about 3 minutes. Plunge the noodles into cold water to stop the cooking, drain in a colander set in the sink, and drizzle the noodles with 1 tablespoon of vegetable oil. Set aside.",
@@ -384,13 +1269,48 @@
         "summary": "I got this recipe while in Indonesia. Some ingredients may be substituted.",
         "photos": [],
         "ingredients": [
-            "2 \u00bd cups white sugar",
-            "3 cups dark soy sauce",
-            "\u00bd cup water",
-            "\u00bd  star anise pod",
-            "2  fresh curry leaves",
-            "1 (1 inch) piece fresh ginger root, sliced",
-            "4 cloves garlic, minced"
+            {
+                "quantity": 2.5,
+                "unit": "cups",
+                "name": "white sugar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 3.0,
+                "unit": "cups",
+                "name": "dark soy sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "name": "water",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "",
+                "name": "star anise pod",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "",
+                "name": "fresh curry leaves",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "(1 inch)",
+                "name": "piece fresh ginger root",
+                "prepare_type": "sliced"
+            },
+            {
+                "quantity": 4.0,
+                "unit": "cloves",
+                "name": "garlic",
+                "prepare_type": "minced"
+            }
         ],
         "directions": [
             "Heat sugar in a heavy saucepan over medium-low heat until sugar becomes lightly brown. Slowly stir in soy sauce. Once the sugar and soy sauce are combined, stir in the water, star anise, curry leaves, ginger, and garlic. Increase heat and bring to a boil. Simmer until the sugar is dissolved, about 15 minutes. Remove from heat and cool. Strain sauce and pour into a lidded bottle or jar. Store in the refrigerator."
@@ -404,18 +1324,78 @@
         "summary": "I'm Indonesian but I live in Spain. I'd like to share my recipe for satay ayam with you. It has helped me a lot to overcome my homesickness. I hope this dish will be one of your favorite Asian dishes. You will not be able to resist the sweet and salty taste of the peanut sauce!",
         "photos": [],
         "ingredients": [
-            "1 pound chicken thighs, cut into 1/2-inch pieces",
-            "\u00be teaspoon salt",
-            "1 pinch ground white pepper",
-            "1 tablespoon sunflower seed oil",
-            "24  wooden skewers",
-            "1 cup water",
-            "5 tablespoons peanut butter",
-            "2 tablespoons kecap manis (sweet soy sauce)",
-            "1 tablespoon brown sugar",
-            "2 cloves garlic, minced",
-            "\u00bd teaspoon salt",
-            "1 tablespoon lime juice"
+            {
+                "quantity": 1.0,
+                "unit": "pound",
+                "name": "chicken thighs",
+                "prepare_type": "cut into 1/2-inch pieces"
+            },
+            {
+                "quantity": 0.75,
+                "unit": "teaspoon",
+                "name": "salt",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "pinch",
+                "name": "ground white pepper",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "sunflower seed oil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 24.0,
+                "unit": "",
+                "name": "wooden skewers",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "name": "water",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 5.0,
+                "unit": "tablespoons",
+                "name": "peanut butter",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "kecap manis (sweet soy sauce)",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "brown sugar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "cloves",
+                "name": "garlic",
+                "prepare_type": "minced"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "name": "salt",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "lime juice",
+                "prepare_type": ""
+            }
         ],
         "directions": [
             "Combine chicken thighs, 3/4 teaspoon salt, white pepper, and sunflower seed oil in a bowl. Cover and refrigerate for 1 to 2 hours.",
@@ -433,15 +1413,60 @@
         "summary": "Make the most popular Indonesian snack with this pisang goreng recipe. Serve it hot and make extra. With this recipe, you always want more!",
         "photos": [],
         "ingredients": [
-            "1 \u00bc cups all-purpose flour",
-            "2 tablespoons granulated sugar",
-            "\u00bc tablespoon vanilla powder",
-            "\u00bd cup milk",
-            "1  egg",
-            "2 tablespoons butter, melted",
-            "1 teaspoon rum flavoring",
-            "4  ripe bananas, sliced",
-            "2 cups oil for frying"
+            {
+                "quantity": 1.25,
+                "unit": "cups",
+                "name": "all-purpose flour",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "granulated sugar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "tablespoon",
+                "name": "vanilla powder",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "name": "milk",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "",
+                "name": "egg",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "butter",
+                "prepare_type": "melted"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "rum flavoring",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 4.0,
+                "unit": "",
+                "name": "ripe bananas",
+                "prepare_type": "sliced"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "cups",
+                "name": "oil for frying",
+                "prepare_type": ""
+            }
         ],
         "directions": [
             "Combine flour, sugar, and vanilla powder in a large bowl; make a well in the center. Pour milk, egg, melted butter, and rum flavoring into the well; mix until smooth. Fold in banana slices until evenly coated.",
@@ -457,19 +1482,84 @@
         "summary": "Nasi goreng is a delicious Indonesian fried rice dish that's very easy to make with cooked rice, eggs, kecap manis (sweet soy sauce), chiles, and garlic. This recipe adds chicken, shrimp, and veggies for a very satisfying meal.",
         "photos": [],
         "ingredients": [
-            "cooking spray",
-            "3 large eggs, beaten",
-            "1 tablespoon vegetable oil",
-            "1  onion, chopped",
-            "1  leek, chopped",
-            "2  green chile peppers, chopped",
-            "1 clove garlic, minced",
-            "\u00bd pound skinless, boneless chicken breasts, cut into thin strips",
-            "\u00bd pound peeled and deveined shrimp",
-            "1 teaspoon ground coriander",
-            "1 teaspoon ground cumin",
-            "3 cups cold cooked white rice",
-            "3 tablespoons kecap manis (sweet soy sauce)"
+            {
+                "quantity": 0,
+                "unit": "",
+                "name": "cooking spray",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 3.0,
+                "unit": "large",
+                "name": "eggs",
+                "prepare_type": "beaten"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "vegetable oil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "",
+                "name": "onion",
+                "prepare_type": "chopped"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "",
+                "name": "leek",
+                "prepare_type": "chopped"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "",
+                "name": "green chile peppers",
+                "prepare_type": "chopped"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "clove",
+                "name": "garlic",
+                "prepare_type": "minced"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "pound",
+                "name": "skinless",
+                "prepare_type": "boneless chicken breasts, cut into thin strips"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "pound",
+                "name": "peeled and deveined shrimp",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "ground coriander",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "ground cumin",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 3.0,
+                "unit": "cups",
+                "name": "cold cooked white rice",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 3.0,
+                "unit": "tablespoons",
+                "name": "kecap manis (sweet soy sauce)",
+                "prepare_type": ""
+            }
         ],
         "directions": [
             "Heat a large nonstick skillet over medium heat. Coat with nonstick cooking spray.",
@@ -486,23 +1576,108 @@
         "summary": "The sauce in this amazing Indonesian curry might be invisible, but you'll know it's there. As it reduces, the water evaporates, leaving behind the fat and flavor that make this dish so unique and addictive. Originally, cooking meat this way helped preserve it in hot and humid Indonesia. Turns out, people continued making it long after refrigeration came around. Serve with steamed rice, garnished with cilantro and lime if desired.",
         "photos": [],
         "ingredients": [
-            "2 \u00bd pounds beef chuck",
-            "4  shallots, sliced",
-            "6 cloves garlic",
-            "1 (1 1/2 inch) piece ginger, peeled and sliced",
-            "1 \u00bd inch piece galangal, peeled and sliced",
-            "2  serrano chile peppers - stemmed, seeded, and sliced",
-            "1  Fresno chile pepper - stemmed, seeded, and sliced",
-            "1 tablespoon Korean red pepper flakes",
-            "1 teaspoon ground coriander",
-            "\u00bd teaspoon ground turmeric",
-            "\u215b teaspoon ground cardamom",
-            "\u215b teaspoon freshly grated nutmeg",
-            "2 tablespoons vegetable oil",
-            "1 (14 ounce) can full-fat coconut milk",
-            "2 teaspoons tamarind paste",
-            "1 tablespoon brown sugar",
-            "\u00bd stalk lemongrass, light part"
+            {
+                "quantity": 2.5,
+                "unit": "pounds",
+                "name": "beef chuck",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 4.0,
+                "unit": "",
+                "name": "shallots",
+                "prepare_type": "sliced"
+            },
+            {
+                "quantity": 6.0,
+                "unit": "cloves",
+                "name": "garlic",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "(1",
+                "name": "1/2 inch) piece ginger",
+                "prepare_type": "peeled and sliced"
+            },
+            {
+                "quantity": 1.5,
+                "unit": "inch",
+                "name": "piece galangal",
+                "prepare_type": "peeled and sliced"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "",
+                "name": "serrano chile peppers - stemmed",
+                "prepare_type": "seeded, and sliced"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "",
+                "name": "Fresno chile pepper - stemmed",
+                "prepare_type": "seeded, and sliced"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "Korean red pepper flakes",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "ground coriander",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "name": "ground turmeric",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.375,
+                "unit": "teaspoon",
+                "name": "ground cardamom",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.375,
+                "unit": "teaspoon",
+                "name": "freshly grated nutmeg",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "vegetable oil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "(14 ounce)",
+                "name": "can full-fat coconut milk",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "teaspoons",
+                "name": "tamarind paste",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "brown sugar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "stalk",
+                "name": "lemongrass",
+                "prepare_type": "light part"
+            }
         ],
         "directions": [
             "Cut beef chuck into 2-inch pieces.",
@@ -520,22 +1695,102 @@
         "summary": "This is an original Indonesian satay. I send it from a long way. Hope all over the world, readers can enjoy it.",
         "photos": [],
         "ingredients": [
-            "3 tablespoons soy sauce",
-            "3 tablespoons tomato sauce",
-            "1 tablespoon peanut oil",
-            "2 cloves garlic, peeled and minced",
-            "1 pinch ground black pepper",
-            "1 pinch ground cumin",
-            "6  skinless, boneless chicken breast halves - cubed",
-            "1 tablespoon vegetable oil",
-            "\u00bc cup minced onion",
-            "1 clove garlic, peeled and minced",
-            "1 cup water",
-            "\u00bd cup chunky peanut butter",
-            "2 tablespoons soy sauce",
-            "2 tablespoons white sugar",
-            "1 tablespoon lemon juice",
-            "skewers"
+            {
+                "quantity": 3.0,
+                "unit": "tablespoons",
+                "name": "soy sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 3.0,
+                "unit": "tablespoons",
+                "name": "tomato sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "peanut oil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "cloves",
+                "name": "garlic",
+                "prepare_type": "peeled and minced"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "pinch",
+                "name": "ground black pepper",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "pinch",
+                "name": "ground cumin",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 6.0,
+                "unit": "",
+                "name": "skinless",
+                "prepare_type": "boneless chicken breast halves - cubed"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "vegetable oil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "minced onion",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "clove",
+                "name": "garlic",
+                "prepare_type": "peeled and minced"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "name": "water",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "name": "chunky peanut butter",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "soy sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "white sugar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "lemon juice",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "name": "skewers",
+                "prepare_type": ""
+            }
         ],
         "directions": [
             "In a bowl, mix soy sauce, tomato sauce, peanut oil, garlic, black pepper, and cumin. Place chicken into the mixture, and stir to coat. Cover, and marinate in the refrigerator for at least 15 minutes, but not overnight. This will make the meat too dark.",
@@ -552,23 +1807,108 @@
         "summary": "This is a Malay/Indonesian dish which is spicy and sweet at the same time. Recipe was passed down to me by my mother-in-law, and although it doesn't quite taste the same as the way she makes it, my husband loves it!",
         "photos": [],
         "ingredients": [
-            "1 (3 pound) whole chicken, cut into 8 pieces",
-            "1 teaspoon ground turmeric",
-            "salt to taste",
-            "\u00bc cup dried red chile peppers",
-            "3  fresh red chile pepper, finely chopped",
-            "4 cloves garlic, minced",
-            "1  red onion, chopped",
-            "1 (3/4 inch thick) slice fresh ginger root",
-            "2 tablespoons sunflower seed oil",
-            "1  cinnamon stick",
-            "2  whole star anise pods",
-            "5  whole cloves",
-            "5  cardamom seeds",
-            "2  tomatoes, sliced",
-            "2 tablespoons ketchup",
-            "1 teaspoon white sugar, or to taste",
-            "\u00bd cup water"
+            {
+                "quantity": 1.0,
+                "unit": "(3 pound)",
+                "name": "whole chicken",
+                "prepare_type": "cut into 8 pieces"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "ground turmeric",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "name": "salt to taste",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "dried red chile peppers",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 3.0,
+                "unit": "",
+                "name": "fresh red chile pepper",
+                "prepare_type": "finely chopped"
+            },
+            {
+                "quantity": 4.0,
+                "unit": "cloves",
+                "name": "garlic",
+                "prepare_type": "minced"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "",
+                "name": "red onion",
+                "prepare_type": "chopped"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "(3/4",
+                "name": "inch thick) slice fresh ginger root",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "sunflower seed oil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "",
+                "name": "cinnamon stick",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "",
+                "name": "whole star anise pods",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 5.0,
+                "unit": "",
+                "name": "whole cloves",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 5.0,
+                "unit": "",
+                "name": "cardamom seeds",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "",
+                "name": "tomatoes",
+                "prepare_type": "sliced"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "ketchup",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "white sugar",
+                "prepare_type": "or to taste"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "name": "water",
+                "prepare_type": ""
+            }
         ],
         "directions": [
             "Rub the chicken with turmeric powder and salt. Set aside. Soak the dried red chile peppers in hot water until softened. Blend the softened dried chile, fresh red chile pepper, garlic, onion, and ginger in a blender to a paste.",
@@ -583,20 +1923,90 @@
         "summary": "This beef satay recipe is the main course-size version of a fabulous Thai appetizer: strips of beef marinated in Asian spices, skewered, and grilled for a truly amazing combination of flavors. With grilling season still in full swing, you can never have enough new and exciting ways to enjoy beef. Serve with my peanut dipping sauce.",
         "photos": [],
         "ingredients": [
-            "\u00bc cup packed brown sugar",
-            "\u00bc cup fish sauce",
-            "4 cloves garlic, crushed",
-            "2 tablespoons minced onion",
-            "2 tablespoons vegetable oil",
-            "2 tablespoons soy sauce",
-            "2 tablespoons ground coriander",
-            "1 tablespoon grated fresh ginger root",
-            "1 tablespoon ground cumin",
-            "\u00bd teaspoon ground turmeric",
-            "\u215b teaspoon cayenne pepper",
-            "1  2-inch piece of fresh lemon grass (white part only)",
-            "2 pounds beef top sirloin, trimmed",
-            "4 12-inch long metal skewers"
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "packed brown sugar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "fish sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 4.0,
+                "unit": "cloves",
+                "name": "garlic",
+                "prepare_type": "crushed"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "minced onion",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "vegetable oil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "soy sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "ground coriander",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "grated fresh ginger root",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "ground cumin",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "name": "ground turmeric",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.375,
+                "unit": "teaspoon",
+                "name": "cayenne pepper",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "",
+                "name": "2-inch piece of fresh lemon grass (white part only)",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "pounds",
+                "name": "beef top sirloin",
+                "prepare_type": "trimmed"
+            },
+            {
+                "quantity": 4.0,
+                "unit": "12-inch",
+                "name": "long metal skewers",
+                "prepare_type": ""
+            }
         ],
         "directions": [
             "Whisk together brown sugar, fish sauce, garlic, onion, oil, soy sauce, coriander, ginger, cumin, turmeric, and cayenne pepper in a mixing bowl until smooth.",
@@ -615,22 +2025,102 @@
         "summary": "Ayam Penyet (Penyet Chicken) is an incredibly spicy Indonesian dish that will make your tongue feel like burning... you will need to go to a special Asian grocery store to get some of the ingredients.",
         "photos": [],
         "ingredients": [
-            "5 cloves garlic, peeled, divided",
-            "3  shallots, divided",
-            "1 \u00bd inch piece fresh ginger root, peeled and chopped",
-            "1 \u00bd inch piece galangal, thinly sliced",
-            "\u00bd teaspoon ground coriander",
-            "2 teaspoons salt, divided",
-            "4  chicken thighs",
-            "1 \u00bc cups water",
-            "2  salam leaves (substitute with curry leaves)",
-            "3 teaspoons oil, divided, or as needed",
-            "\u00bd  tomato",
-            "11  fresh red chile pepper, finely chopped",
-            "4 tablespoons key lime juice, or to taste",
-            "1 teaspoon shrimp paste",
-            "\u00bd teaspoon white sugar",
-            "1 bunch lemon basil (kemangi)"
+            {
+                "quantity": 5.0,
+                "unit": "cloves",
+                "name": "garlic",
+                "prepare_type": "peeled, divided"
+            },
+            {
+                "quantity": 3.0,
+                "unit": "",
+                "name": "shallots",
+                "prepare_type": "divided"
+            },
+            {
+                "quantity": 1.5,
+                "unit": "inch",
+                "name": "piece fresh ginger root",
+                "prepare_type": "peeled and chopped"
+            },
+            {
+                "quantity": 1.5,
+                "unit": "inch",
+                "name": "piece galangal",
+                "prepare_type": "thinly sliced"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "name": "ground coriander",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "teaspoons",
+                "name": "salt",
+                "prepare_type": "divided"
+            },
+            {
+                "quantity": 4.0,
+                "unit": "",
+                "name": "chicken thighs",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.25,
+                "unit": "cups",
+                "name": "water",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "",
+                "name": "salam leaves (substitute with curry leaves)",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 3.0,
+                "unit": "teaspoons",
+                "name": "oil",
+                "prepare_type": "divided, or as needed"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "",
+                "name": "tomato",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 11.0,
+                "unit": "",
+                "name": "fresh red chile pepper",
+                "prepare_type": "finely chopped"
+            },
+            {
+                "quantity": 4.0,
+                "unit": "tablespoons",
+                "name": "key lime juice",
+                "prepare_type": "or to taste"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "shrimp paste",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "name": "white sugar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "bunch",
+                "name": "lemon basil (kemangi)",
+                "prepare_type": ""
+            }
         ],
         "directions": [
             "Combine garlic, 1 shallot, ginger, galangal, coriander, and 1 1/2 teaspoon salt in a mortar and pestle; pound into a paste.",
@@ -648,13 +2138,48 @@
         "summary": "Pandan cake is a fluffy, gorgeous green-colored chiffon cake made with aromatic South East Asian pandan paste.",
         "photos": [],
         "ingredients": [
-            "6  eggs, separated",
-            "\u00bc teaspoon cream of tartar",
-            "\u00bd cup white sugar",
-            "8 tablespoons water",
-            "\u00bc teaspoon pandan paste",
-            "5 tablespoons corn oil",
-            "1 cup self-rising flour, sifted"
+            {
+                "quantity": 6.0,
+                "unit": "",
+                "name": "eggs",
+                "prepare_type": "separated"
+            },
+            {
+                "quantity": 0.25,
+                "unit": "teaspoon",
+                "name": "cream of tartar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "name": "white sugar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 8.0,
+                "unit": "tablespoons",
+                "name": "water",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "teaspoon",
+                "name": "pandan paste",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 5.0,
+                "unit": "tablespoons",
+                "name": "corn oil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "name": "self-rising flour",
+                "prepare_type": "sifted"
+            }
         ],
         "directions": [
             "Preheat the oven to 325 degrees F (165 degrees C).",
