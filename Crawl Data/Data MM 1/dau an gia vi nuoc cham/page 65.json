@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Dầu hào chay Lee Kum Kee",
+        "price": "38,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/dau-hao-chay-lkk-255g-7/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/254678-1-300x300.jpg",
+        "quantity": "255g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Dầu ăn Tường An",
+        "price": "58,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/dau-an-tuong-an-cooking-oil-1l/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/165001-300x300.jpg",
+        "quantity": "1 lít",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Dầu gạo lứt Simply",
+        "price": "70,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/dau-gao-lut-simply-nguyen-chat-1l/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "1 lít",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Dầu ăn Meizan Gold",
+        "price": "252,000",
+        "unit": "Bình",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/dau-an-meizan-5l-7/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "5 lít",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Nước mắm cá cơm siêu hạng Hồng Hạnh 35 độ",
+        "price": "61,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/nuoc-mam-ca-com-sieu-hang-hong-hanh-35-do-600ml-12/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "600ml",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Xốt mayonnaise Aji-Mayo",
+        "price": "47,700",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/xot-mayonnaise-aji-mayo-ajinomoto-430g/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "430g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bột ngọt Ajinomoto (L)",
+        "price": "31,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/bot-ngot-ajinomoto-hat-lon-400g/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "400g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bột ngọt Vedan (LM)",
+        "price": "33,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/bot-ngot-vedan-lm-454g-4/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "454g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Nước tương đậu nành Maggi đậm đặc",
+        "price": "31,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/nuoc-tuong-dau-nanh-maggi-dam-dac-700ml/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "700ml",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Nước mắm Thanh Hà 40 độ",
+        "price": "62,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/nuoc-mam-thanh-ha-40n-250ml-8/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "250ml",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Gia vị ướp thịt bò Ottogi",
+        "price": "30,900",
+        "unit": "Hũ",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/gia-vi-uop-thit-bo-ottogi-240g-8/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "240g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Gia vị ướp thịt heo Ottogi",
+        "price": "30,900",
+        "unit": "Hũ",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/gia-vi-uop-thit-heo-ottogi-240g-8/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "240g",
+        "domain_url": "https://online.mmvietnam.com/"
+    }
+]

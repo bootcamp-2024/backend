@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Bánh que Mix vị rong biển",
+        "price": "84,000",
+        "unit": "Lốc",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/banh-que-mix-vi-rong-bien-60g-x-6-goi-502978/",
+        "category": "banh keo cac loai",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/399189-300x300.jpg",
+        "quantity": "lốc 6 gói",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Rong biển trộn hạnh nhân O’Food",
+        "price": "31,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/rong-bien-tron-oc-cho-hanh-nhan-ofood-goi-30g-501649/",
+        "category": "banh keo cac loai",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/401156-300x300.jpg",
+        "quantity": "30g/40g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Khoai tây chiên Slide vị gà nướng Hàn Quốc",
+        "price": "33,000",
+        "unit": "Ký",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/khoai-tay-chien-slide-vi-ga-nuong-han-quoc-160g-498964/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "160g/150g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bánh quy bơ St. Michel Palets",
+        "price": "74,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/banh-quy-bo-st-michel-palets-150g-498222/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "150g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bánh quy bơ St. Michel Galettes",
+        "price": "56,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/banh-quy-bo-st-michel-galettes-130g-498240/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "130g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bánh Goute Orion hạt dinh dưỡng",
+        "price": "44,900",
+        "unit": "Cái",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/banh-quy-goute-orion-hat-dinh-duong-hop-8-goi-x-35g-498258/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "316.8g/396g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Mứt dâu Casino",
+        "price": "116,000",
+        "unit": "Hũ",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/mut-dau-casino-370g-498459/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "370g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Kẹo dẻo chuối Casino",
+        "price": "49,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/keo-deo-chuoi-casino-250g-496788/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "250g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Kẹo dẻo Cola Casino",
+        "price": "33,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/keo-deo-cola-casino-250g-496795/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "250g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bánh quy mini socola Casino",
+        "price": "106,000",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/banh-quy-mini-socola-casino-168g-496943/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "168g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Ngũ cốc bỏng ngô Casino",
+        "price": "99,000",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/ngu-coc-bong-ngo-casino-375g-496946/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "375g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Rong biển trộn khô gà O’Food",
+        "price": "31,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/rong-bien-tron-kho-ga-ofood-30g-495307/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "30g/40g",
+        "domain_url": "https://online.mmvietnam.com/"
+    }
+]

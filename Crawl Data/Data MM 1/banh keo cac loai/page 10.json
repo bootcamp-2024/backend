@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Bánh snack O’star vị xốt mayo Hàn Quốc",
+        "price": "75,000",
+        "unit": "Lốc",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/banh-snack-ostar-vi-xot-mayo-han-quoc-loc-4-goi-90g-875960/",
+        "category": "banh keo cac loai",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/425167-300x300.jpg",
+        "quantity": "lốc 4 gói",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bánh snack Swing vị tảo Hàn Quốc nướng",
+        "price": "75,000",
+        "unit": "Lốc",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/banh-snack-swing-vi-tao-han-quoc-nuong-loc-4-goi-90g-875968/",
+        "category": "banh keo cac loai",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/425170-300x300.jpg",
+        "quantity": "lốc 4 gói",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bánh gạo An chà bông",
+        "price": "32,800",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/combo-2-goi-gia-52-000-banh-gao-an-cha-bong-145-6g-870272/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "145.6g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Lay’s Max bò Wagyu",
+        "price": "20,900",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/mua-2-tang-1-lays-max-bo-wagyu-75g-870325/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "75g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Lay’s Max kem chua",
+        "price": "20,800",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/mua-2-tang-1-lays-max-kem-chua-75g-870344/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "75g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Lay’s Max nấm Truffle",
+        "price": "20,900",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/mua-2-tang-1-lays-max-nam-truffle-75g-870363/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "75g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Ngũ cốc đậu đen óc chó Damtuh",
+        "price": "299,000",
+        "unit": "Túi",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/ngu-coc-dau-den-oc-cho-damtuh-50-goi-18g-870388/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "50 gói",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Ngũ cốc óc chó hạnh nhân Damtuh",
+        "price": "299,000",
+        "unit": "Túi",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/ngu-coc-dau-den-oc-cho-damtuh-50-goi-18g-870395/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "50 gói",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Nho khô đen MM hộp giấy",
+        "price": "169,000",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/nho-kho-den-mm-hop-giay-1kg-866844/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "1kg",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Socola nho Kirkland",
+        "price": "469,000",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/socola-nho-kirkland-1-36kg-867088/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "1.5kg",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Mận sấy Kirkland",
+        "price": "399,000",
+        "unit": "Túi",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/man-say-kirkland-1-59kg-866641/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "1.59kg",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Mứt Kaya Fong Yit vị lá dứa",
+        "price": "65,000",
+        "unit": "Hũ",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/mut-kaya-fong-yit-vi-la-dua-270g-866720/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "270g",
+        "domain_url": "https://online.mmvietnam.com/"
+    }
+]

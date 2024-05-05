@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Cua thịt sống không dây bao ăn",
+        "price": "378,000",
+        "unit": "Ký",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/cua-thit-song-khong-day-18/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "250g trở lên",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Lẩu nấm thiên nhiên Trâm Anh",
+        "price": "29,000",
+        "unit": "Khay",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/lau-nam-thien-nhien-tram-anh-300g-6/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "300g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Nấm bào ngư trắng",
+        "price": "39,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/nam-bao-ngu-trang/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "1kg",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Cá hồi NauyWe Are Fresh phi lê đuôi tươi",
+        "price": "539,000",
+        "unit": "Ký",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/duoi-ca-hoi-nauy-phi-le-tuoi/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "1kg",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Thăn cá hồi Nauy phi lê tươi",
+        "price": "635,000",
+        "unit": "Ký",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/than-ca-hoi-nauy-phi-le-tuoi-14/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "1kg",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Thịt vai heo We Are Fresh loại 1 VietGAP",
+        "price": "89,000",
+        "unit": "Ký",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/thit-vai-heo-we-are-fresh-loai-1-chuan-vietgap-8/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "1kg",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Nạc vai bò nguyên",
+        "price": "259,000",
+        "unit": "Ký",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/nac-vai-bo-nguyen-tang-4/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "1kg",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Thịt càng ghẹ MM loại lớn",
+        "price": "319,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/thit-cang-ghe-mm-loai-lon-500g-9/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "340g/500g",
+        "domain_url": "https://online.mmvietnam.com/"
+    }
+]

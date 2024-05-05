@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Bia Budweiser",
+        "price": "335,000",
+        "unit": "Thùng",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/bia-budweiser-thung-12-lon-500ml-810100/",
+        "category": "do uong cac loai",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/413019-300x300.jpg",
+        "quantity": "thùng 12 lon",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Trà đào trân châu BAN",
+        "price": "42,000",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/tra-dao-tran-chau-ban-5-ly-220g-807072/",
+        "category": "do uong cac loai",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/406004-300x300.jpg",
+        "quantity": "5 ly",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Vang đỏ Barefoot Merlot",
+        "price": "429,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/vang-do-barefoot-merlot-75ml-807173/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "75CL",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Vang đỏ Carlo Rossi Dark",
+        "price": "199,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/vang-do-carlo-rossi-dark-75ml-807192/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "75CL",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Vang đỏ Carlo Rossi Varietal",
+        "price": "299,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/vang-do-carlo-rossi-varietal-75ml-807214/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "75CL",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Vang hồng Barefoot Zinfandel",
+        "price": "429,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/vang-hong-barefoot-zinfandel-75ml-807237/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "75CL",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Vang trắng Barefoot Saubla",
+        "price": "429,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/vang-trang-barefoot-saubla-75ml-807251/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "75CL",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Vang trắng Carlo Rossi Varietal",
+        "price": "299,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/vang-trang-carlo-rossi-varietal-75ml-807273/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "75CL",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Rượu Sunset Chardonnay",
+        "price": "289,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/ruou-sunset-chardonnay-75ml-806644/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "75ml",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Rượu Sunset Zinfandel Rose",
+        "price": "289,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/ruou-sunset-zinfandel-rose-75ml-806677/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "75ml",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Rượu vang Columbia Cabernet",
+        "price": "869,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/ruou-vang-chat-columbia-cabernet-75ml-806701/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "75CL",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Rượu vang Columbia Syrah",
+        "price": "599,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/ruou-vang-chat-columbia-syrah-75ml-806741/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "75CL",
+        "domain_url": "https://online.mmvietnam.com/"
+    }
+]

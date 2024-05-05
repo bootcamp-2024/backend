@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Dứa Tân Lập Long An",
+        "price": "19,000",
+        "unit": "Ký",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/dua-long-an-19/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "900g trở lên",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Xà lách thủy tinh Đà Lạt",
+        "price": "44,000",
+        "unit": "Ký",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/xa-lach-thuy-tinh-da-lat/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "900g trở lên",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Xoài tứ quý",
+        "price": "34,000",
+        "unit": "Ký",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/xoai-tu-quy-8/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "900g trở lên",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Rau mồng tơi We Are Fresh",
+        "price": "16,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/rau-mong-toi-we-are-fresh-500g/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "500g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Thịt đùi đà điểu Khatoco",
+        "price": "138,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/thit-dui-da-dieu-khatoco-500g-19/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "500g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Cá tra cắt khoanh We Are Fresh",
+        "price": "89,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/ca-tra-cat-khoanh-big-meal-1kg-19/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "1kg",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "lẩu Thái SGFood",
+        "price": "75,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/lau-thai-sgfood-500g-12/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "500g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Phi lê đà điểu Khatoco",
+        "price": "156,900",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/phi-le-da-dieu-khatoco-500g-8/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "500g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Dừa xiêm tiện lợi Bến Tre",
+        "price": "13,000",
+        "unit": "Trái",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/dua-xiem-19/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "500g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Cá saba đông lạnh",
+        "price": "52,000",
+        "unit": "Ký",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/ca-saba-nhap-khau-0-2-4-kg-con-16/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "0.2-4 kg/con",
+        "domain_url": "https://online.mmvietnam.com/"
+    }
+]

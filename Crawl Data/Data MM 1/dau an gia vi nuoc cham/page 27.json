@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Dầu giấm Salov thơm",
+        "price": "69,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/dau-giam-salov-thom-250ml-559074/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/179485-300x300.jpg",
+        "quantity": "250ml",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Xốt pizza Mutti",
+        "price": "319,000",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/xot-pizza-mutti-400g-559162/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/182240-300x300.jpg",
+        "quantity": "4100g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Xốt Siciliana Dececco",
+        "price": "79,000",
+        "unit": "Hũ",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/xot-siciliana-dececco-400g-559289/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "400g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Xốt Bolognese Dececco",
+        "price": "79,000",
+        "unit": "Hũ",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/xot-bolognese-dececco-400g-559306/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "400g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Xốt Napoletana Dececco",
+        "price": "69,000",
+        "unit": "Hũ",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/xot-napoletana-dececco-400g-559323/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "400g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Sốt gia vị cay ngọt Pantain",
+        "price": "20,200",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/mua-2-ta%cc%a3ng-1-sot-gia-vi-cay-ngot-pantain-200ml-558144/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "200ml",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Sốt gừng cay ngọt Pantain",
+        "price": "22,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/mua-2-ta%cc%a3ng-1-sot-gung-cay-ngot-pantain-200ml-558161/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "200ml",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Sốt ngọt cay nồng Pantain",
+        "price": "24,400",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/mua-2-ta%cc%a3ng-1-sot-ngot-cay-nong-pantain-200ml-558178/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "200ml",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Dầu oliu Ex Virgin Fberio",
+        "price": "109,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/mua-2-ta%cc%a3ng-1-dau-oliu-ex-virgin-fberio-250ml-555850/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "250ml",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Muối chấm Hảo Hảo tôm chua cay",
+        "price": "14,000",
+        "unit": "Hũ",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/muoi-cham-hao-hao-tom-chua-cay-120g-548760/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "120g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Tương đen Cholimex",
+        "price": "69,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/tuong-den-cholimex-2-1kg-548320/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "2.1kg",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Gia vị nêm sẵn Aji-Quick lẩu Thái",
+        "price": "8,300",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/gia-vi-nem-san-lau-thai-aji-quick-ajinomoto-50g-547748/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "50g",
+        "domain_url": "https://online.mmvietnam.com/"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Nước tương hảo hạng Maggi",
+        "price": "22,000",
+        "unit": "Chai nhựa",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/nuoc-tuong-hao-hang-maggi-200ml-13/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/184278-300x300.jpg",
+        "quantity": "200ml",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Dầu hướng dương Simply",
+        "price": "79,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/dau-huong-duong-simply-nguyen-chat-1l-4/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/185037-300x300.jpg",
+        "quantity": "1 lít",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Đường vàng Gold Mineral Biên Hoà",
+        "price": "34,600",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/duong-vang-khoang-chat-bien-hoa-1kg-4/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "1kg",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Dầu đậu nành Simply",
+        "price": "51,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/dau-nanh-simply-1l-5/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "1 lít",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Dầu hào đặc biệt Lee Kum Kee",
+        "price": "115,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/dau-hao-dac-biet-lee-kum-kee-510g-5/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "510g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Dầu đậu nành Simply",
+        "price": "605,000",
+        "unit": "Thùng",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/dau-nanh-simply-thung-12-chai-x-1l-2/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "thùng 12 chai",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Tương ớt Cholimex",
+        "price": "59,000",
+        "unit": "Bình",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/tuong-ot-cholimex-2-1kg-9/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "2.1kg",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Tương cà Cholimex",
+        "price": "59,000",
+        "unit": "Bình",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/tuong-ca-cholimex-2-1kg-2/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "2.1kg",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Tương ớt Cholimex",
+        "price": "26,700",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/tuong-ot-cholimex-830g-15/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "830g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Tương cà Cholimex",
+        "price": "29,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/tuong-ca-cholimex-830g-15/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "830g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Tương ớt Vifon",
+        "price": "16,000",
+        "unit": "Hũ",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/tuong-ot-vifon-560g-8/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "500ml",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Tương ớt Heinz nhãn vàng",
+        "price": "33,600",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/tuong-ot-heinz-nhan-vang-310g-5/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "310g",
+        "domain_url": "https://online.mmvietnam.com/"
+    }
+]

@@ -1,0 +1,529 @@
+[
+    {
+        "name": "Easy Indian-Style Okra",
+        "cook_time": "PT25M",
+        "prep_time": "PT10M",
+        "total_time": "PT35M",
+        "nutrition": {
+            "calories": "126 kcal",
+            "carbohydrateContent": "11 g",
+            "cholesterolContent": "23 mg",
+            "fiberContent": "4 g",
+            "proteinContent": "3 g",
+            "saturatedFatContent": "6 g",
+            "sodiumContent": "72 mg",
+            "sugarContent": "3 g",
+            "fatContent": "9 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "description": "A traditional Indian okra recipe that uses fresh okra and spices, cooked in a skillet. Onion, cumin, ginger, and coriander add wonderful flavor.",
+        "cuisine": "indian",
+        "category": "Side Dish",
+        "ingredient": [
+            {
+                "quantity": "3",
+                "unit": "tablespoons",
+                "name": "butter"
+            },
+            {
+                "quantity": "1",
+                "unit": "medium",
+                "name": "onion, chopped"
+            },
+            {
+                "quantity": "1",
+                "unit": "pound",
+                "name": "sliced fresh okra"
+            },
+            {
+                "quantity": "½",
+                "unit": "teaspoon",
+                "name": "ground cumin"
+            },
+            {
+                "quantity": "½",
+                "unit": "teaspoon",
+                "name": "ground ginger"
+            },
+            {
+                "quantity": "½",
+                "unit": "teaspoon",
+                "name": "ground coriander"
+            },
+            {
+                "quantity": "¼",
+                "unit": "teaspoon",
+                "name": "ground black pepper"
+            },
+            {
+                "quantity": null,
+                "unit": null,
+                "name": "salt to taste"
+            }
+        ],
+        "instructions": [
+            {
+                "text": "Melt butter in a large skillet over medium heat. Add onion and cook until tender. Stir in okra and season with cumin, ginger, coriander, pepper, and salt."
+            },
+            {
+                "text": "Cook and stir for a few minutes, then reduce the heat to medium-low and cover the pan. Cook, stirring occasionally, until okra is tender, about 20 minutes."
+            }
+        ],
+        "image": "https://www.allrecipes.com/thmb/efvrZeIWTyJAJbHFxCdGK6P1oUM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/371190-62e72430876744138210f2eaf223f798.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/rX6wG3AC-ma1DlVvV.mp4",
+            "description": "AR0907",
+            "duration": "PT1M59S",
+            "name": "Easy Indian-Style Okra"
+        },
+        "url": "https://www.allrecipes.com/recipe/74153/easy-indian-style-okra/"
+    },
+    {
+        "name": "Carrot Rice",
+        "cook_time": "PT20M",
+        "prep_time": "PT15M",
+        "total_time": "PT35M",
+        "nutrition": {
+            "calories": "179 kcal",
+            "carbohydrateContent": "30 g",
+            "fiberContent": "2 g",
+            "proteinContent": "4 g",
+            "saturatedFatContent": "1 g",
+            "sodiumContent": "34 mg",
+            "sugarContent": "2 g",
+            "fatContent": "5 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "description": "Fragrant basmati rice sauteed with carrots, onions, fresh ginger, peanuts, and cilantro.",
+        "cuisine": "indian",
+        "category": "Dinner",
+        "ingredient": [
+            {
+                "quantity": "1",
+                "unit": "cup",
+                "name": "basmati rice"
+            },
+            {
+                "quantity": "2",
+                "unit": "cups",
+                "name": "water"
+            },
+            {
+                "quantity": "¼",
+                "unit": "cup",
+                "name": "roasted peanuts"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "name": "margarine"
+            },
+            {
+                "quantity": "1",
+                "unit": null,
+                "name": "onion, sliced"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "minced fresh ginger root"
+            },
+            {
+                "quantity": "¾",
+                "unit": "cup",
+                "name": "grated carrots"
+            },
+            {
+                "quantity": null,
+                "unit": null,
+                "name": "salt to taste"
+            },
+            {
+                "quantity": null,
+                "unit": null,
+                "name": "cayenne pepper to taste"
+            },
+            {
+                "quantity": null,
+                "unit": null,
+                "name": "chopped fresh cilantro"
+            }
+        ],
+        "instructions": [
+            {
+                "text": "Combine rice and water in a medium saucepan. Bring to a boil over high heat. Reduce heat to low, cover with lid, and allow to steam until tender, about 20 minutes."
+            },
+            {
+                "text": "While rice is cooking, grind peanuts in a blender and set aside. Heat the margarine in a skillet over medium heat. Stir in the onion; cook and stir until the onion has softened and turned golden brown about 10 minutes. Stir in ginger, carrots, and salt to taste. Reduce heat to low and cover to steam 5 minutes. Stir in cayenne pepper and peanuts. When rice is done, add it to skillet and stir gently to combine with other ingredients. Garnish with chopped cilantro."
+            }
+        ],
+        "image": "https://www.allrecipes.com/thmb/LwkBXpx7w2wOWimdroCBg-ZxANw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1013061-32d48b8396314f2da3cf48562f483f2a.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/1G6pSH5A-K3AjnAEN.mp4",
+            "description": "Fragrant basmati rice sautéed with carrots, onions, fresh ginger, peanuts, and cilantro. You will be pleasantly surprised when you taste this delicious rice.",
+            "duration": "PT1M29S",
+            "name": "Carrot Rice"
+        },
+        "url": "https://www.allrecipes.com/recipe/17971/carrot-rice/"
+    },
+    {
+        "name": "Indian Vegetable Bhaji",
+        "cook_time": "PT40M",
+        "prep_time": "PT15M",
+        "total_time": "PT55M",
+        "nutrition": {
+            "calories": "279 kcal",
+            "carbohydrateContent": "53 g",
+            "fiberContent": "8 g",
+            "proteinContent": "7 g",
+            "saturatedFatContent": "1 g",
+            "sodiumContent": "48 mg",
+            "sugarContent": "6 g",
+            "fatContent": "5 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "description": "In this Indian dry curry, potatoes, cauliflower, carrots and peas are fried and flavored with spices, garlic, and chiles. It&#39;s perfect as a side dish for an Indian dinner.",
+        "cuisine": "indian",
+        "category": "Dinner",
+        "ingredient": [
+            {
+                "quantity": "4",
+                "unit": "large",
+                "name": "potatoes, finely chopped"
+            },
+            {
+                "quantity": "1",
+                "unit": "cup",
+                "name": "cauliflower florets"
+            },
+            {
+                "quantity": "1",
+                "unit": null,
+                "name": "carrot, finely chopped"
+            },
+            {
+                "quantity": "½",
+                "unit": "cup",
+                "name": "fresh green peas"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "name": "vegetable oil"
+            },
+            {
+                "quantity": "1",
+                "unit": "large",
+                "name": "onion, chopped"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "cumin seed"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "black mustard seed"
+            },
+            {
+                "quantity": "2",
+                "unit": null,
+                "name": "whole bay leaves"
+            },
+            {
+                "quantity": "4",
+                "unit": null,
+                "name": "green chile peppers, chopped"
+            },
+            {
+                "quantity": "3",
+                "unit": "cloves",
+                "name": "garlic, chopped"
+            },
+            {
+                "quantity": "2",
+                "unit": "teaspoons",
+                "name": "minced fresh ginger root"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "ground cumin"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "curry powder"
+            },
+            {
+                "quantity": "½",
+                "unit": "teaspoon",
+                "name": "chili powder (Optional)"
+            },
+            {
+                "quantity": "1",
+                "unit": "sprig",
+                "name": "cilantro leaves for garnish"
+            }
+        ],
+        "instructions": [
+            {
+                "text": "Place the potatoes, cauliflower florets, carrot, and peas into a microwave-safe bowl, cover with plastic wrap, and microwave on High until the vegetables are very hot and starting to soften, about 2 minutes. Remove the plastic wrap, and drain the vegetables in a colander."
+            },
+            {
+                "text": "Place the vegetable oil in a large skillet, and heat over medium heat. Cook and stir the onion until it turns golden, about 10 minutes, and stir in the cumin seed, black mustard seed, and bay leaves. Cook and stir until the seeds begin to sputter, about 30 seconds, and then add the green chiles, garlic, and ginger. Cook and stir until the garlic begins to brown, about 1 minute."
+            },
+            {
+                "text": "Stir in the ground cumin, curry powder, and chili powder, and then add the partially cooked potatoes, cauliflower, carrot, and peas. Cook and stir until the vegetables are tender and coated with spices, about 30 minutes. Sprinkle with cilantro leaves."
+            }
+        ],
+        "image": "https://www.allrecipes.com/thmb/t4ox-CqikcFep3J2pmbNXYjdCIo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/851956-2d053c5d6c1a43308adffb0b13434ca3.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/kwKffQHj-ma1DlVvV.mp4",
+            "description": "AR0920",
+            "duration": "PT4M38S",
+            "name": "Indian Vegetable Bhaji"
+        },
+        "url": "https://www.allrecipes.com/recipe/93896/indian-vegetable-bhaji/"
+    },
+    {
+        "name": "Indian Saffron Rice",
+        "cook_time": "PT20M",
+        "prep_time": "PT5M",
+        "total_time": "PT25M",
+        "nutrition": {
+            "calories": "154 kcal",
+            "carbohydrateContent": "26 g",
+            "cholesterolContent": "10 mg",
+            "fiberContent": "0 g",
+            "proteinContent": "3 g",
+            "saturatedFatContent": "3 g",
+            "sodiumContent": "418 mg",
+            "fatContent": "4 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "description": "White rice is sauteed in butter and then simmered with saffron infused water. The secret of obtaining fluffy rice is in having the rice hot enough that when the boiling water is added it does not stop boiling.",
+        "cuisine": "indian",
+        "category": "Dinner",
+        "ingredient": [
+            {
+                "quantity": "⅛",
+                "unit": "teaspoon",
+                "name": "powdered saffron"
+            },
+            {
+                "quantity": "2",
+                "unit": "cups",
+                "name": "boiling water, divided"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "name": "butter"
+            },
+            {
+                "quantity": "1",
+                "unit": "cup",
+                "name": "uncooked long-grain white rice, not rinsed"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "salt"
+            }
+        ],
+        "instructions": [
+            {
+                "text": "Steep the saffron in 1/2 cup boiling water."
+            },
+            {
+                "text": "In a skillet that can be tightly covered, melt the butter over medium-high heat. Stir in the rice and salt. Cook, stirring constantly, until the rice begins to absorb the butter and becomes opaque, but do not brown the rice."
+            },
+            {
+                "text": "Quickly pour in the remaining 1 1/2 cups boiling water along with the saffron water. Cover immediately, reduce heat to low, and cook 20 minutes, or until all of the liquid is absorbed. For best results, do not remove the lid while the rice is cooking."
+            }
+        ],
+        "image": "https://www.allrecipes.com/thmb/dkp6pGK-Al0RSlGC70VYjvmXD28=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/429153-49326ab64db14ea994ef1e4048d91d27.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/kMJ2lnd0-ma1DlVvV.mp4",
+            "description": "AR0910",
+            "duration": "PT2M28S",
+            "name": "Indian Saffron Rice"
+        },
+        "url": "https://www.allrecipes.com/recipe/24709/indian-saffron-rice/"
+    },
+    {
+        "name": "Spicy Indian Green Beans, Gujarati Style",
+        "cook_time": "PT20M",
+        "prep_time": "PT15M",
+        "total_time": "PT35M",
+        "nutrition": {
+            "calories": "171 kcal",
+            "carbohydrateContent": "11 g",
+            "fiberContent": "5 g",
+            "proteinContent": "3 g",
+            "saturatedFatContent": "2 g",
+            "sodiumContent": "589 mg",
+            "sugarContent": "2 g",
+            "fatContent": "14 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "description": "These Indian green beans with chile pepper, mustard, and garlic are cooked Gujarati-style, with a distinctive sweet, salty, and spicy flavors all at once.",
+        "cuisine": "indian",
+        "category": "Side Dish",
+        "ingredient": [
+            {
+                "quantity": "1",
+                "unit": "pound",
+                "name": "fresh green beans, trimmed and cut into 1 inch pieces"
+            },
+            {
+                "quantity": "¼",
+                "unit": "cup",
+                "name": "vegetable oil"
+            },
+            {
+                "quantity": "4",
+                "unit": "cloves",
+                "name": "garlic, finely chopped"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "name": "black mustard seed"
+            },
+            {
+                "quantity": "1",
+                "unit": null,
+                "name": "dried red chile pepper, crushed"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "salt"
+            },
+            {
+                "quantity": "½",
+                "unit": "teaspoon",
+                "name": "white sugar"
+            },
+            {
+                "quantity": null,
+                "unit": null,
+                "name": "ground black pepper to taste"
+            }
+        ],
+        "instructions": [
+            {
+                "text": "Bring a large pot of water to a boil. Cook green beans briefly in the boiling water, removing after 3 to 4 minutes. Drain, rinse with cold water, and drain again. Blot dry."
+            },
+            {
+                "text": "Heat oil in a large skillet over medium heat. Stir in garlic and mustard seed; sauté until golden brown, 1 to 2 minutes. Stir in chile pepper, then add beans, salt, and sugar. Cook and stir until beans are tender, about 8 minutes. Season with pepper to serve."
+            }
+        ],
+        "image": "https://www.allrecipes.com/thmb/HiyvqmnC10XcahsH9asPLUFKPBg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/219053-65f269e5a7314a8ba3867cf162551503.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/56ZJDUGu-ma1DlVvV.mp4",
+            "description": "AR0921",
+            "duration": "PT2M35S",
+            "name": "Indian Green Beans (Guferati)"
+        },
+        "url": "https://www.allrecipes.com/recipe/75087/spicy-indian-gujarati-green-beans/"
+    },
+    {
+        "name": "Golden Butter Rice",
+        "cook_time": "PT20M",
+        "prep_time": "PT5M",
+        "total_time": "PT35M",
+        "nutrition": {
+            "calories": "161 kcal",
+            "carbohydrateContent": "13 g",
+            "cholesterolContent": "31 mg",
+            "fiberContent": "0 g",
+            "proteinContent": "1 g",
+            "saturatedFatContent": "7 g",
+            "sodiumContent": "271 mg",
+            "sugarContent": "1 g",
+            "fatContent": "12 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "description": "Chef John&#39;s basmati rice, colored gold with turmeric and flavored with butter and ginger, is inspired by a classic Indian drink called golden milk.",
+        "cuisine": "indian",
+        "category": "Side Dish",
+        "ingredient": [
+            {
+                "quantity": "1/2",
+                "unit": "cup",
+                "name": "unsalted butter"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "name": "fresh ginger"
+            },
+            {
+                "quantity": "1 1/4",
+                "unit": "teaspoons",
+                "name": "ground turmeric"
+            },
+            {
+                "quantity": "1/4",
+                "unit": "teaspoon",
+                "name": "cayenne pepper"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "name": "brown sugar"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "salt"
+            },
+            {
+                "quantity": "2",
+                "unit": "cups",
+                "name": "basmati rice or other long grain white rice"
+            },
+            {
+                "quantity": "3",
+                "unit": "cups",
+                "name": "water"
+            },
+            {
+                "quantity": "1/3",
+                "unit": "cup",
+                "name": "chopped walnuts (optional)"
+            },
+            {
+                "quantity": "1/3",
+                "unit": "cup",
+                "name": "sliced green onions (optional)"
+            }
+        ],
+        "instructions": [
+            {
+                "text": "Melt butter in a pan or pot with a tight-fitting lid over medium heat. As soon as butter starts to bubble, add in ginger, turmeric, cayenne, brown sugar, and salt. Cook, whisking, for 1 minute."
+            },
+            {
+                "text": "Add rice, and stir until every grain is coated with butter. Stir in water, and bring to a boil over high heat. As soon as it begins to boil, gently shake and swirl the pan to settle rice into an even layer, then reduce heat to medium-low."
+            },
+            {
+                "text": "Cover tightly and simmer for 15 minutes. Turn off heat, and let rest, covered, for 10 minutes. DO NOT lift the lid or try to stir yet."
+            },
+            {
+                "text": "Now, remove the lid and use a fork to fluff and separate rice grains. Season to taste, and serve immediately, garnished with walnuts and green onions."
+            }
+        ],
+        "image": "https://www.allrecipes.com/thmb/o3ekIvNEpdJBgH-SHPW2sb6roTI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8599188_Golden-Butter-Rice_John-Mitzewich_4x3-f2d360374e9845b6bc66a81d539e793f.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/qruYcA5U-K3AjnAEN.mp4",
+            "description": "In this video, watch as we guide you through one of Chef John's best side dish recipes, revealing the art of creating golden, flavorful butter rice. Learn the techniques and tips that make this dish a standout, elevating your culinary skills. Immerse yourself in the world of gastronomy, and bring the richness of Chef John's Golden Butter Rice to your dinner table.\n",
+            "duration": "PT7M18S",
+            "name": "How to Make Chef John's Golden Butter Rice"
+        },
+        "url": "https://www.allrecipes.com/golden-butter-rice-recipe-8599188"
+    }
+]

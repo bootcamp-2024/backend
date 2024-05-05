@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Bia Beck’s Ice",
+        "price": "239,000",
+        "unit": "Thùng",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/bia-becks-ice-thung-12-lon-500ml-736049/",
+        "category": "do uong cac loai",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/413026-300x300.jpg",
+        "quantity": "thùng 12 lon",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bia Hoegaarden Rosee",
+        "price": "109,000",
+        "unit": "Lốc",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/bia-hoegaarden-rosee-loc-6-chai-248ml-730386/",
+        "category": "do uong cac loai",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/413113-300x300.jpg",
+        "quantity": "lốc 6 chai",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Sữa Milo UHT ít đường",
+        "price": "237,000",
+        "unit": "Thùng",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/milo-uht-it-duong-thung-48-hop-115ml-729649/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "thùng 48 hộp",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Nước tinh khiết MM",
+        "price": "66,000",
+        "unit": "Thùng",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/nuoc-tinh-khiet-mm-thung-24-chai-350ml-729712/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "thùng 24 chai",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Nước dừa xiêm sen Cocoxim",
+        "price": "96,000",
+        "unit": "Lốc",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/nuoc-dua-xiem-sen-cocoxim-loc-6-hop-330ml-729804/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "lốc 6 hộp",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Nước dừa xiêm tắc Cocoxim",
+        "price": "96,000",
+        "unit": "Lốc",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/nuoc-dua-xiem-tac-cocoxim-loc-6-hop-330ml-729822/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "lốc 6 hộp",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Rượu Mix Vodka & Watermelon",
+        "price": "52,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/ruou-mix-vodka-watermelon-330ml-729862/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "330ml",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Rượu Mix Vodka Mojito",
+        "price": "52,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/ruou-mix-vodka-mojito-330ml-729879/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "330ml",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Trà râu bắp",
+        "price": "39,600",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/tra-rau-bap-2g-x-25-goi-728295/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "hộp 25 gói",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Trà giảm béo",
+        "price": "34,300",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/tra-giam-beo-1-5g-x-20-goi-728413/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "hộp 20 gói",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Vang nổ Pra Di Bosso Lambrusco",
+        "price": "449,000",
+        "unit": "Chai thủy tinh",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/ruou-vang-no-pra-di-bosso-lambrusco-chai-75-cl-713001/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "chai 75CL",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Rượu Vodka Cruiser",
+        "price": "212,000",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/ruou-vodka-cruiser-hop-4-chai-2-75-lit-707751/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "hộp 4 chai",
+        "domain_url": "https://online.mmvietnam.com/"
+    }
+]

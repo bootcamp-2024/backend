@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Thịt vụn bò",
+        "category": "thit bo",
+        "url": "https://www.bachhoaxanh.com/thit-bo/thit-vun-bo?preFreshType=normal",
+        "image": "https://cdn.tgdd.vn/Products/Images/8139/309116/bhx/thit-vun-bo-202402291036500207_300x300.jpg",
+        "price": "44700",
+        "weight": "300g",
+        "price_per_kg": "149.000đ/kg",
+        "domain_url": "https://www.bachhoaxanh.com"
+    },
+    {
+        "name": "Đùi bò",
+        "category": "thit bo",
+        "url": "https://www.bachhoaxanh.com/thit-bo/dui-bo-viet-nam-tui-1kg?preFreshType=normal",
+        "image": "https://cdn.tgdd.vn/Products/Images/8139/233807/bhx/dui-bo-202402291025261615_300x300.jpg",
+        "price": "74700",
+        "weight": "300g",
+        "price_per_kg": "249.000đ/kg",
+        "domain_url": "https://www.bachhoaxanh.com"
+    },
+    {
+        "name": "Bắp bò",
+        "category": "thit bo",
+        "url": "https://www.bachhoaxanh.com/thit-bo/bap-bo-1kg?preFreshType=normal",
+        "image": "https://cdn.tgdd.vn/Products/Images/8139/233810/bhx/bap-bo-202402291029267200_300x300.jpg",
+        "price": "68700",
+        "weight": "300g",
+        "price_per_kg": "229.000đ/kg",
+        "domain_url": "https://www.bachhoaxanh.com"
+    },
+    {
+        "name": "Nạm bò",
+        "category": "thit bo",
+        "url": "https://www.bachhoaxanh.com/thit-bo/nam-bo-tuoi-ngon-tui-1kg?preFreshType=normal",
+        "image": "https://cdn.tgdd.vn/Products/Images/8139/238859/bhx/nam-bo-202402291025191000_300x300.jpg",
+        "price": "59700",
+        "weight": "300g",
+        "price_per_kg": "199.000đ/kg",
+        "domain_url": "https://www.bachhoaxanh.com"
+    },
+    {
+        "name": "Bò viên Kitkool gói 500g",
+        "category": "thit bo",
+        "url": "https://www.bachhoaxanh.com/ca-vien-bo-vien/bo-vien-kitkool-goi-500g",
+        "image": "https://cdn.tgdd.vn/Products/Images/7170/313104/bhx/bo-vien-kitkool-goi-500g-202403141419148777_300x300.jpg",
+        "price": "95000",
+        "weight": "/500g",
+        "price_per_kg": "",
+        "domain_url": "https://www.bachhoaxanh.com"
+    },
+    {
+        "name": "Thịt ba rọi bò Mỹ đông lạnh Thảo Tiến 300g",
+        "category": "thit bo",
+        "url": "https://www.bachhoaxanh.com/ca-hai-san-dong-lanh/thit-ba-roi-bo-my-thao-tien-foods-khay-300g",
+        "image": "https://cdn.tgdd.vn/Products/Images/8400/213845/bhx/thit-ba-roi-bo-thao-tien-foods-khay-300g-202403141127060809_300x300.jpg",
+        "price": "108000",
+        "weight": "/300g",
+        "price_per_kg": "",
+        "domain_url": "https://www.bachhoaxanh.com"
+    },
+    {
+        "name": "Bò viên Tân Việt Sin 200g",
+        "category": "thit bo",
+        "url": "https://www.bachhoaxanh.com/ca-vien-bo-vien/bo-vien-tan-viet-sin-goi-200g",
+        "image": "https://cdn.tgdd.vn/Products/Images/7170/229138/bhx/bo-vien-tan-viet-sin-goi-200g-202404190947170164.jpg",
+        "price": "51500",
+        "weight": "/200g",
+        "price_per_kg": "",
+        "domain_url": "https://www.bachhoaxanh.com"
+    },
+    {
+        "name": "Thịt ba chỉ bò Mỹ cuộn Orifood 300g",
+        "category": "thit bo",
+        "url": "https://www.bachhoaxanh.com/ca-hai-san-dong-lanh/thit-ba-chi-bo-my-cat-cuon-orifood-khay-300g",
+        "image": "https://cdn.tgdd.vn/Products/Images/8400/302996/bhx/thit-ba-chi-bo-my-cat-cuon-orifood-khay-300g-202403141406335195_300x300.jpg",
+        "price": "99000",
+        "weight": "/300g",
+        "price_per_kg": "",
+        "domain_url": "https://www.bachhoaxanh.com"
+    },
+    {
+        "name": "Thịt ba chỉ bò Mỹ Thảo Tiến Foods gói 300g",
+        "category": "thit bo",
+        "url": "https://www.bachhoaxanh.com/ca-hai-san-dong-lanh/thit-ba-chi-bo-my-thao-tien-foods-goi-300g",
+        "image": "https://cdn.tgdd.vn/Products/Images/8400/314219/bhx/thit-ba-chi-bo-my-thao-tien-foods-goi-300g-202404101002196119_300x300.jpg",
+        "price": "95000",
+        "weight": "",
+        "price_per_kg": "",
+        "domain_url": "https://www.bachhoaxanh.com"
+    },
+    {
+        "name": "Bò viên Hoa Doanh 200g",
+        "category": "thit bo",
+        "url": "https://www.bachhoaxanh.com/ca-vien-bo-vien/bo-vien-hoa-doanh-200g",
+        "image": "https://cdn.tgdd.vn/Products/Images/7170/274774/bhx/bo-vien-hoa-doanh-200g-202404041525460645.jpg",
+        "price": "36000",
+        "weight": "/200g",
+        "price_per_kg": "",
+        "domain_url": "https://www.bachhoaxanh.com"
+    }
+]

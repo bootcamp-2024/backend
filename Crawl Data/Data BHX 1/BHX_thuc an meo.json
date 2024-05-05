@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Thức ăn mèo Whiskas hương cá ngừ túi 480g",
+        "category": "thuc an meo",
+        "url": "https://www.bachhoaxanh.com/thuc-an-meo/thuc-an-cho-meo-lon-whiskas-vi-ca-ngu-tui-480g",
+        "image": "https://cdn.tgdd.vn/Products/Images/12398/238703/bhx/thuc-an-cho-meo-whiskas-huong-ca-ngu-tui-480g-202403261506157429_300x300.jpg",
+        "price": "29500",
+        "weight": "",
+        "price_per_kg": "",
+        "domain_url": "https://www.bachhoaxanh.com"
+    },
+    {
+        "name": "Bánh xương cho mèo Me-O vị cá hồi gói 50g",
+        "category": "thuc an meo",
+        "url": "https://www.bachhoaxanh.com/thuc-an-meo/banh-xuong-cho-meo-me-o-vi-ca-hoi-goi-50g",
+        "image": "https://cdn.tgdd.vn/Products/Images/12398/272252/bhx/banh-xuong-cho-meo-me-o-vi-ca-hoi-goi-50g-202306081616205667_300x300.jpg",
+        "price": "5500",
+        "weight": "/50g",
+        "price_per_kg": "",
+        "domain_url": "https://www.bachhoaxanh.com"
+    },
+    {
+        "name": "Thức ăn mèo Whiskas hương cá biển túi 3kg",
+        "category": "thuc an meo",
+        "url": "https://www.bachhoaxanh.com/thuc-an-meo/thuc-an-cho-meo-lon-whiskas-vi-ca-bien-tui-3kg",
+        "image": "https://cdn.tgdd.vn/Products/Images/12398/238702/bhx/thuc-an-cho-meo-whiskas-huong-ca-bien-tui-3kg-202306081601498611_300x300.jpg",
+        "price": "275000",
+        "weight": "/3kg",
+        "price_per_kg": "",
+        "domain_url": "https://www.bachhoaxanh.com"
+    },
+    {
+        "name": "Bánh xương cho mèo Me-O vị cá ngừ, gà và trứng gói 50g",
+        "category": "thuc an meo",
+        "url": "https://www.bachhoaxanh.com/thuc-an-meo/banh-xuong-cho-meo-me-o-vi-ca-ngu-ga-va-trung-goi-50g",
+        "image": "https://cdn.tgdd.vn/Products/Images/12398/272253/bhx/banh-xuong-cho-meo-me-o-vi-ca-ngu-ga-va-trung-goi-50g-202306081617450404_300x300.jpg",
+        "price": "5500",
+        "weight": "/50g",
+        "price_per_kg": "",
+        "domain_url": "https://www.bachhoaxanh.com"
+    },
+    {
+        "name": "Thức ăn mèo con Me-O vị cá biển gói 400g",
+        "category": "thuc an meo",
+        "url": "https://www.bachhoaxanh.com/thuc-an-meo/thuc-an-cho-meo-con-me-o-vi-ca-bien-goi-400g",
+        "image": "https://cdn.tgdd.vn/Products/Images/12398/273075/bhx/thuc-an-cho-meo-con-me-o-vi-ca-bien-tui-400g-202306081612545418_300x300.jpg",
+        "price": "24500",
+        "weight": "/400g",
+        "price_per_kg": "",
+        "domain_url": "https://www.bachhoaxanh.com"
+    },
+    {
+        "name": "Thức ăn cho mèo Nutrience thịt gà, rau củ quả 2.27kg",
+        "category": "thuc an meo",
+        "url": "https://www.bachhoaxanh.com/thuc-an-meo/thuc-an-cho-meo-nutrience-thit-ga-va-rau-cu-qua-bao-227kg",
+        "image": "https://cdn.tgdd.vn/Products/Images/12398/302623/bhx/thuc-an-cho-meo-nutrience-thit-ga-va-rau-cu-qua-bao-227kg-202306081625599668_300x300.jpg",
+        "price": "260000",
+        "weight": "/2.27kg",
+        "price_per_kg": "",
+        "domain_url": "https://www.bachhoaxanh.com"
+    },
+    {
+        "name": "Bánh xương cho mèo Me-O vị tôm gói 50g",
+        "category": "thuc an meo",
+        "url": "https://www.bachhoaxanh.com/thuc-an-meo/banh-xuong-cho-meo-me-o-vi-tom-goi-50g",
+        "image": "https://cdn.tgdd.vn/Products/Images/12398/272326/bhx/banh-xuong-cho-meo-me-o-vi-tom-goi-50g-202306081617344915_300x300.jpg",
+        "price": "5500",
+        "weight": "/50g",
+        "price_per_kg": "",
+        "domain_url": "https://www.bachhoaxanh.com"
+    }
+]

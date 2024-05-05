@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Khô cá đuối",
+        "price": "89,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/kho-ca-duoi-200g-891280/",
+        "category": "thuc pham tuoi song",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/398303-300x300.jpg",
+        "quantity": "200g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Khô cá khoai sông",
+        "price": "145,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/kho-ca-khoai-song-200g-891309/",
+        "category": "thuc pham tuoi song",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/398319-300x300.jpg",
+        "quantity": "200g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Khô cá lóc",
+        "price": "105,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/kho-ca-loc-200g-891347/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "200g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Khô cá lưỡi trâu",
+        "price": "79,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/kho-ca-luoi-trau-200g-891385/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "200g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Khô cá mòi",
+        "price": "66,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/kho-ca-moi-200g-891404/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "200g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Khô cá sặc We Are Fresh size s",
+        "price": "319,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/kho-ca-sac-we-are-fresh-size-s-1kg-891411/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "1kg",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Khô cá sặc We Are Fresh size s",
+        "price": "169,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/kho-ca-sac-we-are-fresh-size-s-500g-891449/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "500g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Khô cá sặc",
+        "price": "102,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/kho-ca-sac-250g-891469/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "250g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Khô cá thu",
+        "price": "72,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/kho-ca-thu-250g-891479/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "250g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Khô mực Hồng Hương",
+        "price": "192,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/kho-muc-hong-huong-200g-891517/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "200g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Khô mực We Are Fresh size 25-30",
+        "price": "1,160,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/kho-muc-we-are-fresh-size-25-30-1kg-891521/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "1kg",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Khô mực We Are Fresh size 25-30",
+        "price": "590,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/kho-muc-we-are-fresh-size-25-30-500g-891551/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "500g",
+        "domain_url": "https://online.mmvietnam.com/"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Bia 333",
+        "price": "67,000",
+        "unit": "Lốc",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/bia-333-loc-6-lon-x-330ml/",
+        "category": "do uong cac loai",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/343532-300x300.jpg",
+        "quantity": "lốc 6 lon",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Yến mạch MM nguyên chất",
+        "price": "39,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/yen-mach-nguyen-chat-mm-380g/",
+        "category": "do uong cac loai",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/311644-300x300.jpg",
+        "quantity": "380g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Trà xanh Thái Nguyên Vinatea nguyên sợi",
+        "price": "129,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/tra-xanh-thai-nguyen-vinatea-nguyen-soi-480g/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "480g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bia Sapporo Premium Silver",
+        "price": "375,000",
+        "unit": "Thùng",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/bia-sapporo-premium-thung-24-lon-x-330ml-5/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "thùng 24 lon",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Rượu Magnificus MVDPCE White",
+        "price": "149,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/ruou-magnificus-trang/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "75CL",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Rượu Magnificus EU Community Red",
+        "price": "179,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/ruou-magnificus-do/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "75CL",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Nước tăng lực Redbull",
+        "price": "51,000",
+        "unit": "Lốc",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/nuoc-tang-luc-redbull-loc-6-lon-x-250ml-4/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "lốc 6 lon",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Nước ép táo Juicee Crush",
+        "price": "86,000",
+        "unit": "Chai nhựa",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/nuoc-ep-juicee-crush-huong-tao-2l/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "2 lít",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Nước ép cam Juicee Crush",
+        "price": "86,000",
+        "unit": "Chai nhựa",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/nuoc-ep-juicee-crush-huong-cam-2l/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "2 lít",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Nước ép táo lý chua đen Juicee Crush",
+        "price": "79,000",
+        "unit": "Chai nhựa",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/nuoc-ep-juicee-crush-huong-tao-ly-chua-den-2l/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "2 lít",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Sữa Milo UHT ít đường",
+        "price": "28,000",
+        "unit": "Lốc",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/sua-lua-mach-nestle-milo-activgo-it-duong-loc-4-hop-x-180ml-3/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "lốc 4 hộp",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Trà Tân Cương quý tộc",
+        "price": "129,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/tra-tan-cuong-quy-toc-100g-2/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "100g",
+        "domain_url": "https://online.mmvietnam.com/"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Khoai tây chiên Slide vị cay nóng",
+        "price": "27,600",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/khoai-tay-chien-slide-hotspicy-75g/",
+        "category": "banh keo cac loai",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/199928-300x300.jpg",
+        "quantity": "75g/65g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Khoai tây chiên Slide BBQ",
+        "price": "25,900",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/khoai-tay-chien-slide-bbq-75g/",
+        "category": "banh keo cac loai",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/199929-300x300.jpg",
+        "quantity": "75g/65g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bánh snack khoai tây O’star Orion vị tảo biển",
+        "price": "21,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/snack-ostar-vi-tao-bien-990-108g/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "90g/105g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bánh gấu Koala March Lotte nhân socola",
+        "price": "16,600",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/banh-gau-koala-choco-37g/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "37g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bánh gấu Koala March Lotte nhân dâu",
+        "price": "16,600",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/banh-gau-koala-dau-37g/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "37g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bánh Chocopie Orion",
+        "price": "26,000",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/banh-chocopie-orion-hop-6-cai-x-30g-5/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "hộp 6 cái",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Kẹo chanh muối Himalaya",
+        "price": "70,000",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/keo-chanh-muoi-himalaya-15g12-5/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "hộp 12 gói",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Hạt mắc ca MM",
+        "price": "149,000",
+        "unit": "Hũ",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/hat-macca-mm-200g-5/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "200g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Kẹo socola bạc hà Andes",
+        "price": "77,000",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/keo-socola-bac-ha-andes-132g-5/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "132g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bánh Chocopie Orion vị cacao",
+        "price": "43,000",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/banh-chocopie-orion-vi-cacao-hop-12-cai-x-30g/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "hộp 12 cái",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Hạt hướng dương ChaCheer ngũ vị hương",
+        "price": "19,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/hat-huong-duong-chacheer-ngu-vi-huong-130g-13/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "130g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Kẹo the Fresh hương bạc hà",
+        "price": "12,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/keo-the-fresh-goi-150g-5/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "150g",
+        "domain_url": "https://online.mmvietnam.com/"
+    }
+]

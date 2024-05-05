@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Bánh gạo nướng An Orion vị tự nhiên",
+        "price": "16,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/banh-gao-an-tu-nhien-151-2g-8/",
+        "category": "banh keo cac loai",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/333581-300x300.jpg",
+        "quantity": "151.2g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bánh quy Cosy Marie vị sữa",
+        "price": "47,000",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/banh-quy-sua-cosy-marie-kinh-do-vi-sua-432g/",
+        "category": "banh keo cac loai",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/317254-300x300.jpg",
+        "quantity": "408g/480g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bánh Goute Cracker",
+        "price": "43,000",
+        "unit": "Lốc",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/banh-quy-goute-orion-hop-8-goi-x-36g/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "316.8g/396g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bánh xốp phô mai Cal Cheese Mayora",
+        "price": "24,700",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/banh-xop-pho-mai-cal-cheese-mayora-hop-20-cai-x-8-5g/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "hộp 20 cái",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bánh Chocopie Orion Tình",
+        "price": "43,000",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/banh-chocopie-orion-tinh-hop-12-cai-x-30g/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "hộp 12 cái",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bánh Custas Orion trứng",
+        "price": "50,300",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/banh-custas-orion-hop-12-cai-x-23g/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "276g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Yến mạch nguyên chất Oatta",
+        "price": "74,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/yen-mach-nguyen-chat-an-lien-oatta-400g-8/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "400g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bánh Karo Richy trứng tươi chà bông",
+        "price": "28,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/banh-karo-richy-trung-tuoi-cha-bong-tui-6-goi-x-26g-3/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "gói 6 cái",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bánh gấu Hello Panda Meiji vị double chocolate",
+        "price": "21,000",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/banh-gau-meiji-vi-double-chocolate-50g-8/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "43g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Socola trái cây & hạt Cadbury Dairy Milk",
+        "price": "69,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/socola-trai-cay-hat-cadbury-dairy-milk-165g-8/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "160g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Kẹo dẻo Thái Haribo Cherries",
+        "price": "23,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/keo-deo-thai-haribo-phantasia-100g-3/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "100g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bánh xốp socola Kitkat Nestle trà xanh",
+        "price": "55,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/socola-kitkat-tra-xanh-sb-2f-8-thanh-x-17g-8/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "gói 8 thanh",
+        "domain_url": "https://online.mmvietnam.com/"
+    }
+]

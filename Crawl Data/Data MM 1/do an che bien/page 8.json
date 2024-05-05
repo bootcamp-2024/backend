@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Bánh mì chà bông kẹp We Are Fresh",
+        "price": "34,000",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/banh-mi-cha-bong-kep-mm-hop-4-banh-70g-850517/",
+        "category": "do an che bien",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/193392-300x300.jpg",
+        "quantity": "hộp 4 bánh",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bánh mì hotdog MM",
+        "price": "25,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/banh-mi-hotdog-mm-goi-6-cai-60g-847439/",
+        "category": "do an che bien",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/52765-300x300.jpg",
+        "quantity": "túi 6 cái",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bánh mì Baguette bơ We Are Fresh",
+        "price": "15,000",
+        "unit": "Túi",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/banh-mi-bo-baguette-tui-2-cai-x-180g-843588/",
+        "category": "do an che bien",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "túi 2 cái",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bánh su kem We Are Fresh",
+        "price": "28,500",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/banh-su-kem-mm-hop-10-cai-x-30g-843591/",
+        "category": "do an che bien",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "hộp 10 cái",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bánh mì tròn lạt",
+        "price": "35,000",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/banh-mi-tron-lat-hop-10-cai-60g-829863/",
+        "category": "do an che bien",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "hộp 10 cái",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Kim chi cải thảo cắt lát We Are Fresh",
+        "price": "176,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/kim-chi-cai-thao-cat-lat-we-are-fresh-3-5kg-825813/",
+        "category": "do an che bien",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "3.5kg",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Kim chi cải thảo cay We Are Fresh",
+        "price": "199,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/kim-chi-cai-thao-cay-we-are-fresh-3-5kg-825826/",
+        "category": "do an che bien",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "3.5kg",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Dầu dừa Vietcoco",
+        "price": "59,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/dau-dua-vietcoco-1-lit-825333/",
+        "category": "do an che bien",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "1 lít",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bánh su kem MM",
+        "price": "39,000",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/banh-su-kem-mm-hop-6-cai-x-70g-824476/",
+        "category": "do an che bien",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "hộp 6 cái",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Gà nướng sốt tiêu tỏi",
+        "price": "88,000",
+        "unit": "Con",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/ga-nuong-sot-tieu-toi-824627/",
+        "category": "do an che bien",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "hộp 6 cái",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Hotdog xông khói DNA",
+        "price": "41,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/hot-dog-xong-khoi-dna-500g-824638/",
+        "category": "do an che bien",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "500g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bánh su sữa",
+        "price": "19,000",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/banh-su-sua-hop-8-cai-30g-823757/",
+        "category": "do an che bien",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "hộp 8 cái",
+        "domain_url": "https://online.mmvietnam.com/"
+    }
+]

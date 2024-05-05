@@ -1,0 +1,112 @@
+[
+    {
+        "name": "Xương ức gà CP VN",
+        "price": "43,900",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/xuong-uc-ga-cp-1kg-3/",
+        "category": "thuc pham tuoi song",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/137957-300x300.jpg",
+        "quantity": "1kg",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Cánh gà nguyên CP VN",
+        "price": "96,900",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/canh-ga-nguyen-cp-1kg/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "1kg",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Đùi bò Rump đông lạnh xuất xứ Úc",
+        "price": "249,000",
+        "unit": "Ký",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/dui-bo-rump-dong-lanh-xuat-xu-uc-2/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "1kg",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Mận An Phước",
+        "price": "27,000",
+        "unit": "Ký",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/man-an-phuoc/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "1kg",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Ốc hương sống",
+        "price": "339,000",
+        "unit": "Ký",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/oc-huong-song-80-100-con-kg/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "80-100 con/kg",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Xà lách Frise Đà Lạt",
+        "price": "38,000",
+        "unit": "Ký",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/xa-lach-frise-da-lat/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "80-100 con/kg",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Xà lách Romaine green Đà Lạt",
+        "price": "44,000",
+        "unit": "Ký",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/xa-lach-romaine-green-da-lat/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "80-100 con/kg",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Xà lách lô lô tím Đà Lạt",
+        "price": "119,000",
+        "unit": "Ký",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/xa-lach-lolo-tim-da-lat/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "80-100 con/kg",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bắp cải tím Đà Lạt",
+        "price": "46,000",
+        "unit": "Ký",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/bap-cai-tim-da-lat/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "80-100 con/kg",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bí ngòi xanh Đà Lạt",
+        "price": "19,000",
+        "unit": "Ký",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/bi-ngoi-xanh-da-lat-11/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "80-100 con/kg",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bông cải xanh Đà Lạt",
+        "price": "38,000",
+        "unit": "Ký",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/bong-cai-xanh-da-lat/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "80-100 con/kg",
+        "domain_url": "https://online.mmvietnam.com/"
+    }
+]

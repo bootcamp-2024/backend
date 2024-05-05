@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Điều muối Yến Nhung",
+        "price": "155,000",
+        "unit": "Hũ",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/dieu-muoi-yen-nhung-250g-513119/",
+        "category": "banh keo cac loai",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/70317-300x300.jpg",
+        "quantity": "250g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bánh que Mix thịt xông khói",
+        "price": "86,000",
+        "unit": "Lốc",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/banh-que-mix-vi-thit-xong-khoi-60g-x-6-goi-510500/",
+        "category": "banh keo cac loai",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/399190-300x300.jpg",
+        "quantity": "lốc 6 gói",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bánh que Mix vị gà cay",
+        "price": "84,000",
+        "unit": "Lốc",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/banh-que-mix-vi-ga-cay-60g-x-6-goi-510798/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "6 gói",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bánh que Pretz vị gà BBQ",
+        "price": "10,500",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/banh-que-pretz-vi-ga-bbq-31g-509396/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "31g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Socola Merci Peptit sữa kem",
+        "price": "89,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/socola-merci-peptit-sua-kem-125g-509454/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "125g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bánh que Mix vị gà cay Hàn Quốc",
+        "price": "89,000",
+        "unit": "Lốc",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/banh-que-mix-vi-ga-cay-han-quoc-60g-x-6-goi-509709/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "6 gói",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bánh Pepperridge Farm vị dâu",
+        "price": "116,000",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/banh-vi-dau-pepperridge-farm-191g-509849/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "191g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Lá kim trẻ em O’Food",
+        "price": "30,900",
+        "unit": "Lốc",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/la-kim-tre-em-5g-x-3-goi-509147/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "lốc 3 gói",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Snack Karamucho bắp cay",
+        "price": "56,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/snack-karamucho-cay-dac-biet-36g-x-10-goi-508754/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "lốc 10 gói",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Hạt điều rang củi",
+        "price": "66,000",
+        "unit": "Hũ",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/hat-dieu-rang-cui-110g-507942/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "110g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bánh socola Kinder Bueno",
+        "price": "29,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/banh-socola-kinder-bueno-43g-508153/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "43g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Hạt điều rang củi zipper",
+        "price": "156,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/hat-dieu-rang-cui-zipper-250g-507560/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "250g",
+        "domain_url": "https://online.mmvietnam.com/"
+    }
+]

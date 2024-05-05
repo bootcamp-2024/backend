@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Bột ngọt Miwon (S)",
+        "price": "1,389,000",
+        "unit": "Bao",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/bot-ngot-miwon-s-bao-25kg-617100/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/25837-300x300.jpg",
+        "quantity": "bao 25kg",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Dầu ăn Olita Tường An",
+        "price": "996,000",
+        "unit": "Bình",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/dau-an-olita-tuong-an-binh-25kg-617220/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/375188-300x300.jpg",
+        "quantity": "25kg",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Nước mắm cốt đặc biệt Lê Gia",
+        "price": "99,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/nuoc-mam-cot-dac-biet-le-gia-525ml-613717/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "525ml",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Mắm tôm Lê Gia",
+        "price": "119,000",
+        "unit": "Hũ",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/mam-tom-le-gia-2kg-613730/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "2kg",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Nước tương đậu nành Healthy Boy",
+        "price": "59,000",
+        "unit": null,
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/nuoc-tuong-dau-nanh-healthy-boy-chai-700ml-612307/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "700ml",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Xì dầu Healthy Boy",
+        "price": "36,900",
+        "unit": null,
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/xi-dau-healthy-boy-chai-940g-612375/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "940g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Dầu hào Mabin",
+        "price": "44,900",
+        "unit": null,
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/dau-hao-mabin-binh-1200g-607798/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "bình 1200g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Soup cà ri đỏ ROI Thái",
+        "price": "47,200",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/soup-ca-ri-do-roi-thai-250ml-607439/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "250ml",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Tương Thái vị cà chua ớt",
+        "price": "39,000",
+        "unit": null,
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/tuong-ca-chua-ot-thai-900g-607540/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "900g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Nước tương Hương Việt thanh vị",
+        "price": "37,600",
+        "unit": "Lốc",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/nuoc-tuong-huong-viet-thanh-vi-loc-6-chai-500ml-607280/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "lốc 6 chai",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Hạt nêm Knorr chay nấm hương organic",
+        "price": "42,600",
+        "unit": "Ký",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/hat-nem-knorr-chay-nam-huong-organic-goi-380g-tang-goi-150g-600178/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "gói 380g tặng gói 150g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Sốt gia vị cay ngọt Pantain",
+        "price": "34,200",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/sot-gia-vi-cay-ngot-pantain-chai-435ml-598058/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "435ml",
+        "domain_url": "https://online.mmvietnam.com/"
+    }
+]

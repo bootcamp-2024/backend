@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Bánh snack Toonies socola",
+        "price": "11,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/banh-snack-toonies-socola-goi-70g-584292/",
+        "category": "banh keo cac loai",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/397775-300x300.jpg",
+        "quantity": "gói 70g/60g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bánh snack Swing phô mai",
+        "price": "20,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/banh-snack-swing-pho-mai-goi-95g-584332/",
+        "category": "banh keo cac loai",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/397782-300x300.jpg",
+        "quantity": "gói 95g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bánh Goute Orion hạt dinh dưỡng",
+        "price": "25,900",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/banh-goute-orion-hat-dinh-duong-goi-158-4g-583624/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "gói 158.4g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bánh snack Ostar vị tự nhiên",
+        "price": "11,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/banh-snack-ostar-vi-tu-nhien-goi-63g-583642/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "gói 63g/55g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bánh Swing phô mai",
+        "price": "10,100",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/banh-swing-pho-mai-goi-56g-584010/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "gói 56g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Socola Merci Finest Selection",
+        "price": "164,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/socola-merci-finest-selection-goi-250g-584030/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "250g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Kẹo dẻo trứng Jumbo Playmore",
+        "price": "27,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/keo-deo-trung-jumbo-playmore-goi-48g-584038/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "gói 48g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Thạch dừa Nanacos vị sữa chua đào",
+        "price": "44,600",
+        "unit": "Lốc",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/thach-dua-nanacos-vi-sua-chua-dao-loc-4-hu-108g-hu-583049/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "lốc 4 hộp",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Kẹo socola sữa Cute 15g",
+        "price": "146,000",
+        "unit": "Lốc",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/keo-socola-sua-cute-15g-loc-12-goi-15g-goi-583069/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "lốc 12 gói",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bánh Tipo Caramel",
+        "price": "63,000",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/banh-tipo-caramel-hop-10-goi-25g-goi-583234/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "hộp 10 gói",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Socola Petit hỗn hợp",
+        "price": "83,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/socola-petit-hon-hop-goi-125g-583486/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "125g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Socola Lindt Excell muối biển",
+        "price": "133,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/socola-lindt-excell-muoi-bien-goi-100g-583522/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "100g",
+        "domain_url": "https://online.mmvietnam.com/"
+    }
+]

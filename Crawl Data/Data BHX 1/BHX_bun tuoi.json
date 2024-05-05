@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Bún tươi gói 500g",
+        "category": "bun tuoi",
+        "url": "https://www.bachhoaxanh.com/bun-tuoi/bun-tuoi-bach-hoa-xanh-goi-500g",
+        "image": "https://cdn.tgdd.vn/Products/Images/9340/249870/bhx/bun-tuoi-goi-500g-202404012138598077_300x300.jpg",
+        "price": "9500",
+        "weight": "/500g",
+        "price_per_kg": "",
+        "domain_url": "https://www.bachhoaxanh.com"
+    },
+    {
+        "name": "Miến tươi Song Long gói 200g",
+        "category": "bun tuoi",
+        "url": "https://www.bachhoaxanh.com/bun-tuoi/mien-tuoi-song-long-goi-200g",
+        "image": "https://cdn.tgdd.vn/Products/Images/9340/324894/bhx/mien-tuoi-song-long-goi-200g-202404161320559373_300x300.jpg",
+        "price": "12000",
+        "weight": "/200g",
+        "price_per_kg": "",
+        "domain_url": "https://www.bachhoaxanh.com"
+    }
+]

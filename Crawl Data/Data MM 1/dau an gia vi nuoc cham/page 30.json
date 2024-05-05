@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Nước mắm Nam Ngư 3 trong 1",
+        "price": "32,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/nuoc-mam-nam-ngu-3-trong-1-500ml-516401/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/206057-300x300.jpg",
+        "quantity": "500ml",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Xốt mè cô đặc CHS",
+        "price": "41,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/xot-me-co-dac-chs-380g-515574/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/391229-300x300.jpg",
+        "quantity": "380g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Xốt mè cô đặc CHS",
+        "price": "39,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/xot-me-co-dac-chs-1000g-515591/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "1000g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Lá mùi tây MCC",
+        "price": "56,000",
+        "unit": "Hũ",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/la-mui-tay-mcc-5g-515176/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "5g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Xốt hải sản Maepra",
+        "price": "1,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/xot-hai-san-maepr-250g-515418/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "250g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Dầu ớt CHS",
+        "price": "66,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/dau-ot-chs-720ml-515557/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "720ml",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Viên xốt cà ri Nhật Bản",
+        "price": "66,000",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/vien-xot-ca-ri-nhat-ban-200g-514908/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "200g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Nước tương ít muối Kikkoman",
+        "price": "152,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/nuoc-tuong-it-muoi-kikkoman-600ml-515031/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "600ml",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Dầu ớt Lee Kum Kee",
+        "price": "57,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/dau-ot-lee-kum-kee-207g-514138/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "207g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Sốt sacha Lee Kum Kee 330g",
+        "price": "139,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/sot-sacha-lee-kum-kee-330g-514267/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "207g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Xốt spaghetti Ottogi",
+        "price": "51,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/xot-spaghetti-ottogi-400g-513673/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "400g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Sốt gia vị Suki Mabin",
+        "price": "31,600",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/sot-gia-vi-suki-mabin-chai-thuy-tinh-340g-513861/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "chai thủy tinh 340g",
+        "domain_url": "https://online.mmvietnam.com/"
+    }
+]

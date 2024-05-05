@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Rau câu New Choice Tropical",
+        "price": "58,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/rau-cau-new-choice-tropical-1kg-580909/",
+        "category": "banh keo cac loai",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/357632-300x300.jpg",
+        "quantity": "1kg",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Rau câu New Choice khoai môn",
+        "price": "59,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/rau-cau-new-choice-khoai-mon-goi-1kg-580925/",
+        "category": "banh keo cac loai",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/357633-300x300.jpg",
+        "quantity": "gói 1kg",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Thạch rau câu New Choice vị dừa",
+        "price": "58,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/thach-rau-cau-new-choice-huong-vi-dua-goi-1kg-580943/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "gói 1kg",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Rau câu New Choice vải",
+        "price": "18,900",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/rau-cau-new-choice-vai-goi-300g-580962/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "300g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bánh que Lucky kem socola",
+        "price": "22,900",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/banh-que-lucky-kem-socola-hop-45g-580980/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "hộp 45g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Kẹo gum Xylitol Lime Mint",
+        "price": "14,400",
+        "unit": "Hũ",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/keo-gum-xylitol-limemint-hu-26-1g-580998/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "26.1g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Kẹo gum Xylitol không đường vị dâu",
+        "price": "6,600",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/keo-gum-xylitol-khong-duong-vi-dau-goi-11-6g-581035/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "11.6g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Quả chà là sấy Bakalland",
+        "price": "69,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/qua-cha-la-say-bakalland-goi-100g-580056/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "100g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Kẹo dẻo Playmore con vịt",
+        "price": "20,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/keo-deo-hinh-ly-cocktail-mini-playmore-goi-48g-580278/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "48g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Kẹo dẻo Playmore con vịt",
+        "price": "151,000",
+        "unit": "Lốc",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/keo-deo-playmore-cocktail-loc-8-goi-48g-goi-580299/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "lốc 8 gói",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Kẹo dẻo cupcake Playmore",
+        "price": "19,900",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/keo-deo-cupcake-playmore-goi-48g-580320/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "48g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Thạch trái cây Royal vị vải và xoài",
+        "price": "79,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/thach-trai-cay-royal-vi-vai-va-xoai-goi-300g-580501/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "gói 300g",
+        "domain_url": "https://online.mmvietnam.com/"
+    }
+]

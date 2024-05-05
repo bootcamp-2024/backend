@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Tương đen phở Cholimex",
+        "price": "8,900",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/tuong-den-pho-cholimex-230g-8/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/209650-300x300.jpg",
+        "quantity": "230g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Nước tương đậu nành Maggi đậm đặc",
+        "price": "17,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/nuoc-tuong-dau-nanh-maggi-dam-dac-300ml/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/184283-300x300.jpg",
+        "quantity": "300ml",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Tương cà Life",
+        "price": "19,600",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/tuong-ca-life-330g-8/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "330g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Tương ớt Life",
+        "price": "22,600",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/tuong-ot-life-340g-7/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "340g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Nước mắm Nam Ngư 3 trong 1",
+        "price": "778,000",
+        "unit": "Thùng",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/nuoc-mam-nam-ngu-chinsu-3in1-thung-18-chai-x-750ml-5/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "thùng 18 chai",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Nước mắm cá cơm Thuận Phát 60 độ",
+        "price": "117,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/nuoc-mam-ca-com-thuan-phat-60-500ml-8/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "490ml",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Nước mắm siêu hạng Hồng Hạnh 35 độ",
+        "price": "149,000",
+        "unit": "Bình",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/nuoc-mam-sieu-hang-hong-hanh-35n-1-9l-8/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "1.9 lít",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Nước mắm cá cơm than Thuận Phát",
+        "price": "36,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/nuoc-mam-ca-com-than-thuan-phat-750ml-7/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "750ml",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Nước mắm tỏi ớt Thanh Hà",
+        "price": "37,400",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/nuoc-mam-toi-ot-thanh-ha-250ml-8/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "250ml",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Nước mắm Nam Ngư 3 trong 1",
+        "price": "46,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/nuoc-mam-nam-ngu-chinsu-3in1-750ml-5/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "750ml",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Nước mắm cá cơm Thuận Phát 40 độ",
+        "price": "67,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/nuoc-mam-ca-com-thuan-phat-40-620ml-8/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "610ml",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Nước mắm Maggi hảo hạng 70%",
+        "price": "68,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/nuoc-mam-hao-hang-70-maggi-490ml-8/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "490ml",
+        "domain_url": "https://online.mmvietnam.com/"
+    }
+]

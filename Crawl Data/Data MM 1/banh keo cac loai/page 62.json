@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Snack tôm ớt Hanami",
+        "price": "54,000",
+        "unit": "Lon",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/snack-tom-ot-hanami-110g/",
+        "category": "banh keo cac loai",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/169941-300x300.jpg",
+        "quantity": "110g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bánh snack tôm Hanami",
+        "price": "56,000",
+        "unit": "Lon",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/banh-snack-tom-hanami-110g/",
+        "category": "banh keo cac loai",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/58931-300x300.jpg",
+        "quantity": "110g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bánh bông lan cuộn Solite vị dâu",
+        "price": "46,600",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/banh-bong-lan-cuon-solite-kinh-do-vi-dau-hop-20-goi-x-18g-18/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "hộp 20 gói",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bánh gạo nướng An Orion vị cá Nhật",
+        "price": "21,900",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/banh-gao-nuong-an-orion-vi-ca-nhat-117-6g-10/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "100.8g/97.2g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bánh bông lan Solite cuộn kem socola",
+        "price": "46,600",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/banh-bong-lan-cuon-solite-kinh-do-vi-socola-hop-20-goi-x-18g-19/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "hộp 20 gói",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bánh que Mix vị thịt xông khói",
+        "price": "73,000",
+        "unit": "Lốc",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/banh-que-mix-vi-thit-xong-khoi-loc-12-goi-x-25g-11/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "lốc 12 gói",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bánh que Mix vị rong biển",
+        "price": "73,000",
+        "unit": "Lốc",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/banh-que-mix-vi-rong-bien-loc-12-goi-x-25g-11/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "lốc 12 gói",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bánh que Mix vị gà cay",
+        "price": "73,000",
+        "unit": "Lốc",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/banh-que-mix-vi-ga-cay-loc-12-goi-x-25g-11/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "lốc 12 gói",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bánh que Mix vị gà cay Hàn Quốc",
+        "price": "73,000",
+        "unit": "Lốc",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/banh-que-mix-vi-ga-cay-han-quoc-loc-12-goi-x-25g-11/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "lốc 12 gói",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bánh que Mix vị ớt cay",
+        "price": "73,000",
+        "unit": "Lốc",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/banh-que-mix-vi-ot-cay-loc-12-goi-x-25g-11/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "lốc 12 gói",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bánh pie socola MM",
+        "price": "69,000",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/banh-pie-socola-mm-hop-20-cai-x-28g-9/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "hộp 20 cái",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bánh Goute Cracker",
+        "price": "349,000",
+        "unit": "Thùng",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/banh-quy-goute-orion-thung-8-hop-x-288g-13/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "thùng 8 hộp",
+        "domain_url": "https://online.mmvietnam.com/"
+    }
+]

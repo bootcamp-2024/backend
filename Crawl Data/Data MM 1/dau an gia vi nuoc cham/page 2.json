@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Hạt nêm Meizan vị heo",
+        "price": "109,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/hat-nem-meizan-vi-heo-1-8kg-951867/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/422768-300x300.jpg",
+        "quantity": "1.8kg",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Dầu đậu nành Simply",
+        "price": "122,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/dau-dau-nanh-simply-nguyen-chat-2-lit-931272/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/9580-300x300.jpg",
+        "quantity": "2 lít",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Dầu ăn Tường An",
+        "price": "112,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/dau-an-tuong-an-2-lit-931273/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "2 lít",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Mù tạt Old Style Maille",
+        "price": "186,000",
+        "unit": "Hũ",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/mu-tat-oldstyle-hieu-maille-845g-927206/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "845g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Hạt nêm tôm thịt Mommy",
+        "price": "105,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/hat-nem-tom-thit-mommy-2kg-bot-ngot-454g-926544/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "2kg + bột ngọt",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bột ngọt Miwon (L)",
+        "price": "899,000",
+        "unit": "Thùng",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/bot-ngot-miwon-l-6-goi-2kg-926066/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "6 gói",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Hộp quà dầu ăn Neptune",
+        "price": "112,000",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/dau-an-neptune-hop-qua-2-chai-1-lit-khuyen-mai-926378/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "2 chai",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bột ngọt Ajinomoto (L)",
+        "price": "67,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/bot-ngot-ajinomoto-hat-lon-1kg-924026/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "1kg",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Tương ớt siêu cay Cholimex",
+        "price": "33,600",
+        "unit": "Lốc",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/tuong-ot-sieu-cay-cholimex-loc-2-chai-330g-909045/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "lốc 2 chai",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Xốt thịt nướng ngũ vị Barona",
+        "price": "45,000",
+        "unit": "Lốc",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/xot-thit-nuong-ngu-vi-barona-loc-4-goi-80g-900024/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "lốc 4 gói",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Xốt tỏi Pikt & Chopt",
+        "price": "45,900",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/xot-toi-pikt-chopt-75g-900055/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "75g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Xốt bò kho Barona",
+        "price": "45,000",
+        "unit": "Lốc",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/xot-bo-kho-barona-loc-4-goi-80g-899837/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "lốc 4 gói",
+        "domain_url": "https://online.mmvietnam.com/"
+    }
+]

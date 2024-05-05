@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Nước ion Pocari Sweat",
+        "price": "11,000",
+        "unit": "Lon",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/nuoc-ion-pocari-sweat-lon-330ml-701509/",
+        "category": "do uong cac loai",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/399528-300x300.jpg",
+        "quantity": "lon 330ml",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Cà phê hạt Heritage",
+        "price": "239,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/ca-phe-hat-heritage-goi-1kg-700984/",
+        "category": "do uong cac loai",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/398183-300x300.jpg",
+        "quantity": "gói 1kg",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Trà Nestea vị vải hương hoa lài",
+        "price": "30,000",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/tra-nestea-vi-vai-huong-hoa-lai-hop-12-goi-12g-700342/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "hộp 12 gói",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Nước Aquafina soda",
+        "price": "152,000",
+        "unit": "Thùng",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/nuoc-aquafina-soda-thung-24-lon-320ml-699527/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "thùng 24 lon",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Nước uống lên men Strongbow vị đào Sleek",
+        "price": "17,900",
+        "unit": "Lon",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/nuoc-uong-len-men-strongbow-vi-dao-sleek-330ml-699605/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "330ml",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Nước khoáng Vivant",
+        "price": "92,000",
+        "unit": "Thùng",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/nuoc-khoang-vivant-thung-24-chai-500ml-699170/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "thùng 24 chai",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Trà C2 BHA chanh tuyết",
+        "price": "9,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/tra-c2-bha-chanh-tuyet-chai-455ml-698558/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "chai 455ml",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bột cacao Vanholland không đường",
+        "price": "96,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/bot-ca-cao-vanholland-khong-duong-goi-500g-698693/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "gói 500g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bột cacao Vanholland có đường",
+        "price": "99,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/bot-cacao-vanholland-co-duong-goi-500g-698714/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "gói 500g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Ngũ cốc dinh dưỡng Việt Đài",
+        "price": "59,000",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/ngu-coc-dinh-duong-viet-dai-hop-20-goi-25g-goi-698052/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "bịch 20 gói",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bia Heineken Silver",
+        "price": "14,700",
+        "unit": "Lon",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/bia-heineken-silver-lon-250ml-697172/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "lon 250ml",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Nước ngọt Coca Light Sleek",
+        "price": "9,500",
+        "unit": "Lon",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/nuoc-ngot-coca-light-sleek-lon-320ml-697253/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "320ml",
+        "domain_url": "https://online.mmvietnam.com/"
+    }
+]

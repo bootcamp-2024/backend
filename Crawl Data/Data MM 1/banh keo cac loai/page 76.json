@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Kẹo dẻo Thái Haribo Goldbears",
+        "price": "22,900",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/keo-deo-thai-haribo-happy-cola-100g-3/",
+        "category": "banh keo cac loai",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/186931-300x300.jpg",
+        "quantity": "80g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Mứt dâu Golden Farm",
+        "price": "57,000",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/mut-dau-golden-farm-loc-20-vi-x-14g-8/",
+        "category": "banh keo cac loai",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/48737-300x300.jpg",
+        "quantity": "20 hộp",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Mứt cam Golden Farm",
+        "price": "58,000",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/mut-cam-golden-farm-loc-20-vi-x-14g-8/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "20 hộp",
+        "domain_url": "https://online.mmvietnam.com/"
+    }
+]

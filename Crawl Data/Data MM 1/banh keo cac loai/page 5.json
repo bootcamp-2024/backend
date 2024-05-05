@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Bánh quy Majestic",
+        "price": "136,000",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/banh-quy-majestic-382g-931418/",
+        "category": "banh keo cac loai",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/247203-300x300.jpg",
+        "quantity": "382g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Mực hấp xé nước dừa cân ký",
+        "price": "550,000",
+        "unit": "Ký",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/muc-hap-xe-nuoc-dua-can-ky-931442/",
+        "category": "banh keo cac loai",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/391252-300x300.jpg",
+        "quantity": "382g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Khô gà lá chanh cân ký",
+        "price": "413,000",
+        "unit": "Ký",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/kho-ga-la-chanh-can-ky-931452/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "382g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bánh Goute",
+        "price": "148,000",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/banh-quy-goute-hop-thiec-475-2g-931264/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "hộp thiếc 475.2g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Khoai tây chiên Bitee kem chua và hành",
+        "price": "58,000",
+        "unit": "Lốc",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/khoai-tay-chien-bitee-kem-chua-va-hanh-loc-2-110g-926916/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "lốc 2 hộp",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Khoai tây chiên Bitee thịt nướng",
+        "price": "58,000",
+        "unit": "Lốc",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/khoai-tay-chien-bitee-thit-nuong-loc-2-110g-926938/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "lốc 2 hộp",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Khoai tây chiên Bitee truyền thống",
+        "price": "58,000",
+        "unit": "Lốc",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/khoai-tay-chien-bitee-truyen-thong-loc-2-110g-926947/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "lốc 2 hộp",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Hạt macca MM",
+        "price": "249,000",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/hat-macca-mm-900g-926522/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "900g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Hạt óc chó MM",
+        "price": "89,000",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/hat-oc-cho-mm-500g-926590/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "500g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Kẹo mềm Sugus trái cây cân ký",
+        "price": "183,000",
+        "unit": "Ký",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/keo-mem-sugus-trai-cay-can-ky-926669/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "500g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Socola bọc dừa Confetterria Raffaello",
+        "price": "154,000",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/banh-dua-nhan-hanh-nhan-confetterria-raffaello-150g-925425/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "150g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Socola bọc dừa Confetterria Raffaello",
+        "price": "235,000",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/banh-dua-nhan-hanh-nhan-confetterria-raffaello-230g-925427/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "230g",
+        "domain_url": "https://online.mmvietnam.com/"
+    }
+]

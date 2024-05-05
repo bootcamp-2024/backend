@@ -1,0 +1,353 @@
+[
+    {
+        "name": "Famous Chicken Adobo",
+        "cook_time": "PT45M",
+        "prep_time": "PT20M",
+        "total_time": "PT65M",
+        "nutrition": {
+            "calories": "361 kcal",
+            "carbohydrateContent": "7 g",
+            "cholesterolContent": "97 mg",
+            "fiberContent": "1 g",
+            "proteinContent": "33 g",
+            "saturatedFatContent": "6 g",
+            "sodiumContent": "1040 mg",
+            "sugarContent": "2 g",
+            "fatContent": "22 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "description": "This chicken adobo recipe has tender, juicy chicken cooked in a rich, flavorful peppery sauce that&#39;s simple to make and delicious served over rice.",
+        "cuisine": "filipino",
+        "category": "Dinner",
+        "ingredient": [
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "name": "vegetable oil"
+            },
+            {
+                "quantity": "1",
+                "unit": "(3 pound)",
+                "name": "chicken, cut into pieces"
+            },
+            {
+                "quantity": "1",
+                "unit": "large",
+                "name": "onion, quartered and sliced"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "name": "minced garlic"
+            },
+            {
+                "quantity": "⅔",
+                "unit": "cup",
+                "name": "low sodium soy sauce"
+            },
+            {
+                "quantity": "⅓",
+                "unit": "cup",
+                "name": "white vinegar"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "name": "garlic powder"
+            },
+            {
+                "quantity": "2",
+                "unit": "teaspoons",
+                "name": "black pepper"
+            },
+            {
+                "quantity": "1",
+                "unit": null,
+                "name": "bay leaf"
+            }
+        ],
+        "instructions": [
+            {
+                "text": "Heat vegetable oil in a large skillet over medium-high heat. Cook chicken pieces until golden brown, 2 to 3 minutes per side. Transfer chicken to a plate and set aside."
+            },
+            {
+                "text": "Add onion and garlic to the skillet; cook until softened and brown, about 6 minutes."
+            },
+            {
+                "text": "Pour in soy sauce and vinegar and season with garlic powder, black pepper, and bay leaf."
+            },
+            {
+                "text": "Return chicken to pan, increase heat to high, and bring to a boil. Reduce heat to medium-low, cover, and simmer until chicken is tender and cooked through, 35 to 40 minutes."
+            }
+        ],
+        "image": "https://www.allrecipes.com/thmb/2Wniawz23J-l0SL2I4E33v9FM50=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/128699-famous-chicken-adobo-DDMFS-4x3-2da8cfc2ccc44ddfb1d4cb1bf1a28e48.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/ZMn4gVX7-K3AjnAEN.mp4",
+            "description": "This adobo sauce is full of flavor and spices. You can add your chicken to the sauce and let it cook to get the most out of this flavorful dish. ",
+            "duration": "PT57S",
+            "name": "Famous Chicken Adobo"
+        },
+        "url": "https://www.allrecipes.com/recipe/128699/famous-chicken-adobo/"
+    },
+    {
+        "name": "Slow Cooker Adobo Chicken with Bok Choy",
+        "cook_time": "PT485M",
+        "prep_time": "PT10M",
+        "total_time": "PT495M",
+        "nutrition": {
+            "calories": "458 kcal",
+            "carbohydrateContent": "21 g",
+            "cholesterolContent": "128 mg",
+            "fiberContent": "4 g",
+            "proteinContent": "40 g",
+            "saturatedFatContent": "6 g",
+            "sodiumContent": "1395 mg",
+            "sugarContent": "10 g",
+            "fatContent": "23 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "description": "This is a slow cooker version of a classic dish from the Philippines using chicken thighs, bok choy, apple cider vinegar, onion, and garlic.",
+        "cuisine": "filipino",
+        "category": "Dinner",
+        "ingredient": [
+            {
+                "quantity": "2",
+                "unit": null,
+                "name": "onions, sliced"
+            },
+            {
+                "quantity": "4",
+                "unit": "cloves",
+                "name": "garlic, smashed"
+            },
+            {
+                "quantity": "⅔",
+                "unit": "cup",
+                "name": "apple cider vinegar"
+            },
+            {
+                "quantity": "⅓",
+                "unit": "cup",
+                "name": "soy sauce"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "name": "brown sugar"
+            },
+            {
+                "quantity": "1",
+                "unit": null,
+                "name": "bay leaf"
+            },
+            {
+                "quantity": null,
+                "unit": null,
+                "name": "ground black pepper to taste"
+            },
+            {
+                "quantity": "8",
+                "unit": null,
+                "name": "skinless, bone-in chicken thighs"
+            },
+            {
+                "quantity": "2",
+                "unit": "teaspoons",
+                "name": "paprika"
+            },
+            {
+                "quantity": "1",
+                "unit": "large head",
+                "name": "bok choy, cut into 1-inch strips"
+            },
+            {
+                "quantity": "2",
+                "unit": null,
+                "name": "green onions, sliced thinly"
+            }
+        ],
+        "instructions": [
+            {
+                "text": "Combine onions, garlic, apple cider vinegar, soy sauce, brown sugar, and bay leaf in slow cooker. Season with black pepper. Place chicken thighs atop mixture. Sprinkle paprika over chicken thighs."
+            },
+            {
+                "text": "Cover and cook on Low for 8 hours."
+            },
+            {
+                "text": "Switch slow cooker to High. Add bok choy to chicken mixture; cook another 5 minutes. Garnish with green onion."
+            }
+        ],
+        "image": "https://www.allrecipes.com/thmb/RJRxRP8TsnwWLBKOGP6aQFW_3bQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/880862-1e15e8bf297c4d2eae113d5c2f454861.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/3eXLJ4aC-K3AjnAEN.mp4",
+            "description": "Put everything in the slow cooker before you head to work, and come home to wonderfully tender, extremely flavorful adobo chicken. Begin by filling your slow cooker with onions, garlic, apple cider vinegar, soy sauce, brown sugar and a bay leaf. Add some fresh black pepper and place chicken thighs on top. Sprinkle paprika over everything, cover and cook low, then when you arrive home, switch the temperature to high, add bok choy and cook until they’re done. Then garnish with green onion and serve with rice. The entire family will go crazy-hungry for this delicious tangy and juicy chicken dinner! ",
+            "duration": "PT35S",
+            "name": "Slow Cooker Adobo Chicken with Bok Choy"
+        },
+        "url": "https://www.allrecipes.com/recipe/223588/slow-cooker-adobo-chicken-with-bok-choy/"
+    },
+    {
+        "name": "Authentic Chicken Adobo",
+        "cook_time": "PT90M",
+        "prep_time": "PT20M",
+        "total_time": "PT350M",
+        "nutrition": {
+            "calories": "635 kcal",
+            "carbohydrateContent": "7 g",
+            "cholesterolContent": "194 mg",
+            "fiberContent": "1 g",
+            "proteinContent": "55 g",
+            "saturatedFatContent": "10 g",
+            "sodiumContent": "1084 mg",
+            "sugarContent": "1 g",
+            "fatContent": "38 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "description": "Adobo is a simple and hearty Filipino dish. In this version, chicken is marinated in vinegar and soy sauce, then slowly cooked with garlic and spices. Serve over steamed white rice.",
+        "cuisine": "filipino",
+        "category": "Dinner",
+        "ingredient": [
+            {
+                "quantity": "2",
+                "unit": "cups",
+                "name": "coconut vinegar"
+            },
+            {
+                "quantity": "½",
+                "unit": "cup",
+                "name": "soy sauce"
+            },
+            {
+                "quantity": "1",
+                "unit": "head",
+                "name": "garlic, peeled and coarsely chopped"
+            },
+            {
+                "quantity": "10",
+                "unit": null,
+                "name": "bay leaves"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "name": "garlic powder"
+            },
+            {
+                "quantity": "1 ½",
+                "unit": "teaspoons",
+                "name": "ground black pepper"
+            },
+            {
+                "quantity": "1 ½",
+                "unit": "teaspoons",
+                "name": "annatto powder"
+            },
+            {
+                "quantity": "5 ½",
+                "unit": "pounds",
+                "name": "cut-up chicken parts"
+            },
+            {
+                "quantity": "3",
+                "unit": "tablespoons",
+                "name": "vegetable oil, divided"
+            },
+            {
+                "quantity": "1",
+                "unit": "head",
+                "name": "garlic, peeled and coarsely chopped"
+            },
+            {
+                "quantity": "1 ½",
+                "unit": "teaspoons",
+                "name": "annatto powder"
+            }
+        ],
+        "instructions": [
+            {
+                "text": "Combine vinegar, soy sauce,1 head garlic, bay leaves, garlic powder, black pepper, and 1 1/2 teaspoons annatto powder in a large bowl. Add chicken, stir to coat with marinade, cover, and refrigerate for at least 4 hours."
+            },
+            {
+                "text": "Remove chicken from the marinade and pat dry. Reserve the marinade."
+            },
+            {
+                "text": "Heat 2 tablespoons vegetable oil in a large skillet over medium-high heat. Cook chicken in the hot oil until browned, about 4 minutes per side. Remove skillet from heat."
+            },
+            {
+                "text": "Heat 1 tablespoon vegetable oil in a small skillet over medium heat. Cook and stir 1 head garlic until browned, about 3 minutes. Add 1 1/2 teaspoons annatto powder; simmer for 3 minutes."
+            },
+            {
+                "text": "Pour annatto mixture over chicken and add reserved marinade. Bring to a simmer, cover, and cook until chicken is tender, about 45 minutes. Uncover and cook until sauce has reduced slightly, about 10 minutes."
+            }
+        ],
+        "image": "https://www.allrecipes.com/thmb/HXD99LlckvFtsR31RYSu-gdjDvM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5003436-0833504326614e16855be208e7c2ef6e.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/0OK6R5fb-K3AjnAEN.mp4",
+            "description": "In this video, you’ll learn how to make tangy Filipino-style, slow-simmered chicken adobo—the saucy, marinated chicken dish seasoned with lots and lots of garlic, annatto powder, vinegar, soy sauce, and bay leaves. The national dish of the Philippines, adobo is mild and tangy, not overly spicy. Let it simmer for a nice long time. And serve it with plenty of steamed rice. ",
+            "duration": "PT4M41S",
+            "name": "Authentic Filipino Chicken Adobo - Welcome World Cuisine"
+        },
+        "url": "https://www.allrecipes.com/recipe/231544/authentic-chicken-adobo/"
+    },
+    {
+        "name": "Slow Cooker Adobo Chicken",
+        "cook_time": "PT480M",
+        "prep_time": "PT30M",
+        "total_time": "PT510M",
+        "nutrition": {
+            "calories": "254 kcal",
+            "carbohydrateContent": "5 g",
+            "cholesterolContent": "62 mg",
+            "fiberContent": "1 g",
+            "proteinContent": "23 g",
+            "saturatedFatContent": "4 g",
+            "sodiumContent": "1121 mg",
+            "sugarContent": "1 g",
+            "fatContent": "15 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "description": "An easy slow cooker recipe with soy sauce, garlic, and onion. Do not be put off by the vinegar -- it tenderizes the chicken and loses its potent flavor in the cooking.",
+        "cuisine": "filipino",
+        "category": "Dinner",
+        "ingredient": [
+            {
+                "quantity": "1",
+                "unit": "small",
+                "name": "sweet onion, sliced"
+            },
+            {
+                "quantity": "8",
+                "unit": "cloves",
+                "name": "garlic, crushed"
+            },
+            {
+                "quantity": "¾",
+                "unit": "cup",
+                "name": "low sodium soy sauce"
+            },
+            {
+                "quantity": "½",
+                "unit": "cup",
+                "name": "vinegar"
+            },
+            {
+                "quantity": "1",
+                "unit": "(3 pound)",
+                "name": "whole chicken, cut into pieces"
+            }
+        ],
+        "instructions": [
+            {
+                "text": "Place chicken in a slow cooker. In a small bowl mix the onion, garlic, soy sauce, and vinegar, and pour over the chicken. Cook on Low for 6 to 8 hours."
+            }
+        ],
+        "image": "https://www.allrecipes.com/thmb/wgWLB8BK5oRcmfzv3gqZtAg5-Dg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1126855-b0f484340a1747a0994fe64751b666d7.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/MtFO3r5v-K3AjnAEN.mp4",
+            "description": "See how to make easy, slow-cooked chicken in a tangy adobo sauce.",
+            "duration": "PT1M25S",
+            "name": "Slow Cooker Adobo Chicken"
+        },
+        "url": "https://www.allrecipes.com/recipe/15650/slow-cooker-adobo-chicken/"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Trà sữa Ranong matcha hòa tan",
+        "price": "189,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/tra-sua-ranong-matcha-hoa-tan-500g-806926/",
+        "category": "do uong cac loai",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/417380-300x300.jpg",
+        "quantity": "500g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Trà sữa Ranong Mix hòa tan",
+        "price": "189,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/tra-sua-ranong-mix-hoa-tan-500g-806961/",
+        "category": "do uong cac loai",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/417378-300x300.jpg",
+        "quantity": "500g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Nước giải khát Coca-Cola Pet",
+        "price": "28,800",
+        "unit": "Lốc",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/nuoc-giai-khat-coca-cola-pet-loc-6-chai-300ml-806448/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "lốc 6 chai",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bia Budweiser Aluminum",
+        "price": "979,000",
+        "unit": "Thùng",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/bia-budweiser-aluminum-thung-24-chai-355ml-805020/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "thùng 24 chai",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bia Budweiser Aluminum",
+        "price": "246,000",
+        "unit": "Lốc",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/bia-budweiser-aluminum-loc-6-chai-255ml-805033/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "lốc 6 chai",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bia Hoegaarden vị đào",
+        "price": "429,000",
+        "unit": "Thùng",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/bia-hoegaarden-vi-dao-thung-24-chai-248ml-805051/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "thùng 24 chai",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bia Hoegaarden vị đào",
+        "price": "109,000",
+        "unit": "Lốc",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/bia-hoegaarden-vi-dao-loc-6-chai-248ml-805089/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "lốc 6 chai",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bia Tsingtao Lager",
+        "price": "449,000",
+        "unit": "Thùng",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/bia-tsingtao-lager-thung-12-chai-640ml-805095/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "thùng 12 chai",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bia Tsingtao Lager",
+        "price": "39,000",
+        "unit": "Chai thủy tinh",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/bia-tsingtao-lager-chai-640ml-805114/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "chai 640ml",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Trà Nestea chanh",
+        "price": "109,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/tra-vi-chanh-nestea-800g-803931/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "800g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Nước tăng lực Thums Up Berry",
+        "price": "59,000",
+        "unit": "Lốc",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/nuoc-tang-luc-thums-up-berry-loc-6-chai-330ml-801614/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "lốc 6 chai",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Nước tăng lực Thums Up Kiwi",
+        "price": "56,000",
+        "unit": "Lốc",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/nuoc-tang-luc-thums-up-kiwi-loc-6-chai-330ml-801635/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "lốc 6 chai",
+        "domain_url": "https://online.mmvietnam.com/"
+    }
+]

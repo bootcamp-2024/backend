@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Bánh xếp Mandu nhân thịt và bắp Bibigo",
+        "price": "39,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/banh-xep-mandu-bibigo-nhan-thit-va-bap-350g-10/",
+        "category": "thuc pham dong lanh",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/318449-300x300.jpg",
+        "quantity": "350g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bánh xếp Agrex TopV xá xíu",
+        "price": "49,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/banh-xep-xa-xiu-topv-agrex-500g/",
+        "category": "thuc pham dong lanh",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/140040-300x300.jpg",
+        "quantity": "500g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bánh xếp Mandu nhân thịt Bibigo",
+        "price": "51,800",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/banh-xep-mandu-nhan-thit-bibigo-350g-tang-mandu-hai-san/",
+        "category": "thuc pham dong lanh",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "350g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Ghẹ Farci Big Meal VL",
+        "price": "96,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/ghe-farci-big-meal-420g-5/",
+        "category": "thuc pham dong lanh",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "420g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Ba chỉ bò Mỹ cắt lát xuất xứ Mỹ",
+        "price": "148,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/ba-roi-bo-my-dong-lanh-500g/",
+        "category": "thuc pham dong lanh",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "500g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Chả giò Vissan tôm cua",
+        "price": "49,900",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/cha-gio-vissan-tom-cua-500g-4/",
+        "category": "thuc pham dong lanh",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "500g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Ghẹ Farci Big Meal AC",
+        "price": "96,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/ghe-farci-big-meal-420gr-7/",
+        "category": "thuc pham dong lanh",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "420g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Cá viên nhân trứng cá",
+        "price": "105,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/ca-vien-nhan-trung-ca-500g-15/",
+        "category": "thuc pham dong lanh",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "500g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Há cảo TopV Agrex tôm",
+        "price": "99,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/ha-cao-tom-agrex-topv-625g-7/",
+        "category": "thuc pham dong lanh",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "625g",
+        "domain_url": "https://online.mmvietnam.com/"
+    }
+]

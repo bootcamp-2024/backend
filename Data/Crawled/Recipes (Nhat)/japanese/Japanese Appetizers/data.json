@@ -1,0 +1,76 @@
+[
+    {
+        "name": "Perfect Sushi Rice",
+        "cook_time": "PT20M",
+        "prep_time": "PT5M",
+        "total_time": "PT25M",
+        "nutrition": {
+            "calories": "112 kcal",
+            "carbohydrateContent": "24 g",
+            "fiberContent": "1 g",
+            "proteinContent": "2 g",
+            "saturatedFatContent": "0 g",
+            "sodiumContent": "158 mg",
+            "sugarContent": "3 g",
+            "fatContent": "1 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "description": "The sushi rice made with this recipe comes out perfectly and can be used for sushi rolls or nigiri.",
+        "cuisine": "japanese",
+        "category": "Appetizer",
+        "ingredient": [
+            {
+                "quantity": "2",
+                "unit": "cups",
+                "name": "uncooked glutinous white rice (sushi rice)"
+            },
+            {
+                "quantity": "3",
+                "unit": "cups",
+                "name": "water"
+            },
+            {
+                "quantity": "½",
+                "unit": "cup",
+                "name": "rice vinegar"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "name": "vegetable oil"
+            },
+            {
+                "quantity": "¼",
+                "unit": "cup",
+                "name": "white sugar"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "salt"
+            }
+        ],
+        "instructions": [
+            {
+                "text": "Gather all ingredients."
+            },
+            {
+                "text": "Rinse the rice in a strainer or colander under cold running water until the water runs clear."
+            },
+            {
+                "text": "Combine rice and water in a saucepan over medium-high heat and bring to a boil. Reduce heat to low, cover, and cook until rice is tender and all water has been absorbed, about 20 minutes. Remove from stove and set aside until cool enough to handle."
+            },
+            {
+                "text": "Meanwhile, combine rice vinegar, oil, sugar, and salt in a small saucepan over medium heat. Cook until the sugar has dissolved. Allow to cool, then stir into the cooked rice. While mixture will appear very wet at first, keep stirring and rice will dry as it cools."
+            }
+        ],
+        "image": "https://www.allrecipes.com/thmb/cy8g8bEj-tR-yuy3rgE3W5Q804Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/99211-Perfect-sushi-rice-mfs-step5-074-4x3-5cd719501e6c411885865caf8a8b3790.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/cu9z10Y9-ma1DlVvV.mp4",
+            "description": "This video shows you how to make perfect sushi rice. Cooked, cooled white rice combines with rice vinegar, vegetable oil, and sugar to create sushi rice with the perfect taste and texture. Try it rolled into sushi rolls—or enjoy it on its own!",
+            "duration": "PT1M55S",
+            "name": "Perfect Sushi Rice"
+        },
+        "url": "https://www.allrecipes.com/recipe/99211/perfect-sushi-rice/"
+    }
+]

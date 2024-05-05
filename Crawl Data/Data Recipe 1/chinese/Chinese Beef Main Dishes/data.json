@@ -1,0 +1,384 @@
+[
+    {
+        "name": "Asian Beef with Snow Peas",
+        "cook_time": "PT10M",
+        "prep_time": "PT5M",
+        "total_time": "PT15M",
+        "nutrition": {
+            "calories": "203 kcal",
+            "carbohydrateContent": "10 g",
+            "cholesterolContent": "39 mg",
+            "fiberContent": "2 g",
+            "proteinContent": "16 g",
+            "saturatedFatContent": "3 g",
+            "sodiumContent": "711 mg",
+            "sugarContent": "6 g",
+            "fatContent": "10 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "description": "Stir-fried beef with snow peas in a light gingery sauce.",
+        "cuisine": "chinese",
+        "category": "Dinner",
+        "ingredient": [
+            {
+                "quantity": "3",
+                "unit": "tablespoons",
+                "name": "soy sauce"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "name": "rice wine"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "name": "brown sugar"
+            },
+            {
+                "quantity": "½",
+                "unit": "teaspoon",
+                "name": "cornstarch"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "name": "vegetable oil"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "name": "minced fresh ginger root"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "name": "minced garlic"
+            },
+            {
+                "quantity": "1",
+                "unit": "pound",
+                "name": "beef round steak, cut into thin strips"
+            },
+            {
+                "quantity": "8",
+                "unit": "ounces",
+                "name": "snow peas"
+            }
+        ],
+        "instructions": [
+            {
+                "text": "In a small bowl, combine the soy sauce, rice wine, brown sugar and cornstarch. Set aside."
+            },
+            {
+                "text": "Heat oil in a wok or skillet over medium high heat. Stir-fry ginger and garlic for 30 seconds. Add the steak and stir-fry for 2 minutes or until evenly browned. Add the snow peas and stir-fry for an additional 3 minutes. Add the soy sauce mixture, bring to a boil, stirring constantly. Lower heat and simmer until the sauce is thick and smooth. Serve immediately."
+            }
+        ],
+        "image": "https://www.allrecipes.com/thmb/vusd2voL3SdbD1AQSg2Un-Z6t7w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4538031-8f8e44c458ad47eab0e7b3af58e4c5f6.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/XYMMJ9I3-K3AjnAEN.mp4",
+            "description": "For a fast weeknight dinner that’s hearty and full of flavor, you’ll love this awesome stir-fry dish. Simply make a sauce of soy sauce, rice wine, brown sugar and cornstarch. Get your wok hot, then stir-fry fresh ginger and garlic. Add a pound of beef round steak that you’ve cut into strips, and when browned, add snow peas and sauce, stirring until thick and rich. Serve over rice and enjoy! ",
+            "duration": "PT47S",
+            "name": "Asian Beef and Snow Peas"
+        },
+        "url": "https://www.allrecipes.com/recipe/15679/asian-beef-with-snow-peas/"
+    },
+    {
+        "name": "Grilled Hoisin Beef",
+        "cook_time": "PT8M",
+        "prep_time": "PT10M",
+        "total_time": "PT138M",
+        "nutrition": {
+            "calories": "404 kcal",
+            "carbohydrateContent": "33 g",
+            "cholesterolContent": "52 mg",
+            "fiberContent": "2 g",
+            "proteinContent": "30 g",
+            "saturatedFatContent": "5 g",
+            "sodiumContent": "2483 mg",
+            "sugarContent": "22 g",
+            "fatContent": "16 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "description": "Skirt steak is marinated in a Chinese-inspired marinade with hoisin sauce and grills up in just minutes for Chef John&#39;s juicy and tender grilled hoisin beef.",
+        "cuisine": "chinese",
+        "category": "Dinner",
+        "ingredient": [
+            {
+                "quantity": "1",
+                "unit": "(1 pound)",
+                "name": "beef skirt steak"
+            },
+            {
+                "quantity": "⅓",
+                "unit": "cup",
+                "name": "hoisin sauce"
+            },
+            {
+                "quantity": "3",
+                "unit": "tablespoons",
+                "name": "Chinese vinegar (or sherry vinegar)"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "name": "soy sauce"
+            },
+            {
+                "quantity": "2",
+                "unit": "teaspoons",
+                "name": "hot sauce"
+            },
+            {
+                "quantity": "2",
+                "unit": "teaspoons",
+                "name": "sesame oil"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "name": "grated fresh ginger root"
+            },
+            {
+                "quantity": "4",
+                "unit": "cloves",
+                "name": "garlic, finely minced"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "name": "packed brown sugar"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "salt"
+            },
+            {
+                "quantity": "½",
+                "unit": "teaspoon",
+                "name": "freshly ground black pepper"
+            },
+            {
+                "quantity": "1",
+                "unit": null,
+                "name": "green onion, light parts only, minced"
+            },
+            {
+                "quantity": null,
+                "unit": null,
+                "name": "Toasted sesame seeds"
+            }
+        ],
+        "instructions": [
+            {
+                "text": "Whisk hoisin sauce, vinegar, soy sauce, hot sauce, sesame oil, grated ginger, garlic, brown sugar, salt, and pepper together in a large mixing bowl."
+            },
+            {
+                "text": "Cut skirt steak crosswise into about 4 or 5 smaller pieces. Transfer steak into marinade and toss until all pieces are evenly coated. Cover with plastic wrap. Refrigerate; marinate at least 2 hours and up to 12 hours."
+            },
+            {
+                "text": "Line a baking pan with paper towels. Transfer pieces of steak to the paper towels and mop off some of the marinade."
+            },
+            {
+                "text": "Preheat an outdoor grill for high heat and lightly oil the grate."
+            },
+            {
+                "text": "Transfer steak pieces to grill. Cook to medium rare or medium, 4 to 5 minutes per side. An instant-read thermometer inserted into the center should read between 130 and 135 degrees F (about 54 degrees C). Thinner pieces might finish earlier. Transfer steak to a warm plate. Let rest for a few minutes."
+            },
+            {
+                "text": "Transfer steak to a warm serving platter and pour any accumulated juices over skirt steak. Sprinkle with sesame seeds and sliced green onions."
+            }
+        ],
+        "image": "https://www.allrecipes.com/thmb/YfWeTfVnkVkbxdhvDYauDkmoKic=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4517196-grilled-hoisin-beef-Chef-John-1x1-1-93e5ea704bed4c468887475367bdf77f.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/9zaChMWF-K3AjnAEN.mp4",
+            "description": "Create a marinade with hoisin sauce, then add vinegar, soy sauce, hot sauce, sesame oil, fresh ginger root and garlic. Add brown sugar, salt and black pepper. Cut your skirt steak into pieces and toss in the marinade to coat. When you’re ready, grill over high heat. Garnish with sesame seeds and green onions. Packed full of flavor and possibly the juiciest beef you’ll ever see or eat, be sure to add this to your summer grilling lineup for happy grilling times!",
+            "duration": "PT7M3S",
+            "name": "Grilled Hoisin Beef"
+        },
+        "url": "https://www.allrecipes.com/recipe/258215/grilled-hoisin-beef/"
+    },
+    {
+        "name": "Black Pepper Beef and Cabbage Stir Fry",
+        "cook_time": "PT15M",
+        "prep_time": "PT15M",
+        "total_time": "PT30M",
+        "nutrition": {
+            "calories": "280 kcal",
+            "carbohydrateContent": "10 g",
+            "cholesterolContent": "48 mg",
+            "fiberContent": "3 g",
+            "proteinContent": "12 g",
+            "saturatedFatContent": "7 g",
+            "sodiumContent": "547 mg",
+            "sugarContent": "4 g",
+            "fatContent": "22 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "description": "A very simple Chinese stir-fry dish which is fabulous in taste. I saw my husband going for two additional servings of it and I had to remind him to leave some for the rest of the family! Serve with hot steamed rice.",
+        "cuisine": "chinese",
+        "category": "Dinner",
+        "ingredient": [
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "name": "vegetable oil"
+            },
+            {
+                "quantity": "4",
+                "unit": "cloves",
+                "name": "garlic, chopped"
+            },
+            {
+                "quantity": "½",
+                "unit": "pound",
+                "name": "ground beef"
+            },
+            {
+                "quantity": "½",
+                "unit": "small head",
+                "name": "cabbage, shredded"
+            },
+            {
+                "quantity": "1",
+                "unit": null,
+                "name": "red bell pepper, cut into strips"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "name": "soy sauce"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "cornstarch"
+            },
+            {
+                "quantity": "½",
+                "unit": "cup",
+                "name": "cold water"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "ground black pepper, or to taste"
+            },
+            {
+                "quantity": "1",
+                "unit": "pinch",
+                "name": "salt, to taste"
+            }
+        ],
+        "instructions": [
+            {
+                "text": "Gather ingredients."
+            },
+            {
+                "text": "Heat a wok or large skillet over medium-high heat, and add oil. Saute garlic for about 5 seconds, then add ground beef. Stir-fry until beef is evenly brown, 5 to 7 minutes; drain excess fat."
+            },
+            {
+                "text": "Stir in cabbage and pepper, and cook until vegetables are tender and beef is fully cooked. Stir in soy sauce."
+            },
+            {
+                "text": "Mix together cornstarch and water, and stir in. Season with pepper; add salt to taste. Cook, stirring, until sauce has thickened."
+            },
+            {
+                "text": "Serve hot and enjoy!"
+            }
+        ],
+        "image": "https://www.allrecipes.com/thmb/YT9UaFlgqV4Gptx57ulT3UBZeME=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/50233-BlackPepperBeefandCabbageStirFry-ddmps-104047-cef2008e035d4cd183cc6ad2c9abbb74.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/lOAjxL8r-ma1DlVvV.mp4",
+            "description": "Cabbage, red bell pepper, and beef combine beautifully alongside soy sauce and garlic for a simple, but flavorful dish. Add salt and pepper to taste and continue cooking until sauce has thickened. Serve over a bed of rice and add other spices if you like it spicier!",
+            "duration": "PT1M15S",
+            "name": "Black Pepper Beef and Cabbage Stir Fry"
+        },
+        "url": "https://www.allrecipes.com/recipe/50233/black-pepper-beef-and-cabbage-stir-fry/"
+    },
+    {
+        "name": "Super-Simple, Super-Spicy Mongolian Beef",
+        "cook_time": "PT10M",
+        "prep_time": "PT15M",
+        "total_time": "PT85M",
+        "nutrition": {
+            "calories": "200 kcal",
+            "carbohydrateContent": "8 g",
+            "cholesterolContent": "25 mg",
+            "fiberContent": "1 g",
+            "proteinContent": "15 g",
+            "saturatedFatContent": "3 g",
+            "sodiumContent": "996 mg",
+            "sugarContent": "4 g",
+            "fatContent": "12 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "description": "This spicy Mongolian beef is marinated with soy, hoisin, sesame, sugar, garlic, and chili, then quickly stir-fried with green onions for a tasty dish.",
+        "cuisine": "chinese",
+        "category": "Dinner",
+        "ingredient": [
+            {
+                "quantity": "¼",
+                "unit": "cup",
+                "name": "soy sauce"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "name": "hoisin sauce"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "name": "sesame oil"
+            },
+            {
+                "quantity": "2",
+                "unit": "teaspoons",
+                "name": "white sugar"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "name": "minced garlic"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "name": "red pepper flakes (Optional)"
+            },
+            {
+                "quantity": "1",
+                "unit": "pound",
+                "name": "beef flank steak, thinly sliced"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "name": "peanut oil"
+            },
+            {
+                "quantity": "2",
+                "unit": "large",
+                "name": "green onions, thinly sliced"
+            }
+        ],
+        "instructions": [
+            {
+                "text": "Whisk together soy sauce, hoisin sauce, sesame oil, sugar, garlic, and red pepper flakes in a large bowl. Toss beef with marinade; cover the bowl and refrigerate for 1 hour to overnight."
+            },
+            {
+                "text": "Heat peanut oil in a wok or large, nonstick skillet over high heat. Cook and stir green onions in hot oil for 5 to 10 seconds. Remove beef from marinade and add to green onions in the wok; discard marinade. Cook and stir until beef is no longer pink and begins to brown, about 5 minutes."
+            }
+        ],
+        "image": "https://www.allrecipes.com/thmb/OPRTlH-cDntVlWw-4ThIZ_vkmTo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/385999-9ee53db2a875481bbf4257a0ff0c2a98.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/nwZ5TzS2-K3AjnAEN.mp4",
+            "description": "As its name suggests, this easy recipe for Mongolian beef is super simple and super spicy. It makes for the perfect make-ahead dinner and only takes minutes to cook. Serve with rice and veggies on the side for a delicious weeknight meal.",
+            "duration": "PT1M20S",
+            "name": "How to Make Super-Simple, Super-Spicy Mongolian Beef"
+        },
+        "url": "https://www.allrecipes.com/recipe/148831/super-simple-super-spicy-mongolian-beef/"
+    }
+]

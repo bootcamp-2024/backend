@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Nước khoáng Evian",
+        "price": "729,000",
+        "unit": "Thùng",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/nuoc-khoang-evian-thung-24-chai-x-500ml/",
+        "category": "do uong cac loai",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/230185-300x300.jpg",
+        "quantity": "thùng 24 chai",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Cà phê hạt Highlands Espresso",
+        "price": "389,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/ca-phe-hat-roast-highlands-banquet-1kg/",
+        "category": "do uong cac loai",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/228311-300x300.jpg",
+        "quantity": "1kg",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Sinh tố việt quất nguyên chất Golden Farm",
+        "price": "109,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/mut-viet-quat-nguyen-chat-golden-farm-1l-13/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "1 lít",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bột kem Nestle Coffee Mate",
+        "price": "84,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/bot-kem-nestle-coffee-mate-450g/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "450g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Trà Cozy hương sen",
+        "price": "27,000",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/tra-cozy-huong-sen-hop-25-goi-x-2g/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "hộp 25 gói",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Nước khoáng I-on Life",
+        "price": "89,000",
+        "unit": "Thùng",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/nuoc-khoang-i-on-life-thung-24-chai-x-330ml/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "thùng 24 chai",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Cà phê cappuccino Legend Trung Nguyên vị Hazelnut",
+        "price": "62,000",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/ca-phe-cappuccino-legend-trung-nguyen-vi-hazelnut-hop-12-goi-x-18g/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "hộp 12 gói",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bia Sapporo Premium",
+        "price": "369,000",
+        "unit": "Lon",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/bia-sapporo-premium-loc-6-lon-x-650ml/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "lốc 6 lon",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Nước tăng lực Sting dâu",
+        "price": "237,000",
+        "unit": "Thùng",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/nuoc-tang-luc-sting-huong-dau-tay-do-thung-24-chai-x-330ml/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "thùng 24 chai",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Trà Ô long Tâm Châu 250g",
+        "price": "199,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/tra-oolong-tam-chau-250g/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "thùng 24 chai",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Cà phê Gourmet Blend Trung Nguyên",
+        "price": "112,000",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/ca-phe-gourmet-blend-trung-nguyen-500g/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "500g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Nước ép nho tím Patritti có gas",
+        "price": "105,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/nuoc-ep-nho-tim-patritti-co-gas-750ml/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "750ml",
+        "domain_url": "https://online.mmvietnam.com/"
+    }
+]

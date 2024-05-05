@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Xốt salad Dijon Pháp Kuehne",
+        "price": "86,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/xot-salad-dijon-phap-kuehne-chai-250ml-584254/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/397768-300x300.jpg",
+        "quantity": "250ml",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Nước chấm Horeca siêu tiết kiệm",
+        "price": "38,300",
+        "unit": "Bình",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/nuoc-cham-horeca-sieu-tiet-kiem-binh-4-5-lit-583784/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/390802-300x300.jpg",
+        "quantity": "bình 4.5 lít",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Sốt Barilla Pesto Genovese",
+        "price": "157,000",
+        "unit": "Hũ",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/sot-barilla-pesto-genovese-hu-190g-583130/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "hũ 190g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Xốt Pesto lá húng quế cổ điển Filippo Berio",
+        "price": "79,000",
+        "unit": "Hũ",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/xot-pesto-la-hung-que-co-dien-filippo-berio-hu-190g-583461/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "190g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Lá hương thảo McCormick",
+        "price": "119,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/la-huong-thao-mccormick-goi-18g-582864/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "gói 18g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Xốt bò kho Cholimex",
+        "price": "10,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/xot-bo-kho-cholimex-chai-90g-582066/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "90g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Xốt bò kho Cholimex",
+        "price": "21,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/xot-bo-kho-cholimex-goi-180g-582087/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "180g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Xốt bún bò Cholimex",
+        "price": "10,600",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/xot-bun-bo-cholimex-goi-90g-582108/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "90g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Xốt bún bò Cholimex",
+        "price": "21,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/xot-bun-bo-cholimex-goi-180g-582127/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "180g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Muối tiêu chanh Cholimex",
+        "price": "8,900",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/muoi-tieu-chanh-cholimex-chai-90g-582203/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "chai 90g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Xốt mè rang Kewpie",
+        "price": "10,200",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/xot-me-rang-kewpie-chai-50ml-582261/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "50ml",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Sốt chấm Carbo vị gà cay",
+        "price": "79,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/sot-cham-carbo-vi-ga-cay-chai-200g-581785/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "chai 200g",
+        "domain_url": "https://online.mmvietnam.com/"
+    }
+]

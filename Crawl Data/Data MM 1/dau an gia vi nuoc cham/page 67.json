@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Bột ngọt Miwon (M)",
+        "price": "119,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/bot-ngot-mi-chinh-miwon-goi-2kg-8/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/112553-300x300.jpg",
+        "quantity": "2kg",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Sốt tương ngọt Lee Kum Kee",
+        "price": "245,000",
+        "unit": "Lon",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/tuong-ngot-lkk-2270g-8/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/81485-300x300.jpg",
+        "quantity": "2.27kg",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Dầu đậu nành Tường An",
+        "price": "101,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/dau-dau-nanh-tuong-an-100-nguyen-chat-2l-3/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "2 lít",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Dầu đậu nành Simply",
+        "price": "306,000",
+        "unit": "Bình",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/dau-dau-nanh-simply-nguyen-chat-5l-2/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "5 lít",
+        "domain_url": "https://online.mmvietnam.com/"
+    }
+]

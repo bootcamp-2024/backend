@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Thai Steamed Mussels",
+        "cook_time": "PT10M",
+        "prep_time": "PT20M",
+        "total_time": "PT30M",
+        "nutrition": {
+            "calories": "485 kcal",
+            "carbohydrateContent": "21 g",
+            "cholesterolContent": "106 mg",
+            "fiberContent": "1 g",
+            "proteinContent": "48 g",
+            "saturatedFatContent": "14 g",
+            "sodiumContent": "1353 mg",
+            "sugarContent": "3 g",
+            "fatContent": "24 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "description": "These Thai mussels are quickly cooked in a flavorful broth of coconut milk, lime juice, white wine, red curry paste, garlic, fish sauce, and sugar.",
+        "cuisine": "thai",
+        "category": "Dinner",
+        "ingredient": [
+            {
+                "quantity": "1",
+                "unit": "(13.5 ounce) can",
+                "name": "unsweetened coconut milk"
+            },
+            {
+                "quantity": "⅓",
+                "unit": "cup",
+                "name": "fresh lime juice"
+            },
+            {
+                "quantity": "⅓",
+                "unit": "cup",
+                "name": "dry white wine"
+            },
+            {
+                "quantity": "1 ½",
+                "unit": "tablespoons",
+                "name": "Thai red curry paste"
+            },
+            {
+                "quantity": "1 ½",
+                "unit": "tablespoons",
+                "name": "minced garlic"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "name": "Asian fish sauce"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "name": "white sugar"
+            },
+            {
+                "quantity": "5",
+                "unit": "pounds",
+                "name": "fresh mussels, scrubbed and debearded"
+            },
+            {
+                "quantity": "2",
+                "unit": "cups",
+                "name": "chopped fresh cilantro"
+            }
+        ],
+        "instructions": [
+            {
+                "text": "Combine coconut milk, lime juice, white wine, curry paste, garlic, fish sauce, and sugar in a large pot. Stir to dissolve sugar and curry paste; bring to a boil. Let mixture boil for 2 minutes, then add mussels. Cover and cook, stirring occasionally, until mussels are opened, 5 to 8 minutes."
+            },
+            {
+                "text": "Remove the pot from heat and discard any unopened mussels. Pour mussels and liquid into a serving dish and toss with cilantro."
+            }
+        ],
+        "image": "https://www.allrecipes.com/thmb/jkZc_5GIaTI2ZcCH2aKwUzwHkZ4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1082043-ed12471ac25d4aeb870efd103fe0f0a6.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/UOZgFyFC-ma1DlVvV.mp4",
+            "description": "AR1316",
+            "duration": "PT2M12S",
+            "name": "Thai Steamed Mussels"
+        },
+        "url": "https://www.allrecipes.com/recipe/98442/thai-steamed-mussels/"
+    }
+]

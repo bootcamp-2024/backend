@@ -1,0 +1,112 @@
+[
+    {
+        "name": "Thịt càng ghẹ MM loại nhỏ",
+        "price": "265,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/thit-cang-ghe-mm-loai-nho-425g/",
+        "category": "thuc pham tuoi song",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/258262-300x300.jpg",
+        "quantity": "340g/500g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bắp cá lóc bò đông lạnh We Are Fresh xuất xứ Úc",
+        "price": "249,000",
+        "unit": "Ký",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/bap-ca-loc-bo-dong-lanh-xuat-xu-uc/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "340g/500g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Thịt trâu cắt khúc 11 We Are Fresh đông lạnh xuất xứ Ấn Độ",
+        "price": "109,000",
+        "unit": "Ký",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/thit-trau-cat-khuc-11-dong-lanh-xuat-xu-an-do/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "340g/500g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Nạc đùi cừu Mutton đông lạnh We Are Fresh xuất xứ Úc",
+        "price": "269,000",
+        "unit": "Ký",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/nac-dui-cuu-dong-lanh-xuat-xu-uc/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "340g/500g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Cá hồi nhập khẩu xông khói Amigo",
+        "price": "104,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/ca-hoi-xong-khoi-amigo-100g/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "100g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Sườn bò cắt lát xuất xứ Mỹ",
+        "price": "285,900",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/suon-bo-my-co-xuong-dong-lanh-500g/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "500g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Nạc đùi cừu đông lạnh We Are Fresh xuất xứ Úc",
+        "price": "349,000",
+        "unit": "Ký",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/nac-dui-cuu-dong-lanh-xuat-xu-uc-6/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "500g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Đầu thăn bò tươi xuất xứ Úc",
+        "price": "549,000",
+        "unit": "Ký",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/dau-than-bo-tuoi-xuat-xu-uc/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "500g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Cá tra phi lê Well Trim We Are Fresh",
+        "price": "112,000",
+        "unit": "Ký",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/ca-tra-phi-le-well-trim/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "170g trở lên",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Phi lê đà điểu",
+        "price": "299,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/phi-le-da-dieu-1kg/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "1kg",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Nạc đùi heo đông lạnh nhập khẩu",
+        "price": "89,000",
+        "unit": "Ký",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/nac-dui-heo-dong-lanh-19/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "1kg",
+        "domain_url": "https://online.mmvietnam.com/"
+    }
+]

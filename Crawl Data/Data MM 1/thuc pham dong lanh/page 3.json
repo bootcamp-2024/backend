@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Lẩu cay Tứ Xuyên Chenlin",
+        "price": "223,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/lau-cay-tu-xuyen-chenlin-1kg-866571/",
+        "category": "thuc pham dong lanh",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/403856-300x300.jpg",
+        "quantity": "1kg",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Cốt lẩu cà chua Hadilao",
+        "price": "69,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/cot-lau-ca-chua-hadilao-200g-866198/",
+        "category": "thuc pham dong lanh",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/412775-300x300.jpg",
+        "quantity": "200g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Cốt lẩu cay Mala Hadilao",
+        "price": "69,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/cot-lau-cay-mala-hadilao-220g-866209/",
+        "category": "thuc pham dong lanh",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "220g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Cốt lẩu nấm Hadilao",
+        "price": "56,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/cot-lau-nam-hadilao-110g-866244/",
+        "category": "thuc pham dong lanh",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "110g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Cốt lẩu Tomyum Hadilao",
+        "price": "56,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/cot-lau-tomyum-hadilao-210g-866268/",
+        "category": "thuc pham dong lanh",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "210g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Tôm viên ngon LC",
+        "price": "62,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/mua-2-tinh-tien-1-tom-vien-ngon-lc-500g-862066/",
+        "category": "thuc pham dong lanh",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "500g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Viên hải sản rau củ LC",
+        "price": "54,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/vien-hai-san-rau-cu-lc-500g-858141/",
+        "category": "thuc pham dong lanh",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "500g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Kem Vinamilk khoai môn",
+        "price": "47,600",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/kem-khoai-mon-vinamilk-450ml-851440/",
+        "category": "thuc pham dong lanh",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "450ml",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Kem Vinamilk dừa",
+        "price": "46,900",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/kem-dua-vinamilk-450ml-851442/",
+        "category": "thuc pham dong lanh",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "450ml",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Kem sầu riêng Vinamilk",
+        "price": "47,600",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/kem-sau-rieng-vinamilk-450ml-851444/",
+        "category": "thuc pham dong lanh",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "450ml",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Kem Bulla Creamy Classic vanilla",
+        "price": "99,000",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/kem-bulla-vanilla-2-lit-843541/",
+        "category": "thuc pham dong lanh",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "2 lít",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Kem Wall’s sữa chua dâu",
+        "price": "112,000",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/kem-walls-sua-chua-dau750ml-841970/",
+        "category": "thuc pham dong lanh",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "750ml",
+        "domain_url": "https://online.mmvietnam.com/"
+    }
+]

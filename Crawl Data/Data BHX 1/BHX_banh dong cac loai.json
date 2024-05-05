@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Bánh giò nhân thịt Thọ Phát 150g",
+        "category": "banh dong cac loai",
+        "url": "https://www.bachhoaxanh.com/banh-dong-cac-loai/banh-gio-nhan-thit-tho-phat-goi-150g",
+        "image": "https://cdn.tgdd.vn/Products/Images/10778/237553/bhx/banh-gio-nhan-thit-tho-phat-150g-202301311618114006_300x300.jpg",
+        "price": "11600",
+        "weight": "/150g",
+        "price_per_kg": "",
+        "domain_url": "https://www.bachhoaxanh.com"
+    },
+    {
+        "name": "Bánh bao nhân thịt heo trứng cút Thọ Phát 250g",
+        "category": "banh dong cac loai",
+        "url": "https://www.bachhoaxanh.com/banh-dong-cac-loai/banh-bao-nhan-thit-heo-trung-cut-tho-phat-goi-250g",
+        "image": "https://cdn.tgdd.vn/Products/Images/10778/200113/bhx/banh-bao-nhan-thit-heo-trung-cut-tho-phat-250g-202209141510168999_300x300.png",
+        "price": "21500",
+        "weight": "/250g",
+        "price_per_kg": "",
+        "domain_url": "https://www.bachhoaxanh.com"
+    },
+    {
+        "name": "Bánh bao cadé Thọ Phát 240g",
+        "category": "banh dong cac loai",
+        "url": "https://www.bachhoaxanh.com/banh-dong-cac-loai/banh-bao-nhan-cade-tho-phat-goi-240g",
+        "image": "https://cdn.tgdd.vn/Products/Images/10778/200114/bhx/banh-bao-cade-tho-phat-240g-202209151558545567_300x300.png",
+        "price": "19000",
+        "weight": "/240g",
+        "price_per_kg": "",
+        "domain_url": "https://www.bachhoaxanh.com"
+    },
+    {
+        "name": "Bánh mì paket Bảo Ngọc 108g",
+        "category": "banh dong cac loai",
+        "url": "https://www.bachhoaxanh.com/banh-dong-cac-loai/banh-mi-paket-bao-ngoc-goi-108g-3-cai",
+        "image": "https://cdn.tgdd.vn/Products/Images/10778/211560/bhx/banh-mi-paket-bao-ngoc-goi-108g-202209160938469407_300x300.jpg",
+        "price": "10000",
+        "weight": "/108g",
+        "price_per_kg": "",
+        "domain_url": "https://www.bachhoaxanh.com"
+    },
+    {
+        "name": "Bánh bao nhân khoai môn C.P 270g",
+        "category": "banh dong cac loai",
+        "url": "https://www.bachhoaxanh.com/banh-dong-cac-loai/banh-bao-nhan-khoai-mon-cp-goi-270g",
+        "image": "https://cdn.tgdd.vn/Products/Images/10778/222431/bhx/banh-bao-nhan-khoai-mon-cp-270g-202212261125007305_300x300.jpg",
+        "price": "20000",
+        "weight": "/270g",
+        "price_per_kg": "",
+        "domain_url": "https://www.bachhoaxanh.com"
+    },
+    {
+        "name": "Bánh bao nhân thịt heo trứng cút C.P 320g",
+        "category": "banh dong cac loai",
+        "url": "https://www.bachhoaxanh.com/banh-dong-cac-loai/banh-bao-nhan-thit-heo-trung-cut-cp-goi-320g",
+        "image": "https://cdn.tgdd.vn/Products/Images/10778/228621/bhx/banh-bao-nhan-thit-heo-trung-cut-cp-320g-202209141549074998_300x300.png",
+        "price": "35000",
+        "weight": "/320g",
+        "price_per_kg": "",
+        "domain_url": "https://www.bachhoaxanh.com"
+    },
+    {
+        "name": "Bánh bao nhân thịt heo trứng muối Thọ Phát 400g",
+        "category": "banh dong cac loai",
+        "url": "https://www.bachhoaxanh.com/banh-dong-cac-loai/banh-bao-nhan-thit-heo-trung-muoi-tho-phat-goi-400g",
+        "image": "https://cdn.tgdd.vn/Products/Images/10778/200108/bhx/banh-bao-nhan-thit-heo-trung-muoi-tho-phat-400g-202209141510113342_300x300.png",
+        "price": "42500",
+        "weight": "/400g",
+        "price_per_kg": "",
+        "domain_url": "https://www.bachhoaxanh.com"
+    },
+    {
+        "name": "Bánh bao nhân thịt trứng cút C.P 125g",
+        "category": "banh dong cac loai",
+        "url": "https://www.bachhoaxanh.com/banh-dong-cac-loai/banh-bao-nhan-thit-trung-cut-cp-goi-125g",
+        "image": "https://cdn.tgdd.vn/Products/Images/10778/286794/bhx/banh-bao-nhan-thit-trung-cut-cp-goi-125g-202209141644424976_300x300.png",
+        "price": "15500",
+        "weight": "/125g",
+        "price_per_kg": "",
+        "domain_url": "https://www.bachhoaxanh.com"
+    },
+    {
+        "name": "Bánh bao nhân trứng sữa C.P 270g",
+        "category": "banh dong cac loai",
+        "url": "https://www.bachhoaxanh.com/banh-dong-cac-loai/banh-bao-nhan-trung-sua-cp-goi-270g",
+        "image": "https://cdn.tgdd.vn/Products/Images/10778/222433/bhx/banh-bao-nhan-trung-sua-cp-270g-202212261121008134_300x300.jpg",
+        "price": "20000",
+        "weight": "/270g",
+        "price_per_kg": "",
+        "domain_url": "https://www.bachhoaxanh.com"
+    },
+    {
+        "name": "Bánh bao nhân thịt heo BBQ C.P 320g",
+        "category": "banh dong cac loai",
+        "url": "https://www.bachhoaxanh.com/banh-dong-cac-loai/banh-bao-nhan-thit-heo-bbq-cp-goi-320g",
+        "image": "https://cdn.tgdd.vn/Products/Images/10778/228622/bhx/banh-bao-nhan-thit-heo-bbq-cp-320g-202212161018011841_300x300.jpg",
+        "price": "35000",
+        "weight": "/320g",
+        "price_per_kg": "",
+        "domain_url": "https://www.bachhoaxanh.com"
+    }
+]

@@ -1,0 +1,146 @@
+[
+    {
+        "name": "Egg Roll in a Bowl",
+        "cook_time": "PT20M",
+        "prep_time": "PT20M",
+        "total_time": "PT40M",
+        "nutrition": {
+            "calories": "463 kcal",
+            "carbohydrateContent": "38 g",
+            "cholesterolContent": "76 mg",
+            "fiberContent": "7 g",
+            "proteinContent": "27 g",
+            "saturatedFatContent": "7 g",
+            "sodiumContent": "1202 mg",
+            "sugarContent": "13 g",
+            "fatContent": "22 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "description": "Crispy wonton strips top Chef John&#39;s version of an egg roll in a bowl for a crunchy makeover of the takeout favorite.",
+        "cuisine": "chinese",
+        "category": "Dinner",
+        "ingredient": [
+            {
+                "quantity": "6",
+                "unit": " (3.5 inch square)",
+                "name": "wonton wrappers"
+            },
+            {
+                "quantity": "2",
+                "unit": "teaspoons",
+                "name": "vegetable oil"
+            },
+            {
+                "quantity": "3 ½",
+                "unit": "cups",
+                "name": "shredded green cabbage"
+            },
+            {
+                "quantity": "1",
+                "unit": "cup",
+                "name": "julienned carrot"
+            },
+            {
+                "quantity": "¼",
+                "unit": "cup",
+                "name": "julienned red bell pepper"
+            },
+            {
+                "quantity": "⅓",
+                "unit": "cup",
+                "name": "thinly sliced green onions"
+            },
+            {
+                "quantity": "2",
+                "unit": "cloves",
+                "name": "garlic, finely minced"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "name": "soy sauce"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "name": "rice vinegar"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "name": "sake"
+            },
+            {
+                "quantity": "¼",
+                "unit": "teaspoon",
+                "name": "sesame oil"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "white sugar"
+            },
+            {
+                "quantity": "½",
+                "unit": "teaspoon",
+                "name": "freshly grated ginger"
+            },
+            {
+                "quantity": "1",
+                "unit": "pinch",
+                "name": "cayenne pepper"
+            },
+            {
+                "quantity": "¼",
+                "unit": "teaspoon",
+                "name": "white pepper"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "ketchup"
+            },
+            {
+                "quantity": "½",
+                "unit": "teaspoon",
+                "name": "cornstarch"
+            },
+            {
+                "quantity": "½",
+                "unit": "pound",
+                "name": "ground pork"
+            }
+        ],
+        "instructions": [
+            {
+                "text": "Preheat the oven to 350 degrees F (175 degrees C)."
+            },
+            {
+                "text": "Cut wonton wrappers into 1/4-inch strips. Transfer cut wonton wrappers to a baking pan and toss with oil. Spread out evenly."
+            },
+            {
+                "text": "Bake in the preheated oven until browned, about 12 minutes. Let cool and reserve."
+            },
+            {
+                "text": "Combine cabbage, carrot, bell pepper, green onions, and garlic for the bowl. Set aside."
+            },
+            {
+                "text": "Mix soy sauce, rice vinegar, sake, sesame oil, sugar, ginger, cayenne, pepper, ketchup, and cornstarch together for sauce in a bowl and reserve."
+            },
+            {
+                "text": "Add pork to a large skillet set over medium-high heat. Brown the meat well, while breaking up into small crumbles as it cooks, 5 to 7 minutes. Add the vegetable mixture and toss with the meat to combine. Cook, stirring, just until the veggies start to soften, about 2 minutes."
+            },
+            {
+                "text": "Stir in the sauce and toss everything to combine. Cook and stir until the sauce has coated everything evenly, and the vegetables are cooked to desired doneness, 1 to 2 minutes more. Serve in a bowl with crispy wonton strips on top."
+            }
+        ],
+        "image": "https://www.allrecipes.com/thmb/1xRh0hfouvVN4dw9RrxrI6OLu8g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-496-2c552578838a4d39b0f30541ca05b7c1.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/Df7fTKYS-K3AjnAEN.mp4",
+            "description": "In this video, Chef John shows you how to make egg rolls in a bowl.",
+            "duration": "PT8M36S",
+            "name": "Egg Roll in a Bowl"
+        },
+        "url": "https://www.allrecipes.com/recipe/284116/egg-roll-in-a-bowl/"
+    }
+]

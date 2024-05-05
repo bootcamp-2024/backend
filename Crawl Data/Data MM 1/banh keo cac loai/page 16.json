@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Bánh C’est Bon sợi thịt gà sốt kem phô mai",
+        "price": "31,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/banh-cest-bon-sot-kem-pho-mai-162-4g-732498/",
+        "category": "banh keo cac loai",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/409280-300x300.jpg",
+        "quantity": "162.4g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Ngũ cốc trái cây MM",
+        "price": "130,000",
+        "unit": "Hũ",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/ngu-coc-trai-cay-mm-hu-650g-730340/",
+        "category": "banh keo cac loai",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/412500-300x300.jpg",
+        "quantity": "650g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Socola Lindt Excellence 90% cacao",
+        "price": "149,000",
+        "unit": "Thanh",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/socola-dang-90-cacao-lindt-excellence-100g-728582/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "100g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Kẹo cao su Happydent White",
+        "price": "86,000",
+        "unit": "Lốc",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/keo-cao-su-happydent-white-loc-6-hu-56g-hu-728251/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "lốc 6 hũ",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Cốm màu Đức Mỹ",
+        "price": "87,000",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/com-mau-duc-my-500g-712692/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "500g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bánh Karo trứng chà bông",
+        "price": "53,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/banh-karo-trung-cha-bong-tui-10-goi-26g-706584/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "gói 10 cái",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Hạt chia Best Choice nguyên chất",
+        "price": "86,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/hat-chia-best-choice-nguyen-chat-goi-300g-699246/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "gói 300g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Socola xốp Kitkat",
+        "price": "316,000",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/so-co-la-xop-kitkat-hop-48-thanh-17g-698736/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "hộp 48 thanh",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bánh đậu xanh RVHG thượng hạng",
+        "price": "50,000",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/banh-dau-xanh-thuong-hang-rong-vang-hoang-gia-hop-170g-697647/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "hộp 170g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bánh quy Royal mochi trà xanh",
+        "price": "66,000",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/banh-quy-royal-mochi-tra-xanh-hop-8-cai-20g-cai-697001/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "hộp 8 cái",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bánh xốp kem hạnh nhân",
+        "price": "35,000",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/banh-xop-kem-hanh-nhan-hop-2-cai-95g-cai-696604/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "hộp 2 cái",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Kẹo nhai Mentos bạc hà",
+        "price": "17,600",
+        "unit": "Lốc",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/keo-nhai-mentos-bac-ha-loc-3-thanh-37-8g-thanh-695517/",
+        "category": "banh keo cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "lốc 3 thỏi",
+        "domain_url": "https://online.mmvietnam.com/"
+    }
+]

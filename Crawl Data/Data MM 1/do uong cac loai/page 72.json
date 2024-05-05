@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Nước ép Malee cam hỗn hợp có tép 100%",
+        "price": "62,000",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/nuoc-ep-malee-berry-cam-hon-hop-100-1l-433784/",
+        "category": "do uong cac loai",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/387311-300x300.jpg",
+        "quantity": "1 lít",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Nước tăng lực Sting dâu",
+        "price": "10,500",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/nuoc-tang-luc-sting-huong-dau-tay-do-330ml-432297/",
+        "category": "do uong cac loai",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/206667-300x300.jpg",
+        "quantity": "330ml",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Nước khoáng thiên nhiên Lavie",
+        "price": "4,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/nuoc-khoang-thien-nhien-lavie-350ml-431830/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "350ml",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Trà xanh C2 chanh",
+        "price": "8,600",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/tra-xanh-c2-huong-chanh-500ml-432109/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "455ml",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Trà xanh C2 BHA chanh tuyết bạc hà",
+        "price": "185,000",
+        "unit": "Thùng",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/tra-xanh-c2-chanh-tuyet-bac-ha-455ml-x-24-chai-432130/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "thùng 24 chai",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bia Heineken Silver",
+        "price": "337,000",
+        "unit": "Thùng",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/bia-heineken-silver-thung-24-lon-x-250ml-429890/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "thùng 24 lon",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Trà bí đao Wonderfarm",
+        "price": "38,000",
+        "unit": "Lốc",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/tra-bi-dao-wonderfarm-280ml-x-6-lon-427617/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "lốc 6 chai",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Cà phê sữa đá NesCafe",
+        "price": "106,000",
+        "unit": "Túi",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/ca-phe-sua-da-nescafe-20gr-x-25-goi-426499/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "25 gói",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Nước ngọt Coca Cola",
+        "price": "6,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/nuoc-ngot-coca-cola-390ml-425718/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "390ml",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Sữa Milo UHT ít đường",
+        "price": "332,000",
+        "unit": "Thùng",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/sua-nestle-milo-it-duong-thung-48-hop-x-180ml-425760/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "thùng 48 hộp",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Nước ngọt Coca Cola giảm đường",
+        "price": "18,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/nuoc-ngot-coca-cola-giam-duong-1-5l-425344/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "1.5 lít",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Nước ngọt Coca Cola Zero",
+        "price": "17,700",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/nuoc-ngot-coca-cola-zero-1-5l-425386/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "1.5 lít",
+        "domain_url": "https://online.mmvietnam.com/"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Hạt nêm thịt heo Vedan",
+        "price": "76,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/hat-nem-heo-vedan-1kg/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/73160-300x300.jpg",
+        "quantity": "1kg",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Nước tương đậu nành Maggi thanh dịu",
+        "price": "25,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/nuoc-tuong-dau-nanh-maggi-thanh-diu-700ml/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/29461-300x300.jpg",
+        "quantity": "700ml",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Giấm tinh luyện Minh Châu 4%",
+        "price": "30,000",
+        "unit": "Bình",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/giam-tinh-luyen-minh-chau-4-2l/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "2 lít",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Sa tế tôm Thuận Phát",
+        "price": "27,900",
+        "unit": "Hũ",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/sa-te-tom-ngon-thuan-phat-250g/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "250g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Sa tế cay Thuận Phát",
+        "price": "21,600",
+        "unit": "Hũ",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/sa-te-cay-thuan-phat-250g/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "250g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Ớt chưng dầu Laoganma cay giòn",
+        "price": "41,800",
+        "unit": "Hũ",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/ot-chung-dau-laoganma-cay-gion-210g/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "210g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Ớt chưng dầu Laoganma vị tàu xì",
+        "price": "48,600",
+        "unit": "Hũ",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/ot-chung-dau-laoganma-vi-tau-xi-280g/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "280g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Ớt chưng dầu Laoganma vị truyền thống",
+        "price": "48,000",
+        "unit": "Hũ",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/ot-chung-dau-laoganma-vi-truyen-thong-275g/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "275g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Ớt sa tế Lee Kum Kee",
+        "price": "59,000",
+        "unit": "Hũ",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/ot-sa-te-lee-kum-kee-205g/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "205g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Quế cây Vipep",
+        "price": "89,000",
+        "unit": "Hũ",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/que-cay-vipep-200g/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "200g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Tiêu đen xay Vipep",
+        "price": "18,000",
+        "unit": "Hũ",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/tieu-den-xay-vipep-50g-13/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "50g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Mù tạt Old Style Maille",
+        "price": "86,000",
+        "unit": "Hũ",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/mu-tat-hat-old-style-maille-210g-19/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "210g",
+        "domain_url": "https://online.mmvietnam.com/"
+    }
+]

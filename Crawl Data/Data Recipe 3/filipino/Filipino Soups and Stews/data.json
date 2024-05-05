@@ -1,0 +1,105 @@
+[
+    {
+        "name": "Chicken Tinola",
+        "cook_time": "PT20M",
+        "prep_time": "PT30M",
+        "total_time": "PT50M",
+        "nutrition": {
+            "calories": "532 kcal",
+            "carbohydrateContent": "14 g",
+            "cholesterolContent": "208 mg",
+            "fiberContent": "4 g",
+            "proteinContent": "66 g",
+            "saturatedFatContent": "6 g",
+            "sodiumContent": "1551 mg",
+            "sugarContent": "6 g",
+            "fatContent": "23 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "description": "Tinola, an easy Filipino soup made with chicken, chayote squash, bok choy, and spinach, features a savory broth flavored with ginger and fish sauce.",
+        "cuisine": "filipino",
+        "category": "Dinner",
+        "ingredient": [
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "name": "cooking oil"
+            },
+            {
+                "quantity": "1",
+                "unit": "medium",
+                "name": "onion, chopped"
+            },
+            {
+                "quantity": "2",
+                "unit": "cloves",
+                "name": "garlic, minced"
+            },
+            {
+                "quantity": "1",
+                "unit": "(1 1/2 inch) piece",
+                "name": "fresh ginger, peeled and thinly sliced"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "name": "fish sauce"
+            },
+            {
+                "quantity": "3",
+                "unit": "pounds",
+                "name": "chicken legs and thighs, rinsed and patted dry"
+            },
+            {
+                "quantity": "2",
+                "unit": "(14 ounce) cans",
+                "name": "chicken broth"
+            },
+            {
+                "quantity": "1",
+                "unit": null,
+                "name": "chayote squash, peeled and cut into bite-sized pieces"
+            },
+            {
+                "quantity": null,
+                "unit": null,
+                "name": "salt and ground black pepper to taste"
+            },
+            {
+                "quantity": "1",
+                "unit": "head",
+                "name": "bok choy, chopped"
+            },
+            {
+                "quantity": "1",
+                "unit": "(8 ounce) package",
+                "name": "fresh spinach, chopped"
+            }
+        ],
+        "instructions": [
+            {
+                "text": "Gather all ingredients."
+            },
+            {
+                "text": "Heat oil in a large pot over medium heat. Add onion and garlic; cook and stir until fragrant, about 2 minutes."
+            },
+            {
+                "text": "Add ginger and fish sauce; cook and stir for 1 to 2 minutes. Stir in chicken and cook for 5 minutes."
+            },
+            {
+                "text": "Pour in chicken broth and cook for 5 minutes. Add squash and simmer until chicken is no longer pink in the center, about 10 minutes. Season with salt and pepper."
+            },
+            {
+                "text": "Add bok choy and spinach; cook until spinach is just wilted, 1 to 2 minutes. Serve hot."
+            }
+        ],
+        "image": "https://www.allrecipes.com/thmb/IW4iKHFxrQFmgfDX8CSzUHKIf5w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/212929-chicken-tinola-ddmfs-step-5-26477ffd8f6944fbb37b7ed840ebd7c7.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/59LM0JuI-K3AjnAEN.mp4",
+            "description": "Tinola is an easy, one-pot soup from the Philippines. Chicken, chayote squash (or papaya!), bok choy, and spinach are simmered with fresh ginger in a savory broth that's often served with white rice. Learn how to make a wonderful version in this video!",
+            "duration": "PT1M14S",
+            "name": "How to Make Chicken Tinola"
+        },
+        "url": "https://www.allrecipes.com/recipe/212929/chicken-tinola/"
+    }
+]

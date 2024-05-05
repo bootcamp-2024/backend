@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Khoai lang Nhật xuất khẩu thùng 5kg",
+        "category": "cu",
+        "url": "https://www.bachhoaxanh.com/cu/khoai-lang-nhat-loai-dac-biet-thung-5kg?preFreshType=normal",
+        "image": "https://cdn.tgdd.vn/Products/Images/8785/275443/bhx/-202404040836502742.jpg",
+        "price": "150000",
+        "weight": "/5kg",
+        "price_per_kg": "",
+        "domain_url": "https://www.bachhoaxanh.com"
+    },
+    {
+        "name": "Hành tây",
+        "category": "cu",
+        "url": "https://www.bachhoaxanh.com/cu/hanh-tay-tui-1kg?preFreshType=normal",
+        "image": "https://cdn.tgdd.vn/Products/Images/8785/273076/bhx/hanh-tay-202403291456235873_300x300.jpg",
+        "price": "30000",
+        "weight": "1kg",
+        "price_per_kg": "30.000đ/kg",
+        "domain_url": "https://www.bachhoaxanh.com"
+    },
+    {
+        "name": "Hành tây 20kg",
+        "category": "cu",
+        "url": "https://www.bachhoaxanh.com/cu/hanh-tay-20kg?preFreshType=normal",
+        "image": "https://cdn.tgdd.vn/Products/Images/8785/324996/bhx/hanh-tay-20kg-202404171536003379.jpg",
+        "price": "320000",
+        "weight": "20kg",
+        "price_per_kg": "16.000₫/kg",
+        "domain_url": "https://www.bachhoaxanh.com"
+    },
+    {
+        "name": "Bắp mỹ trái từ 300g trở lên",
+        "category": "cu",
+        "url": "https://www.bachhoaxanh.com/cu/bap-my-1-trai?preFreshType=normal",
+        "image": "https://cdn.tgdd.vn/Products/Images/8785/241815/bhx/-202404161528558413.jpg",
+        "price": "8000",
+        "weight": "300-400g",
+        "price_per_kg": "",
+        "domain_url": "https://www.bachhoaxanh.com"
+    },
+    {
+        "name": "Chanh không hạt 500g",
+        "category": "cu",
+        "url": "https://www.bachhoaxanh.com/cu/chanh-khong-hat-500g?preFreshType=normal",
+        "image": "https://cdn.tgdd.vn/Products/Images/8785/324883/bhx/chanh-khong-hat-500g-5-8-trai-clone-202404101611043650_300x300.jpg",
+        "price": "18000",
+        "weight": "/500g",
+        "price_per_kg": "",
+        "domain_url": "https://www.bachhoaxanh.com"
+    },
+    {
+        "name": "Khoai lang Nhật",
+        "category": "cu",
+        "url": "https://www.bachhoaxanh.com/cu/khoai-lang-nhat-1kg?preFreshType=normal",
+        "image": "https://cdn.tgdd.vn/Products/Images/8785/220470/bhx/khoai-lang-nhat-202403291457262207_300x300.jpg",
+        "price": "18998",
+        "weight": "1kg",
+        "price_per_kg": "18.998đ/kg",
+        "domain_url": "https://www.bachhoaxanh.com"
+    },
+    {
+        "name": "Bí đỏ hồ lô",
+        "category": "cu",
+        "url": "https://www.bachhoaxanh.com/cu/bi-do-ho-lo-tui-1kg?preFreshType=normal",
+        "image": "https://cdn.tgdd.vn/Products/Images/8785/233887/bhx/bi-do-ho-lo-202404171558286199.jpg",
+        "price": "8000",
+        "weight": "500g",
+        "price_per_kg": "16.000đ/kg",
+        "domain_url": "https://www.bachhoaxanh.com"
+    },
+    {
+        "name": "Bí đỏ tròn",
+        "category": "cu",
+        "url": "https://www.bachhoaxanh.com/cu/bi-do-tron-cat-san-1kg?preFreshType=normal",
+        "image": "https://cdn.tgdd.vn/Products/Images/8785/230438/bhx/bi-do-tron-202403291459255527_300x300.jpg",
+        "price": "6000",
+        "weight": "500g",
+        "price_per_kg": "12.000đ/kg",
+        "domain_url": "https://www.bachhoaxanh.com"
+    },
+    {
+        "name": "Bí đỏ non trái 250g - 350g",
+        "category": "cu",
+        "url": "https://www.bachhoaxanh.com/cu/bi-do-non-trai-250g-350g?preFreshType=normal",
+        "image": "https://cdn.tgdd.vn/Products/Images/8785/316284/bhx/bi-do-non-trai-250g-350g-202404012134029454_300x300.jpg",
+        "price": "9600",
+        "weight": "/250-350g",
+        "price_per_kg": "",
+        "domain_url": "https://www.bachhoaxanh.com"
+    },
+    {
+        "name": "Bí xanh",
+        "category": "cu",
+        "url": "https://www.bachhoaxanh.com/cu/bi-xanh-tui-1kg?preFreshType=normal",
+        "image": "https://cdn.tgdd.vn/Products/Images/8785/233895/bhx/bi-xanh-202403291459476134_300x300.jpg",
+        "price": "14950",
+        "weight": "500g",
+        "price_per_kg": "29.900đ/kg",
+        "domain_url": "https://www.bachhoaxanh.com"
+    }
+]

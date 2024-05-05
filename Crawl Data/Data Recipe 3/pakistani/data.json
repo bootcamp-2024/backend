@@ -1,0 +1,198 @@
+[
+    {
+        "name": "Chicken Biryani",
+        "cook_time": "PT80M",
+        "prep_time": "PT30M",
+        "total_time": "PT110M",
+        "nutrition": {
+            "calories": "832 kcal",
+            "carbohydrateContent": "79 g",
+            "cholesterolContent": "134 mg",
+            "fiberContent": "5 g",
+            "proteinContent": "48 g",
+            "saturatedFatContent": "8 g",
+            "sodiumContent": "1522 mg",
+            "sugarContent": "5 g",
+            "fatContent": "35 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "description": "Chicken biryani is a traditional South Asian rice dish with tender chunks of chicken in a creamy, spicy blend of onion, garlic, tomatoes, and spices.",
+        "cuisine": "pakistani",
+        "category": "Dinner",
+        "ingredient": [
+            {
+                "quantity": "4",
+                "unit": "tablespoons",
+                "name": "vegetable oil, divided"
+            },
+            {
+                "quantity": "4",
+                "unit": "small",
+                "name": "potatoes, peeled and halved"
+            },
+            {
+                "quantity": "2",
+                "unit": "large",
+                "name": "onions, finely chopped"
+            },
+            {
+                "quantity": "2",
+                "unit": "cloves",
+                "name": "garlic, minced"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "name": "minced fresh ginger root"
+            },
+            {
+                "quantity": "2",
+                "unit": null,
+                "name": "medium tomatoes, peeled and chopped"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "salt"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "ground cumin"
+            },
+            {
+                "quantity": "½",
+                "unit": "teaspoon",
+                "name": "chili powder"
+            },
+            {
+                "quantity": "½",
+                "unit": "teaspoon",
+                "name": "ground black pepper"
+            },
+            {
+                "quantity": "½",
+                "unit": "teaspoon",
+                "name": "ground turmeric"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "name": "plain yogurt"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "name": "chopped fresh mint leaves"
+            },
+            {
+                "quantity": "½",
+                "unit": "teaspoon",
+                "name": "ground cardamom"
+            },
+            {
+                "quantity": "1",
+                "unit": "(2 inch) piece",
+                "name": "cinnamon stick"
+            },
+            {
+                "quantity": "3",
+                "unit": "pounds",
+                "name": "boneless, skinless chicken pieces cut into chunks"
+            },
+            {
+                "quantity": "1",
+                "unit": "pound",
+                "name": "basmati rice"
+            },
+            {
+                "quantity": "2 ½",
+                "unit": "tablespoons",
+                "name": "vegetable oil"
+            },
+            {
+                "quantity": "1",
+                "unit": "large",
+                "name": "onion, diced"
+            },
+            {
+                "quantity": "5",
+                "unit": "pods",
+                "name": "cardamom"
+            },
+            {
+                "quantity": "3",
+                "unit": null,
+                "name": "whole cloves"
+            },
+            {
+                "quantity": "1",
+                "unit": "(1 inch) piece",
+                "name": "cinnamon stick"
+            },
+            {
+                "quantity": "½",
+                "unit": "teaspoon",
+                "name": "ground ginger"
+            },
+            {
+                "quantity": "1",
+                "unit": "pinch",
+                "name": "powdered saffron"
+            },
+            {
+                "quantity": "4",
+                "unit": "cups",
+                "name": "chicken stock"
+            },
+            {
+                "quantity": "1 ½",
+                "unit": "teaspoons",
+                "name": "salt"
+            }
+        ],
+        "instructions": [
+            {
+                "text": "Gather all ingredients."
+            },
+            {
+                "text": "Heat 2 tablespoons of oil in a large skillet. Fry potatoes in hot oil until lightly browned, about 3 to 5 minutes. Remove to a paper towel-lined plate to drain; set aside."
+            },
+            {
+                "text": "Add remaining 2 tablespoons of oil to the skillet. Add onions, garlic, and fresh ginger; cook and stir until onion is soft and golden. Add tomatoes, salt, cumin, chili powder, pepper, and turmeric; cook, stirring constantly, for 5 minutes."
+            },
+            {
+                "text": "Stir in yogurt, mint, ground cardamom, and cinnamon stick. Cover and cook over low heat, stirring occasionally, until tomatoes are cooked to a pulp. It may be necessary to add a little hot water if mixture becomes too dry and starts to stick to the pan."
+            },
+            {
+                "text": "Add chicken and stir well to coat. Cover and cook over very low heat until chicken is tender, 35 to 45 minutes. There should only be a little very thick gravy left when chicken is finished cooking. If necessary cook uncovered for a few minutes to reduce the gravy."
+            },
+            {
+                "text": "Meanwhile, make the rice: Wash rice well and drain in a colander for at least 30 minutes."
+            },
+            {
+                "text": "Heat oil in a large skillet. Add onion; cook and stir until golden. Add cardamom pods, cloves, cinnamon stick, ground ginger, and saffron; stir in rice until coated with spices."
+            },
+            {
+                "text": "Heat stock and salt in a medium pot until hot; pour over rice and stir well."
+            },
+            {
+                "text": "Add chicken mixture and potatoes; stir gently to combine. Bring to a boil."
+            },
+            {
+                "text": "Reduce heat to very low, cover with a tight-fitting lid, and steam for 20 minutes without lifting the lid or stirring."
+            },
+            {
+                "text": "Spoon biryani onto a warm serving dish."
+            }
+        ],
+        "image": "https://www.allrecipes.com/thmb/nJkbnPUIiUxOSGAZgNrs7k6K8qI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/RM_16102_ChickenBiryani_ddmfs_3x4_5315-236dfbbc7965498cac20b87797841b69.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/ia1w70He-ma1DlVvV.mp4",
+            "description": "AR0739",
+            "duration": "PT7M58S",
+            "name": "Chicken Biryani"
+        },
+        "url": "https://www.allrecipes.com/recipe/16102/chicken-biryani/"
+    }
+]

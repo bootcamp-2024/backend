@@ -1,0 +1,262 @@
+[
+    {
+        "name": "Lion&#39;s Head Meatballs",
+        "cook_time": "PT45M",
+        "prep_time": "PT30M",
+        "total_time": "PT135M",
+        "nutrition": {
+            "calories": "365 kcal",
+            "carbohydrateContent": "10 g",
+            "cholesterolContent": "104 mg",
+            "fiberContent": "1 g",
+            "proteinContent": "27 g",
+            "saturatedFatContent": "7 g",
+            "sodiumContent": "1242 mg",
+            "sugarContent": "1 g",
+            "fatContent": "24 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "description": "Flavorsome lion&#39;s head meatballs made with ground pork are simmered in a gingery-mushroom broth with napa cabbage for a classic Chinese soup.",
+        "cuisine": "chinese",
+        "category": "Dinner",
+        "ingredient": [
+            {
+                "quantity": "1 ½",
+                "unit": "cups",
+                "name": "boiling water"
+            },
+            {
+                "quantity": "1",
+                "unit": "ounce",
+                "name": "dried shiitake mushrooms"
+            },
+            {
+                "quantity": "1",
+                "unit": "(8 ounce) container",
+                "name": "firm tofu, chopped into small bits"
+            },
+            {
+                "quantity": "¼",
+                "unit": "cup",
+                "name": "minced canned water chestnuts"
+            },
+            {
+                "quantity": "1",
+                "unit": "pound",
+                "name": "fatty ground pork (at least 20% fat)"
+            },
+            {
+                "quantity": "¼",
+                "unit": "cup",
+                "name": "finely sliced green onions (white and light green parts only)"
+            },
+            {
+                "quantity": "4",
+                "unit": "cloves",
+                "name": "garlic, finely minced"
+            },
+            {
+                "quantity": "1 ½",
+                "unit": "teaspoons",
+                "name": "finely grated peeled fresh ginger"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "name": "Shao Hsing rice wine or dry sherry (see Note)"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "name": "soy sauce"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "name": "brown sugar (Optional)"
+            },
+            {
+                "quantity": "1",
+                "unit": "large",
+                "name": "egg"
+            },
+            {
+                "quantity": "2",
+                "unit": "teaspoons",
+                "name": "kosher salt"
+            },
+            {
+                "quantity": "¼",
+                "unit": "teaspoon",
+                "name": "cayenne pepper"
+            },
+            {
+                "quantity": "1 ½",
+                "unit": "teaspoons",
+                "name": "cornstarch"
+            },
+            {
+                "quantity": "1",
+                "unit": "small head",
+                "name": "napa cabbage"
+            },
+            {
+                "quantity": "2",
+                "unit": "cups",
+                "name": "chicken broth"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "name": "soy sauce"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "name": "sherry wine or rice wine"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "name": "brown sugar (Optional)"
+            },
+            {
+                "quantity": "1 ½",
+                "unit": "teaspoons",
+                "name": "cornstarch"
+            },
+            {
+                "quantity": "½",
+                "unit": "teaspoon",
+                "name": "sesame oil, or to taste"
+            },
+            {
+                "quantity": "¼",
+                "unit": "cup",
+                "name": "sliced green onion tops"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "name": "hot chili oil"
+            }
+        ],
+        "instructions": [
+            {
+                "text": "Pour boiling water over shiitake mushrooms, and let sit until soft enough to slice, about 1 hour."
+            },
+            {
+                "text": "Meanwhile, make the meatball mixture: Combine tofu and chestnuts in a large bowl. Add ground pork, green onions, garlic, and ginger. Pour in rice wine, soy sauce, brown sugar, egg, salt, and cayenne. Dust with cornstarch. Mix with a clean hand until thoroughly combined. Cover with plastic wrap and refrigerate for at least 1 hour."
+            },
+            {
+                "text": "Form mixture into 6 large meatballs with wet hands."
+            },
+            {
+                "text": "Set an oven rack about 8 inches from the heat source and preheat the oven&#39;s broiler. Line a baking sheet with aluminum foil and oil lightly. Place meatballs on the prepared baking sheet."
+            },
+            {
+                "text": "Broil in the preheated oven until browned, 8 to 10 minutes. Remove from the oven and let cool while prepping the pot."
+            },
+            {
+                "text": "For the cooking liquid: Trim off the bottom of the head of cabbage and slice 1/2 of the head. Arrange sliced cabbage on the bottom of a large soup pot or Dutch oven. Arrange remaining cabbage leaves on top. Slice and scatter mushrooms on top of cabbage; reserve shiitake liquid. Nestle meatballs into cabbage leaves and pour juices over."
+            },
+            {
+                "text": "Strain reserved shiitake liquid into a bowl. Add chicken broth, soy sauce, sherry, sesame oil, brown sugar, cornstarch, and sesame oil. Whisk until dissolved. Add to the pot, pouring over each meatball. Bring to a boil over high heat."
+            },
+            {
+                "text": "Reduce heat to medium-low, cover, and cook for 20 minutes. Uncover and increase heat to medium-high. Continue cooking, basting meatballs often, until liquid reduces slightly and meatballs are no longer pink in the center, about 10 minutes. Taste for seasoning."
+            },
+            {
+                "text": "Ladle into serving bowls and arrange cabbage over meatballs. Top with green onions and chili oil."
+            }
+        ],
+        "image": "https://www.allrecipes.com/thmb/aeI6G8boThpfbWpQmBCQg8awLKM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/KH_091622_AR5332-1x1-1-8f13df98a7724784a8e28809edf64e3d.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/FaHiZkO5-K3AjnAEN.mp4",
+            "description": "Some people think the name comes from their large size, while others believe eating these gives you the strength of a lion, but the actual answer is not quite as mythical.",
+            "duration": "PT10M32S",
+            "name": "Lion's Head Meatballs"
+        },
+        "url": "https://www.allrecipes.com/recipe/277536/lions-head-meatballs/"
+    },
+    {
+        "name": "Restaurant Style Egg Drop Soup",
+        "cook_time": "PT10M",
+        "prep_time": "PT10M",
+        "total_time": "PT20M",
+        "nutrition": {
+            "calories": "76 kcal",
+            "carbohydrateContent": "4 g",
+            "cholesterolContent": "149 mg",
+            "fiberContent": "0 g",
+            "proteinContent": "5 g",
+            "saturatedFatContent": "1 g",
+            "sodiumContent": "1143 mg",
+            "sugarContent": "1 g",
+            "fatContent": "4 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "description": "This chicken egg drop soup is simple to make with basic ingredients. It&#39;s flavored with ginger and chives for a Chinese restaurant-style appetizer.",
+        "cuisine": "chinese",
+        "category": "Dinner",
+        "ingredient": [
+            {
+                "quantity": "4",
+                "unit": "cups",
+                "name": "chicken broth, divided"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "name": "chopped fresh chives"
+            },
+            {
+                "quantity": "¼",
+                "unit": "teaspoon",
+                "name": "salt"
+            },
+            {
+                "quantity": "⅛",
+                "unit": "teaspoon",
+                "name": "ground ginger"
+            },
+            {
+                "quantity": "1 ½",
+                "unit": "tablespoons",
+                "name": "cornstarch"
+            },
+            {
+                "quantity": "2",
+                "unit": null,
+                "name": "eggs"
+            },
+            {
+                "quantity": "1",
+                "unit": null,
+                "name": "egg yolk"
+            }
+        ],
+        "instructions": [
+            {
+                "text": "Gather all ingredients."
+            },
+            {
+                "text": "Reserve 3/4 cup of chicken broth, and pour the rest into a large saucepan. Stir in chives, salt, and ginger; bring to a rolling boil. Stir reserved 3/4 cup of broth and cornstarch until smooth. Set aside."
+            },
+            {
+                "text": "Whisk eggs and egg yolk together in a small bowl with a fork. Using a fork, drizzle eggs, a little at a time, into boiling broth. Eggs will cook immediately."
+            },
+            {
+                "text": "Stir in cornstarch mixture gradually until soup reaches desired consistency."
+            }
+        ],
+        "image": "https://www.allrecipes.com/thmb/bnDB55Pu3_r2iN1k-ZHsj467MFE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/45515-restaurant-style-egg-drop-soup-ddmfs-Beauty-3x4-1-48023a872e31418a9aff26853fb98392.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/migtILIF-ma1DlVvV.mp4",
+            "description": "AR0593",
+            "duration": "PT1M59S",
+            "name": "Restaurant-Style Egg Drop Soup"
+        },
+        "url": "https://www.allrecipes.com/recipe/45515/restaurant-style-egg-drop-soup/"
+    }
+]

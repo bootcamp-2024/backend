@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Tương ớt chua ngọt MM Pro",
+        "price": "55,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/tuong-ot-chua-ngot-mm-pro-2-1kg-2/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/258407-300x300.jpg",
+        "quantity": "2.1kg",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Tương ớt Happy Price",
+        "price": "22,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/tuong-ot-happy-price-1kg/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/258401-300x300.jpg",
+        "quantity": "1kg",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Tương ớt Happy Price",
+        "price": "23,900",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/tuong-ot-happy-price-830g/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "830g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Giấm táo Monini",
+        "price": "89,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/giam-tao-monini-250ml/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "250ml",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Tương cà Mabin",
+        "price": "16,600",
+        "unit": "Chai nhựa",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/tuong-ca-mabin-340g-2/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "chai thủy tinh 340g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Tương ớt Mabin",
+        "price": "13,000",
+        "unit": "Chai nhựa",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/tuong-ot-mabin-325g-2/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "chai thủy tinh 325g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Tương ớt Siracha Cholimex",
+        "price": "21,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/tuong-ot-cholimex-sriracha-520g-2/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "520g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Muối tôm Tây Ninh DH",
+        "price": "17,600",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/muoi-tom-tay-ninh-dh-120g/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "120g/110g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Hạt nêm Knorr thịt thăn xương ống và tủy",
+        "price": "96,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/hat-nem-knorr-thit-than-xuong-ong-va-tuy-1-2kg-3__trashed/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "1.2kg",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bột ngọt Vedan (LM)",
+        "price": "68,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/bot-ngot-vedan-hat-lon-1kg/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "1kg",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Xốt Barilla Bolognese",
+        "price": "128,000",
+        "unit": "Hũ",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/xot-barilla-bolognese-400g/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "400g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Dầu oliu Extra Virgin Fberio",
+        "price": "349,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/dau-olive-salov-tinh-khiet-1l-3/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "1 lít",
+        "domain_url": "https://online.mmvietnam.com/"
+    }
+]

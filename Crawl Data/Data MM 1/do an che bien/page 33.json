@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Ba rọi xông khói Le Gourmet",
+        "price": "151,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/ba-roi-xong-khoi-legourmet-500g-8/",
+        "category": "do an che bien",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/185145-300x300.jpg",
+        "quantity": "500g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Xúc xích CP cocktail xông khói",
+        "price": "59,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/xuc-xich-cp-cocktail-xong-khoi-500g-8/",
+        "category": "do an che bien",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/153487-300x300.jpg",
+        "quantity": "500g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Xúc xích heo Vissan",
+        "price": "31,900",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/xuc-xich-heo-vissan-loc-4-cay-x-70g-8/",
+        "category": "do an che bien",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "gói 4 cây",
+        "domain_url": "https://online.mmvietnam.com/"
+    }
+]

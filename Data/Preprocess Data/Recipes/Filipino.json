@@ -1,0 +1,109 @@
+[
+    {
+        "url": "https://www.allrecipes.com/recipe/212929/chicken-tinola/",
+        "name": "Chicken Tinola",
+        "cook_time": "0:20:00",
+        "prep_time": "0:30:00",
+        "total_time": "0:50:00",
+        "description": "Tinola, an easy Filipino soup made with chicken, chayote squash, bok choy, and spinach, features a savory broth flavored with ginger and fish sauce.",
+        "ingredients": [
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "cooking oil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "medium",
+                "name": "onion, chopped",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "cloves",
+                "name": "garlic, minced",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "(1 1/2 inch) piece",
+                "name": "fresh ginger, peeled and thinly sliced",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "fish sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 3.0,
+                "unit": "pounds",
+                "name": "chicken legs and thighs, rinsed and patted dry",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "(14 ounce) cans",
+                "name": "chicken broth",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": null,
+                "name": "chayote squash, peeled and cut into bite-sized pieces",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0,
+                "unit": null,
+                "name": "salt and ground black pepper to taste",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "head",
+                "name": "bok choy, chopped",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "(8 ounce) package",
+                "name": "fresh spinach, chopped",
+                "prepare_type": ""
+            }
+        ],
+        "instructions": [
+            "Gather all ingredients.",
+            "Heat oil in a large pot over medium heat. Add onion and garlic; cook and stir until fragrant, about 2 minutes.",
+            "Add ginger and fish sauce; cook and stir for 1 to 2 minutes. Stir in chicken and cook for 5 minutes.",
+            "Pour in chicken broth and cook for 5 minutes. Add squash and simmer until chicken is no longer pink in the center, about 10 minutes. Season with salt and pepper.",
+            "Add bok choy and spinach; cook until spinach is just wilted, 1 to 2 minutes. Serve hot."
+        ],
+        "nutrition": {
+            "calories": "532 kcal",
+            "carbohydrateContent": "14 g",
+            "cholesterolContent": "208 mg",
+            "fiberContent": "4 g",
+            "proteinContent": "66 g",
+            "saturatedFatContent": "6 g",
+            "sodiumContent": "1551 mg",
+            "sugarContent": "6 g",
+            "fatContent": "23 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "image": "https://www.allrecipes.com/thmb/IW4iKHFxrQFmgfDX8CSzUHKIf5w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/212929-chicken-tinola-ddmfs-step-5-26477ffd8f6944fbb37b7ed840ebd7c7.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/59LM0JuI-K3AjnAEN.mp4",
+            "description": "Tinola is an easy, one-pot soup from the Philippines. Chicken, chayote squash (or papaya!), bok choy, and spinach are simmered with fresh ginger in a savory broth that's often served with white rice. Learn how to make a wonderful version in this video!",
+            "duration": "0:01:14",
+            "name": "How to Make Chicken Tinola"
+        },
+        "cuisine": "filipino",
+        "category": "Dinner",
+        "tags": [
+            "Filipino Soups and Stews"
+        ]
+    }
+]

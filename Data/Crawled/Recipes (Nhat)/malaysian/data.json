@@ -1,0 +1,321 @@
+[
+    {
+        "name": "Malaysian Flatbread (Roti Canai) with Curried Lentil Dip",
+        "cook_time": "PT95M",
+        "prep_time": "PT30M",
+        "total_time": "PT615M",
+        "nutrition": {
+            "calories": "565 kcal",
+            "carbohydrateContent": "67 g",
+            "cholesterolContent": "58 mg",
+            "fiberContent": "11 g",
+            "proteinContent": "16 g",
+            "saturatedFatContent": "18 g",
+            "sodiumContent": "811 mg",
+            "sugarContent": "5 g",
+            "fatContent": "27 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "description": "With a crispy, crunchy exterior and a stretchy, chewy interior, these Malaysian flatbread (roti canai) are served alongside a delicious curried lentil dip.",
+        "cuisine": "malaysian",
+        "category": "Dinner",
+        "ingredient": [
+            {
+                "quantity": "4",
+                "unit": "cups",
+                "name": "bread flour"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "name": "white sugar"
+            },
+            {
+                "quantity": "1 ½",
+                "unit": "teaspoons",
+                "name": "kosher salt"
+            },
+            {
+                "quantity": "1",
+                "unit": "large",
+                "name": "egg, beaten"
+            },
+            {
+                "quantity": "3",
+                "unit": "tablespoons",
+                "name": "unsalted butter, melted"
+            },
+            {
+                "quantity": "1 ¼",
+                "unit": "cups",
+                "name": "water"
+            },
+            {
+                "quantity": "2",
+                "unit": "teaspoons",
+                "name": "vegetable oil"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "name": "unsalted butter"
+            },
+            {
+                "quantity": "½",
+                "unit": "cup",
+                "name": "diced yellow onion"
+            },
+            {
+                "quantity": "2",
+                "unit": "teaspoons",
+                "name": "grated fresh ginger "
+            },
+            {
+                "quantity": "4",
+                "unit": "cloves",
+                "name": "garlic, minced"
+            },
+            {
+                "quantity": "1 ½",
+                "unit": "teaspoons",
+                "name": "kosher salt, or more to taste"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "name": "curry powder"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "ground paprika"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "ground cumin"
+            },
+            {
+                "quantity": "½",
+                "unit": "teaspoon",
+                "name": "black pepper"
+            },
+            {
+                "quantity": "½",
+                "unit": "teaspoon",
+                "name": "cayenne pepper"
+            },
+            {
+                "quantity": "¼",
+                "unit": "cup",
+                "name": "tomato paste"
+            },
+            {
+                "quantity": "3",
+                "unit": "cups",
+                "name": "cold water"
+            },
+            {
+                "quantity": "1",
+                "unit": "(14 ounce) can",
+                "name": "full-fat coconut milk"
+            },
+            {
+                "quantity": "1",
+                "unit": "cup",
+                "name": "dried red lentils"
+            },
+            {
+                "quantity": "¼",
+                "unit": "cup",
+                "name": "unsalted butter, melted, or more as needed"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "name": "chopped fresh cilantro"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "name": "finely chopped serrano pepper"
+            }
+        ],
+        "instructions": [
+            {
+                "text": "Combine bread flour, sugar, kosher salt, egg, melted butter, and water for roti canai in a mixing bowl. Mix with your hands until a shaggy dough forms. Transfer to a work surface and knead until a smooth, elastic dough forms, about 7 minutes."
+            },
+            {
+                "text": "Divide dough into 8 equal pieces and form each one into a ball. Coat each ball with vegetable oil, transfer to a plate, and cover with plastic wrap. Refrigerate for 8 hours, to overnight."
+            },
+            {
+                "text": "Melt butter for dip in a saucepan over medium-high heat. Add onion, ginger, garlic, kosher salt, curry powder, paprika, cumin, black pepper, and cayenne pepper; stir together and saute until onion has softened and spices are fragrant, 3 to 4 minutes. Stir in tomato paste and cook until it starts to toast and caramelize on the bottom of the pan, about 3 minutes."
+            },
+            {
+                "text": "Stir in cold water and coconut milk. Add lentils; stir and bring to a simmer. Reduce heat to medium-low and simmer, stirring occasionally, until tender, about 40 minutes. Taste and adjust seasonings. Reduce heat to low and keep warm while you prepare the roti canai."
+            },
+            {
+                "text": "Place 1/4 cup melted butter in a bowl. Transfer rested dough balls onto a lightly oiled work surface. Flatten each ball slightly and rub a little melted butter on top. Cover dough with plastic wrap and let it warm up slightly, about 10 minutes."
+            },
+            {
+                "text": "Press on top of the plastic wrap to flatten warmed dough. Remove plastic wrap and add a bit more butter. Stretch each piece from the center out to get it as thin as possible (until almost see-through), adding more butter as needed. Don&#39;t worry if there are a few small tears."
+            },
+            {
+                "text": "Sprinkle on more melted butter, then pull two sides in towards the center until touching and overlapping slightly. Pull the other two edges in the same way to form a square. Cover with plastic wrap and flatten roti canai one more time."
+            },
+            {
+                "text": "Add some melted butter to a skillet set over medium or medium-low heat. Add roti canai and cook until browned, flaky, and crispy on the outside and fully cooked through on the inside, 3 to 4 minutes per side."
+            },
+            {
+                "text": "Remove from the skillet and smush it with your hands to fluff it up and separate the layers of dough. Repeat to cook remaining roti canai."
+            },
+            {
+                "text": "Sprinkle the curried red lentil dip with cilantro and sliced serrano peppers and serve alongside the roti canai."
+            }
+        ],
+        "image": "https://www.allrecipes.com/thmb/MtM_YD1ubyxkd4agoe7zLdnk9E4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-458-083a34d92d5f494fa792140b81fd913e.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/EXrosG7v-K3AjnAEN.mp4",
+            "description": "With a crispy, crunchy exterior and a stretchy, chewy interior, these Malaysian flatbread (roti canai) are easier to make than they look.",
+            "duration": "PT11M21S",
+            "name": "Malaysian Flatbread (Roti Canai) with Curried Lentil Dip"
+        },
+        "url": "https://www.allrecipes.com/recipe/285148/malaysian-flatbread-roti-canai-with-curried-lentil-dip/"
+    },
+    {
+        "name": "Penang Pork Satay",
+        "cook_time": "PT20M",
+        "prep_time": "PT30M",
+        "total_time": "PT290M",
+        "nutrition": {
+            "calories": "153 kcal",
+            "carbohydrateContent": "8 g",
+            "cholesterolContent": "36 mg",
+            "fiberContent": "1 g",
+            "proteinContent": "10 g",
+            "saturatedFatContent": "3 g",
+            "sodiumContent": "898 mg",
+            "sugarContent": "4 g",
+            "fatContent": "9 g",
+            "servingSize": "2 1/2 pounds pork satay",
+            "unsaturatedFatContent": "0 g"
+        },
+        "description": "Prep the perfect pork skewers with Chef John&#39;s tangy, spicy, super-savory satay marinade featuring turmeric, ginger, shallots, and tamarind.",
+        "cuisine": "malaysian",
+        "category": "Dinner",
+        "ingredient": [
+            {
+                "quantity": "2 ½",
+                "unit": "inch piece",
+                "name": "turmeric root, peeled and sliced thinly across the grain"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "ground turmeric, or to taste"
+            },
+            {
+                "quantity": "1",
+                "unit": "(2 inch) piece",
+                "name": "fresh ginger root, sliced"
+            },
+            {
+                "quantity": "1",
+                "unit": "large",
+                "name": "shallot, roughly chopped"
+            },
+            {
+                "quantity": "8",
+                "unit": "cloves",
+                "name": "garlic, peeled, or more to taste"
+            },
+            {
+                "quantity": "¼",
+                "unit": "cup",
+                "name": "light brown sugar"
+            },
+            {
+                "quantity": "3",
+                "unit": "tablespoons",
+                "name": "ancho chili powder"
+            },
+            {
+                "quantity": "2",
+                "unit": "teaspoons",
+                "name": "ground coriander"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "chipotle chili powder"
+            },
+            {
+                "quantity": "½",
+                "unit": "teaspoon",
+                "name": "cayenne pepper"
+            },
+            {
+                "quantity": "¼",
+                "unit": "cup",
+                "name": "rice vinegar"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "name": "soy sauce"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "name": "fish sauce"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "tamarind paste"
+            },
+            {
+                "quantity": "½",
+                "unit": "bunch",
+                "name": "lightly packed cilantro leaves and stems"
+            },
+            {
+                "quantity": "1",
+                "unit": "(2 1/2 pound)",
+                "name": "pork shoulder roast "
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "name": "kosher salt"
+            },
+            {
+                "quantity": null,
+                "unit": null,
+                "name": "5 large metal skewers"
+            }
+        ],
+        "instructions": [
+            {
+                "text": "Place fresh turmeric in a food processor along with powdered turmeric. Add ginger, shallot, garlic, brown sugar, ancho chili powder, coriander, chipotle, cayenne, rice vinegar, soy sauce, fish sauce, tamarind paste, and cilantro. Blend into a fine paste."
+            },
+            {
+                "text": "Cut pork into 1 1/2-inch cubes, trimming off fat as needed. Place pork in a bowl; season with salt. Pour in the marinade. Mix and massage pork with your hands until completely coated. Cover with plastic wrap and refrigerate for 4 to 18 hours."
+            },
+            {
+                "text": "Preheat an outdoor grill for medium-high heat and lightly oil the grate. Thread pork through skewers so the pieces are touching but not squished together. Reserve leftover marinade."
+            },
+            {
+                "text": "Grill skewers, brushing on reserved marinade, until pork just starts to firm up but is still slightly pink in the center, about 10 minutes per side. An instant-read thermometer inserted into the center should read 145 degrees F (63 degrees C). Serve immediately."
+            }
+        ],
+        "image": "https://www.allrecipes.com/thmb/bPauHWEHLkNbxtUeNl9r-11Jt1I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6941217-460a37b5e0844cc28dea1e0f34d1fde5.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/q2lLMARH-K3AjnAEN.mp4",
+            "description": "I'm not exactly sure how much pork satay they eat in Penang, but I'm confident that your average pork-loving Malaysian would enjoy this explosive combination of flavors. ",
+            "duration": "PT8M16S",
+            "name": "Penang Pork Satay"
+        },
+        "url": "https://www.allrecipes.com/recipe/275397/penang-pork-satay/"
+    }
+]

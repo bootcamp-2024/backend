@@ -1,0 +1,122 @@
+[
+    {
+        "name": "lẩu Thái ngon Thuật Phát",
+        "price": "19,900",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/lau-thai-ngon-thuat-phat-chai-250g-577003/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/212409-300x300.jpg",
+        "quantity": "chai 250g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Nước tương Phú Sĩ",
+        "price": "140,000",
+        "unit": "Bình",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/nuoc-tuong-phu-si-binh-4-9-lit-576077/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/207667-300x300.jpg",
+        "quantity": "bình 4.9 lít",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Tương đen Cholimex",
+        "price": "21,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/tuong-den-cholimex-chai-520g-575700/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "520g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Sốt mì Ý nấm American Garden",
+        "price": "79,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/sot-mi-y-nam-american-garden-goi-397g-575741/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "397g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Sốt mì Ý truyền thống A Garden",
+        "price": "75,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/sot-mi-y-truyen-thong-a-garden-goi-397g-575759/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "397g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bột canh i-ốt Visachef",
+        "price": "5,200",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/bot-canh-i-ot-visachef-goi-200g-575805/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "200g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bột ngọt ajinomoto (L)",
+        "price": "9,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/bot-ngot-ajinomoto-size-l-goi-100g-575834/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "100g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Muối biển Visalco",
+        "price": "3,900",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/muoi-bien-visalco-goi-500g-575859/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "500g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Muối biển Visaco",
+        "price": "8,500",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/muoi-bien-visaco-goi-950g-575887/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "950g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Ớt khô sa tế Cholimex",
+        "price": "18,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/ot-kho-sa-te-cholimex-goi-100g-575901/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "gói 100g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Gia vị lẩu Thái TomYum Mae Ploy",
+        "price": "14,600",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/gia-vi-lau-thai-tomyum-mae-ploy-goi-50g-575921/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "50g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Tương ớt Heinz cay nồng",
+        "price": "32,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/tuong-ot-heinz-cay-nong-chai-300g-574590/",
+        "category": "dau an gia vi nuoc cham",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "300g",
+        "domain_url": "https://online.mmvietnam.com/"
+    }
+]

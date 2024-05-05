@@ -1,0 +1,649 @@
+[
+    {
+        "name": "Indian Fish Curry",
+        "cook_time": "PT30M",
+        "prep_time": "PT15M",
+        "total_time": "PT75M",
+        "nutrition": {
+            "calories": "338 kcal",
+            "carbohydrateContent": "12 g",
+            "cholesterolContent": "56 mg",
+            "fiberContent": "2 g",
+            "proteinContent": "42 g",
+            "saturatedFatContent": "1 g",
+            "sodiumContent": "2715 mg",
+            "sugarContent": "5 g",
+            "fatContent": "14 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "description": "This Indian fish curry features mustard-marinated fish baked with tomatoes in a spicy cashew purée. The recipe was inspired by a Bengali fish recipe.",
+        "cuisine": "indian",
+        "category": "Dinner",
+        "ingredient": [
+            {
+                "quantity": "3",
+                "unit": "tablespoons",
+                "name": "canola oil, divided "
+            },
+            {
+                "quantity": "2",
+                "unit": "teaspoons",
+                "name": "Dijon mustard"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "ground black pepper"
+            },
+            {
+                "quantity": "1 ½",
+                "unit": "teaspoons",
+                "name": "salt, divided"
+            },
+            {
+                "quantity": "4",
+                "unit": null,
+                "name": "white fish fillets"
+            },
+            {
+                "quantity": "1",
+                "unit": "medium",
+                "name": "onion, coarsely chopped"
+            },
+            {
+                "quantity": "4",
+                "unit": "cloves",
+                "name": "garlic, roughly chopped"
+            },
+            {
+                "quantity": "1",
+                "unit": "(1 inch) piece",
+                "name": "fresh ginger root, peeled and chopped"
+            },
+            {
+                "quantity": "5",
+                "unit": null,
+                "name": "cashew halves"
+            },
+            {
+                "quantity": "2",
+                "unit": "teaspoons",
+                "name": "cayenne pepper, or to taste"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "ground cumin"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "ground coriander"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "white sugar"
+            },
+            {
+                "quantity": "½",
+                "unit": "teaspoon",
+                "name": "ground turmeric"
+            },
+            {
+                "quantity": "½",
+                "unit": "cup",
+                "name": "chopped tomato"
+            },
+            {
+                "quantity": "¼",
+                "unit": "cup",
+                "name": "vegetable broth"
+            },
+            {
+                "quantity": "¼",
+                "unit": "cup",
+                "name": "chopped fresh cilantro"
+            }
+        ],
+        "instructions": [
+            {
+                "text": "Gather the ingredients."
+            },
+            {
+                "text": "Mix 2 tablespoons oil, mustard, black pepper, and 1/2 teaspoon salt together in a shallow glass bowl."
+            },
+            {
+                "text": "Add fish and turn to coat. Cover and refrigerate for 30 minutes."
+            },
+            {
+                "text": "While the fish is marinating, combine onion, garlic, ginger, and cashews in a blender or food processor; pulse until mixture forms a paste."
+            },
+            {
+                "text": "Preheat the oven to 350 degrees F (175 degrees C)."
+            },
+            {
+                "text": "Heat remaining 1 tablespoon oil in a skillet over medium-low heat. Add cashew paste; cook and stir until fragrant, 1 to 2 minutes."
+            },
+            {
+                "text": "Add cayenne pepper, remaining 1 teaspoon salt, cumin, coriander, sugar, and turmeric to the cashew paste in the skillet; cook and stir for 5 minutes. Stir in tomato and broth."
+            },
+            {
+                "text": "Remove fish from marinade and shake off excess; discard remaining marinade. Arrange fish in a baking dish and pour sauce over top."
+            },
+            {
+                "text": "Bake, covered, in the preheated oven until fish flakes easily with a fork, about 30 minutes. Garnish with cilantro."
+            }
+        ],
+        "image": "https://www.allrecipes.com/thmb/LGbYFusqFDwtL-Xm7TFRhee1kws=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/213238-Indian-Fish-Curry-ddmfs-4x3-step-08-46612cbd8b584b3fa87b6bc6075233b7.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/Y03UBSs8-ma1DlVvV.mp4",
+            "description": "AR0916",
+            "duration": "PT4M21S",
+            "name": "Indian Fish Curry"
+        },
+        "url": "https://www.allrecipes.com/recipe/213238/indian-fish-curry/"
+    },
+    {
+        "name": "Indian Shrimp Curry",
+        "cook_time": "PT20M",
+        "prep_time": "PT15M",
+        "total_time": "PT37M",
+        "nutrition": {
+            "calories": "416 kcal",
+            "carbohydrateContent": "11 g",
+            "cholesterolContent": "146 mg",
+            "fiberContent": "3 g",
+            "proteinContent": "23 g",
+            "saturatedFatContent": "21 g",
+            "sodiumContent": "930 mg",
+            "sugarContent": "4 g",
+            "fatContent": "32 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "description": "This shrimp curry features tender prawns in a richly flavored coconut-tomato sauce that&#39;s delicious served over hot cooked rice for an easy dinner.",
+        "cuisine": "indian",
+        "category": "Dinner",
+        "ingredient": [
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "name": "peanut oil"
+            },
+            {
+                "quantity": "½",
+                "unit": null,
+                "name": "sweet onion, minced"
+            },
+            {
+                "quantity": "2",
+                "unit": "cloves",
+                "name": "garlic, chopped"
+            },
+            {
+                "quantity": "1 ½",
+                "unit": "teaspoons",
+                "name": "ground turmeric"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "ground ginger"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "ground cumin"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "paprika"
+            },
+            {
+                "quantity": "½",
+                "unit": "teaspoon",
+                "name": "red chili powder"
+            },
+            {
+                "quantity": "1",
+                "unit": "(14.5 ounce) can",
+                "name": "chopped tomatoes"
+            },
+            {
+                "quantity": "1",
+                "unit": "(14 ounce) can",
+                "name": "coconut milk"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "salt"
+            },
+            {
+                "quantity": "1",
+                "unit": "pound",
+                "name": "cooked and peeled shrimp"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "name": "chopped fresh cilantro"
+            }
+        ],
+        "instructions": [
+            {
+                "text": "Gather all ingredients."
+            },
+            {
+                "text": "Heat peanut oil in a large skillet over medium heat; cook and stir onion in hot oil until translucent, about 5 minutes. Remove the skillet from heat and allow to cool slightly, about 2 minutes."
+            },
+            {
+                "text": "Add garlic, turmeric, ginger, cumin, paprika, and chile powder to onion in the skillet; stir over low heat to bloom spices, about 30 seconds. Stir in tomatoes, coconut milk, and salt. Bring to a boil for 1 minute, then reduce heat and simmer, stirring occasionally, for 10 minutes."
+            },
+            {
+                "text": "Stir in shrimp and cilantro; simmer until shrimp is warmed through, about 1 minute."
+            },
+            {
+                "text": "Serve and enjoy!"
+            }
+        ],
+        "image": "https://www.allrecipes.com/thmb/GFaxIDo1f5fnDIjGdB8VYQPTeww=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-205544-indian-shrimp-curry-DDMFS-4x3-beauty-dc26fd314d094870b3c1750d3a6921f5.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/DD49GlGO-ma1DlVvV.mp4",
+            "description": "AR0912",
+            "duration": "PT3M7S",
+            "name": "Indian Shrimp Curry"
+        },
+        "url": "https://www.allrecipes.com/recipe/205544/indian-shrimp-curry/"
+    },
+    {
+        "name": "Red Lentil Curry",
+        "cook_time": "PT40M",
+        "prep_time": "PT10M",
+        "total_time": "PT50M",
+        "nutrition": {
+            "calories": "192 kcal",
+            "carbohydrateContent": "33 g",
+            "fiberContent": "11 g",
+            "proteinContent": "12 g",
+            "saturatedFatContent": "0 g",
+            "sodiumContent": "572 mg",
+            "sugarContent": "7 g",
+            "fatContent": "3 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "description": "This red lentil curry is a rich and hearty vegetarian curry made with caramelized onions, spices, and tomato puree for a filling and satisfying meal.",
+        "cuisine": "indian",
+        "category": "Dinner",
+        "ingredient": [
+            {
+                "quantity": "2",
+                "unit": "cups",
+                "name": "red lentils"
+            },
+            {
+                "quantity": "3",
+                "unit": "cups",
+                "name": "water, or more as needed"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "name": "vegetable oil"
+            },
+            {
+                "quantity": "1",
+                "unit": "large",
+                "name": "onion, diced"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "name": "curry paste"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "name": "curry powder"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "ground turmeric"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "ground cumin"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "chili powder"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "salt"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "white sugar"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "minced garlic"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "minced fresh ginger"
+            },
+            {
+                "quantity": "1",
+                "unit": "(14.25 ounce) can",
+                "name": "tomato puree"
+            }
+        ],
+        "instructions": [
+            {
+                "text": "Wash lentils in cold water until water runs clear."
+            },
+            {
+                "text": "Put lentils in a pot with enough water to cover; bring to a boil and reduce heat to medium-low. Cover and simmer, adding water as needed to keep lentils covered, until tender, 15 to 20 minutes. Drain."
+            },
+            {
+                "text": "Heat vegetable oil in a large skillet over medium heat; cook and stir onions in hot oil until caramelized, about 20 minutes."
+            },
+            {
+                "text": "Mix together curry paste, curry powder, turmeric, cumin, chili powder, salt, sugar, garlic, and ginger in a large bowl; stir into onions. Increase heat to high and cook, stirring constantly, until fragrant, 1 to 2 minutes."
+            },
+            {
+                "text": "Stir in tomato puree and lentils; cook until warmed through."
+            }
+        ],
+        "image": "https://www.allrecipes.com/thmb/IK6d5OtbES7GmWdh7c77Wk3Q0Zk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8133071-2b2cadf36bae4a1688aa51ce9ce4d7a7.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/IC6zH4tO-ma1DlVvV.mp4",
+            "description": "AR0576",
+            "duration": "PT4M57S",
+            "name": "Red Lentil Curry"
+        },
+        "url": "https://www.allrecipes.com/recipe/16641/red-lentil-curry/"
+    },
+    {
+        "name": "Slow Cooker Butter Chicken",
+        "cook_time": "PT255M",
+        "prep_time": "PT15M",
+        "total_time": "PT270M",
+        "nutrition": {
+            "calories": "480 kcal",
+            "carbohydrateContent": "17 g",
+            "cholesterolContent": "103 mg",
+            "fiberContent": "4 g",
+            "proteinContent": "31 g",
+            "saturatedFatContent": "19 g",
+            "sodiumContent": "442 mg",
+            "sugarContent": "8 g",
+            "fatContent": "33 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "description": "Butter chicken made with aromatic Indian spices in a rich and creamy curry sauce. An easy slow cooker recipe for a restaurant-worthy meal at home!",
+        "cuisine": "indian",
+        "category": "Dinner",
+        "ingredient": [
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "name": "butter"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "name": "vegetable oil"
+            },
+            {
+                "quantity": "4",
+                "unit": "large",
+                "name": "skinless, boneless chicken thighs, cut into bite-sized pieces"
+            },
+            {
+                "quantity": "1",
+                "unit": null,
+                "name": "onion, diced"
+            },
+            {
+                "quantity": "3",
+                "unit": "cloves",
+                "name": "garlic, minced"
+            },
+            {
+                "quantity": "1",
+                "unit": "(6 ounce) can",
+                "name": "tomato paste"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "name": "curry paste"
+            },
+            {
+                "quantity": "2",
+                "unit": "teaspoons",
+                "name": "curry powder"
+            },
+            {
+                "quantity": "2",
+                "unit": "teaspoons",
+                "name": "tandoori masala"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "garam masala"
+            },
+            {
+                "quantity": "15",
+                "unit": null,
+                "name": "green cardamom pods "
+            },
+            {
+                "quantity": "1",
+                "unit": "(14 ounce) can",
+                "name": "coconut milk"
+            },
+            {
+                "quantity": "1",
+                "unit": "cup",
+                "name": "low-fat plain yogurt"
+            },
+            {
+                "quantity": null,
+                "unit": null,
+                "name": "salt to taste"
+            }
+        ],
+        "instructions": [
+            {
+                "text": "Gather all ingredients."
+            },
+            {
+                "text": "Heat butter and vegetable oil in a large skillet over medium heat. Stir in chicken, onion, and garlic. Cook and stir until onion has softened and turned translucent, about 10 minutes."
+            },
+            {
+                "text": "Stir in tomato paste, curry paste, curry powder, tandoori masala, and garam masala until no lumps of tomato paste remain."
+            },
+            {
+                "text": "Pour mixture into a slow cooker; stir in cardamom pods, coconut milk, and yogurt. Season with salt."
+            },
+            {
+                "text": "Cook on High for 4 to 6 hours (or on Low for 6 to 8 hours) until chicken is tender and sauce has reduced to desired consistency. Remove and discard cardamom pods before serving."
+            }
+        ],
+        "image": "https://www.allrecipes.com/thmb/c1pEcL59S2RT85dGbJpyi7CSENw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-174543-slow-cooker-butter-chicken-DDMFS-4x3-e2aa838d73c44b2d84a0ecd716113ba1.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/pHslzvht-K3AjnAEN.mp4",
+            "description": "This video shows you how to make creamy Indian butter chicken in the slow cooker. Skinless, boneless chicken thighs, onions, and garlic are simmered with classic Indian spices, tomato paste, coconut milk, and yogurt. Just load everything into the crock pot, and go about your day! In the evening, come home to the wonderful aroma of butter chicken. Dinner's waiting for you!",
+            "duration": "PT2M19S",
+            "name": "Slow Cooker Butter Chicken"
+        },
+        "url": "https://www.allrecipes.com/recipe/174543/slow-cooker-butter-chicken/"
+    },
+    {
+        "name": "Indian Chicken Curry (Murgh Kari)",
+        "cook_time": "PT40M",
+        "prep_time": "PT20M",
+        "total_time": "PT60M",
+        "nutrition": {
+            "calories": "427 kcal",
+            "carbohydrateContent": "15 g",
+            "cholesterolContent": "95 mg",
+            "fiberContent": "3 g",
+            "proteinContent": "38 g",
+            "saturatedFatContent": "5 g",
+            "sodiumContent": "1370 mg",
+            "sugarContent": "5 g",
+            "fatContent": "24 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "description": "In this easy Indian chicken curry chicken breasts are slowly simmered in a spicy curry sauce with yogurt, tomatoes, onion, garlic, and ginger.",
+        "cuisine": "indian",
+        "category": "Dinner",
+        "ingredient": [
+            {
+                "quantity": "2",
+                "unit": "pounds",
+                "name": "skinless, boneless chicken breast halves"
+            },
+            {
+                "quantity": "2",
+                "unit": "teaspoons",
+                "name": "salt"
+            },
+            {
+                "quantity": "½",
+                "unit": "cup",
+                "name": "cooking oil"
+            },
+            {
+                "quantity": "1 ½",
+                "unit": "cups",
+                "name": "chopped onion"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "name": "minced garlic"
+            },
+            {
+                "quantity": "1 ½",
+                "unit": "teaspoons",
+                "name": "minced fresh ginger root"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "name": "curry powder"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "ground cumin"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "ground turmeric"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "ground coriander"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "cayenne pepper"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "name": "water"
+            },
+            {
+                "quantity": "1",
+                "unit": "(15 ounce) can",
+                "name": "crushed tomatoes"
+            },
+            {
+                "quantity": "1",
+                "unit": "cup",
+                "name": "plain yogurt"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "name": "chopped fresh cilantro"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "salt"
+            },
+            {
+                "quantity": "½",
+                "unit": "cup",
+                "name": "water"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "garam masala"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "name": "chopped fresh cilantro"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "name": "fresh lemon juice"
+            }
+        ],
+        "instructions": [
+            {
+                "text": "Gather all ingredients."
+            },
+            {
+                "text": "Sprinkle the chicken breasts with 2 teaspoons salt."
+            },
+            {
+                "text": "Heat oil in a large skillet over high heat; partially cook the chicken in the hot oil in batches until completely browned on all sides. Transfer browned chicken breasts to a plate and set aside."
+            },
+            {
+                "text": "Reduce the heat to medium and add onion, garlic, and ginger to the oil remaining in the skillet. Cook and stir until onion turns soft and translucent, 5 to 8 minutes. Stir curry powder, cumin, turmeric, coriander, cayenne, and 1 tablespoon of water into the onion mixture; allow to heat together for about 1 minute while stirring."
+            },
+            {
+                "text": "Add tomatoes, yogurt, 1 tablespoon chopped cilantro, and 1 teaspoon salt to the mixture; stir to combine."
+            },
+            {
+                "text": "Return chicken breast to the skillet along with any juices on the plate. Pour in 1/2 cup water and bring to a boil, turning the chicken to coat with the sauce. Sprinkle garam masala and 1 tablespoon cilantro over the chicken."
+            },
+            {
+                "text": "Cover the skillet and simmer until chicken breasts are no longer pink in the center and the juices run clear, about 20 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C). Drizzle with lemon juice to serve."
+            }
+        ],
+        "image": "https://www.allrecipes.com/thmb/cF4D_jCqxkPpjg08TdHXk1E-3nM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/212721-indian-chicken-curry-murgh-kari-DDMFS-4x3-330302d59ca64543b3d7ead88c226f9a.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/97uXRsDd-K3AjnAEN.mp4",
+            "description": "The recipe in this video is a really good method to prepare spicy Indian chicken curry. It's pretty easy to make and tastes really good! Serve this dish over basmati rice for an easy meal.",
+            "duration": "PT1M41S",
+            "name": "How to Make Indian Chicken Curry"
+        },
+        "url": "https://www.allrecipes.com/recipe/212721/indian-chicken-curry-murgh-kari/"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Trà sữa vị Đài Loan C2",
+        "price": "52,000",
+        "unit": "Lốc",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/tra-sua-dai-loan-c2-loc-6-chai-x-280ml/",
+        "category": "do uong cac loai",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/343507-300x300.jpg",
+        "quantity": "lốc 6 chai",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Cà phê sữa đá Nescafe 3in1",
+        "price": "44,000",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/ca-phe-sua-da-nescafe-3in1-hop-10-goi-x-20g-2/",
+        "category": "do uong cac loai",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/311646-300x300.jpg",
+        "quantity": "hộp 10 gói",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Nước tăng lực cà phê Wakeup 247",
+        "price": "236,000",
+        "unit": "Thùng",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/nuoc-tang-luc-wakeup-247-vi-ca-phe-thung-24-chai-x-330ml/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "thùng 24 chai",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bột cacao Milo",
+        "price": "52,000",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/bot-lua-mach-nestle-milo-activego-285g-19/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "hộp 285g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Nước ngọt Coca Cola Sleek",
+        "price": "174,000",
+        "unit": "Thùng",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/nuoc-ngot-coca-vi-nguyen-ban-sleek-thung-24-lon-x-235ml/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "thùng 24 lon",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Cà phê sữa đá Legend Trung Nguyên",
+        "price": "76,000",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/ca-phe-sua-da-legend-trung-nguyen-hop-9-goi-x-25g/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "hộp 9 gói",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Yến mạch hương cỏ Xuân An",
+        "price": "105,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/yen-mach-huong-co-xuan-an-400g-19/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "400g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bia Pilsner Urquell 4.4%",
+        "price": "1,489,000",
+        "unit": "Thùng",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/bia-pilsner-urquell-4-4-thung-24-lon-x-500ml/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "thùng 24 lon",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Yến mạch MM nguyên chất",
+        "price": "89,000",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/yen-mach-mm-800g/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "800g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bia Halidal",
+        "price": "233,000",
+        "unit": "Thùng",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/bia-halidal-thung-24-lon-x-330ml-19/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "thùng 24 lon",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Nước khoáng ion Pocari Sweat",
+        "price": "248,000",
+        "unit": "Thùng",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/nuoc-khoang-pocari-sweat-thung-24-chai-x-350ml/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "thùng 24 chai",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bia Sapporo Premium BlueCap",
+        "price": "335,000",
+        "unit": "Thùng",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/bia-sapporo-premium-bluecap-thung-24-lon-x-330ml-8/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "thùng 24 lon",
+        "domain_url": "https://online.mmvietnam.com/"
+    }
+]
