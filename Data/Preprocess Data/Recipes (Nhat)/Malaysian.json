@@ -1,0 +1,337 @@
+[
+    {
+        "name": "Malaysian Flatbread (Roti Canai) with Curried Lentil Dip",
+        "cook_time": "1:35:00",
+        "prep_time": "0:30:00",
+        "total_time": "10:15:00",
+        "nutrition": {
+            "calories": "565 kcal",
+            "carbohydrateContent": "67 g",
+            "cholesterolContent": "58 mg",
+            "fiberContent": "11 g",
+            "proteinContent": "16 g",
+            "saturatedFatContent": "18 g",
+            "sodiumContent": "811 mg",
+            "sugarContent": "5 g",
+            "fatContent": "27 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "description": "With a crispy, crunchy exterior and a stretchy, chewy interior, these Malaysian flatbread (roti canai) are served alongside a delicious curried lentil dip.",
+        "cuisine": "malaysian",
+        "category": "Dinner",
+        "instructions": [
+            "Combine bread flour, sugar, kosher salt, egg, melted butter, and water for roti canai in a mixing bowl. Mix with your hands until a shaggy dough forms. Transfer to a work surface and knead until a smooth, elastic dough forms, about 7 minutes.",
+            "Divide dough into 8 equal pieces and form each one into a ball. Coat each ball with vegetable oil, transfer to a plate, and cover with plastic wrap. Refrigerate for 8 hours, to overnight.",
+            "Melt butter for dip in a saucepan over medium-high heat. Add onion, ginger, garlic, kosher salt, curry powder, paprika, cumin, black pepper, and cayenne pepper; stir together and saute until onion has softened and spices are fragrant, 3 to 4 minutes. Stir in tomato paste and cook until it starts to toast and caramelize on the bottom of the pan, about 3 minutes.",
+            "Stir in cold water and coconut milk. Add lentils; stir and bring to a simmer. Reduce heat to medium-low and simmer, stirring occasionally, until tender, about 40 minutes. Taste and adjust seasonings. Reduce heat to low and keep warm while you prepare the roti canai.",
+            "Place 1/4 cup melted butter in a bowl. Transfer rested dough balls onto a lightly oiled work surface. Flatten each ball slightly and rub a little melted butter on top. Cover dough with plastic wrap and let it warm up slightly, about 10 minutes.",
+            "Press on top of the plastic wrap to flatten warmed dough. Remove plastic wrap and add a bit more butter. Stretch each piece from the center out to get it as thin as possible (until almost see-through), adding more butter as needed. Don&#39;t worry if there are a few small tears.",
+            "Sprinkle on more melted butter, then pull two sides in towards the center until touching and overlapping slightly. Pull the other two edges in the same way to form a square. Cover with plastic wrap and flatten roti canai one more time.",
+            "Add some melted butter to a skillet set over medium or medium-low heat. Add roti canai and cook until browned, flaky, and crispy on the outside and fully cooked through on the inside, 3 to 4 minutes per side.",
+            "Remove from the skillet and smush it with your hands to fluff it up and separate the layers of dough. Repeat to cook remaining roti canai.",
+            "Sprinkle the curried red lentil dip with cilantro and sliced serrano peppers and serve alongside the roti canai."
+        ],
+        "image": "https://www.allrecipes.com/thmb/MtM_YD1ubyxkd4agoe7zLdnk9E4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-458-083a34d92d5f494fa792140b81fd913e.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/EXrosG7v-K3AjnAEN.mp4",
+            "description": "With a crispy, crunchy exterior and a stretchy, chewy interior, these Malaysian flatbread (roti canai) are easier to make than they look.",
+            "duration": "0:11:21",
+            "name": "Malaysian Flatbread (Roti Canai) with Curried Lentil Dip"
+        },
+        "url": "https://www.allrecipes.com/recipe/285148/malaysian-flatbread-roti-canai-with-curried-lentil-dip/",
+        "tags": [],
+        "ingredients": [
+            {
+                "quantity": 4.0,
+                "unit": "cups",
+                "name": "bread flour",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "white sugar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.5,
+                "unit": "teaspoons",
+                "name": "kosher salt",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "large",
+                "name": "egg, beaten",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 3.0,
+                "unit": "tablespoons",
+                "name": "unsalted butter, melted",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.25,
+                "unit": "cups",
+                "name": "water",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "teaspoons",
+                "name": "vegetable oil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "unsalted butter",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "name": "diced yellow onion",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "teaspoons",
+                "name": "grated fresh ginger ",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 4.0,
+                "unit": "cloves",
+                "name": "garlic, minced",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.5,
+                "unit": "teaspoons",
+                "name": "kosher salt, or more to taste",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "curry powder",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "ground paprika",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "ground cumin",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "name": "black pepper",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "name": "cayenne pepper",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "tomato paste",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 3.0,
+                "unit": "cups",
+                "name": "cold water",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "(14 ounce) can",
+                "name": "full-fat coconut milk",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "name": "dried red lentils",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "unsalted butter, melted, or more as needed",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "chopped fresh cilantro",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "finely chopped serrano pepper",
+                "prepare_type": ""
+            }
+        ]
+    },
+    {
+        "name": "Penang Pork Satay",
+        "cook_time": "0:20:00",
+        "prep_time": "0:30:00",
+        "total_time": "4:50:00",
+        "nutrition": {
+            "calories": "153 kcal",
+            "carbohydrateContent": "8 g",
+            "cholesterolContent": "36 mg",
+            "fiberContent": "1 g",
+            "proteinContent": "10 g",
+            "saturatedFatContent": "3 g",
+            "sodiumContent": "898 mg",
+            "sugarContent": "4 g",
+            "fatContent": "9 g",
+            "servingSize": "2 1/2 pounds pork satay",
+            "unsaturatedFatContent": "0 g"
+        },
+        "description": "Prep the perfect pork skewers with Chef John&#39;s tangy, spicy, super-savory satay marinade featuring turmeric, ginger, shallots, and tamarind.",
+        "cuisine": "malaysian",
+        "category": "Dinner",
+        "instructions": [
+            "Place fresh turmeric in a food processor along with powdered turmeric. Add ginger, shallot, garlic, brown sugar, ancho chili powder, coriander, chipotle, cayenne, rice vinegar, soy sauce, fish sauce, tamarind paste, and cilantro. Blend into a fine paste.",
+            "Cut pork into 1 1/2-inch cubes, trimming off fat as needed. Place pork in a bowl; season with salt. Pour in the marinade. Mix and massage pork with your hands until completely coated. Cover with plastic wrap and refrigerate for 4 to 18 hours.",
+            "Preheat an outdoor grill for medium-high heat and lightly oil the grate. Thread pork through skewers so the pieces are touching but not squished together. Reserve leftover marinade.",
+            "Grill skewers, brushing on reserved marinade, until pork just starts to firm up but is still slightly pink in the center, about 10 minutes per side. An instant-read thermometer inserted into the center should read 145 degrees F (63 degrees C). Serve immediately."
+        ],
+        "image": "https://www.allrecipes.com/thmb/bPauHWEHLkNbxtUeNl9r-11Jt1I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6941217-460a37b5e0844cc28dea1e0f34d1fde5.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/q2lLMARH-K3AjnAEN.mp4",
+            "description": "I'm not exactly sure how much pork satay they eat in Penang, but I'm confident that your average pork-loving Malaysian would enjoy this explosive combination of flavors. ",
+            "duration": "0:08:16",
+            "name": "Penang Pork Satay"
+        },
+        "url": "https://www.allrecipes.com/recipe/275397/penang-pork-satay/",
+        "tags": [],
+        "ingredients": [
+            {
+                "quantity": 2.5,
+                "unit": "inch piece",
+                "name": "turmeric root, peeled and sliced thinly across the grain",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "ground turmeric, or to taste",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "(2 inch) piece",
+                "name": "fresh ginger root, sliced",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "large",
+                "name": "shallot, roughly chopped",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 8.0,
+                "unit": "cloves",
+                "name": "garlic, peeled, or more to taste",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "light brown sugar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 3.0,
+                "unit": "tablespoons",
+                "name": "ancho chili powder",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "teaspoons",
+                "name": "ground coriander",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "chipotle chili powder",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "name": "cayenne pepper",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "rice vinegar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "soy sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "fish sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "tamarind paste",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "bunch",
+                "name": "lightly packed cilantro leaves and stems",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "(2 1/2 pound)",
+                "name": "pork shoulder roast ",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "kosher salt",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0,
+                "unit": null,
+                "name": "5 large metal skewers",
+                "prepare_type": ""
+            }
+        ]
+    }
+]

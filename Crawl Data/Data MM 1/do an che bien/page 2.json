@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Bánh mì sandwich sữa We Are Fresh",
+        "price": "19,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/banh-mi-sandwich-sua-mm-450g-991161/",
+        "category": "do an che bien",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/208147-300x300.jpg",
+        "quantity": "450g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bánh mì trắng mềm We Are Fresh",
+        "price": "19,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/banh-mi-trang-mem-goi-4-cai-75g-991163/",
+        "category": "do an che bien",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/401760-300x300.jpg",
+        "quantity": "gói 4 cái",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bánh muffin Moist chocolate We Are Fresh",
+        "price": "30,000",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/banh-muffin-moist-chocolate-hop-4-cai-55g-991167/",
+        "category": "do an che bien",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "hộp 4 cái",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bánh nho dài We Are Fresh",
+        "price": "37,000",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/banh-nho-dai-mm-hop-4-cai-120g-991169/",
+        "category": "do an che bien",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "hộp 4 cái",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bánh Pate Chaud We Are Fresh",
+        "price": "49,000",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/banh-pate-chaud-mm-hop-6-cai-80g-991170/",
+        "category": "do an che bien",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "hộp 6 cái",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bánh pizza thanh cua We Are Fresh 40cm",
+        "price": "139,000",
+        "unit": "Cái",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/banh-pizza-thanh-cua-mm-40cm-991173/",
+        "category": "do an che bien",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "hộp 6 cái",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bánh pizza xúc xích We Are Fresh 40cm",
+        "price": "139,000",
+        "unit": "Cái",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/banh-pizza-xuc-xich-mm-40cm-991177/",
+        "category": "do an che bien",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "hộp 6 cái",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bông lan cuộn nho We Are Fresh",
+        "price": "27,000",
+        "unit": "Cái",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/bong-lan-cuon-nho-mm-250g-991183/",
+        "category": "do an che bien",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "250g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bánh bông lan cuộn vanilla We Are Fresh",
+        "price": "25,000",
+        "unit": "Cái",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/bong-lan-cuon-vanilla-mm-250g-991186/",
+        "category": "do an che bien",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "250g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bông lan phô mai trứng muối We Are Fresh",
+        "price": "69,000",
+        "unit": "Cái",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/bong-lan-pho-mai-trung-muoi-mm-410g-991188/",
+        "category": "do an che bien",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "410g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Đế bánh pizza We Are Fresh",
+        "price": "57,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/de-banh-pizza-goi-6-cai-120g-991189/",
+        "category": "do an che bien",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "gói 6 cái",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bánh croissant bơ Délifrance",
+        "price": "85,000",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/delifrance-croissant-bo-hop-10-cai-30g-991192/",
+        "category": "do an che bien",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "hộp 10 cái",
+        "domain_url": "https://online.mmvietnam.com/"
+    }
+]

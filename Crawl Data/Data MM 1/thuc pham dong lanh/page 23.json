@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Há cảo Bamboo tôm",
+        "price": "37,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/ha-cao-tom-bamboo-270g/",
+        "category": "thuc pham dong lanh",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/199562-300x300.jpg",
+        "quantity": "270g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bò viên Vissan",
+        "price": "50,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/bo-vien-vissan-200g/",
+        "category": "thuc pham dong lanh",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/194059-300x300.jpg",
+        "quantity": "200g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Chả giò tôm thịt Bigmeal",
+        "price": "186,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/cha-gio-tom-thit-bigmeal-2kg/",
+        "category": "thuc pham dong lanh",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "2kg",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Cá nục gai đông lạnh",
+        "price": "59,000",
+        "unit": "Ký",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/ca-nuc-gai-dong-lanh-12-14-con/",
+        "category": "thuc pham dong lanh",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "12-14 con/kg",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Hoành thánh tôm thịt TopV Agrex",
+        "price": "79,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/hoanh-thanh-tom-thit-topv-agrex-500g-5/",
+        "category": "thuc pham dong lanh",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "500g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Chả giò rế Cầu Tre chay đặc biệt",
+        "price": "45,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/cha-gio-re-chay-dac-biet-cau-tre-500g/",
+        "category": "thuc pham dong lanh",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "500g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Chả giò Cầu Tre thịt đặc biệt",
+        "price": "59,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/cha-gio-dac-biet-thit-cau-tre-500g/",
+        "category": "thuc pham dong lanh",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "500g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bắp ngọt đông lạnh MM Pro",
+        "price": "106,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/bap-ngot-dong-lanh-mm-pro-2kg-2/",
+        "category": "thuc pham dong lanh",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "2kg",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bắp ngọt đông lạnh MM",
+        "price": "56,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/bap-ngot-dong-lanh-mm-1kg/",
+        "category": "thuc pham dong lanh",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "1kg",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Đùi bít tết trâu 41 đông lạnh xuất xứ Ấn Độ",
+        "price": "149,900",
+        "unit": "Ký",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/dui-bittet-trau-41-dong-lanh-xuat-xu-an-do/",
+        "category": "thuc pham dong lanh",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "1kg",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Thanh cua Surimi 3N",
+        "price": "128,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/thanh-cua-surimi-vi-cua-a-p-frozen-500g/",
+        "category": "thuc pham dong lanh",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "500g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Khoai tây Golden Long Mccáin",
+        "price": "82,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/khoai-tay-golden-long-mccain-750g/",
+        "category": "thuc pham dong lanh",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "750g",
+        "domain_url": "https://online.mmvietnam.com/"
+    }
+]

@@ -1,0 +1,221 @@
+[
+    {
+        "name": "Pork and Shrimp Pancit",
+        "cook_time": "PT20M",
+        "prep_time": "PT20M",
+        "total_time": "PT40M",
+        "nutrition": {
+            "calories": "488 kcal",
+            "carbohydrateContent": "44 g",
+            "cholesterolContent": "119 mg",
+            "fiberContent": "2 g",
+            "proteinContent": "29 g",
+            "saturatedFatContent": "4 g",
+            "sodiumContent": "394 mg",
+            "sugarContent": "2 g",
+            "fatContent": "21 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "description": "A traditional Pancit taught to me by a Filipino friend while stationed overseas. Delicious and easy!",
+        "cuisine": "chinese",
+        "category": "Dinner",
+        "ingredient": [
+            {
+                "quantity": "1",
+                "unit": "(6.75 ounce) package",
+                "name": "rice noodles"
+            },
+            {
+                "quantity": "5",
+                "unit": "tablespoons",
+                "name": "vegetable oil, divided"
+            },
+            {
+                "quantity": "1",
+                "unit": "small",
+                "name": "onion, minced"
+            },
+            {
+                "quantity": "2",
+                "unit": "cloves",
+                "name": "garlic, minced"
+            },
+            {
+                "quantity": "½",
+                "unit": "teaspoon",
+                "name": "ground ginger"
+            },
+            {
+                "quantity": "1 ½",
+                "unit": "cups",
+                "name": "cooked small shrimp, diced"
+            },
+            {
+                "quantity": "1 ½",
+                "unit": "cups",
+                "name": "chopped cooked pork"
+            },
+            {
+                "quantity": "4",
+                "unit": "cups",
+                "name": "shredded bok choy"
+            },
+            {
+                "quantity": "3",
+                "unit": "tablespoons",
+                "name": "oyster sauce"
+            },
+            {
+                "quantity": "¼",
+                "unit": "cup",
+                "name": "chicken broth"
+            },
+            {
+                "quantity": "¼",
+                "unit": "teaspoon",
+                "name": "crushed red pepper flakes"
+            },
+            {
+                "quantity": "1",
+                "unit": null,
+                "name": "green onion, minced"
+            }
+        ],
+        "instructions": [
+            {
+                "text": "Soak the rice noodles in warm water for 20 minutes; drain."
+            },
+            {
+                "text": "Heat 3 tablespoons oil in a wok or large heavy skillet over medium-high heat. Saute noodles for 1 minute. Transfer to serving dish, and keep warm. Add remaining 2 tablespoons oil to skillet, and saute onion, garlic, ginger, shrimp and pork for 1 minute."
+            },
+            {
+                "text": "Stir in bok choy, oyster sauce and chicken broth. Season with pepper flakes. Cover, and cook for 1 minute, or until bok choy is wilted. Spoon over noodles, and garnish with minced green onion."
+            }
+        ],
+        "image": "https://www.allrecipes.com/thmb/nNkJtkGhk6dFvfJkpM0XaAA1RgU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/399308-b35ff90a1aeb4a85912c62ff25420db6.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/HCj3ZYFe-K3AjnAEN.mp4",
+            "description": "Elevate your noodle game with this delicious Filipino classic. Preparation couldn’t be easier: simply soak rice noodles in warm water for a few minutes, then get your wok or large skillet hot. Sauté the noodles and set aside, then sauté onion, garlic, ginger and shrimp and pork. Add bok choy, oyster sauce, chicken broth and red pepper flakes. Spoon the meat and veggies over the noodles, garnish with green onion, and enjoy every nutritious and flavorful bite! ",
+            "duration": "PT1M3S",
+            "name": "Pork and Shrimp Pancit"
+        },
+        "url": "https://www.allrecipes.com/recipe/46402/pork-and-shrimp-pancit/"
+    },
+    {
+        "name": "Firecracker Shrimp",
+        "cook_time": "PT5M",
+        "prep_time": "PT15M",
+        "total_time": "PT20M",
+        "nutrition": {
+            "calories": "466 kcal",
+            "carbohydrateContent": "61 g",
+            "cholesterolContent": "239 mg",
+            "fiberContent": "1 g",
+            "proteinContent": "31 g",
+            "saturatedFatContent": "2 g",
+            "sodiumContent": "1535 mg",
+            "sugarContent": "9 g",
+            "fatContent": "10 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "description": "To make these easy firecracker shrimp, simply toss fresh shrimp in a sweet and spicy Asian-inspired sauce and then quickly stir fry in a wok.",
+        "cuisine": "chinese",
+        "category": "Dinner",
+        "ingredient": [
+            {
+                "quantity": "1/4",
+                "unit": "cup",
+                "name": "sweet chili sauce"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "lime zest"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "name": "lime juice"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "name": "riracha"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "name": "soy sauce"
+            },
+            {
+                "quantity": "1",
+                "unit": "pound",
+                "name": "shrimp (41 to 50), peeled and deveined "
+            },
+            {
+                "quantity": "1/4",
+                "unit": "teaspoons",
+                "name": "salt"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "name": "cornstarch"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "name": "peanut oil"
+            },
+            {
+                "quantity": "4",
+                "unit": "cups",
+                "name": "cooked white rice"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "name": "green onions"
+            },
+            {
+                "quantity": "1 1/2",
+                "unit": "teaspoons",
+                "name": "toasted sesame seeds"
+            }
+        ],
+        "instructions": [
+            {
+                "text": "Gather all ingredients."
+            },
+            {
+                "text": "Stir together sweet chili sauce, lime zest, lime juice, sriracha, and soy sauce."
+            },
+            {
+                "text": "Blot shrimp dry with paper towels. Season shrimp with salt."
+            },
+            {
+                "text": "Toss shrimp with cornstarch in a medium bowl to coat."
+            },
+            {
+                "text": "Heat oil in a wok or extra-large nonstick skillet over medium-high heat. Add shrimp and cook until opaque, 2 to 3 minutes. Remove from wok."
+            },
+            {
+                "text": "Add sauce mixture to wok and heat to boiling."
+            },
+            {
+                "text": "Return shrimp to wok and toss to coat."
+            },
+            {
+                "text": "Serve Firecracker Shrimp over rice. Garnish with green onion and sesame seeds."
+            }
+        ],
+        "image": "https://www.allrecipes.com/thmb/gWCSIddsLErR51_AZ-t_NNZkK0Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7499137-firecracker-shrimp-DDMFS-step-8-BG-4223-be3e6ea5ead04dc290b268612af9e18d.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/02qHXD3i-K3AjnAEN.mp4",
+            "description": "Get ready to ignite your taste buds with our sizzling tutorial on how to make Firecracker Shrimp! In this video, we'll guide you through creating a mouthwatering dish that combines succulent shrimp with a fiery blend of flavors and spices. Watch as we marinate and cook these shrimp to perfection, delivering an explosion of nostalgic taste that's sure to impress your palate. Whether you're a culinary enthusiast or a novice, this easy-to-follow recipe will add some heat to your next meal.\n",
+            "duration": "PT57S",
+            "name": "How to Make Firecracker Shrimp"
+        },
+        "url": "https://www.allrecipes.com/firecracker-shrimp-recipe-7499137"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Sữa Milo",
+        "price": "12,300",
+        "unit": "Lon",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/milo-lon-240ml-692266/",
+        "category": "do uong cac loai",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/318845-300x300.jpg",
+        "quantity": "lon 240ml",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Trà sữa matcha hòa tan",
+        "price": "127,000",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/tra-sua-matcha-hoa-tan-hop-8-goi-20g-goi-691835/",
+        "category": "do uong cac loai",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/316005-300x300.jpg",
+        "quantity": "hộp 8 gói",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Topping dâu Golden Farm",
+        "price": "75,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/topping-dau-golden-farm-630g-690450/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "630g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Topping caramel Golden Farm",
+        "price": "75,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/topping-caramel-golden-farm-630g-690471/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "630g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Trà sữa Cozy matcha",
+        "price": "29,000",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/tra-sua-cozy-matcha-hop-18-goi-17g-goi-690705/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "hộp 10 gói",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Cà phê Nescafe Việt sữa đá",
+        "price": "115,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/ca-phe-nescafe-viet-sua-da-goi-600g-690723/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "gói 600g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bột gạo lức hạt sen MM",
+        "price": "35,600",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/bot-gao-luc-hat-sen-mm-hop-10-goi-35g-goi-690769/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "hộp 10 gói",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bột mè đen hạt sen MM",
+        "price": "34,600",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/bot-me-den-hat-sen-mm-hop-10-goi-35g-goi-690790/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "hộp 10 gói",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Nước khoáng Vĩnh Hảo không gas",
+        "price": "82,900",
+        "unit": "Thùng",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/nuoc-khoang-vinh-hao-khong-gas-thung-24-chai-350ml-688960/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "thùng 24 chai",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Nước ion Pocari Sweat",
+        "price": "13,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/nuoc-i-on-pocari-sweat-500ml-688020/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "500ml",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Nước ion Pocari Sweat",
+        "price": "11,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/nuoc-i-on-pocari-sweat-350ml-688088/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "350ml",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Trà xanh Vinatea Thái Nguyên",
+        "price": "37,000",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/tra-xanh-vinatea-thai-nguyen-hop-25-goi-2g-688348/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "hộp 25 gói",
+        "domain_url": "https://online.mmvietnam.com/"
+    }
+]

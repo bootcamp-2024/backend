@@ -1,0 +1,307 @@
+[
+    {
+        "name": "Egg Roll in a Bowl",
+        "cook_time": "PT20M",
+        "prep_time": "PT20M",
+        "total_time": "PT40M",
+        "nutrition": {
+            "calories": "463 kcal",
+            "carbohydrateContent": "38 g",
+            "cholesterolContent": "76 mg",
+            "fiberContent": "7 g",
+            "proteinContent": "27 g",
+            "saturatedFatContent": "7 g",
+            "sodiumContent": "1202 mg",
+            "sugarContent": "13 g",
+            "fatContent": "22 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "description": "Crispy wonton strips top Chef John&#39;s version of an egg roll in a bowl for a crunchy makeover of the takeout favorite.",
+        "cuisine": "chinese",
+        "category": "Dinner",
+        "ingredient": [
+            {
+                "quantity": "6",
+                "unit": " (3.5 inch square)",
+                "name": "wonton wrappers"
+            },
+            {
+                "quantity": "2",
+                "unit": "teaspoons",
+                "name": "vegetable oil"
+            },
+            {
+                "quantity": "3 ½",
+                "unit": "cups",
+                "name": "shredded green cabbage"
+            },
+            {
+                "quantity": "1",
+                "unit": "cup",
+                "name": "julienned carrot"
+            },
+            {
+                "quantity": "¼",
+                "unit": "cup",
+                "name": "julienned red bell pepper"
+            },
+            {
+                "quantity": "⅓",
+                "unit": "cup",
+                "name": "thinly sliced green onions"
+            },
+            {
+                "quantity": "2",
+                "unit": "cloves",
+                "name": "garlic, finely minced"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "name": "soy sauce"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "name": "rice vinegar"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "name": "sake"
+            },
+            {
+                "quantity": "¼",
+                "unit": "teaspoon",
+                "name": "sesame oil"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "white sugar"
+            },
+            {
+                "quantity": "½",
+                "unit": "teaspoon",
+                "name": "freshly grated ginger"
+            },
+            {
+                "quantity": "1",
+                "unit": "pinch",
+                "name": "cayenne pepper"
+            },
+            {
+                "quantity": "¼",
+                "unit": "teaspoon",
+                "name": "white pepper"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "ketchup"
+            },
+            {
+                "quantity": "½",
+                "unit": "teaspoon",
+                "name": "cornstarch"
+            },
+            {
+                "quantity": "½",
+                "unit": "pound",
+                "name": "ground pork"
+            }
+        ],
+        "instructions": [
+            {
+                "text": "Preheat the oven to 350 degrees F (175 degrees C)."
+            },
+            {
+                "text": "Cut wonton wrappers into 1/4-inch strips. Transfer cut wonton wrappers to a baking pan and toss with oil. Spread out evenly."
+            },
+            {
+                "text": "Bake in the preheated oven until browned, about 12 minutes. Let cool and reserve."
+            },
+            {
+                "text": "Combine cabbage, carrot, bell pepper, green onions, and garlic for the bowl. Set aside."
+            },
+            {
+                "text": "Mix soy sauce, rice vinegar, sake, sesame oil, sugar, ginger, cayenne, pepper, ketchup, and cornstarch together for sauce in a bowl and reserve."
+            },
+            {
+                "text": "Add pork to a large skillet set over medium-high heat. Brown the meat well, while breaking up into small crumbles as it cooks, 5 to 7 minutes. Add the vegetable mixture and toss with the meat to combine. Cook, stirring, just until the veggies start to soften, about 2 minutes."
+            },
+            {
+                "text": "Stir in the sauce and toss everything to combine. Cook and stir until the sauce has coated everything evenly, and the vegetables are cooked to desired doneness, 1 to 2 minutes more. Serve in a bowl with crispy wonton strips on top."
+            }
+        ],
+        "image": "https://www.allrecipes.com/thmb/1xRh0hfouvVN4dw9RrxrI6OLu8g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-496-2c552578838a4d39b0f30541ca05b7c1.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/Df7fTKYS-K3AjnAEN.mp4",
+            "description": "In this video, Chef John shows you how to make egg rolls in a bowl.",
+            "duration": "PT8M36S",
+            "name": "Egg Roll in a Bowl"
+        },
+        "url": "https://www.allrecipes.com/recipe/284116/egg-roll-in-a-bowl/"
+    },
+    {
+        "name": "Sweet and Sour Pork",
+        "cook_time": "PT30M",
+        "prep_time": "PT30M",
+        "total_time": "PT120M",
+        "nutrition": {
+            "calories": "663 kcal",
+            "carbohydrateContent": "75 g",
+            "cholesterolContent": "43 mg",
+            "fiberContent": "2 g",
+            "proteinContent": "14 g",
+            "saturatedFatContent": "7 g",
+            "sodiumContent": "1085 mg",
+            "sugarContent": "52 g",
+            "fatContent": "35 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "description": "Sweet and sour pork made with stir-fried tender cubed pork and veggies, coated in a delicious Chinese pineapple sauce made with apple cider vinegar.",
+        "cuisine": "chinese",
+        "category": "Dinner",
+        "ingredient": [
+            {
+                "quantity": "1",
+                "unit": "pound",
+                "name": "pork butt, cut into 1 inch cubes"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "soy sauce"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "salt"
+            },
+            {
+                "quantity": "¼",
+                "unit": "teaspoon",
+                "name": "white sugar"
+            },
+            {
+                "quantity": "1",
+                "unit": null,
+                "name": "egg white"
+            },
+            {
+                "quantity": "2",
+                "unit": null,
+                "name": "green onions, chopped"
+            },
+            {
+                "quantity": "1",
+                "unit": "quart",
+                "name": "vegetable oil for frying"
+            },
+            {
+                "quantity": "½",
+                "unit": "cup",
+                "name": "cornstarch"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "name": "vegetable oil"
+            },
+            {
+                "quantity": "3",
+                "unit": "stalks",
+                "name": "celery, cut into 1/2 inch pieces"
+            },
+            {
+                "quantity": "1",
+                "unit": "medium",
+                "name": "green bell pepper, cut into 1 inch pieces"
+            },
+            {
+                "quantity": "1",
+                "unit": null,
+                "name": "medium onion, cut into wedges"
+            },
+            {
+                "quantity": "1",
+                "unit": "pinch",
+                "name": "white sugar, or to taste"
+            },
+            {
+                "quantity": null,
+                "unit": null,
+                "name": "salt to taste"
+            },
+            {
+                "quantity": "1 ¼",
+                "unit": "cups",
+                "name": "water, divided"
+            },
+            {
+                "quantity": "¾",
+                "unit": "cup",
+                "name": "white sugar"
+            },
+            {
+                "quantity": "⅓",
+                "unit": "cup",
+                "name": "apple cider vinegar"
+            },
+            {
+                "quantity": "¼",
+                "unit": "cup",
+                "name": "ketchup"
+            },
+            {
+                "quantity": "½",
+                "unit": "teaspoon",
+                "name": "soy sauce"
+            },
+            {
+                "quantity": "¼",
+                "unit": "teaspoon",
+                "name": "salt"
+            },
+            {
+                "quantity": "1",
+                "unit": "(8 ounce) can",
+                "name": "pineapple chunks, undrained"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "name": "cornstarch"
+            }
+        ],
+        "instructions": [
+            {
+                "text": "Place cubed pork in a medium bowl and season with soy sauce, salt, and sugar for marinade. Add egg white and green onions and mix until well-combined. Cover and place in the refrigerator for at least 1 hour."
+            },
+            {
+                "text": "Heat 1 quart oil to 365 degrees F (185 degrees C) in a large, heavy saucepan or deep fryer."
+            },
+            {
+                "text": "Coat pork with cornstarch and fry in hot oil until evenly browned, about 10 minutes. Drain on paper towels and set aside."
+            },
+            {
+                "text": "Heat oil for vegetables in a wok over medium heat. Stir in celery, bell pepper, and onion; cook until tender, about 5 minutes. Season with pinch of sugar and salt. Remove from heat and set aside."
+            },
+            {
+                "text": "Mix 1 cup water, 3/4 cup sugar, apple cider vinegar, ketchup, soy sauce, and salt in a large saucepan; bring to a boil over high heat."
+            },
+            {
+                "text": "Stir in cooked pork, celery mixture, and pineapple chunks with juice. Return to a boil, then mix in remaining1/4 cup water and cornstarch. Cook until thickened and warmed through, about 2 minutes."
+            }
+        ],
+        "image": "https://www.allrecipes.com/thmb/pUoMW9sSyai9xW8UDf9LFc670VM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/265130-a9d8d4e359cb406dbdee5752cd9c9d71.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/Qbd40qOG-ma1DlVvV.mp4",
+            "description": "AR0998",
+            "duration": "PT7M18S",
+            "name": "Sweet and Sour Pork IIII"
+        },
+        "url": "https://www.allrecipes.com/recipe/31144/sweet-and-sour-pork-iii/"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Tokbokki O'food 105g",
+        "category": "tokbokki",
+        "url": "https://www.bachhoaxanh.com/tokbokki/banh-gao-tokbokki-ofood-vi-truyen-thong-ly-105g",
+        "image": "https://cdn.tgdd.vn/Products/Images/7162/223783/bhx/banh-gao-tokbokki-ofood-vi-truyen-thong-ly-105g-202306271011193914_300x300.jpg",
+        "price": "30500",
+        "weight": "",
+        "price_per_kg": "",
+        "domain_url": "https://www.bachhoaxanh.com"
+    },
+    {
+        "name": "Tokbokki phô mai O'food 105g",
+        "category": "tokbokki",
+        "url": "https://www.bachhoaxanh.com/tokbokki/banh-gao-tokbokki-ofood-vi-pho-mai-ly-105g",
+        "image": "https://cdn.tgdd.vn/Products/Images/7162/223781/bhx/banh-gao-tokbokki-ofood-vi-pho-mai-ly-105g-202306271011263198_300x300.jpg",
+        "price": "30500",
+        "weight": "",
+        "price_per_kg": "",
+        "domain_url": "https://www.bachhoaxanh.com"
+    },
+    {
+        "name": "Bánh gạo Hàn Quốc có xốt HT Food 400g",
+        "category": "tokbokki",
+        "url": "https://www.bachhoaxanh.com/banh-dong-cac-loai/banh-gao-tteokbokki-han-quoc-co-xot-ht-food-goi-400g",
+        "image": "https://cdn.tgdd.vn/Products/Images/10778/267829/bhx/banh-gao-tteokbokki-han-quoc-co-xot-ht-food-400g-202308101033356288_300x300.jpg",
+        "price": "42500",
+        "weight": "/400g",
+        "price_per_kg": "",
+        "domain_url": "https://www.bachhoaxanh.com"
+    }
+]

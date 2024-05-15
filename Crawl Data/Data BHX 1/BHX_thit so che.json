@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Giò sống MVP 200g",
+        "category": "thit so che",
+        "url": "https://www.bachhoaxanh.com/thit-so-che/gio-song-tui-200g?preFreshType=normal",
+        "image": "https://cdn.tgdd.vn/Products/Images/12718/222941/bhx/gio-song-200g-202403211106569274_300x300.jpg",
+        "price": "37400",
+        "weight": "/200g",
+        "price_per_kg": "",
+        "domain_url": "https://www.bachhoaxanh.com"
+    },
+    {
+        "name": "Nem nướng MVP gói 250g",
+        "category": "thit so che",
+        "url": "https://www.bachhoaxanh.com/thit-so-che/nem-nuong-mvp-goi-250g?preFreshType=normal",
+        "image": "https://cdn.tgdd.vn/Products/Images/12718/304750/bhx/nem-nuong-mvp-250g-202403251603524951_300x300.jpg",
+        "price": "48800",
+        "weight": "/250g",
+        "price_per_kg": "",
+        "domain_url": "https://www.bachhoaxanh.com"
+    },
+    {
+        "name": "Mắm chưng 100g",
+        "category": "thit so che",
+        "url": "https://www.bachhoaxanh.com/thit-so-che/mam-chung-ngoc-tu-chen-100g?preFreshType=normal",
+        "image": "https://cdn.tgdd.vn/Products/Images/12718/304914/bhx/mam-chung-hop-100g-202403260828193766_300x300.jpg",
+        "price": "26200",
+        "weight": "/100g",
+        "price_per_kg": "",
+        "domain_url": "https://www.bachhoaxanh.com"
+    },
+    {
+        "name": "Gà nổ muối Thu Hằng gói 500g",
+        "category": "thit so che",
+        "url": "https://www.bachhoaxanh.com/gio-cha/ga-no-muoi-thu-hang-goi-500g",
+        "image": "https://cdn.tgdd.vn/Products/Images/7169/319543/bhx/ga-no-muoi-thu-hang-goi-500g-202403141409539783_300x300.jpg",
+        "price": "96500",
+        "weight": "/500g",
+        "price_per_kg": "",
+        "domain_url": "https://www.bachhoaxanh.com"
+    },
+    {
+        "name": "Bắp giò heo hun khói Thu Hằng gói 300g",
+        "category": "thit so che",
+        "url": "https://www.bachhoaxanh.com/gio-cha/bap-gio-heo-hun-khoi-thu-hang-goi-300g",
+        "image": "https://cdn.tgdd.vn/Products/Images/7169/319855/bhx/bap-gio-heo-hun-khoi-thu-hang-goi-300g-202403251556367186_300x300.jpg",
+        "price": "78000",
+        "weight": "/300g",
+        "price_per_kg": "",
+        "domain_url": "https://www.bachhoaxanh.com"
+    }
+]

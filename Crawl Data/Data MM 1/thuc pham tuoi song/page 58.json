@@ -1,0 +1,112 @@
+[
+    {
+        "name": "Ớt chuông đỏ Đà Lạt We Are Fresh",
+        "price": "59,000",
+        "unit": "Khay",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/ot-chuong-do-we-are-fresh-800g/",
+        "category": "thuc pham tuoi song",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/206644-300x300.jpg",
+        "quantity": "800g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Chanh không hạt Long An",
+        "price": "29,000",
+        "unit": "Ký",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/chanh-khong-hat-2/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "800g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Nghêu sống",
+        "price": "49,000",
+        "unit": "Ký",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/ngheu-ngao-song-40-60-con-kg/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "40-60 con/kg",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Thanh long ruột đỏ",
+        "price": "30,000",
+        "unit": "Ký",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/thanh-long-ruot-do-trai-hon-400g/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "400g trở lên",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Khoai lang giống Nhật",
+        "price": "16,000",
+        "unit": "Ký",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/khoai-lang-giong-nhat-6/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "400g trở lên",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Đùi gọ bò đông lạnh xuất xứ Úc",
+        "price": "199,000",
+        "unit": "Ký",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/dui-go-bo-dong-lanh-xuat-xu-uc/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "400g trở lên",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Đùi bít tết bò Úc đông lạnh We Are Fresh",
+        "price": "199,000",
+        "unit": "Ký",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/dui-bit-tet-bo-uc-dong-lanh-21/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "400g trở lên",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Cam sành vắt nước Tiền Giang",
+        "price": "15,000",
+        "unit": "Ký",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/cam-sanh-vat-nuoc-6/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "150g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Ổi lê giống Đài Loan",
+        "price": "18,000",
+        "unit": "Ký",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/oi-le-giong-dai-loan-8/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "200g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Xoài giống Đài Loan",
+        "price": "19,900",
+        "unit": "Ký",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/xoai-giong-dai-loan-6/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "200g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Sầu riêng Ri 6",
+        "price": "99,000",
+        "unit": "Ký",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/sau-rieng-ri-6-8/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "200g",
+        "domain_url": "https://online.mmvietnam.com/"
+    }
+]

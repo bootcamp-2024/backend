@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Cá kèo sống",
+        "price": "349,000",
+        "unit": "Ký",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/ca-keo-song-10-15cm-con-8/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "10-15 cm/con",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Đu đủ ruột vàng Tiền Giang",
+        "price": "13,000",
+        "unit": "Ký",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/du-du-ruot-vang-hao-hang-8/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "10-15 cm/con",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Cá chình nước ngọt sống 0.7-1.0 kg/con",
+        "price": "310,000",
+        "unit": "Ký",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/ca-chinh-nuoc-ngot-song-0-7-1kg-con-8/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "10-15 cm/con",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bắp đùi/tay bò tinh loại 1",
+        "price": "305,000",
+        "unit": "Ký",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/bap-bo-tinh-loai-1-3/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "10-15 cm/con",
+        "domain_url": "https://online.mmvietnam.com/"
+    }
+]

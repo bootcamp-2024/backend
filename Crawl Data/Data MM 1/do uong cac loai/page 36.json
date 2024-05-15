@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Bia Pilsner Urquel",
+        "price": "63,000",
+        "unit": "Lon",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/bia-pilsner-urquel-lon-500ml-745614/",
+        "category": "do uong cac loai",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/314810-300x300.jpg",
+        "quantity": "lon 500ml",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bia Grolsch Premium Lager",
+        "price": "86,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/bia-grolsch-premium-lager-chai-450ml-745635/",
+        "category": "do uong cac loai",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/337227-300x300.jpg",
+        "quantity": "chai 450ml",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bia Super Bock",
+        "price": "38,600",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/bia-super-bock-chai-250ml-745647/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "chai 250ml",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bia G de Goudale Grand Cru",
+        "price": "139,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/bia-g-de-goudale-grand-cru-chai-330ml-745668/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "chai 330ml",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bia Chimay Triple Ale",
+        "price": "105,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/bia-chimay-triple-ale-chai-330ml-745698/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "chai 330ml",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bia Heineken 0.0% độ cồn",
+        "price": "400,000",
+        "unit": "Thùng",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/bia-heineken-0-0-do-con-thung-24-lon-330ml-745719/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "thùng 24 lon",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bia Feldschlobchen Urbock",
+        "price": "53,000",
+        "unit": "Lon",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/bia-feldschlobchen-urbock-lon-500ml-745760/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "lon 500ml",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bia Tsingtao 1903",
+        "price": "45,000",
+        "unit": "Lon",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/bia-tsingtao-1903-lon-500ml-745777/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "lon 500ml",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bia Tsingtao Lager",
+        "price": "469,000",
+        "unit": "Thùng",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/bia-tsingtao-lager-thung-24-lon-330ml-745794/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "thùng 24 lon",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bia Tsingtao 1903",
+        "price": "519,000",
+        "unit": "Thùng",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/bia-tsingtao-1903-thung-12-lon-500ml-745811/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "thùng 12 lon",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bia Carlsberg Danish Pilsner",
+        "price": "425,000",
+        "unit": "Thùng",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/bia-carlsberg-danish-pilsner-thung-24-lon-330ml-745849/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "thùng 24 lon",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bia Leffe nâu",
+        "price": "52,400",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/bia-leffe-nau-chai-330ml-745887/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "chai 330ml",
+        "domain_url": "https://online.mmvietnam.com/"
+    }
+]

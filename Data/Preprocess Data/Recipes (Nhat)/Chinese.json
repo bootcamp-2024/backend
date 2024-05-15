@@ -1,0 +1,217 @@
+[
+    {
+        "name": "Lo Mein Noodles",
+        "cook_time": "0:25:00",
+        "prep_time": "0:15:00",
+        "total_time": "0:40:00",
+        "nutrition": {
+            "calories": "344 kcal",
+            "carbohydrateContent": "60 g",
+            "fiberContent": "4 g",
+            "proteinContent": "9 g",
+            "saturatedFatContent": "1 g",
+            "sodiumContent": "798 mg",
+            "sugarContent": "15 g",
+            "fatContent": "8 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "description": "These lo mein noodles feature spaghetti and crisp vegetables flavored with soy sauce, teriyaki, honey, and ginger for a quick and easy weeknight dish.",
+        "cuisine": "chinese",
+        "category": "Side Dish",
+        "instructions": [
+            "Gather all ingredients.",
+            "Bring a large pot of lightly salted water to a boil. Cook spaghetti in boiling water, stirring occasionally, until tender yet firm to the bite, about 12 minutes; drain, then rinse with cold water to cool.",
+            "Meanwhile, whisk together soy sauce, teriyaki sauce, honey, and ginger in a small bowl; set aside.",
+            "Heat oil in a large skillet or wok over high heat. Cook and stir celery, carrots, onion, and green onions in hot oil until slightly tender, 5 to 7 minutes.",
+            "Add spaghetti and soy sauce mixture. Cook, stirring frequently, until heated through, about 5 minutes."
+        ],
+        "image": "https://www.allrecipes.com/thmb/Px7y2LlDPmeKlH6PgJ2H-15baEk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/233446-lo-mein-noodles-dmfs-4x3-1356-1493-64be4dff0a84483b8e7716d6020fb1d5.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/ANm2xa9A-K3AjnAEN.mp4",
+            "description": "In this video, we'll show you how to make a delicious lo mein noodle dish! Cooked and cooled spaghetti is tossed with seared veggies. Then it's warmed up and drizzled with a homemade ginger teriyaki sauce.",
+            "duration": "0:01:07",
+            "name": "Lo Mein Noodles"
+        },
+        "url": "https://www.allrecipes.com/recipe/233446/lo-mein-noodles/",
+        "tags": [
+            "Stir-Fries",
+            "Vegetarian Stir-Fry"
+        ],
+        "ingredients": [
+            {
+                "quantity": 1.0,
+                "unit": "(8 ounce) package",
+                "name": "spaghetti",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 3.0,
+                "unit": "tablespoons",
+                "name": "low-sodium soy sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "teriyaki sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "honey",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "teaspoon",
+                "name": "ground ginger",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "vegetable oil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 3.0,
+                "unit": "stalks",
+                "name": "celery, sliced",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "large",
+                "name": "carrots, cut into large matchsticks",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": null,
+                "name": "sweet onion, thinly sliced",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": null,
+                "name": "green onions, sliced",
+                "prepare_type": ""
+            }
+        ]
+    },
+    {
+        "name": "Ginger Veggie Stir-Fry",
+        "cook_time": "0:15:00",
+        "prep_time": "0:25:00",
+        "total_time": "0:40:00",
+        "nutrition": {
+            "calories": "119 kcal",
+            "carbohydrateContent": "8 g",
+            "fiberContent": "2 g",
+            "proteinContent": "2 g",
+            "saturatedFatContent": "2 g",
+            "sodiumContent": "903 mg",
+            "sugarContent": "3 g",
+            "fatContent": "9 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "description": "This easy vegetable stir-fry with garlic and ginger calls for broccoli, snow peas, carrots, and green beans, but you can use any of your favorites.",
+        "cuisine": "chinese",
+        "category": "Dinner",
+        "instructions": [
+            "Gather all ingredients.",
+            "Place 2 tablespoons vegetable oil, 1 teaspoon ginger, garlic, and cornstarch in a large bowl; mix until cornstarch is dissolved.",
+            "Add broccoli, carrots, snow peas, and green beans; toss lightly to coat.",
+            "Heat remaining 2 tablespoons vegetable oil in a large skillet or wok over medium heat. Add vegetable mixture and cook for 2 minutes, stirring constantly to prevent burning.",
+            "Stir in water and soy sauce; add onion, salt, and remaining 1 teaspoon ginger. Cook and stir until vegetables are tender but crisp.",
+            "Serve hot and enjoy!"
+        ],
+        "image": "https://www.allrecipes.com/thmb/dcJLnSZrqStUxwGsc87idivCylE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/24712-ginger-veggie-stir-fry-DDMFS-4X3-3f25aaf303e04c849a71cc1e448dae6d.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/BKCMlquA-ma1DlVvV.mp4",
+            "description": "Your favorite veggies stir-fried with garlic, ginger, and soy sauce.",
+            "duration": "0:02:21",
+            "name": "Ginger Veggie Stir-Fry"
+        },
+        "url": "https://www.allrecipes.com/recipe/24712/ginger-veggie-stir-fry/",
+        "tags": [
+            "Stir-Fries",
+            "Vegetarian Stir-Fry"
+        ],
+        "ingredients": [
+            {
+                "quantity": 4.0,
+                "unit": "tablespoons",
+                "name": "vegetable oil, divided",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "teaspoons",
+                "name": "chopped fresh ginger root, divided",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.5,
+                "unit": "cloves",
+                "name": "garlic, crushed",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "cornstarch",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "small head",
+                "name": "broccoli, cut into florets",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.75,
+                "unit": "cup",
+                "name": "julienned carrots",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "name": "snow peas",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "name": "halved green beans",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.5,
+                "unit": "tablespoons",
+                "name": "water",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "soy sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "chopped onion",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "tablespoon",
+                "name": "salt",
+                "prepare_type": ""
+            }
+        ]
+    }
+]

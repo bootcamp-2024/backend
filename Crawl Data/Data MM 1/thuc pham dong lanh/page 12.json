@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Bánh ít trần Cholimex",
+        "price": "46,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/banh-it-tran-cholimex-goi-500g-695727/",
+        "category": "thuc pham dong lanh",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/347510-300x300.jpg",
+        "quantity": "gói 500g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Sủi cảo tôm thịt Cholimex",
+        "price": "42,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/sui-cao-tom-thit-cholimex-goi-300g-695748/",
+        "category": "thuc pham dong lanh",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/347511-300x300.jpg",
+        "quantity": "gói 300g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bò viên đặc biệt",
+        "price": "189,000",
+        "unit": "Ký",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/bo-vien-dac-biet-694548/",
+        "category": "thuc pham dong lanh",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "gói 300g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bánh cuốn hải sản GN",
+        "price": "44,800",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/banh-cuon-hai-san-gn-goi-250g-692746/",
+        "category": "thuc pham dong lanh",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "gói 250g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bắp non MM",
+        "price": "59,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/bap-non-mm-goi-1kg-691020/",
+        "category": "thuc pham dong lanh",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "gói 1kg",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Gà popcorn poultry",
+        "price": "56,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/ga-popcorn-poultry-goi-300g-691059/",
+        "category": "thuc pham dong lanh",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "gói 300g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Nem lụi Vissan",
+        "price": "58,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/nem-lui-vissan-goi-300g-691272/",
+        "category": "thuc pham dong lanh",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "gói 300g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bò trộn lá lốt Vissan",
+        "price": "35,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/bo-tron-la-lot-vissan-200g-691286/",
+        "category": "thuc pham dong lanh",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "200g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Chả lụa chay Phạm Gia Phát",
+        "price": "76,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/cha-lua-chay-pham-gia-phat-500g-690190/",
+        "category": "thuc pham dong lanh",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "500g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Nem chua rán Đông Đô",
+        "price": "119,000",
+        "unit": "Khay",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/nem-chua-ran-dong-do-420g-686382/",
+        "category": "thuc pham dong lanh",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "420g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Xíu mại tôm Bamboo GN",
+        "price": "66,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/xiu-mai-tom-bamboo-gn-goi-300g-685270/",
+        "category": "thuc pham dong lanh",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "300g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Cá viên basa thì là",
+        "price": "49,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/ca-vien-basa-thi-la-goi-500g-684740/",
+        "category": "thuc pham dong lanh",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "gói 500g",
+        "domain_url": "https://online.mmvietnam.com/"
+    }
+]

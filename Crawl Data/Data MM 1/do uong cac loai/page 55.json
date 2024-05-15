@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Rượu Chivas Regal 12Y",
+        "price": "819,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/ruou-chivas-regal-12y-70cl-545995/",
+        "category": "do uong cac loai",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/321201-300x300.jpg",
+        "quantity": "70CL",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Vang đỏ Vivazz/Nouvo Sangria",
+        "price": "135,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/ruou-nouvo-sangria-do-75cl-545415/",
+        "category": "do uong cac loai",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/313881-300x300.jpg",
+        "quantity": "75CL",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Vang trắng Vivazz/Nouvo Sangria",
+        "price": "129,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/ruou-nouvo-sangria-white-75cl-545435/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "75CL",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Rượu Magnificus Sweet Red",
+        "price": "109,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/ruou-magnificus-sweet-red-75cl-544629/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "75CL",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Rượu Hennessy V.Special 40% + hộp",
+        "price": "829,000",
+        "unit": "Bộ",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/ruou-hennessy-v-special-40-70clhop-544702/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "70CL",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Rượu Korice Mak Geol Li",
+        "price": "64,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/ruou-korice-mak-geol-li-75cl-544248/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "75CL",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Trà xanh Thái Nguyên Bắc đặc sản",
+        "price": "30,000",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/tra-xanh-thai-nguyen-bac-dac-san-100g-542461/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "100g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Rượu vang Pavo Real Cabernet Sauvignon Reserva",
+        "price": "369,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/ruou-vang-pavo-real-cabernet-sauvignon-reserva-75cl-541661/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "75CL",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Rượu Bravo Caberbet Sauvignon Reserva",
+        "price": "349,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/ruou-vang-do-bravo-caberbet-sauvignon-reserva-75cl-541680/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "75CL",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Vang đỏ Đà Lạt Dankia",
+        "price": "99,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/ruou-vang-do-dalat-dankia-75cl-541997/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "75CL",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bia Tiger",
+        "price": "15,500",
+        "unit": "Lon",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/bia-tiger-330ml-540299/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "330ml",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Rượu Viesta Classic Red",
+        "price": "119,000",
+        "unit": "Chai",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/ruou-viesta-classic-red-75cl-539992/",
+        "category": "do uong cac loai",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "75CL",
+        "domain_url": "https://online.mmvietnam.com/"
+    }
+]

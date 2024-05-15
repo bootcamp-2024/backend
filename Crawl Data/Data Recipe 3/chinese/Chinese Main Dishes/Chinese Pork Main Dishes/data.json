@@ -1,0 +1,1110 @@
+[
+    {
+        "name": "Sweet and Sour Pork",
+        "cook_time": "PT30M",
+        "prep_time": "PT30M",
+        "total_time": "PT120M",
+        "nutrition": {
+            "calories": "663 kcal",
+            "carbohydrateContent": "75 g",
+            "cholesterolContent": "43 mg",
+            "fiberContent": "2 g",
+            "proteinContent": "14 g",
+            "saturatedFatContent": "7 g",
+            "sodiumContent": "1085 mg",
+            "sugarContent": "52 g",
+            "fatContent": "35 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "description": "Sweet and sour pork made with stir-fried tender cubed pork and veggies, coated in a delicious Chinese pineapple sauce made with apple cider vinegar.",
+        "cuisine": "chinese",
+        "category": "Dinner",
+        "ingredient": [
+            {
+                "quantity": "1",
+                "unit": "pound",
+                "name": "pork butt, cut into 1 inch cubes"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "soy sauce"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "salt"
+            },
+            {
+                "quantity": "¼",
+                "unit": "teaspoon",
+                "name": "white sugar"
+            },
+            {
+                "quantity": "1",
+                "unit": null,
+                "name": "egg white"
+            },
+            {
+                "quantity": "2",
+                "unit": null,
+                "name": "green onions, chopped"
+            },
+            {
+                "quantity": "1",
+                "unit": "quart",
+                "name": "vegetable oil for frying"
+            },
+            {
+                "quantity": "½",
+                "unit": "cup",
+                "name": "cornstarch"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "name": "vegetable oil"
+            },
+            {
+                "quantity": "3",
+                "unit": "stalks",
+                "name": "celery, cut into 1/2 inch pieces"
+            },
+            {
+                "quantity": "1",
+                "unit": "medium",
+                "name": "green bell pepper, cut into 1 inch pieces"
+            },
+            {
+                "quantity": "1",
+                "unit": null,
+                "name": "medium onion, cut into wedges"
+            },
+            {
+                "quantity": "1",
+                "unit": "pinch",
+                "name": "white sugar, or to taste"
+            },
+            {
+                "quantity": null,
+                "unit": null,
+                "name": "salt to taste"
+            },
+            {
+                "quantity": "1 ¼",
+                "unit": "cups",
+                "name": "water, divided"
+            },
+            {
+                "quantity": "¾",
+                "unit": "cup",
+                "name": "white sugar"
+            },
+            {
+                "quantity": "⅓",
+                "unit": "cup",
+                "name": "apple cider vinegar"
+            },
+            {
+                "quantity": "¼",
+                "unit": "cup",
+                "name": "ketchup"
+            },
+            {
+                "quantity": "½",
+                "unit": "teaspoon",
+                "name": "soy sauce"
+            },
+            {
+                "quantity": "¼",
+                "unit": "teaspoon",
+                "name": "salt"
+            },
+            {
+                "quantity": "1",
+                "unit": "(8 ounce) can",
+                "name": "pineapple chunks, undrained"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "name": "cornstarch"
+            }
+        ],
+        "instructions": [
+            {
+                "text": "Place cubed pork in a medium bowl and season with soy sauce, salt, and sugar for marinade. Add egg white and green onions and mix until well-combined. Cover and place in the refrigerator for at least 1 hour."
+            },
+            {
+                "text": "Heat 1 quart oil to 365 degrees F (185 degrees C) in a large, heavy saucepan or deep fryer."
+            },
+            {
+                "text": "Coat pork with cornstarch and fry in hot oil until evenly browned, about 10 minutes. Drain on paper towels and set aside."
+            },
+            {
+                "text": "Heat oil for vegetables in a wok over medium heat. Stir in celery, bell pepper, and onion; cook until tender, about 5 minutes. Season with pinch of sugar and salt. Remove from heat and set aside."
+            },
+            {
+                "text": "Mix 1 cup water, 3/4 cup sugar, apple cider vinegar, ketchup, soy sauce, and salt in a large saucepan; bring to a boil over high heat."
+            },
+            {
+                "text": "Stir in cooked pork, celery mixture, and pineapple chunks with juice. Return to a boil, then mix in remaining1/4 cup water and cornstarch. Cook until thickened and warmed through, about 2 minutes."
+            }
+        ],
+        "image": "https://www.allrecipes.com/thmb/pUoMW9sSyai9xW8UDf9LFc670VM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/265130-a9d8d4e359cb406dbdee5752cd9c9d71.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/Qbd40qOG-ma1DlVvV.mp4",
+            "description": "AR0998",
+            "duration": "PT7M18S",
+            "name": "Sweet and Sour Pork IIII"
+        },
+        "url": "https://www.allrecipes.com/recipe/31144/sweet-and-sour-pork-iii/"
+    },
+    {
+        "name": "Lazy Pork Dumplings",
+        "cook_time": "PT10M",
+        "prep_time": "PT40M",
+        "total_time": "PT110M",
+        "nutrition": {
+            "calories": "50 kcal",
+            "carbohydrateContent": "4 g",
+            "cholesterolContent": "10 mg",
+            "fiberContent": "0 g",
+            "proteinContent": "3 g",
+            "saturatedFatContent": "1 g",
+            "sodiumContent": "313 mg",
+            "sugarContent": "0 g",
+            "fatContent": "2 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "description": "Use Chef John&#39;s shortcut method for fast and easy pork potstickers that taste like soup dumplings when thrown into a seasoned broth.",
+        "cuisine": "chinese",
+        "category": "Dinner",
+        "ingredient": [
+            {
+                "quantity": "2",
+                "unit": "cups",
+                "name": "all-purpose flour, or more as needed"
+            },
+            {
+                "quantity": "¾",
+                "unit": "cup",
+                "name": "warm water"
+            },
+            {
+                "quantity": "½",
+                "unit": "teaspoon",
+                "name": "kosher salt"
+            },
+            {
+                "quantity": "2",
+                "unit": "pounds",
+                "name": "ground pork"
+            },
+            {
+                "quantity": "8",
+                "unit": "cloves",
+                "name": "garlic, minced"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "name": "grated fresh ginger "
+            },
+            {
+                "quantity": "⅔",
+                "unit": "cup",
+                "name": "thinly sliced green onions"
+            },
+            {
+                "quantity": "½",
+                "unit": "cup",
+                "name": "thinly sliced chives"
+            },
+            {
+                "quantity": "4",
+                "unit": "teaspoons",
+                "name": "kosher salt"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "freshly ground black pepper"
+            },
+            {
+                "quantity": "2",
+                "unit": "teaspoons",
+                "name": "gochugaru (Korean red pepper flakes) (Optional)"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "name": "soy sauce (Optional)"
+            },
+            {
+                "quantity": "2",
+                "unit": "teaspoons",
+                "name": "sesame oil"
+            },
+            {
+                "quantity": "⅓",
+                "unit": "cup",
+                "name": "seasoned rice vinegar (Optional)"
+            },
+            {
+                "quantity": "3",
+                "unit": "tablespoons",
+                "name": "soy sauce, or to taste (Optional)"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "gochugaru (Korean red pepper flakes) (Optional)"
+            },
+            {
+                "quantity": "4",
+                "unit": "cups",
+                "name": "chicken broth (Optional)"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "vegetable oil"
+            }
+        ],
+        "instructions": [
+            {
+                "text": "Combine flour, salt, and water in a bowl. Mix with a wooden spoon until dough comes together in a sticky ball. Sprinkle in more flour and knead by hand, adding more flour as needed, until soft and supple. Wrap in plastic and let rest at room temperature for 1 hour."
+            },
+            {
+                "text": "Combine ground pork, garlic, ginger, green onions, and chives in bowl. Season with salt, pepper, gochugaru, soy sauce, and sesame oil. Mix together using two forks just until combined. Cover with plastic wrap and refrigerate until ready to use."
+            },
+            {
+                "text": "Mix vinegar, soy sauce, and gochugaru into the chicken broth and set aside."
+            },
+            {
+                "text": "Divide dough into 4 pieces. Roll one piece into a rope about the thickness of your thumb. Using a rolling pin, flatten into a long, thin band about 3 inches wide, flouring only as needed. Dust the top with flour and flip over. Dip your fingers in some water and lightly brush the surface until slightly sticky."
+            },
+            {
+                "text": "Use moistened fingers to line about 1/4 of the pork filling across the dough. Fold dough over the whole length, pressing it down over the meat. Trim off excess dough if desired. Dust a little more flour on top and roll over so seam side is on the bottom. Divide into 16 pieces using the edge of your hand, then a bench scraper to cut. Repeat with remaining dough and filling."
+            },
+            {
+                "text": "Heat oil in a pan over high heat. Cook dumplings in batches, seam-side up, until golden brown, 1 to 2 minutes per side. Pour in a portion of the broth and bring to a boil. Cover and continue to boil until pork is no longer pink, about 3 minutes. Pour dumplings with broth into serving bowls."
+            }
+        ],
+        "image": "https://www.allrecipes.com/thmb/uL9iP9Oem9gMyzX0S25EUUxA17E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7107994-79d527076c5a4e5cb79ca4a963f51043.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/7aJGHbcq-K3AjnAEN.mp4",
+            "description": "While the filling and dough are relatively straightforward, it's usually the shaping of dumplings that takes a while. Here I've come up with a much quicker, more casual assembly method that works whether you boil, steam, or fry them.",
+            "duration": "PT10M11S",
+            "name": "Lazy Pork Dumplings"
+        },
+        "url": "https://www.allrecipes.com/recipe/276226/lazy-pork-dumplings/"
+    },
+    {
+        "name": "Pork Wonton Soup",
+        "cook_time": "PT20M",
+        "prep_time": "PT60M",
+        "total_time": "PT140M",
+        "nutrition": {
+            "calories": "513 kcal",
+            "carbohydrateContent": "58 g",
+            "cholesterolContent": "106 mg",
+            "fiberContent": "10 g",
+            "proteinContent": "32 g",
+            "saturatedFatContent": "5 g",
+            "sodiumContent": "846 mg",
+            "sugarContent": "5 g",
+            "fatContent": "16 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "description": "Steamed pork-filled wontons and steamed vegetables make a hearty and satisfying soup.",
+        "cuisine": "chinese",
+        "category": "Dinner",
+        "ingredient": [
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "name": "rice wine"
+            },
+            {
+                "quantity": "½",
+                "unit": "teaspoon",
+                "name": "cornstarch"
+            },
+            {
+                "quantity": "¾",
+                "unit": "pound",
+                "name": "ground pork"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "name": "finely chopped green onion (white and light green parts)"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "name": "soy sauce"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "minced fresh ginger"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "sesame oil"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "white sugar"
+            },
+            {
+                "quantity": null,
+                "unit": null,
+                "name": "salt to taste"
+            },
+            {
+                "quantity": "25",
+                "unit": null,
+                "name": "wonton wrappers"
+            },
+            {
+                "quantity": "1",
+                "unit": null,
+                "name": "egg, beaten"
+            },
+            {
+                "quantity": "3",
+                "unit": "heads ",
+                "name": "bok choy, sliced"
+            },
+            {
+                "quantity": "10",
+                "unit": null,
+                "name": "sugar snap peas, sliced"
+            },
+            {
+                "quantity": "1",
+                "unit": null,
+                "name": "carrot, thinly sliced"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "name": "finely chopped green onion (white and light green parts)"
+            },
+            {
+                "quantity": "2",
+                "unit": "cups",
+                "name": "chicken broth"
+            },
+            {
+                "quantity": "1",
+                "unit": "cup",
+                "name": "water"
+            },
+            {
+                "quantity": "¼",
+                "unit": "cup",
+                "name": "finely chopped green onion (white and light green parts)"
+            }
+        ],
+        "instructions": [
+            {
+                "text": "Whisk rice wine and cornstarch together in large bowl. Add ground pork, 2 tablespoons green onion, soy sauce, ginger, sesame oil, and sugar; stir until well combined and paste-like, about 10 minutes. Cover and refrigerate for 1 hour."
+            },
+            {
+                "text": "Place about 1 tablespoon pork mixture in the middle of a wonton wrapper. Brush edges with beaten egg and pinch edges to seal, creating a small pouch. Repeat with remaining wonton wrappers and pork mixture. Refrigerate until ready to use."
+            },
+            {
+                "text": "Place a steamer insert into a saucepan and fill with water to just below the bottom of the steamer. Bring water to a boil. Add bok choy, snap peas, carrot, and 2 tablespoons green onion, cover, and steam until tender, 2 to 6 minutes. Remove and distribute evenly among 4 soup bowls."
+            },
+            {
+                "text": "Place wontons in steamer basket and steam until pork is no longer pink inside, about 10 minutes. Remove and place in soup bowls alongside vegetables."
+            },
+            {
+                "text": "Heat chicken broth and water in a saucepan until hot, 5 to 7 minutes. Pour hot broth mixture evenly into soup bowls atop vegetables and wontons. Sprinkle 1/4 cup chopped green onion evenly over each bowl."
+            }
+        ],
+        "image": "https://www.allrecipes.com/thmb/O_cIHfhm5kwceLx_C8kiWpyFI_M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/973034-d7fdf3f985e14f07a041920aff413cab.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/u6QngzYa-ma1DlVvV.mp4",
+            "description": "See how to make traditional Chinese wonton soup.",
+            "duration": "PT4M47S",
+            "name": "How to Make Wonton Soup"
+        },
+        "url": "https://www.allrecipes.com/recipe/231306/pork-wonton-soup/"
+    },
+    {
+        "name": "Sweet and Sour Pork Tenderloin",
+        "cook_time": "PT35M",
+        "prep_time": "PT20M",
+        "total_time": "PT55M",
+        "nutrition": {
+            "calories": "297 kcal",
+            "carbohydrateContent": "23 g",
+            "cholesterolContent": "82 mg",
+            "fiberContent": "1 g",
+            "proteinContent": "26 g",
+            "saturatedFatContent": "4 g",
+            "sodiumContent": "515 mg",
+            "sugarContent": "20 g",
+            "fatContent": "11 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "description": "Chef John&#39;s sweet and sour pork with pineapple and green onions is a lighter version of the Chinese take-out classic.",
+        "cuisine": "chinese",
+        "category": "Dinner",
+        "ingredient": [
+            {
+                "quantity": "1",
+                "unit": "(1 1/4 pound)",
+                "name": "pork tenderloin, trimmed of silver skin"
+            },
+            {
+                "quantity": null,
+                "unit": null,
+                "name": "salt and ground black pepper"
+            },
+            {
+                "quantity": "⅓",
+                "unit": "cup",
+                "name": "ketchup"
+            },
+            {
+                "quantity": "⅓",
+                "unit": "cup",
+                "name": "seasoned rice vinegar"
+            },
+            {
+                "quantity": "1",
+                "unit": "(8 ounce) can",
+                "name": "pineapple chunks, drained with juice reserved"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "name": "brown sugar"
+            },
+            {
+                "quantity": "4",
+                "unit": "cloves",
+                "name": "garlic, minced"
+            },
+            {
+                "quantity": "2",
+                "unit": "teaspoons",
+                "name": "hot chili sauce (such as Sriracha®)"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "soy sauce"
+            },
+            {
+                "quantity": "1",
+                "unit": "pinch",
+                "name": "red pepper flakes"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "name": "vegetable oil"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "butter"
+            },
+            {
+                "quantity": "¼",
+                "unit": "cup",
+                "name": "chopped green onion (white part only)"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "name": "chopped green onion tops"
+            }
+        ],
+        "instructions": [
+            {
+                "text": "Cut tenderloin into 4 pieces. Arrange in a single layer between two sheets of plastic wrap and pound with a meat mallet until each is about 1-inch thick. Generously season with salt and black pepper."
+            },
+            {
+                "text": "Whisk ketchup, rice vinegar, reserved pineapple juice, brown sugar, garlic, hot chili sauce, soy sauce, and red pepper flakes in a bowl. Set aside."
+            },
+            {
+                "text": "Heat vegetable oil in a skillet over high heat. Place pork in pan; reduce heat to medium. Cook until browned on both sides and cooked through, 5 to 6 minutes per side. Transfer to a plate."
+            },
+            {
+                "text": "Return skillet to medium heat. Stir butter into hot pan. When butter melts and starts to brown, stir in pineapple chunks. Cook, stirring, until pineapple is golden brown, 3 to 4 minutes."
+            },
+            {
+                "text": "Stir in ketchup mixture and 1/4 cup green onion (white parts). Reduce heat to low and simmer until garlic and onion have softened, 5 minutes."
+            },
+            {
+                "text": "Return pork to skillet; cook, stirring, until pork is heated through. Garnish with 2 tablespoons green onion tops."
+            }
+        ],
+        "image": "https://www.allrecipes.com/thmb/u8LdvkCOn59cJfrkh0JM3KeYggA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8303818-sweet-and-sour-pork-tenderloin-Erin-Marie-1x1-1-e4d8b626e18640d593c75fc664b20e40.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/DkiaOlp8-ma1DlVvV.mp4",
+            "description": "0241",
+            "duration": "PT4M48S",
+            "name": "Sweet and Sour Pork"
+        },
+        "url": "https://www.allrecipes.com/recipe/222342/sweet-and-sour-pork-tenderloin/"
+    },
+    {
+        "name": "Chinese Barbeque Pork (Char Siu)",
+        "cook_time": "PT120M",
+        "prep_time": "PT10M",
+        "total_time": "PT310M",
+        "nutrition": {
+            "calories": "513 kcal",
+            "carbohydrateContent": "49 g",
+            "cholesterolContent": "90 mg",
+            "fiberContent": "1 g",
+            "proteinContent": "26 g",
+            "saturatedFatContent": "8 g",
+            "sodiumContent": "2421 mg",
+            "sugarContent": "43 g",
+            "fatContent": "22 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "description": "With its impressive high-gloss appearance and savory taste, Chef John&#39;s Chinese barbeque pork is easy to make at home--even without a fancy ceramic grill.",
+        "cuisine": "chinese",
+        "category": "Dinner",
+        "ingredient": [
+            {
+                "quantity": "⅔",
+                "unit": "cup",
+                "name": "soy sauce"
+            },
+            {
+                "quantity": "½",
+                "unit": "cup",
+                "name": "honey"
+            },
+            {
+                "quantity": "½",
+                "unit": "cup",
+                "name": "Chinese rice wine (or sake or dry sherry)"
+            },
+            {
+                "quantity": "⅓",
+                "unit": "cup",
+                "name": "hoisin sauce"
+            },
+            {
+                "quantity": "⅓",
+                "unit": "cup",
+                "name": "ketchup"
+            },
+            {
+                "quantity": "⅓",
+                "unit": "cup",
+                "name": "brown sugar"
+            },
+            {
+                "quantity": "4",
+                "unit": "cloves",
+                "name": "garlic, crushed"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "Chinese five-spice powder"
+            },
+            {
+                "quantity": "½",
+                "unit": "teaspoon",
+                "name": "freshly ground black pepper"
+            },
+            {
+                "quantity": "¼",
+                "unit": "teaspoon",
+                "name": "cayenne pepper"
+            },
+            {
+                "quantity": "⅛",
+                "unit": "teaspoon",
+                "name": "pink curing salt (Optional)"
+            },
+            {
+                "quantity": "1",
+                "unit": "(3 pound)",
+                "name": "boneless pork butt (shoulder)"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "red food coloring, or as desired (Optional)"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "kosher salt, or to taste"
+            }
+        ],
+        "instructions": [
+            {
+                "text": "Place soy sauce, honey, rice wine, hoisin sauce, ketchup, brown sugar, garlic, five-spice powder, black pepper, cayenne pepper, and curing salt in a saucepan. Bring to a boil on high heat; reduce heat to medium-high. Cook for 1 minute. Remove from heat. Cool to room temperature."
+            },
+            {
+                "text": "Cut pork roast in half lengthwise. Cut each half again lengthwise forming 4 long, thick pieces of pork."
+            },
+            {
+                "text": "Transfer cooled sauce to a large mixing bowl. Stir in red food coloring. Place pork sections into sauce and coat each piece. Cover with plastic wrap and refrigerate 4 to 12 hours."
+            },
+            {
+                "text": "Preheat grill for medium heat, 275 to 300 degrees F (135 to 150 degrees C) and lightly oil the grate. Line a baking sheet with parchment paper."
+            },
+            {
+                "text": "Remove sections of pork from marinade and let excess drip off. Place on prepared baking sheet. Sprinkle with kosher salt to taste."
+            },
+            {
+                "text": "Transfer pork sections to grate over indirect heat on the prepared grill. Cover and cook for about 45 minutes. Brush with marinade; turn. Continue cooking until an instant-read thermometer inserted into the center reads at least 145 degrees F (63 degrees C), about 1 hour and 15 minutes more. Do not use any more marinade on cooked meat until after you boil it."
+            },
+            {
+                "text": "Place leftover marinade in a saucepan; bring to a boil; let simmer for 1 minute. Remove from heat. Now you can use it to brush over the cooked pork."
+            }
+        ],
+        "image": "https://www.allrecipes.com/thmb/DtY1kM9iCPnAAE8SrzMruPHVONs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4525770-chinese-barbeque-pork-char-siu-Chef-John-1x1-1-e555eae3581c40d1b080679ff29a801c.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/SpsNe862-K3AjnAEN.mp4",
+            "description": "For all you shiny food lovers out there! The savory Chinese barbeque pork you crave is deliciously easy to make at home, and you don’t even need a fancy restaurant-style ceramic grill! Create a Chinese barbeque sauce by combining hoisin sauce, ketchup, soy sauce, brown sugar, honey, Chinese wine, crushed garlic, black pepper, Chinese 5-spice, cayenne pepper, and just a touch of pink salt. Add pork to with a spoonful of red food coloring and marinate! Grill the pork on a slow roast and serve on green onions or inside a steamed bun for an incredible bite of food. ",
+            "duration": "PT8M48S",
+            "name": "Chinese Barbeque Pork (Char Siu)"
+        },
+        "url": "https://www.allrecipes.com/recipe/258494/chinese-barbeque-pork-char-siu/"
+    },
+    {
+        "name": "Wonton Soup",
+        "cook_time": "PT10M",
+        "prep_time": "PT30M",
+        "total_time": "PT65M",
+        "nutrition": {
+            "calories": "195 kcal",
+            "carbohydrateContent": "21 g",
+            "cholesterolContent": "44 mg",
+            "fiberContent": "1 g",
+            "proteinContent": "13 g",
+            "saturatedFatContent": "2 g",
+            "sodiumContent": "887 mg",
+            "fatContent": "6 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "description": "This delicious wonton soup recipe features homemade dumplings filled with seasoned pork floating in a gingery chicken broth with chopped scallions.",
+        "cuisine": "chinese",
+        "category": "Dinner",
+        "ingredient": [
+            {
+                "quantity": "½",
+                "unit": "pound",
+                "name": "boneless pork loin, coarsely chopped"
+            },
+            {
+                "quantity": "2",
+                "unit": "ounces",
+                "name": "peeled shrimp, finely chopped"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "name": "Chinese rice wine"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "name": "light soy sauce"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "brown sugar"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "finely chopped green onions"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "chopped fresh ginger root"
+            },
+            {
+                "quantity": "24",
+                "unit": " (3.5 inch square)",
+                "name": "wonton wrappers"
+            },
+            {
+                "quantity": "3",
+                "unit": "cups",
+                "name": "chicken stock"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "name": "finely chopped green onions"
+            }
+        ],
+        "instructions": [
+            {
+                "text": "Make the wontons: Mix pork, shrimp, rice wine, soy sauce, brown sugar, green onions, and ginger together in a large bowl until well combined. Let stand for 25 to 30 minutes."
+            },
+            {
+                "text": "Spoon about 1 teaspoon filling onto the center of a wonton wrapper. Moisten all four wrapper edges with water and fold over filling to make a triangle; press the edges firmly to seal. Bring left and right corners together above filling; overlap the tips of these corners, moisten with water, and press together to seal. Repeat until all wrappers have been filled and sealed."
+            },
+            {
+                "text": "Make the soup: Bring chicken stock to a rolling boil in a pot. Gently drop in wontons and cook for 5 minutes."
+            },
+            {
+                "text": "Ladle into bowls and garnish with green onions."
+            }
+        ],
+        "image": "https://www.allrecipes.com/thmb/Vdale-MMzmsBjF_R-_vvwYbwr_8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5256168-dc352e6a1e234e7bb2e391f02f11ffb1.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/Nq8rF9IA-ma1DlVvV.mp4",
+            "description": "AR0974",
+            "duration": "PT4M8S",
+            "name": "Wonton Soup"
+        },
+        "url": "https://www.allrecipes.com/recipe/13199/wonton-soup/"
+    },
+    {
+        "name": "Chinese Spareribs",
+        "cook_time": "PT40M",
+        "prep_time": "PT5M",
+        "total_time": "PT165M",
+        "nutrition": {
+            "calories": "503 kcal",
+            "carbohydrateContent": "23 g",
+            "cholesterolContent": "121 mg",
+            "fiberContent": "1 g",
+            "proteinContent": "30 g",
+            "saturatedFatContent": "11 g",
+            "sodiumContent": "1015 mg",
+            "sugarContent": "18 g",
+            "fatContent": "31 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "description": "These Chinese spareribs are marinated in hoisin, honey, soy, sake, and rice vinegar, then baked until tender and delicious with a tangy-sweet glaze.",
+        "cuisine": "chinese",
+        "category": "Dinner",
+        "ingredient": [
+            {
+                "quantity": "3",
+                "unit": "tablespoons",
+                "name": "hoisin sauce"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "name": "ketchup"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "name": "honey"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "name": "soy sauce"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "name": "sake (or Chinese rice wine)"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "rice vinegar"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "lemon juice"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "grated fresh ginger "
+            },
+            {
+                "quantity": "½",
+                "unit": "teaspoon",
+                "name": "grated fresh garlic"
+            },
+            {
+                "quantity": "¼",
+                "unit": "teaspoon",
+                "name": "Chinese five-spice powder"
+            },
+            {
+                "quantity": "1",
+                "unit": "pound",
+                "name": "pork spareribs"
+            }
+        ],
+        "instructions": [
+            {
+                "text": "Mix hoisin sauce, ketchup, honey, soy sauce, sake, rice vinegar, lemon juice, ginger, garlic, and five-spice powder together in a shallow glass dish. Place ribs in the dish and turn to coat. Cover and marinate in the refrigerator for 2 hours or up to overnight."
+            },
+            {
+                "text": "Preheat the oven to 325 degrees F (165 degrees C). Fill a broiler tray with enough water to cover the bottom. Place the grate or a rack over the tray; arrange ribs on the grate."
+            },
+            {
+                "text": "Cook in the preheated oven on the center rack for 40 minutes, turning and brushing with marinade every 10 minutes. Let marinade cook on for final 10 minutes to make a glaze. Finish under the broiler if desired. Discard any remaining marinade."
+            }
+        ],
+        "image": "https://www.allrecipes.com/thmb/GtBu39aW906FtBvcCcjXHq7njqs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/868083-afc9073b34544c70ade58434e2d79575.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/y8VMQTMz-K3AjnAEN.mp4",
+            "description": "The key to over-the-top delicious ribs is marinating them! Make a super-charged marinade of hoisin sauce, ketchup, honey, soy sauce, sake, rice vinegar, lemon juice, ginger, garlic and 5-spice powder. Soak your pork spare ribs in this flavorful mixture at least 2 hours but preferably overnight, then bake in your oven or on your grill and serve garnished with green onion. Everyone will love your tender, juicy and tangy results!",
+            "duration": "PT53S",
+            "name": "Chinese Spareribs"
+        },
+        "url": "https://www.allrecipes.com/recipe/77408/chinese-spareribs/"
+    },
+    {
+        "name": "Char Siu (Chinese BBQ Pork)",
+        "cook_time": "PT35M",
+        "prep_time": "PT10M",
+        "total_time": "PT165M",
+        "nutrition": {
+            "calories": "483 kcal",
+            "carbohydrateContent": "54 g",
+            "cholesterolContent": "127 mg",
+            "fiberContent": "1 g",
+            "proteinContent": "44 g",
+            "saturatedFatContent": "3 g",
+            "sodiumContent": "2250 mg",
+            "sugarContent": "48 g",
+            "fatContent": "9 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "description": "Char sui made with pork tenderloin on a charcoal grill is easy to make and just as delicious as the takeout you&#39;d get at your favorite Chinese restaurant!",
+        "cuisine": "chinese",
+        "category": "Dinner",
+        "ingredient": [
+            {
+                "quantity": "½",
+                "unit": "cup",
+                "name": "soy sauce"
+            },
+            {
+                "quantity": "⅓",
+                "unit": "cup",
+                "name": "honey"
+            },
+            {
+                "quantity": "⅓",
+                "unit": "cup",
+                "name": "ketchup"
+            },
+            {
+                "quantity": "⅓",
+                "unit": "cup",
+                "name": "brown sugar"
+            },
+            {
+                "quantity": "¼",
+                "unit": "cup",
+                "name": "Chinese rice wine"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "name": "hoisin sauce"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "name": "red bean curd (Optional)"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "Chinese five-spice powder (Optional)"
+            },
+            {
+                "quantity": "2",
+                "unit": "(1 pound)",
+                "name": "pork tenderloins"
+            }
+        ],
+        "instructions": [
+            {
+                "text": "Gather all ingredients."
+            },
+            {
+                "text": "Stir soy sauce, honey, ketchup, brown sugar, rice wine, hoisin sauce, red bean curd, and five-spice powder together in a saucepan over medium-low heat. Cook and stir until just combined and slightly warm, 2 to 3 minutes."
+            },
+            {
+                "text": "Meanwhile, slice each pork tenderloin lengthwise into 1 1/2- to 2-inch-thick strips. Place pork strips in a large, resealable plastic bag."
+            },
+            {
+                "text": "Pour marinade into the bag with the pork. Squeeze air from the bag, seal, and turn the bag a few times until pork is well coated. Marinate in the refrigerator, 2 hours to overnight."
+            },
+            {
+                "text": "When ready to cook, preheat a charcoal grill for medium-high heat and lightly oil the grate."
+            },
+            {
+                "text": "Remove pork from marinade and shake to remove excess liquid. Set aside the remaining marinade for basting."
+            },
+            {
+                "text": "Rake the hot coals into two equal piles on opposite sides of the charcoal grate. Add a small container of water to the grate. Place pork strips in the center of the grate for indirect cooking."
+            },
+            {
+                "text": "Cook pork over indirect heat, turning regularly and basting as desired, until an instant-read thermometer inserted into the center reads at least 145 degrees F (63 degrees C), 30 minutes or longer."
+            },
+            {
+                "text": "Serve hot and enjoy!"
+            }
+        ],
+        "image": "https://www.allrecipes.com/thmb/CaOCXVs9HHCmQ70Lrc9tgGXFBg8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/232681-CharSui-mfs-beauty-2x3-933b696626de4a4d968f8f3faf5fb525.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/1xZ7f9Qy-K3AjnAEN.mp4",
+            "description": "In this video, learn how to make Char siu, a Chinese restaurant-style pork with a sweet and sticky sauce. In the traditional preparation, long strips of seasoned pork are skewered with forks and roasted in a covered oven or over a fire. This quick and easy version uses pork tenderloin and is easy to make at home on your charcoal grill. Enjoy the sweet and salty taste on its own, or serve it alongside rice or noodles.",
+            "duration": "PT55S",
+            "name": " How to Make Char Siu (Chinese BBQ Pork)"
+        },
+        "url": "https://www.allrecipes.com/recipe/232681/char-siu-chinese-bbq-pork/"
+    },
+    {
+        "name": "Chinese Pork Dumplings",
+        "cook_time": "PT60M",
+        "prep_time": "PT20M",
+        "total_time": "PT80M",
+        "nutrition": {
+            "calories": "540 kcal",
+            "carbohydrateContent": "50 g",
+            "cholesterolContent": "103 mg",
+            "fiberContent": "2 g",
+            "proteinContent": "28 g",
+            "saturatedFatContent": "7 g",
+            "sodiumContent": "2373 mg",
+            "sugarContent": "1 g",
+            "fatContent": "25 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "description": "These fried Chinese dumplings are from Liana Cafe House in Seattle&#39;s International District. You can make them at home with this authentic recipe!",
+        "cuisine": "chinese",
+        "category": "Dinner",
+        "ingredient": [
+            {
+                "quantity": "½",
+                "unit": "cup",
+                "name": "soy sauce"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "name": "seasoned rice vinegar"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "name": "finely chopped Chinese chives"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "name": "sesame seeds"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "chile-garlic sauce (such as Sriracha)"
+            },
+            {
+                "quantity": "1",
+                "unit": "pound",
+                "name": "ground pork"
+            },
+            {
+                "quantity": "3",
+                "unit": "cloves",
+                "name": "garlic, minced"
+            },
+            {
+                "quantity": "1",
+                "unit": "large",
+                "name": "egg, beaten"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "name": "finely chopped Chinese chives"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "name": "soy sauce"
+            },
+            {
+                "quantity": "1 ½",
+                "unit": "tablespoons",
+                "name": "sesame oil"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "name": "minced fresh ginger"
+            },
+            {
+                "quantity": "50",
+                "unit": null,
+                "name": "dumpling wrappers"
+            },
+            {
+                "quantity": "½",
+                "unit": "cup",
+                "name": "vegetable oil for frying, or as needed"
+            }
+        ],
+        "instructions": [
+            {
+                "text": "Prepare dipping sauce: Combine soy sauce, rice vinegar, chives, sesame seeds, and chile sauce in a small bowl. Set aside."
+            },
+            {
+                "text": "Prepare dumplings: Mix pork, garlic, egg, chives, soy sauce, sesame oil, and ginger in a large bowl until thoroughly combined."
+            },
+            {
+                "text": "Place a dumpling wrapper on a lightly floured work surface and spoon about 1 tablespoon of the filling in the middle."
+            },
+            {
+                "text": "Wet the edge with a little water and crimp together forming small pleats to seal the dumpling. Repeat to form remaining dumplings."
+            },
+            {
+                "text": "Heat 1 to 2 tablespoons vegetable oil in a large skillet over medium-high heat. Place 8 to 10 dumplings in the pan and cook until browned, about 2 minutes per side."
+            },
+            {
+                "text": "Pour in 1 cup of water; cover and cook until the dumplings are tender and pork is cooked through, about 5 minutes."
+            },
+            {
+                "text": "Repeat to cook remaining dumplings, adding more oil and water for each batch."
+            },
+            {
+                "text": "Serve dumplings with dipping sauce."
+            }
+        ],
+        "image": "https://www.allrecipes.com/thmb/w0yk_Tj7F8fb_8Px3Zapz3hx9W0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/228052-chinese-pork-dumplings-PASSANO_ALR0321_Mixer_Dumplings_6035-4x3-b0abe61263b84498904f2c03c273f423.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/Pi28uCmT-ma1DlVvV.mp4",
+            "description": "See how to make authentic Hong Kong-style pork dumplings.",
+            "duration": "PT5M2S",
+            "name": "Chinese Pork Dumplings"
+        },
+        "url": "https://www.allrecipes.com/recipe/228052/chinese-pork-dumplings/"
+    }
+]

@@ -1,0 +1,2523 @@
+[
+    {
+        "url": "https://www.allrecipes.com/recipe/17108/simple-malaysian-fried-chicken/",
+        "title": "Simple Malaysian Fried Chicken",
+        "summary": "This is my mother's special, yet simple, recipe that is loved by my family. Chicken marinated in garlic, oyster sauce and curry powder, then fried.",
+        "photos": [],
+        "ingredients": [
+            {
+                "quantity": 1.0,
+                "unit": "(4 pound)",
+                "name": "whole chicken",
+                "prepare_type": "cut into pieces"
+            },
+            {
+                "quantity": 6.0,
+                "unit": "cloves",
+                "name": "garlic",
+                "prepare_type": "chopped"
+            },
+            {
+                "quantity": 4.0,
+                "unit": "tablespoons",
+                "name": "oyster sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "curry powder",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "name": "vegetable oil",
+                "prepare_type": ""
+            }
+        ],
+        "directions": [
+            "To Marinate: In a nonporous glass dish or bowl, combine the garlic, oyster sauce and curry powder. Mix together. Add chicken pieces and turn to coat. Cover dish or bowl and refrigerate to marinate for at least 1/2 hour.",
+            "In a large skillet or wok, heat oil over medium high heat. Add marinated chicken (disposing of leftover marinade) and fry for 20 to 25 minutes or until chicken is crispy and brown and juices run clear."
+        ],
+        "cuisine": "Malaysian",
+        "category": "main-dishes"
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/48339/mild-coconut-tofu-curry/",
+        "title": "Mild Coconut Tofu Curry",
+        "summary": "This mild Malaysian green curry is delicious served over Thai rice! If a blender is not used, chop ingredients finely and simmer for longer.",
+        "photos": [],
+        "ingredients": [
+            {
+                "quantity": 4.0,
+                "unit": "slices",
+                "name": "fresh ginger root",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 4.0,
+                "unit": "cloves",
+                "name": "garlic",
+                "prepare_type": "minced"
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "cashews",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "stalks",
+                "name": "lemon grass",
+                "prepare_type": "chopped"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "",
+                "name": "onions",
+                "prepare_type": "sliced"
+            },
+            {
+                "quantity": 3.0,
+                "unit": "tablespoons",
+                "name": "olive oil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "dash",
+                "name": "crushed red pepper flakes",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "curry powder",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.5,
+                "unit": "cups",
+                "name": "cubed firm tofu",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "(14 ounce)",
+                "name": "can coconut milk",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 14.0,
+                "unit": "fluid",
+                "name": "ounces water",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "",
+                "name": "medium potatoes",
+                "prepare_type": "peeled and cubed"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "teaspoons",
+                "name": "salt",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "white sugar",
+                "prepare_type": ""
+            }
+        ],
+        "directions": [
+            "In a blender or food processor, grind the ginger root, garlic, cashews, lemon grass, and onions into a paste.",
+            "Heat olive oil in a medium wok over low heat. Stir in the blended mixture and red pepper flakes. Gradually mix in the curry powder.",
+            "Place tofu in the wok, and cook until heated through. Mix in the coconut milk, water, and potatoes. Bring to a boil, reduce heat, and simmer 20 minutes, stirring occasionally, until potatoes are tender. Season with salt and sugar."
+        ],
+        "cuisine": "Malaysian",
+        "category": "main-dishes"
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/245825/malaysian-chicken-satay/",
+        "title": "Malaysian Chicken Satay",
+        "summary": "Malaysian satay is just like Thai or Indonesian ones but there is a difference in taste. Give it a try. No need to barbeque, just grill them in your oven. Serve with Malaysian satay sauce.",
+        "photos": [],
+        "ingredients": [
+            {
+                "quantity": 4.5,
+                "unit": "pounds",
+                "name": "skinless",
+                "prepare_type": "boneless chicken breasts, cut into 1-inch cubes"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "large",
+                "name": "onions",
+                "prepare_type": "coarsely chopped"
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "brown sugar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 5.0,
+                "unit": "cloves",
+                "name": "garlic",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "",
+                "name": "1-inch piece shrimp paste (belachan)",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "galangal powder (lengkuas)",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "ground coriander",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "teaspoons",
+                "name": "ground cumin",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "teaspoons",
+                "name": "ground anise seed",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "ground black pepper",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "ground turmeric",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 60.0,
+                "unit": "",
+                "name": "bamboo skewers",
+                "prepare_type": ""
+            }
+        ],
+        "directions": [
+            "Place chicken cubes in a large bowl.",
+            "Place onions, brown sugar, garlic, shrimp paste, galangal powder, coriander, cumin, anise seed, black pepper, and turmeric in the bowl of a food processor. Grind into a smooth paste. Transfer to bowl with chicken; mix well to coat chicken.",
+            "Cover the bowl with plastic wrap and marinate in the refrigerator for 24 hours.",
+            "Set oven rack about 6 inches from the heat source and preheat the oven's broiler. Line 2 baking sheets with aluminum foil.",
+            "Thread chicken onto bamboo skewers, leaving enough space to hold skewers. Arrange skewers on baking sheets.",
+            "Broil in the preheated oven until top is browned, about 10 minutes. Remove from oven; flip all the skewers over. Return to the oven and broil second side until browned, about 10 minutes more. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C)."
+        ],
+        "cuisine": "Malaysian",
+        "category": "main-dishes"
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/245824/malaysian-chicken-curry/",
+        "title": "Malaysian Chicken Curry",
+        "summary": "This spicy and delicious recipe is absolutely incredible. It is so tasty but not recommended for youngsters. I recommend this recipe to impress visitors or your family. Serve with Jasmati® rice topped with cilantro.",
+        "photos": [],
+        "ingredients": [
+            {
+                "quantity": 8.0,
+                "unit": "",
+                "name": "shallots",
+                "prepare_type": "roughly chopped"
+            },
+            {
+                "quantity": 6.0,
+                "unit": "",
+                "name": "hot chile peppers",
+                "prepare_type": "roughly chopped"
+            },
+            {
+                "quantity": 8.0,
+                "unit": "stalks",
+                "name": "lemongrass",
+                "prepare_type": "smashed and cut into 1-inch pieces"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "name": "chopped almonds",
+                "prepare_type": "or to taste"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "small",
+                "name": "bunch fresh cilantro",
+                "prepare_type": "roughly chopped"
+            },
+            {
+                "quantity": 8.0,
+                "unit": "cloves",
+                "name": "garlic",
+                "prepare_type": "roughly chopped"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "(1 inch)",
+                "name": "piece ginger",
+                "prepare_type": "peeled and roughly chopped"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "peanut oil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 3.0,
+                "unit": "pounds",
+                "name": "boneless",
+                "prepare_type": "skinless chicken thighs, cut into 1-inch pieces"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "peanut oil",
+                "prepare_type": "or more as needed"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "",
+                "name": "onion",
+                "prepare_type": "cut into 1-inch chunks"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "",
+                "name": "red bell pepper",
+                "prepare_type": "cut into 1-inch chunks"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "",
+                "name": "yellow bell pepper",
+                "prepare_type": "cut into 1-inch chunks"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "",
+                "name": "orange bell pepper",
+                "prepare_type": "cut into 1-inch chunks"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "name": "halved snow peas",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "large",
+                "name": "carrot",
+                "prepare_type": "cut into matchsticks"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "(14 ounce)",
+                "name": "cans coconut milk",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "white sugar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "salt",
+                "prepare_type": ""
+            }
+        ],
+        "directions": [
+            "Combine shallots, chile peppers, lemongrass, almonds, cilantro, garlic, ginger, and 2 tablespoons peanut oil in a food processor; pulse into a smooth paste. Measure out 1 cup of paste into a large bowl. Add chicken thighs and mix until thoroughly coated.",
+            "Heat 1 tablespoon peanut oil in a large, deep skillet over medium heat. Pan-fry chicken in batches until cooked through and no longer pink in the center, about 5 minutes. Transfer to a large plate using a slotted spoon; set aside.",
+            "Place onion, red bell pepper, yellow bell pepper, orange bell pepper, and carrot in the same skillet. Cook and stir until softened, about 5 minutes. Add snow peas; cook and stir until slightly softened but still crisp, about 1 minute.",
+            "Return chicken to the skillet. Stir in coconut milk, sugar, and salt. Simmer until flavors combine, 10 to 15 minutes."
+        ],
+        "cuisine": "Malaysian",
+        "category": "main-dishes"
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/16851/chicken-curry-iii/",
+        "title": "Chicken Curry III",
+        "summary": "Chicken curry with ginger, garlic, coconut milk, yogurt and potatoes. Malaysian in taste, deep brown in color, and since it simmers with the potatoes it makes for a complete dish! Serve with hot cooked rice and other veggies, if desired.",
+        "photos": [],
+        "ingredients": [
+            {
+                "quantity": 3.0,
+                "unit": "cloves",
+                "name": "garlic",
+                "prepare_type": "crushed"
+            },
+            {
+                "quantity": 3.0,
+                "unit": "small",
+                "name": "onions",
+                "prepare_type": "minced"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "slice",
+                "name": "fresh ginger root",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 5.0,
+                "unit": "tablespoons",
+                "name": "curry powder",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 5.0,
+                "unit": "tablespoons",
+                "name": "water",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "olive oil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "name": "yogurt",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "name": "coconut milk",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "name": "milk",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "name": "water",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "large",
+                "name": "potatoes",
+                "prepare_type": "cubed"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "(4 pound)",
+                "name": "whole chicken",
+                "prepare_type": "cut into 8 pieces"
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "name": "salt to taste",
+                "prepare_type": ""
+            }
+        ],
+        "directions": [
+            "In a small bowl, grind together garlic, onion and ginger. In a separate small bowl, mix together curry powder and 5 tablespoons water.",
+            "Heat oil in a large skillet over medium high heat. Saute garlic, ginger and onion until browned; add curry paste and saute together until smell is strong and fragrant.",
+            "Add yogurt, coconut milk and regular milk along with 1 cup of water, and stir all together. Then add potatoes and chicken and bring to a boil; reduce heat and simmer until potatoes are tender and chicken is cooked through, about 20 to 25 minutes.",
+            "Season with salt to taste and simmer for another 2 minutes; the curry is ready!"
+        ],
+        "cuisine": "Malaysian",
+        "category": "main-dishes"
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/246074/rendang-gaging-beef-stew/",
+        "title": "Rendang Gaging (Beef Stew)",
+        "summary": "This is a Malaysian version of beef stew, which can be served with rice or bread. This recipe is also suitable for the slow cooker.",
+        "photos": [],
+        "ingredients": [
+            {
+                "quantity": 5.0,
+                "unit": "",
+                "name": "shallots",
+                "prepare_type": "halved"
+            },
+            {
+                "quantity": 5.0,
+                "unit": "stalks",
+                "name": "lemongrass",
+                "prepare_type": "bottom thirds only, peeled"
+            },
+            {
+                "quantity": 5.0,
+                "unit": "cloves",
+                "name": "garlic",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "(1 inch)",
+                "name": "piece fresh ginger root",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "(1 inch)",
+                "name": "piece galangal",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 5.0,
+                "unit": "",
+                "name": "dried red chile peppers",
+                "prepare_type": "or more to taste"
+            },
+            {
+                "quantity": 3.0,
+                "unit": "tablespoons",
+                "name": "vegetable oil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "curry powder (Optional)",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "pounds",
+                "name": "beef stew meat",
+                "prepare_type": "cut into 1-inch pieces"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "name": "coconut milk",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "vinegar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "teaspoons",
+                "name": "brown sugar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "name": "salt to taste",
+                "prepare_type": ""
+            }
+        ],
+        "directions": [
+            "Place shallots, lemongrass, garlic, ginger, galangal, and chile peppers in a food processor; process spices into a coarse paste.",
+            "Heat vegetable oil in a large pot over medium heat. Add spice paste; cook and stir until sizzling and fragrant, 3 to 5 minutes. Stir in curry powder and cook until fragrant, about 1 minute. Add beef; stir to coat with spices, about 3 minutes. Pour in coconut milk. Cover and simmer stew until beef is tender, about 30 minutes.",
+            "Stir vinegar, sugar, and salt into the pot. Continue to cook, covered, until sauce reduces and thickens, about 30 minutes more."
+        ],
+        "cuisine": "Malaysian",
+        "category": "main-dishes"
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/20718/sherry-chicken-curry/",
+        "title": "Sherry Chicken Curry",
+        "summary": "Outside of an Oriental restaurant, this is one of the best!",
+        "photos": [],
+        "ingredients": [
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "vegetable oil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 4.0,
+                "unit": "",
+                "name": "skinless",
+                "prepare_type": "boneless chicken breast halves - cut into chunks"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "name": "cornstarch",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 3.0,
+                "unit": "cloves",
+                "name": "garlic",
+                "prepare_type": "crushed"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "large",
+                "name": "onion",
+                "prepare_type": "cut into chunks"
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "name": "salt and pepper to taste",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "name": "cooking sherry",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "cubes",
+                "name": "beef bouillon",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "name": "creamy peanut butter",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 3.0,
+                "unit": "tablespoons",
+                "name": "curry powder",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "name": "water to cover",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "name": "ground ginger",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "name": "coconut milk",
+                "prepare_type": ""
+            }
+        ],
+        "directions": [
+            "Heat oil in a large skillet over medium high heat. Coat chicken with cornstarch and place in skillet with garlic, onion, salt and pepper. Add sherry and beef bouillon and let liquid reduce a little.",
+            "Stir in peanut butter and curry powder and add water to cover; add ginger, reduce heat to low and simmer for 30 minutes, then lastly stir in coconut milk and serve hot."
+        ],
+        "cuisine": "Malaysian",
+        "category": "main-dishes"
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/155363/chicken-singapore-noodles/",
+        "title": "Chicken Singapore Noodles",
+        "summary": "This is a recipe I came across from my friend's dad. When I tasted it and it tasted a lot like a hot pot dish I had at one of my Chinese friend's house. So I made some changes to it to make it my own.",
+        "photos": [],
+        "ingredients": [
+            {
+                "quantity": 6.0,
+                "unit": "",
+                "name": "dry Chinese egg noodle nests",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "peanut oil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 6.0,
+                "unit": "cloves",
+                "name": "garlic",
+                "prepare_type": "minced"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "slivered fresh ginger",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "teaspoons",
+                "name": "crushed red pepper flakes",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "pound",
+                "name": "skinless",
+                "prepare_type": "boneless chicken breast halves"
+            },
+            {
+                "quantity": 0.33,
+                "unit": "cup",
+                "name": "green onions",
+                "prepare_type": "chopped"
+            },
+            {
+                "quantity": 0.66,
+                "unit": "cup",
+                "name": "julienned carrot",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "(8 ounce)",
+                "name": "can sliced water chestnuts",
+                "prepare_type": "drained"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "(15 ounce)",
+                "name": "cans whole straw mushrooms",
+                "prepare_type": "drained"
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "peanut butter",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "oyster sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 3.0,
+                "unit": "tablespoons",
+                "name": "curry powder",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "teaspoons",
+                "name": "soy sauce",
+                "prepare_type": ""
+            }
+        ],
+        "directions": [
+            "Bring a large pot of lightly-salted water to a rolling boil; add the egg noodle nests and return to a boil. Turn off the heat and let stand for 5 minutes; drain and set aside.",
+            "Heat the peanut oil in a wok over high heat. Stir in the garlic, ginger, and red pepper flakes; cook a few seconds until the garlic begins to turn golden. Add the chicken, green onions, and carrots. Cook and stir until the chicken is no longer pink, about 5 minutes. Stir in the water chestnuts, mushrooms, peanut butter, oyster sauce, curry powder, and soy sauce until the peanut butter has dissolved into the sauce.",
+            "Stir the noodles into the chicken mixture; cover and reduce heat to warm or very low. Let stand 10 to 15 minutes for the noodles to absorb some of the sauce."
+        ],
+        "cuisine": "Malaysian",
+        "category": "main-dishes"
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/20243/chicken-curry-v/",
+        "title": "Chicken Curry V",
+        "summary": "This is the Malaysian version of Indian chicken curry, which uses coconut milk. It can be substituted with yogurt or low-fat milk, but the taste won't be the same.",
+        "photos": [],
+        "ingredients": [
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "olive oil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "(2 inch)",
+                "name": "piece cinnamon stick",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "",
+                "name": "whole cardamom pod",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "",
+                "name": "star anise pod",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 3.0,
+                "unit": "",
+                "name": "whole cloves",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "teaspoons",
+                "name": "chopped fresh curry leaves",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "chopped shallots",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 4.0,
+                "unit": "cloves",
+                "name": "garlic",
+                "prepare_type": "chopped"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "slice",
+                "name": "fresh ginger root",
+                "prepare_type": "chopped"
+            },
+            {
+                "quantity": 4.0,
+                "unit": "tablespoons",
+                "name": "curry paste",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "name": "thick coconut milk",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "cups",
+                "name": "water",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 3.0,
+                "unit": "pounds",
+                "name": "skinless",
+                "prepare_type": "boneless chicken breast halves - cut into 2 inch pieces"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "tamarind juice",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "name": "salt to taste",
+                "prepare_type": ""
+            }
+        ],
+        "directions": [
+            "Heat oil in a large, deep skillet over medium heat. Saute the cinnamon, cardamom, anise, cloves and curry leaves for 2 to 3 minutes, then stir in shallots, garlic and ginger and saute until fragrant. Stir in curry paste and cook for 5 minutes, stirring constantly.",
+            "Pour in the coconut milk and water and let simmer for 3 to 4 minutes; add chicken, tamarind juice and salt and simmer, stirring occasionally, for 20 minutes."
+        ],
+        "cuisine": "Malaysian",
+        "category": "main-dishes"
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/60742/pumpkin-kaya/",
+        "title": "Pumpkin Kaya",
+        "summary": "A tweak of the traditional Malay jam, this jam is instead made of pumpkin. Healthy and smells as good as it tastes. It's well worth your time. It's best eaten fresh as a spread on bread.",
+        "photos": [],
+        "ingredients": [
+            {
+                "quantity": 4.25,
+                "unit": "cups",
+                "name": "cubed fresh pumpkin",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "name": "unsweetened coconut cream",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.625,
+                "unit": "cup",
+                "name": "brown sugar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 8.0,
+                "unit": "",
+                "name": "young pandan leaves",
+                "prepare_type": ""
+            }
+        ],
+        "directions": [
+            "Place the pumpkin into a steamer insert and set in a pot over one inch of water. Bring to a boil, cover and steam until soft, about 20 minutes. Transfer pumpkin to a blender and blend until smooth with no lumps.",
+            "Combine the pumpkin, coconut cream, brown sugar, and pandan leaves in a pot over medium-low heat. Cook, stirring frequently, until mixture is thick and smooth, about 1 hour; remove leaves and discard. Cool kaya before serving; refrigerate unused portion."
+        ],
+        "cuisine": "Malaysian",
+        "category": "main-dishes"
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/245612/malaysian-red-curry-thighs/",
+        "title": "Malaysian Red Curry Thighs",
+        "summary": "This hits all the tastes: sweet, salty, spicy, and umami. Serve on rice with a sprinkle of chopped cilantro and lime wedges on the side. If you cook with boneless chicken, reduce cooking time to 12 minutes for browning and 10 minutes for simmering.",
+        "photos": [],
+        "ingredients": [
+            {
+                "quantity": 6.0,
+                "unit": "",
+                "name": "green onions",
+                "prepare_type": "white parts only, chopped"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "(2 inch)",
+                "name": "piece peeled fresh ginger",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 4.0,
+                "unit": "cloves",
+                "name": "peeled garlic",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 3.0,
+                "unit": "tablespoons",
+                "name": "grapeseed oil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 8.0,
+                "unit": "",
+                "name": "skin-on",
+                "prepare_type": "bone-in chicken thighs"
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "name": "salt to taste",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 3.0,
+                "unit": "tablespoons",
+                "name": "hot curry powder",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "red curry paste",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.5,
+                "unit": "teaspoons",
+                "name": "garam masala",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.5,
+                "unit": "teaspoons",
+                "name": "Chinese five-spice powder",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "(14 ounce)",
+                "name": "can coconut milk",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "fish sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.5,
+                "unit": "teaspoons",
+                "name": "white sugar",
+                "prepare_type": "divided"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "sriracha sauce (Optional)",
+                "prepare_type": ""
+            }
+        ],
+        "directions": [
+            "Place green onions, ginger, and garlic in a food processor; puree until smooth.",
+            "Heat oil in a large skillet over medium heat. Season chicken thighs with salt and cook, skin-side down, until browned, about 10 minutes per side. Remove from skillet.",
+            "Scrape ginger puree into the skillet and cook, stirring constantly, 2 to 3 minutes. Add curry powder, red curry paste, garam masala, and Chinese five-spice powder; cook and stir until fragrant. Pour in coconut milk and stir to loosen up the bits from the bottom of the skillet. Add fish sauce and half the sugar. Taste; adjust salt and sugar, and stir in sriracha sauce.",
+            "Return chicken thighs to the skillet, reduce heat, and simmer until flavors are combined, about 20 minutes. An instant-read thermometer inserted near the bone should read 165 degrees F (74 degrees C)."
+        ],
+        "cuisine": "Malaysian",
+        "category": "main-dishes"
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/140868/durian-puree-cheesecake/",
+        "title": "Durian Puree Cheesecake",
+        "summary": "This durian dessert uses durian (aka King of Fruits) that is one of my favorite fruits and can be bought at most Asian supermarkets. This distinct fruit is very aromatic and one must have an acquired taste for it, but it adds a nice touch to cheesecake. I incorporated durian into my usual cheesecake recipe and it came out delicious!",
+        "photos": [],
+        "ingredients": [
+            {
+                "quantity": 12.0,
+                "unit": "ounces",
+                "name": "cream cheese",
+                "prepare_type": "room temperature"
+            },
+            {
+                "quantity": 7.0,
+                "unit": "fluid",
+                "name": "ounces sweetened condensed milk",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "puréed fresh durian",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "eggs",
+                "name": "",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "name": "sour cream",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "vanilla extract",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "durian or banana extract",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "(9-inch)",
+                "name": "prepared graham cracker crust",
+                "prepare_type": ""
+            }
+        ],
+        "directions": [
+            "Preheat the oven to 325 degrees F (170 degrees C).",
+            "If not using canned or frozen durian purée, cut into husk of durian fruit and remove one segment of pulpy inner flesh. Place in a bowl and use a fork to mash flesh. Reserve 1/4 cup.",
+            "Beat cream cheese until fluffy. Add condensed milk and continue beating until smooth. Beat in puréed durian, eggs, sour cream, vanilla extract, and durian or banana extract. Pour batter into prepared graham cracker crust.",
+            "Bake 1 hour or until filling is set and edges are lightly browned. Serve warm or chill overnight in the refrigerator."
+        ],
+        "cuisine": "Malaysian",
+        "category": "main-dishes"
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/285148/malaysian-flatbread-roti-canai-with-curried-lentil-dip/",
+        "title": "Malaysian Flatbread (Roti Canai) with Curried Lentil Dip",
+        "summary": "With a crispy, crunchy exterior and a stretchy, chewy interior, these Malaysian flatbread (roti canai) are easier to make than they look. Served alongside a delicious curried lentil dip, this taste combination is ridiculously good!",
+        "photos": [],
+        "ingredients": [
+            {
+                "quantity": 4.0,
+                "unit": "cups",
+                "name": "bread flour",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "white sugar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.5,
+                "unit": "teaspoons",
+                "name": "kosher salt",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "large",
+                "name": "egg",
+                "prepare_type": "beaten"
+            },
+            {
+                "quantity": 3.0,
+                "unit": "tablespoons",
+                "name": "unsalted butter",
+                "prepare_type": "melted"
+            },
+            {
+                "quantity": 1.25,
+                "unit": "cups",
+                "name": "water",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "teaspoons",
+                "name": "vegetable oil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "unsalted butter",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "name": "diced yellow onion",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "teaspoons",
+                "name": "grated fresh ginger",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 4.0,
+                "unit": "cloves",
+                "name": "garlic",
+                "prepare_type": "minced"
+            },
+            {
+                "quantity": 1.5,
+                "unit": "teaspoons",
+                "name": "kosher salt",
+                "prepare_type": "or more to taste"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "curry powder",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "ground paprika",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "ground cumin",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "name": "black pepper",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "name": "cayenne pepper",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "tomato paste",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 3.0,
+                "unit": "cups",
+                "name": "cold water",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "(14 ounce)",
+                "name": "can full-fat coconut milk",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "name": "dried red lentils",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "unsalted butter",
+                "prepare_type": "melted, or more as needed"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "chopped fresh cilantro",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "finely chopped serrano pepper",
+                "prepare_type": ""
+            }
+        ],
+        "directions": [
+            "Combine bread flour, sugar, kosher salt, egg, melted butter, and water for roti canai in a mixing bowl. Mix with your hands until a shaggy dough forms. Transfer to a work surface and knead until a smooth, elastic dough forms, about 7 minutes.",
+            "Divide dough into 8 equal pieces and form each one into a ball. Coat each ball with vegetable oil, transfer to a plate, and cover with plastic wrap. Refrigerate for 8 hours, to overnight.",
+            "Melt butter for dip in a saucepan over medium-high heat. Add onion, ginger, garlic, kosher salt, curry powder, paprika, cumin, black pepper, and cayenne pepper; stir together and saute until onion has softened and spices are fragrant, 3 to 4 minutes. Stir in tomato paste and cook until it starts to toast and caramelize on the bottom of the pan, about 3 minutes.",
+            "Stir in cold water and coconut milk. Add lentils; stir and bring to a simmer. Reduce heat to medium-low and simmer, stirring occasionally, until tender, about 40 minutes. Taste and adjust seasonings. Reduce heat to low and keep warm while you prepare the roti canai.",
+            "Place 1/4 cup melted butter in a bowl. Transfer rested dough balls onto a lightly oiled work surface. Flatten each ball slightly and rub a little melted butter on top. Cover dough with plastic wrap and let it warm up slightly, about 10 minutes.",
+            "Press on top of the plastic wrap to flatten warmed dough. Remove plastic wrap and add a bit more butter. Stretch each piece from the center out to get it as thin as possible (until almost see-through), adding more butter as needed. Don't worry if there are a few small tears.",
+            "Sprinkle on more melted butter, then pull two sides in towards the center until touching and overlapping slightly. Pull the other two edges in the same way to form a square. Cover with plastic wrap and flatten roti canai one more time.",
+            "Add some melted butter to a skillet set over medium or medium-low heat. Add roti canai and cook until browned, flaky, and crispy on the outside and fully cooked through on the inside, 3 to 4 minutes per side.",
+            "Remove from the skillet and smush it with your hands to fluff it up and separate the layers of dough. Repeat to cook remaining roti canai.",
+            "Sprinkle the curried red lentil dip with cilantro and sliced serrano peppers and serve alongside the roti canai.\n\n \n\n\n\n<img\nsrc=\"https://www.allrecipes.com/thmb/Oxsgd4JAaWOdJB8qK1i6mDstzgQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/image-458-083a34d92d5f494fa792140b81fd913e.jpg\"\nwidth=\"1280\"\nheight=\"720\"\nclass=\"img--noscript universal-image__image\"\nsrcset=\"https://www.allrecipes.com/thmb/6JJ0Y5VSoiVYnF_2okO96lAKhW0=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/image-458-083a34d92d5f494fa792140b81fd913e.jpg 750w\"\nsizes=\"750px\"\nalt=\"image\"\n/>\n\n \n Unknown"
+        ],
+        "cuisine": "Malaysian",
+        "category": "main-dishes"
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/215617/malaysian-lady-fingers-okra/",
+        "title": "Malaysian Lady Fingers (Okra)",
+        "summary": "This stir-fried vegetable dish features okra lady fingers, chiles, and Malaysian shrimp paste.",
+        "photos": [],
+        "ingredients": [
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "vegetable oil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 5.0,
+                "unit": "cloves",
+                "name": "garlic",
+                "prepare_type": "minced"
+            },
+            {
+                "quantity": 10.0,
+                "unit": "",
+                "name": "uncooked shrimp - peeled",
+                "prepare_type": "deveined, and cut in half"
+            },
+            {
+                "quantity": 10.0,
+                "unit": "",
+                "name": "fresh okra pods",
+                "prepare_type": "sliced diagonally"
+            },
+            {
+                "quantity": 5.0,
+                "unit": "fresh",
+                "name": "red chile peppers",
+                "prepare_type": "chopped"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "belacan (Malaysian chile-shrimp paste)",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "water",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "teaspoons",
+                "name": "light soy sauce",
+                "prepare_type": ""
+            }
+        ],
+        "directions": [
+            "Heat oil in a wok or skillet over medium-high heat. Cook and stir garlic in hot oil until fragrant, about 1 minute. Stir in shrimp, okra, red chile peppers, and belacan. Cook and stir until chilies begin to soften and shrimp start to turn opaque and pink, about 2 minutes. Pour in water and soy sauce. Cook and stir until okra is tender and sticky, 2 to 4 more minutes."
+        ],
+        "cuisine": "Malaysian",
+        "category": "main-dishes"
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/181609/chicken-curry-puffs/",
+        "title": "Chicken Curry Puffs",
+        "summary": "This recipe for curry puffs makes oven-baked beauties that are great as appetizers or a snack. They're spicy and savory, with a subtle coconut milk base. In Malaysia, they are traditionally deep-fried. But here's a modern version. You can wrap them in different ways — as rolls, sealed pockets, or semi-open bundles.",
+        "photos": [],
+        "ingredients": [
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "vegetable oil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "name": "ground coriander",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "name": "ground turmeric",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "name": "ground cumin",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "teaspoons",
+                "name": "curry powder",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "name": "coconut milk",
+                "prepare_type": "or more as needed"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "red",
+                "name": "onions",
+                "prepare_type": "chopped"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "stalk",
+                "name": "lemon grass",
+                "prepare_type": "thinly sliced"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "red",
+                "name": "chile pepper",
+                "prepare_type": "roughly chopped"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "large",
+                "name": "russet potato",
+                "prepare_type": "diced"
+            },
+            {
+                "quantity": 0.75,
+                "unit": "pound",
+                "name": "skinless",
+                "prepare_type": "boneless chicken breast, cut in bite-sized pieces"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "salt",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "(17.25 ounce)",
+                "name": "package frozen puff pastry",
+                "prepare_type": "thawed"
+            }
+        ],
+        "directions": [
+            "Heat vegetable oil in a saucepan over medium-low heat. Stir in coriander, turmeric, cumin, and curry powder. Cook a few seconds until fragrant. Pour in coconut milk, onions, lemon grass, and red pepper; cook until vegetables are tender, about 7 minutes. Stir in potato and continue cooking for 12 minutes, adding more coconut milk if the mixture becomes too dry. Stir in chicken, then season with salt. Cook and stir until chicken and potato have absorbed most of the liquid, then spread the mixture onto a plate to cool.",
+            "Preheat the oven to 375 degrees F (190 degrees C). Line 2 baking sheets with parchment paper.",
+            "Unfold puff pastry and cut each sheet into 9 squares. Place heaping spoonfuls of the filling in the center of each square. Gather all 4 corners of the pastry and pinch together at the top, forming a small pouch. Place each pastry on the baking sheet, about 1 inch apart.",
+            "Bake in the preheated oven until golden brown, 22 to 27 minutes. Cool on the baking sheet for 10 minutes before removing to cool on a wire rack. Serve warm or at room temperature."
+        ],
+        "cuisine": "Malaysian",
+        "category": "main-dishes"
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/275397/penang-pork-satay/",
+        "title": "Penang Pork Satay",
+        "summary": "I'm not exactly sure how much pork satay they eat in Penang, but I'm confident that your average pork-loving Malaysian would enjoy this explosive combination of flavors. Use a fairly large chunk of pork, because it doesn't take long to develop that beautifully brown, crusty exterior on the grill. Or in a broiler turned to high. Or in the oven at 500 degrees! Serve over rice with peanut sauce and cucumber salad.",
+        "photos": [],
+        "ingredients": [
+            {
+                "quantity": 2.5,
+                "unit": "inch",
+                "name": "piece turmeric root",
+                "prepare_type": "peeled and sliced thinly across the grain"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "ground turmeric",
+                "prepare_type": "or to taste"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "(2 inch)",
+                "name": "piece fresh ginger root",
+                "prepare_type": "sliced"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "large",
+                "name": "shallot",
+                "prepare_type": "roughly chopped"
+            },
+            {
+                "quantity": 8.0,
+                "unit": "cloves",
+                "name": "garlic",
+                "prepare_type": "peeled, or more to taste"
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "light brown sugar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 3.0,
+                "unit": "tablespoons",
+                "name": "ancho chili powder",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "teaspoons",
+                "name": "ground coriander",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "chipotle chili powder",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "name": "cayenne pepper",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "rice vinegar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "soy sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "fish sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "tamarind paste",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "bunch",
+                "name": "lightly packed cilantro leaves and stems",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "(2",
+                "name": "1/2 pound) pork shoulder roast",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "kosher salt",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 5.0,
+                "unit": "large",
+                "name": "metal skewers",
+                "prepare_type": ""
+            }
+        ],
+        "directions": [
+            "Place fresh turmeric in a food processor along with powdered turmeric. Add ginger, shallot, garlic, brown sugar, ancho chili powder, coriander, chipotle, cayenne, rice vinegar, soy sauce, fish sauce, tamarind paste, and cilantro. Blend into a fine paste.",
+            "Cut pork into 1 1/2-inch cubes, trimming off fat as needed. Place pork in a bowl; season with salt. Pour in the marinade. Mix and massage pork with your hands until completely coated. Cover with plastic wrap and refrigerate for 4 to 18 hours.",
+            "Preheat an outdoor grill for medium-high heat and lightly oil the grate. Thread pork through skewers so the pieces are touching but not squished together. Reserve leftover marinade.",
+            "Grill skewers, brushing on reserved marinade, until pork just starts to firm up but is still slightly pink in the center, about 10 minutes per side. An instant-read thermometer inserted into the center should read 145 degrees F (63 degrees C). Serve immediately.\n\n \n\n\n\n<img\nsrc=\"https://www.allrecipes.com/thmb/ecWSWMUgDTOKzEMnYyrFCxpWDAY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/6941217-460a37b5e0844cc28dea1e0f34d1fde5.jpg\"\nwidth=\"5184\"\nheight=\"3456\"\nclass=\"img--noscript universal-image__image\"\nsrcset=\"https://www.allrecipes.com/thmb/YYdNP9FijVpoUgXmFWkLm0OIFlk=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/6941217-460a37b5e0844cc28dea1e0f34d1fde5.jpg 750w\"\nsizes=\"750px\"\n/>"
+        ],
+        "cuisine": "Malaysian",
+        "category": "main-dishes"
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/260794/mutton-varuval-malaysian-indian-style-goat-curry/",
+        "title": "Mutton Varuval (Malaysian Indian-Style Goat Curry)",
+        "summary": "This recipe is the star dish every Diwali at my Indian relative's home in Malaysia. I had to beg my husband's aunt to give up her secret recipe so we could make it for our wedding. Serve over rice or with Indian breads such as naan or chapati.",
+        "photos": [],
+        "ingredients": [
+            {
+                "quantity": 2.0,
+                "unit": "pounds",
+                "name": "goat stew meat",
+                "prepare_type": "cut into chunks"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "teaspoons",
+                "name": "salt",
+                "prepare_type": "divided"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "ground turmeric",
+                "prepare_type": "divided"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "name": "ground black pepper",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "small",
+                "name": "red onions",
+                "prepare_type": "quartered"
+            },
+            {
+                "quantity": 1.5,
+                "unit": "tablespoons",
+                "name": "coconut oil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "",
+                "name": "cinnamon stick",
+                "prepare_type": "broken into pieces"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "",
+                "name": "whole star anise pods",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 4.0,
+                "unit": "",
+                "name": "cardamom pods",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "fennel seeds",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "name": "whole cloves",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "curry leaves",
+                "prepare_type": "divided"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "ginger-garlic paste",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "small",
+                "name": "tomato",
+                "prepare_type": "diced"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "coconut oil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.5,
+                "unit": "teaspoons",
+                "name": "garam masala",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.5,
+                "unit": "teaspoons",
+                "name": "curry powder",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.5,
+                "unit": "teaspoons",
+                "name": "ground paprika",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "name": "chopped fresh cilantro",
+                "prepare_type": ""
+            }
+        ],
+        "directions": [
+            "Season goat meat with 1 teaspoon salt, 1/2 teaspoon turmeric, and black pepper.",
+            "Place red onions in a blender; grind into a smooth paste.",
+            "Heat 1 1/2 tablespoons coconut oil in a Dutch oven over medium heat. Add cinnamon stick, star anise, and cardamom pods; cook until aromatic, about 30 seconds. Add fennel and cloves; cook and stir for 30 seconds. Add remaining 1 teaspoon salt and 1 tablespoon curry leaves; stir in the onion paste. Increase heat to medium-high. Cook and stir curry mixture for 5 minutes; add ginger-garlic paste and continue cooking until flavors meld, about 10 minutes.",
+            "Stir diced tomato into the curry mixture. Cook and stir until mushy, about 4 minutes. Add the seasoned goat meat; cook until browned, 6 to 10 minutes. Transfer goat curry to a slow cooker; cook on High until meat is tender, 2 to 3 hours.",
+            "Heat 1 teaspoon coconut oil in a saucepan over medium heat. Cook and stir the remaining 1/2 teaspoon turmeric, garam masala, curry powder, and paprika until aromatic, about 1 minute. Add a few cups of the curry from the slow cooker; heat until oil rises to the top. Add remaining 1 tablespoon curry leaves and cilantro; cook until gravy thickens, 3 to 5 minutes. Pour back into the slow cooker and blend well."
+        ],
+        "cuisine": "Malaysian",
+        "category": "main-dishes"
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/160157/sambal-sauce/",
+        "title": "Sambal Sauce",
+        "summary": "This is a Malaysian recipe from our Singaporean cook for a rather hot sambal sauce to be used with shrimp or chicken.",
+        "photos": [],
+        "ingredients": [
+            {
+                "quantity": 1.0,
+                "unit": "",
+                "name": "tomato",
+                "prepare_type": "chopped"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "bulb",
+                "name": "garlic",
+                "prepare_type": "peeled and crushed"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "",
+                "name": "onion",
+                "prepare_type": "chopped"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "name": "chopped serrano chiles",
+                "prepare_type": "with seeds"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "white sugar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "salt",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "fresh lime juice",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "belacan shrimp paste",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "vegetable oil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "",
+                "name": "lemongrass",
+                "prepare_type": "bruised"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "",
+                "name": "fresh curry leaves",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "(1/2 inch)",
+                "name": "piece galangal",
+                "prepare_type": "thinly sliced"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "tamarind juice",
+                "prepare_type": ""
+            }
+        ],
+        "directions": [
+            "Place tomato, garlic, onion, chiles, sugar, salt, lime juice, and shrimp paste into a blender; process until smooth.",
+            "Heat oil in a saucepan over medium-high heat. Pour chile purée into hot oil. Stir in lemongrass, curry leaves, and galangal. Cook, stirring occasionally, until mixture changes color and becomes very fragrant, about 15 minutes.",
+            "Stir in tamarind juice; cook for 1 minute. Strain sauce before serving."
+        ],
+        "cuisine": "Malaysian",
+        "category": "main-dishes"
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/156939/spicy-tomato-chicken-ayam-masak-merah/",
+        "title": "Spicy Tomato Chicken (Ayam Masak Merah)",
+        "summary": "This is a Malay/Indonesian dish which is spicy and sweet at the same time. Recipe was passed down to me by my mother-in-law, and although it doesn't quite taste the same as the way she makes it, my husband loves it!",
+        "photos": [],
+        "ingredients": [
+            {
+                "quantity": 1.0,
+                "unit": "(3 pound)",
+                "name": "whole chicken",
+                "prepare_type": "cut into 8 pieces"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "ground turmeric",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "name": "salt to taste",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "dried red chile peppers",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 3.0,
+                "unit": "",
+                "name": "fresh red chile pepper",
+                "prepare_type": "finely chopped"
+            },
+            {
+                "quantity": 4.0,
+                "unit": "cloves",
+                "name": "garlic",
+                "prepare_type": "minced"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "",
+                "name": "red onion",
+                "prepare_type": "chopped"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "(3/4",
+                "name": "inch thick) slice fresh ginger root",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "sunflower seed oil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "",
+                "name": "cinnamon stick",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "",
+                "name": "whole star anise pods",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 5.0,
+                "unit": "",
+                "name": "whole cloves",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 5.0,
+                "unit": "",
+                "name": "cardamom seeds",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "",
+                "name": "tomatoes",
+                "prepare_type": "sliced"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "ketchup",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "white sugar",
+                "prepare_type": "or to taste"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "name": "water",
+                "prepare_type": ""
+            }
+        ],
+        "directions": [
+            "Rub the chicken with turmeric powder and salt. Set aside. Soak the dried red chile peppers in hot water until softened. Blend the softened dried chile, fresh red chile pepper, garlic, onion, and ginger in a blender to a paste.",
+            "Heat the oil in a large skillet over medium-high heat. Brown the chicken in the hot oil until golden on all sides. Remove the chicken from the skillet and set aside. Remove excess oil from the skillet, leaving about 1 tablespoon. Cook and stir the chile paste with the cinnamon, star anise, cloves and cardamom seeds until fragrant. Return the chicken to the skillet. Stir in the water, adding more if needed. Toss in the tomatoes and stir in the ketchup and sugar. Bring to a boil then reduce heat to medium-low and simmer until no the chicken longer pink at the bone and the juices run clear, about 15 minutes. Serve hot."
+        ],
+        "cuisine": "Malaysian",
+        "category": "main-dishes"
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/30794/malaysian-beef-rendang/",
+        "title": "Malaysian Beef Rendang",
+        "summary": "This dish has a unique flavor, and by varying the amounts of sugar and chilies a whole range of effects can be produced. Serve over rice.",
+        "photos": [],
+        "ingredients": [
+            {
+                "quantity": 0.625,
+                "unit": "pound",
+                "name": "shallots",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 3.0,
+                "unit": "cloves",
+                "name": "garlic",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 15.0,
+                "unit": "",
+                "name": "dried red chile peppers",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 5.0,
+                "unit": "slices",
+                "name": "fresh ginger root",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 5.0,
+                "unit": "",
+                "name": "lemon grass",
+                "prepare_type": "chopped"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "teaspoons",
+                "name": "coriander seeds",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "teaspoons",
+                "name": "fennel seeds",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "teaspoons",
+                "name": "cumin seeds",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "pinch",
+                "name": "grated nutmeg",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "vegetable oil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.25,
+                "unit": "pounds",
+                "name": "beef stew meat",
+                "prepare_type": "cut into 1 inch cubes"
+            },
+            {
+                "quantity": 1.5,
+                "unit": "tablespoons",
+                "name": "white sugar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "cups",
+                "name": "shredded coconut",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 5.0,
+                "unit": "",
+                "name": "whole cloves",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "",
+                "name": "cinnamon stick",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.6600000000000001,
+                "unit": "cups",
+                "name": "coconut milk",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.875,
+                "unit": "cup",
+                "name": "water",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "name": "salt to taste",
+                "prepare_type": ""
+            }
+        ],
+        "directions": [
+            "Heat the coconut in a dry wok, stirring continuously until golden brown. Set aside to cool.",
+            "Using a blender or a food processor, blend the shallots, garlic, chilies, ginger, and lemon grass to a thick paste.",
+            "Grind the coriander, fennel, cumin and nutmeg.",
+            "Using the wok, fry the shallot paste in a little oil for a few minutes. Add the ground coriander, fennel, cumin and nutmeg; cook for 3 to 4 minutes, stirring continuously. Add beef; cook over a medium heat for a further 3 to 4 minutes, or until meat is browned.",
+            "Stir in sugar, coconut, cloves, cinnamon stick, coconut milk , and water. Bring to a boil, lower heat, and simmer until most of the liquid has gone and the meat is tender (about 1 hour). Season with salt to taste."
+        ],
+        "cuisine": "Malaysian",
+        "category": "main-dishes"
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/14535/malaysian-barbecue-chicken-wings/",
+        "title": "Malaysian Barbecue Chicken Wings",
+        "summary": "This is a Malaysian barbecue recipe that I came up with myself. It is very delicious, especially with chicken wings.",
+        "photos": [],
+        "ingredients": [
+            {
+                "quantity": 12.0,
+                "unit": "",
+                "name": "chicken wings",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 4.0,
+                "unit": "tablespoons",
+                "name": "soy sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "dark soy sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "sesame oil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "oyster sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "tablespoon",
+                "name": "garlic powder",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "name": "onion powder",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "name": "ground black pepper to taste",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "dried basil",
+                "prepare_type": ""
+            }
+        ],
+        "directions": [
+            "In a shallow glass bowl combine the soy sauce, dark soy sauce, sesame oil, oyster sauce, garlic powder, onion powder, ground black pepper and dried basil. Mix together. Add chicken wings, cover and refrigerate overnight. Stir together again the next day.",
+            "Lightly oil grill and preheat to high heat.",
+            "Remove wings from marinade and discard remaining marinade. Grill chicken wings over preheated grill for 8 to 12 minutes each side, or until cooked through and juices run clear."
+        ],
+        "cuisine": "Malaysian",
+        "category": "main-dishes"
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/78938/malaysian-nasi-lemak/",
+        "title": "Malaysian Nasi Lemak",
+        "summary": "Nasi lemak is delicious Malaysian coconut rice, drizzled with an anchovy and hot chile sauce, then topped with fried anchovies, fried peanuts, sliced cucumber, and hard-boiled egg.",
+        "photos": [],
+        "ingredients": [
+            {
+                "quantity": 2.0,
+                "unit": "cups",
+                "name": "coconut milk",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "cups",
+                "name": "water",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "cups",
+                "name": "long grain rice",
+                "prepare_type": "rinsed and drained"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "(1/2 inch)",
+                "name": "piece fresh ginger",
+                "prepare_type": "peeled and thinly sliced"
+            },
+            {
+                "quantity": 0.25,
+                "unit": "teaspoon",
+                "name": "ground ginger",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "",
+                "name": "whole bay leaf",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "name": "salt to taste",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "name": "oil for frying",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "name": "raw peanuts",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "(4 ounce)",
+                "name": "package white anchovies",
+                "prepare_type": "washed"
+            },
+            {
+                "quantity": 4.0,
+                "unit": "large",
+                "name": "hard-boiled eggs",
+                "prepare_type": "peeled and halved"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "medium",
+                "name": "cucumber",
+                "prepare_type": "sliced"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "vegetable oil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "medium",
+                "name": "onion",
+                "prepare_type": "sliced"
+            },
+            {
+                "quantity": 3.0,
+                "unit": "medium",
+                "name": "shallots",
+                "prepare_type": "thinly sliced"
+            },
+            {
+                "quantity": 3.0,
+                "unit": "cloves",
+                "name": "garlic",
+                "prepare_type": "thinly sliced"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "teaspoons",
+                "name": "chile paste",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "water",
+                "prepare_type": "or more as needed (Optional)"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "(4 ounce)",
+                "name": "package white anchovies",
+                "prepare_type": "washed"
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "tamarind juice",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 3.0,
+                "unit": "tablespoons",
+                "name": "white sugar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "name": "salt to taste",
+                "prepare_type": ""
+            }
+        ],
+        "directions": [
+            "Make the rice: Stir coconut milk, water, rice, fresh ginger, ground ginger, bay leaf, and salt together in a medium saucepan. Cover and bring to a boil over medium heat. Reduce the heat and simmer until tender, 20 to 30 minutes. Discard bay leaf and keep rice warm until garnish and sauce are ready.",
+            "While the rice is cooking, make the garnish: Heat 1 cup vegetable oil in a large skillet over medium-high heat. Stir in peanuts and cook briefly, until lightly browned. Remove peanuts with a slotted spoon and place onto paper towels to soak up excess grease.",
+            "Return the skillet to the stove. Stir in anchovies and cook, turning occasionally, until crisp, 2 to 3 minutes. Remove with a slotted spoon and place on paper towels. Discard oil and wipe out the skillet.",
+            "Make the sauce: Heat oil in the clean skillet. Stir in onion, shallots, and garlic; cook until fragrant, 1 to 2 minutes. Mix in chile paste and cook for 10 minutes, stirring occasionally; if mixture is too dry, add water as needed. Stir in anchovies and cook for 5 minutes. Stir in tamarind juice, sugar, and salt; simmer until sauce is thick, about 5 minutes.",
+            "Ladle warm rice into bowls. Top with warm sauce, then top with peanuts, fried anchovies, hard-boiled eggs, and cucumber."
+        ],
+        "cuisine": "Malaysian",
+        "category": "main-dishes"
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/45446/satay-sauce/",
+        "title": "Satay Sauce",
+        "summary": "This satay sauce is a wonderful Thai-style sauce that you can easily make at home. Perfect for serving with grilled chicken skewers.",
+        "photos": [],
+        "ingredients": [
+            {
+                "quantity": 1.0,
+                "unit": "(10 ounce)",
+                "name": "can coconut milk",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "name": "crunchy peanut butter",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "small",
+                "name": "onion",
+                "prepare_type": "grated"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "dark soy sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "teaspoons",
+                "name": "brown sugar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "name": "red pepper flakes",
+                "prepare_type": ""
+            }
+        ],
+        "directions": [
+            "Combine coconut milk, peanut butter, onion, soy sauce, brown sugar, and pepper flakes in a saucepan over medium heat. Bring to a boil, stirring frequently. Remove from heat, and keep warm."
+        ],
+        "cuisine": "Malaysian",
+        "category": "main-dishes"
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/69769/spicy-noodles-malay-style/",
+        "title": "Spicy Noodles - Malay Style",
+        "summary": "Spicy and simply devilish, a kick start on Malay cuisine. Remember to set water at the side 'cause you're on fire!!!",
+        "photos": [],
+        "ingredients": [
+            {
+                "quantity": 1.0,
+                "unit": "(12 ounce)",
+                "name": "package uncooked egg noodles",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 3.0,
+                "unit": "tablespoons",
+                "name": "olive oil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "finely chopped garlic",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "bunch",
+                "name": "fresh spinach",
+                "prepare_type": "stems removed, chopped"
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "chile paste",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 3.0,
+                "unit": "tablespoons",
+                "name": "ketchup",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "",
+                "name": "egg",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "name": "white sugar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "water",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "name": "salt and pepper to taste",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "name": "fresh bean sprouts",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "name": "green peas",
+                "prepare_type": ""
+            }
+        ],
+        "directions": [
+            "Bring a large pot of water to a boil, cook the egg noodles 6 to 8 minutes, until al dente, and drain.",
+            "Heat the oil in a skillet over medium heat, and saute the garlic about 1 minute. Stir in the spinach, and cook about 1 minute. Mix in the cooked egg noodles, chile paste, and ketchup, and toss until well coated.",
+            "Make a hole in the center of the noodle mixture. Place the egg in the center, and scramble, tossing with the noodles just before egg is finished cooking.",
+            "Mix the sugar and enough water to keep the mixture moist into the skillet. Season with salt and pepper. Continue to cook, stirring constantly, about 6 minutes. Toss in the sprouts and peas, and cook and stir about 4 minutes, until heated through."
+        ],
+        "cuisine": "Malaysian",
+        "category": "main-dishes"
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/208612/malaysian-mango-chicken-curry/",
+        "title": "Malaysian Mango Chicken Curry",
+        "summary": "This Malaysian inspired mango dish always has people wanting more.",
+        "photos": [],
+        "ingredients": [
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "vegetable oil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "pound",
+                "name": "skinless",
+                "prepare_type": "boneless chicken breast, cubed"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "name": "chicken stock",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "soy sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "cider vinegar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.5,
+                "unit": "tablespoons",
+                "name": "brown sugar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "curry powder",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "cornstarch",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "",
+                "name": "onion",
+                "prepare_type": "diced"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "",
+                "name": "green bell pepper",
+                "prepare_type": "sliced"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "",
+                "name": "red bell pepper",
+                "prepare_type": "sliced"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "teaspoons",
+                "name": "minced fresh ginger root",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "",
+                "name": "mango",
+                "prepare_type": "peeled and cubed"
+            }
+        ],
+        "directions": [
+            "Heat vegetable oil in a large skillet over medium-high heat and stir in the chicken breast. Cook the chicken breast until no longer pink in the center. Transfer cooked chicken to a plate. Meanwhile, whisk together the chicken stock, soy sauce, vinegar, brown sugar, curry powder, and cornstarch. Set aside.",
+            "Using the same skillet, cook and stir the onion over medium heat until the onion has softened and turned translucent, about 5 minutes. Stir in the green and red bell peppers and cook for 2 minutes, then add the ginger and cook for another minute. Stir in the chicken stock mixture and the cooked chicken breast. Cook until the sauce has thickened. Drop mango in and cook until the mango is heated through."
+        ],
+        "cuisine": "Malaysian",
+        "category": "main-dishes"
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/95602/chicken-with-black-beans/",
+        "title": "Chicken with Black Beans",
+        "summary": "Chicken with black beans is commonly enjoyed in Malaysian Chinese households. It is a homemade Malaysian dish that's easy to make.",
+        "photos": [],
+        "ingredients": [
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "light soy sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "cornstarch",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "white sugar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "name": "ground black pepper",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.5,
+                "unit": "pounds",
+                "name": "skinless",
+                "prepare_type": "boneless chicken breast meat - cubed"
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "water",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "vegetable oil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "(2 inch)",
+                "name": "pieces fresh ginger",
+                "prepare_type": "cut into matchsticks"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "cloves",
+                "name": "garlic",
+                "prepare_type": "minced"
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "fermented black beans",
+                "prepare_type": "rinsed and mashed"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "white sugar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "",
+                "name": "red bell pepper",
+                "prepare_type": "chopped"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "",
+                "name": "green bell pepper",
+                "prepare_type": "chopped"
+            },
+            {
+                "quantity": 4.0,
+                "unit": "",
+                "name": "green onions",
+                "prepare_type": "cut into 1-inch pieces"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "small",
+                "name": "carrot",
+                "prepare_type": "sliced"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "oyster sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "thick soy sauce",
+                "prepare_type": ""
+            }
+        ],
+        "directions": [
+            "Whisk together light soy sauce, cornstarch, 1 teaspoon sugar, and pepper in a large glass or ceramic bowl. Add chicken and toss to evenly coat. Cover the bowl with plastic wrap and marinate in the refrigerator for 10 minutes.",
+            "Heat water in a large skillet over medium-high heat until boiling. Quickly stir in chicken mixture and cook for 3 to 4 minutes; chicken will not be cooked through. Drain water and place chicken on a plate; set aside. Carefully wipe down the skillet.",
+            "Heat vegetable oil over medium heat. Cook and stir ginger and garlic in hot oil until fragrant, about 1 minute. Return chicken to the skillet and stir in black beans and 1 tablespoon sugar. Cook chicken, stirring occasionally, until no longer pink in the center, about 10 minutes. Stir in red and green bell peppers, green onions, carrot, oyster sauce, and thick soy sauce. Cook and stir until heated through, about 1 minute."
+        ],
+        "cuisine": "Malaysian",
+        "category": "main-dishes"
+    }
+]

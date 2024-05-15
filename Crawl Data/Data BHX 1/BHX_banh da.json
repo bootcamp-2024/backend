@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Bánh đa tôm mè 20cm Hương Nam gói 454g",
+        "category": "banh da",
+        "url": "https://www.bachhoaxanh.com/banh-phong-tom/banh-da-tom-me-huong-nam-454g",
+        "image": "https://cdn.tgdd.vn/Products/Images/3234/80562/bhx/banh-da-tom-me-20cm-huong-nam-goi-454g-202205141412406897_300x300.jpg",
+        "price": "47000",
+        "weight": "/454g",
+        "price_per_kg": "",
+        "domain_url": "https://www.bachhoaxanh.com"
+    },
+    {
+        "name": "Bánh đa mè đen 20cm Hương Nam gói 454g",
+        "category": "banh da",
+        "url": "https://www.bachhoaxanh.com/banh-phong-tom/banh-da-me-trang-dua-454g",
+        "image": "https://cdn.tgdd.vn/Products/Images/3234/80561/bhx/banh-da-me-den-20cm-huong-nam-goi-454g-202205141411387252_300x300.jpg",
+        "price": "47000",
+        "weight": "/454g",
+        "price_per_kg": "",
+        "domain_url": "https://www.bachhoaxanh.com"
+    },
+    {
+        "name": "Bánh đa cơm dừa Bích Chi gói 400g",
+        "category": "banh da",
+        "url": "https://www.bachhoaxanh.com/banh-phong-tom/banh-da-com-dua-vina-bich-chi-400gam",
+        "image": "https://cdn.tgdd.vn/Products/Images/3234/83065/bhx/banh-da-com-dua-bich-chi-goi-400g-202205141419414222_300x300.jpg",
+        "price": "31000",
+        "weight": "/400g",
+        "price_per_kg": "",
+        "domain_url": "https://www.bachhoaxanh.com"
+    }
+]

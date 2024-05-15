@@ -1,0 +1,163 @@
+[
+    {
+        "name": "Haldi Ka Doodh (Hot Turmeric Milk)",
+        "cook_time": "PT10M",
+        "prep_time": "PT5M",
+        "total_time": "PT15M",
+        "nutrition": {
+            "calories": "154 kcal",
+            "carbohydrateContent": "19 g",
+            "cholesterolContent": "20 mg",
+            "fiberContent": "1 g",
+            "proteinContent": "8 g",
+            "saturatedFatContent": "3 g",
+            "sodiumContent": "104 mg",
+            "sugarContent": "16 g",
+            "fatContent": "5 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "description": "Hot turmeric milk, or haldi ka doodh, is a traditional Indian beverage made with a blend of warm spices used to soothe sore throats and heal colds.",
+        "cuisine": "indian",
+        "category": "Drink",
+        "ingredient": [
+            {
+                "quantity": "¼",
+                "unit": "teaspoon",
+                "name": "ground turmeric, or to taste"
+            },
+            {
+                "quantity": "¼",
+                "unit": "teaspoon",
+                "name": "ground cardamom"
+            },
+            {
+                "quantity": "⅛",
+                "unit": "teaspoon",
+                "name": "ground black pepper"
+            },
+            {
+                "quantity": "1",
+                "unit": "pinch",
+                "name": "ground ginger"
+            },
+            {
+                "quantity": "1",
+                "unit": "pinch",
+                "name": "ground cloves"
+            },
+            {
+                "quantity": "1",
+                "unit": "pinch",
+                "name": "ground allspice"
+            },
+            {
+                "quantity": "1",
+                "unit": "cup",
+                "name": "milk"
+            },
+            {
+                "quantity": "¾",
+                "unit": "teaspoon",
+                "name": "honey, or to taste"
+            },
+            {
+                "quantity": "⅛",
+                "unit": "teaspoon",
+                "name": "vanilla extract"
+            }
+        ],
+        "instructions": [
+            {
+                "text": "Whisk together turmeric, cardamom, black pepper, ginger, cloves, and allspice in a small bowl; set aside."
+            },
+            {
+                "text": "Heat milk in a small saucepan over medium heat until heated through, 3 to 4 minutes; stir honey and vanilla into milk until completely dissolved."
+            },
+            {
+                "text": "Whisk 1 teaspoon turmeric mixture into milk mixture; reduce heat to medium-low and simmer until flavors blend, 2 to 3 minutes. Pour mixture through a strainer."
+            }
+        ],
+        "image": "https://www.allrecipes.com/thmb/-oXR6VZpmYRgtiGBn4agpylP6ck=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2188209-f92f3a87b65c4ecf9e933f23202f0b04.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/Yz7ADU5s-K3AjnAEN.mp4",
+            "description": "Simply mix together ground turmeric, cardamom, black pepper (which helps you better absorb the benefits of turmeric), ginger, cloves and allspice, then add to milk with some vanilla and honey and heat until flavors blend. Then drink up all the warm goodness!",
+            "duration": "PT57S",
+            "name": "Haldi Ka Doodh (Hot Turmeric Milk)"
+        },
+        "url": "https://www.allrecipes.com/recipe/236294/haldi-ka-doodh-hot-turmeric-milk/"
+    },
+    {
+        "name": "Turmeric Milk",
+        "cook_time": "PT5M",
+        "prep_time": "PT10M",
+        "total_time": "PT15M",
+        "nutrition": {
+            "calories": "143 kcal",
+            "carbohydrateContent": "29 g",
+            "fiberContent": "2 g",
+            "proteinContent": "2 g",
+            "saturatedFatContent": "0 g",
+            "sodiumContent": "163 mg",
+            "sugarContent": "25 g",
+            "fatContent": "3 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "description": "Fresh turmeric and fresh ginger give this warm turmeric milk, made with almond milk, a spicy and soothing flavor.",
+        "cuisine": "indian",
+        "category": "Drink",
+        "ingredient": [
+            {
+                "quantity": "1",
+                "unit": "(1 1/2 inch) piece",
+                "name": "fresh turmeric root, peeled and grated"
+            },
+            {
+                "quantity": "1",
+                "unit": "(1/2 inch) piece",
+                "name": "fresh ginger root, peeled and grated"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "name": "honey"
+            },
+            {
+                "quantity": "1",
+                "unit": "cup",
+                "name": "unsweetened almond milk"
+            },
+            {
+                "quantity": "1",
+                "unit": "pinch",
+                "name": "ground turmeric"
+            },
+            {
+                "quantity": "1",
+                "unit": "pinch",
+                "name": "ground cinnamon"
+            }
+        ],
+        "instructions": [
+            {
+                "text": "Combine turmeric root, ginger root, and honey together in a bowl, crushing the turmeric and ginger as much as possible."
+            },
+            {
+                "text": "Heat almond milk in a saucepan over medium-low heat. Once small bubbles begin to form around the edges, reduce heat to low. Transfer about 2 tablespoon milk to turmeric mixture to allow mixture to soften and honey to melt into a paste-like mixture."
+            },
+            {
+                "text": "Mix the turmeric paste into milk in the saucepan; raise temperature to medium-low and cook, stirring continuously, until fully combined. Blend with an immersion blender for a smooth texture."
+            },
+            {
+                "text": "Pour turmeric tea into a mug and top with ground turmeric and cinnamon."
+            }
+        ],
+        "image": "https://www.allrecipes.com/thmb/ZwZmtHGBzjaIww470wejYbLCwSY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2610008-93658225f7764b02bf31e8daa42d298f.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/9rokQGTS-K3AjnAEN.mp4",
+            "description": "Naturally anti-inflammatory and connected with several health benefits, turmeric is the latest spice being noticed for its benefits beyond adding color to mustards and curries. For maximum effect, fresh turmeric root is used in this recipe, along with fresh ginger root, honey and almond milk. Once warmed and mixed, blend with an immersion blender for smoothness, then garnish with ground turmeric and cinnamon for a spicy finish. ",
+            "duration": "PT57S",
+            "name": "Turmeric Milk"
+        },
+        "url": "https://www.allrecipes.com/recipe/244623/turmeric-milk/"
+    }
+]

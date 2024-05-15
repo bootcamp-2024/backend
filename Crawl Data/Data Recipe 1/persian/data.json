@@ -1,0 +1,230 @@
+[
+    {
+        "name": "Duck Fesenjān",
+        "cook_time": "PT220M",
+        "prep_time": "PT10M",
+        "total_time": "PT230M",
+        "nutrition": {
+            "calories": "668 kcal",
+            "carbohydrateContent": "32 g",
+            "cholesterolContent": "102 mg",
+            "fiberContent": "4 g",
+            "proteinContent": "31 g",
+            "saturatedFatContent": "7 g",
+            "sodiumContent": "990 mg",
+            "sugarContent": "25 g",
+            "fatContent": "48 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "description": "Chef John&#39;s recipe for the classic Persian stew called fesenjān (fesenjoon) features a savory combination of duck, pomegranate molasses, and walnuts.",
+        "cuisine": "persian",
+        "category": "Dinner",
+        "ingredient": [
+            {
+                "quantity": "8",
+                "unit": null,
+                "name": "duck legs"
+            },
+            {
+                "quantity": null,
+                "unit": null,
+                "name": "salt and freshly ground black pepper to taste"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "name": "vegetable oil"
+            },
+            {
+                "quantity": "¼",
+                "unit": "cup",
+                "name": "water, or as needed"
+            },
+            {
+                "quantity": "3",
+                "unit": "tablespoons",
+                "name": "olive oil, or more to taste"
+            },
+            {
+                "quantity": "2",
+                "unit": "cups",
+                "name": "diced yellow onion"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "ground turmeric"
+            },
+            {
+                "quantity": "½",
+                "unit": "teaspoon",
+                "name": "ground cinnamon"
+            },
+            {
+                "quantity": "⅛",
+                "unit": "teaspoon",
+                "name": "ground nutmeg"
+            },
+            {
+                "quantity": "6",
+                "unit": "cups",
+                "name": "chicken broth, or more as needed"
+            },
+            {
+                "quantity": "⅔",
+                "unit": "cup",
+                "name": "pomegranate molasses"
+            },
+            {
+                "quantity": "¼",
+                "unit": "cup",
+                "name": "honey"
+            },
+            {
+                "quantity": "3",
+                "unit": "cups",
+                "name": "walnut halves"
+            }
+        ],
+        "instructions": [
+            {
+                "text": "Season duck legs all over with salt and pepper."
+            },
+            {
+                "text": "Heat vegetable oil in a large skillet over high heat. Place duck legs, skin-side down, in hot oil and cook until browned, 2 to 5 minutes. Turn and cook until browned on the other side, 2 to 4 minutes. Transfer legs to a plate; pour rendered duck fat into a bowl."
+            },
+            {
+                "text": "Pour water into the skillet and bring to a boil while scraping the browned bits of food off of the bottom of the pan with a wooden spoon. Remove from the heat."
+            },
+            {
+                "text": "Place about 2 tablespoons duck fat into a Dutch oven; add olive oil and heat over medium heat until hot. Add onion and sauté until golden brown, 7 to 10 minutes. Add turmeric, cinnamon, and nutmeg; cook and stir until fragrant, 1 minute."
+            },
+            {
+                "text": "Pour chicken broth, pomegranate molasses, honey, and reserved water mixture from the skillet into the Dutch oven; bring to a simmer."
+            },
+            {
+                "text": "Meanwhile, grind walnuts to a fine powder in a food processor."
+            },
+            {
+                "text": "Cook and stir ground walnuts in a dry skillet over medium heat until fragrant, 2 to 3 minutes; stir into broth mixture."
+            },
+            {
+                "text": "Place duck legs into broth and press gently to submerge. Reduce the heat and simmer until duck legs are no longer pink at the bone and the juices run clear, 3 to 4 hours. An instant-read thermometer inserted near the bone should read 165 degrees F (74 degrees C)."
+            },
+            {
+                "text": "Bring broth to a boil; cook until reduced and desired sauce consistency is reached. Season with salt. Ladle sauce over duck legs to serve."
+            }
+        ],
+        "image": "https://www.allrecipes.com/thmb/BcraDqh7RBpa6BU0hWOkhrodPGk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1817094-388349d676a344df8cb1c35d603495b4.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/zbHIiAD2-K3AjnAEN.mp4",
+            "description": "0790 Fesenjan",
+            "duration": "PT6M51S",
+            "name": "Duck Fesenjan"
+        },
+        "url": "https://www.allrecipes.com/recipe/240607/duck-fesenjan/"
+    },
+    {
+        "name": "Persian Rice",
+        "cook_time": "PT55M",
+        "prep_time": "PT15M",
+        "total_time": "PT70M",
+        "nutrition": {
+            "calories": "255 kcal",
+            "carbohydrateContent": "42 g",
+            "cholesterolContent": "11 mg",
+            "fiberContent": "1 g",
+            "proteinContent": "4 g",
+            "saturatedFatContent": "3 g",
+            "sodiumContent": "2223 mg",
+            "sugarContent": "0 g",
+            "fatContent": "8 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "description": "Chef John&#39;s Persian rice features fluffy basmati rice flavored with butter, saffron, and cumin, topped with slices of beautiful golden crisp potatoes.",
+        "cuisine": "persian",
+        "category": "Side Dish",
+        "ingredient": [
+            {
+                "quantity": "3",
+                "unit": "quarts",
+                "name": "water"
+            },
+            {
+                "quantity": "3",
+                "unit": "tablespoons",
+                "name": "kosher salt"
+            },
+            {
+                "quantity": "2",
+                "unit": "cups",
+                "name": "basmati rice, rinsed"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "name": "olive oil"
+            },
+            {
+                "quantity": "1",
+                "unit": null,
+                "name": "russet potato, cut into 1/4-inch slices"
+            },
+            {
+                "quantity": "1",
+                "unit": "pinch",
+                "name": "ground cumin"
+            },
+            {
+                "quantity": null,
+                "unit": null,
+                "name": "salt to taste"
+            },
+            {
+                "quantity": "3",
+                "unit": "tablespoons",
+                "name": "butter, cut into thin slices, or to taste"
+            },
+            {
+                "quantity": "1",
+                "unit": "pinch",
+                "name": "saffron threads"
+            },
+            {
+                "quantity": "1 ½",
+                "unit": "tablespoons",
+                "name": "hot water"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "name": "chopped parsley, or to taste"
+            }
+        ],
+        "instructions": [
+            {
+                "text": "Place water and kosher salt in a pot; bring to a boil. Add rice; cook and stir for exactly 7 minutes. Drain."
+            },
+            {
+                "text": "Heat olive oil in a pot over medium-high heat. Cover the bottom of the pot with 1 layer of potato slices. Sprinkle cumin and salt over potatoes. Cook until potatoes are sizzling, 2 to 3 minutes; top potatoes with rice to form an even layer. Reduce heat to low and place butter slices over rice."
+            },
+            {
+                "text": "Top the pot with a layer of clean paper towels, then place the lid over the towels. Steam until rice is fluffy, about 45 minutes."
+            },
+            {
+                "text": "Grind saffron threads with a mortar and pestle. Mix crushed saffron with 1 1/2 tablespoons hot water in a large bowl. Add a couple of spoonfuls of rice to saffron mixture and stir until rice is yellow."
+            },
+            {
+                "text": "Spoon remaining rice into a serving bowl. Top with saffron rice and line the edges of the bowl with potatoes. Garnish with parsley."
+            }
+        ],
+        "image": "https://www.allrecipes.com/thmb/xjurj3TmYEQ5MMdq8s0mGMo4658=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/24606-persian-rice-mfs_149-04ba83bbdc4449f0a97767fff0172dfa.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/BhRdV2Ev-K3AjnAEN.mp4",
+            "description": "I believe I've posted a few fool proof methods for cooking perfect rice, but this Persian version takes the grand prize, and it's not even close for second. The beauty of this method is that it doesn't rely on any specific measurements, or even exact times. This will make some of you very nervous, but just go with it.",
+            "duration": "PT6M32S",
+            "name": "Chef John's Persian Rice"
+        },
+        "url": "https://www.allrecipes.com/recipe/240606/persian-rice/"
+    }
+]

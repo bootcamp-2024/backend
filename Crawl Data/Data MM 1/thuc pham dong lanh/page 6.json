@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Kem Cornetto dâu",
+        "price": "19,300",
+        "unit": "Cây",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/kem-cornetto-socola-135ml-795127/",
+        "category": "thuc pham dong lanh",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/204210-300x300.jpg",
+        "quantity": "135ml",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Kem Cornetto socola",
+        "price": "19,000",
+        "unit": "Cây",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/kem-walls-asian-delight-sau-rieng-thai-60ml-795153/",
+        "category": "thuc pham dong lanh",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/204211-300x300.jpg",
+        "quantity": "135ml",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Kem Wall’s Asian Delight sầu riêng Thái",
+        "price": "19,000",
+        "unit": "Cây",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/kem-walls-topten-socola-70ml-795207/",
+        "category": "thuc pham dong lanh",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "58g/63g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Khoai tây cọng Nana 7*7mm",
+        "price": "149,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/khoai-tay-cong-nana-77mm-2-5kg-789280/",
+        "category": "thuc pham dong lanh",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "2.5kg",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bao tử cá ngừ đại dương đông lạnh",
+        "price": "79,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/bao-tu-ca-ngu-dai-duong-dong-lanh-779783/",
+        "category": "thuc pham dong lanh",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "500g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bánh Hotteok nhân phô mai Pulmuone",
+        "price": "175,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/banh-hotteok-nhan-pho-mai-pulmuone-goi-600g-774483/",
+        "category": "thuc pham dong lanh",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "gói 600g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Rau hỗn hợp đông lạnh MM Pro",
+        "price": "126,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/rau-hon-hop-dong-lanh-mmpro-2kg-773038/",
+        "category": "thuc pham dong lanh",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "2kg",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Khoai tây Lutosa sợi lớn",
+        "price": "176,000",
+        "unit": "Túi",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/khoai-tay-lutosa-soi-lon-goi-2-5kg-770396/",
+        "category": "thuc pham dong lanh",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "2.5kg",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Cá hố đông lạnh Foody Mart",
+        "price": "75,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/ca-ho-dong-lanh-foody-mart-500g-765564/",
+        "category": "thuc pham dong lanh",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "500g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Mực ống đông lạnh",
+        "price": "239,000",
+        "unit": "Ký",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/muc-ong-dong-lanh-15-20cm-con-756842/",
+        "category": "thuc pham dong lanh",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "15-20 cm/con",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Tôm hấp PD đông lạnh size 51-60",
+        "price": "180,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/tom-hap-pd-dong-lanh-size-51-60-500g-756863/",
+        "category": "thuc pham dong lanh",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "500g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Thanh cua đông lạnh We Are Fresh",
+        "price": "76,000",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/thanh-cua-we-are-fresh-500g-748898/",
+        "category": "thuc pham dong lanh",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "500g",
+        "domain_url": "https://online.mmvietnam.com/"
+    }
+]

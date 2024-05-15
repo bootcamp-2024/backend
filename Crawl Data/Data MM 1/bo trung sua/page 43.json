@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Kem sữa nấu tiệt trùng Anchor",
+        "price": "144,000",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/kem-nau-tiet-trung-anchor-cai-tien-1l/",
+        "category": "bo trung sua",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/177003-300x300.jpg",
+        "quantity": "1 lít",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Phô mai Teama",
+        "price": "29,000",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/pho-mai-teama-8-mieng-hop-120g-8/",
+        "category": "bo trung sua",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/119658-300x300.jpg",
+        "quantity": "hộp 8 miếng",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Bánh flan Ánh Hồng",
+        "price": "59,000",
+        "unit": "Lốc",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/banh-flan-caramel-anh-hong-loc-10-hu-x-54g-3/",
+        "category": "bo trung sua",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "lốc 10 hũ",
+        "domain_url": "https://online.mmvietnam.com/"
+    }
+]

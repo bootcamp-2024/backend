@@ -1,0 +1,5371 @@
+[
+    {
+        "url": "https://www.allrecipes.com/recipe/57354/beef-pho/",
+        "name": "Beef Pho",
+        "cook_time": "6:35:00",
+        "prep_time": "0:30:00",
+        "total_time": "14:30:00",
+        "description": "This beef pho features a rich bone and oxtail broth seasoned with onion, ginger, anise, and cinnamon ladled over rice noodles and thin-sliced meat.",
+        "ingredients": [
+            {
+                "quantity": 5.0,
+                "unit": "pounds",
+                "name": "beef soup bones",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "salt, divided",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "gallons",
+                "name": "water",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "medium",
+                "name": "onions, quartered",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "(4 inch) piece",
+                "name": "fresh ginger root",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "pounds",
+                "name": "beef oxtail",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": null,
+                "name": "white (daikon) radish, sliced",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "ounces",
+                "name": "whole star anise pods",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "(3 inch)",
+                "name": "cinnamon stick",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "black peppercorns",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": null,
+                "name": "whole cloves",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "white sugar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "fish sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0,
+                "unit": null,
+                "name": "salt to taste",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.5,
+                "unit": "pounds",
+                "name": "dried flat rice noodles",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "pound",
+                "name": "frozen beef sirloin",
+                "prepare_type": ""
+            }
+        ],
+        "instructions": [
+            "Gather all ingredients.",
+            "Make broth: Place beef bones in a 9-quart (or larger) pot; season with 1 teaspoon salt. Pour water into the pot and bring to a boil. Reduce heat and simmer broth for about 2 hours.",
+            "Meanwhile, set an oven rack about 6 inches from the heat source and preheat the oven&#39;s broiler. Line a 10x15-inch roasting pan with aluminum foil.",
+            "Place onions and unpeeled ginger onto the prepared roasting pan and cook under the preheated broiler, stirring occasionally, until vegetables are charred, 10 to 15 minutes.",
+            "Cool slightly. Chop onions, then peel and slice ginger; set aside separately.",
+            "Skim fat from surface of simmering broth. Add oxtail, radish, and charred onions to broth. Tie charred ginger, anise, cinnamon stick, peppercorns, and cloves in cheesecloth to make a bouquet garni; add to broth. Stir in sugar, fish sauce, and remaining 2 teaspoons salt. Simmer over medium-low heat for at least 4 hours (the longer, the better). Season with salt.",
+            "Strain broth. Discard bones and bouquet garni. Reserve meat from bones for another use. Chill broth in the refrigerator, 8 hours to overnight.",
+            "Skim and discard fat from the top of chilled broth. Pour broth into a pot; bring to a boil. Reduce heat and keep hot until ready to serve.",
+            "Bring a pot of water to a boil. Turn off heat. Stir in rice noodles and let sit until noodles are tender yet chewy, 6 to 10 minutes.",
+            "Meanwhile, cut frozen sirloin into paper-thin slices.",
+            "Drain and divide noodles among bowls, about 1 1/2 cups per serving. Top each with a few sirloin slices. Ladle hot broth over sirloin and noodles.",
+            "Serve and enjoy!"
+        ],
+        "nutrition": {
+            "calories": "885 kcal",
+            "carbohydrateContent": "102 g",
+            "cholesterolContent": "174 mg",
+            "fiberContent": "3 g",
+            "proteinContent": "61 g",
+            "saturatedFatContent": "9 g",
+            "sodiumContent": "1745 mg",
+            "fatContent": "24 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "image": "https://www.allrecipes.com/thmb/EbqrYyFsDjrCM3KTN7fUHr78Z84=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/57354-Beef-Pho-DDMFS-3x4-0615-49503be6698c4771a88400caa1c45795.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/yvhQ054p-ma1DlVvV.mp4",
+            "description": "AR0970",
+            "duration": "0:05:25",
+            "name": "Beef Pho"
+        },
+        "cuisine": "vietnamese",
+        "category": "Dinner",
+        "tags": [
+            "Vietnamese Soups and Stews"
+        ]
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/228443/authentic-pho/",
+        "name": "Pho (Vietnamese Noodle Soup)",
+        "cook_time": "7:05:00",
+        "prep_time": "0:20:00",
+        "total_time": "8:25:00",
+        "description": "Pho is a delicious Vietnamese noodle soup with beef that you can make at home with this authentic recipe that includes a flavorsome homemade broth.",
+        "ingredients": [
+            {
+                "quantity": 4.0,
+                "unit": "pounds",
+                "name": "beef soup bones (shank and knee)",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "medium",
+                "name": "onion, unpeeled and cut in half",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 5.0,
+                "unit": "slices",
+                "name": "fresh ginger",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "salt",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "pods",
+                "name": "star anise",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.5,
+                "unit": "tablespoons",
+                "name": "fish sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 4.0,
+                "unit": "quarts",
+                "name": "water",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "(8 ounce) package",
+                "name": "dried rice noodles",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.5,
+                "unit": "pounds",
+                "name": "beef top sirloin, thinly sliced",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "name": "chopped cilantro",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "chopped green onion",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.5,
+                "unit": "cups",
+                "name": "bean sprouts",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "bunch",
+                "name": "Thai basil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "medium",
+                "name": "lime, cut into 4 wedges",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "hoisin sauce (Optional)",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "chile-garlic sauce (such as Sriracha) (Optional)",
+                "prepare_type": ""
+            }
+        ],
+        "instructions": [
+            "Gather all ingredients.",
+            "Preheat the oven to 425 degrees F (220 degrees C).",
+            "Place beef bones on a baking sheet and roast in the preheated oven until browned, about 1 hour.",
+            "Place onion halves on a second baking sheet and roast on another rack until blackened and soft, about 45 minutes.",
+            "Transfer beef bones and onion halves to a large stockpot. Add ginger, salt, star anise, fish sauce, and 4 quarts water; bring to a boil. Reduce heat to low and simmer for 6 to 10 hours. Strain the broth into a saucepan and set aside.",
+            "Place rice noodles in a large bowl filled with room temperature water. Let soak for 1 hour. Drain.",
+            "When noodles have soaked for 1 hour, heat up the reserved broth by bringing it to a simmer.",
+            "Bring a large pot of water to a boil. Cook the noodles in the boiling water for 1 minute. Drain.",
+            "Divide noodles among 4 serving bowls; top with sirloin, cilantro, and green onion. Ladle hot broth over the top. Stir and let sit until beef is partially cooked and no longer pink, 1 to 2 minutes.",
+            "Serve with bean sprouts, Thai basil, lime wedges, hoisin sauce, and chile-garlic sauce on the side."
+        ],
+        "nutrition": {
+            "calories": "509 kcal",
+            "carbohydrateContent": "66 g",
+            "cholesterolContent": "74 mg",
+            "fiberContent": "4 g",
+            "proteinContent": "35 g",
+            "saturatedFatContent": "4 g",
+            "sodiumContent": "3519 mg",
+            "sugarContent": "9 g",
+            "fatContent": "11 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "image": "https://www.allrecipes.com/thmb/SZjdgaXhmkrRNLoOvdxuAktwk3E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/228443-authentic-pho-DDMFS-4x3-0523f6531ccf4dbeb4b5bde52e007b1e.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/9AI54wud-K3AjnAEN.mp4",
+            "description": "In this video, you’ll learn how to make pho, the Vietnamese noodle soup made with beef broth and rice noodles. Learn tricks and techniques from Chef Eric of BaBar in Seattle. You’ll see how to prepare the beef bones for the broth. You’ll also get tips for adjusting the flavors of your pho. This authentic pho isn't quick, but it is delicious. The key is in the broth, which gets simmered for at least 6 hours. ",
+            "duration": "0:04:27",
+            "name": "Authentic Pho - Welcome World Cuisine"
+        },
+        "cuisine": "vietnamese",
+        "category": "Dinner",
+        "tags": [
+            "Vietnamese Soups and Stews"
+        ]
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/216529/day-after-thanksgiving-turkey-pho/",
+        "name": "Day After Thanksgiving Turkey Pho",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "With the addition of fragrant spices and rice noodles, leftover turkey noodle soup gets a Vietnamese makeover.",
+        "ingredients": [
+            {
+                "quantity": 1.0,
+                "unit": "",
+                "name": "whole cardamom pod",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "",
+                "name": "whole cloves",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "",
+                "name": "star anise pod",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "fennel seeds",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "teaspoons",
+                "name": "coriander seed",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "(2 inch)",
+                "name": "piece fresh ginger",
+                "prepare_type": "peeled and smashed"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "",
+                "name": "onion",
+                "prepare_type": "peeled (Optional)"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "",
+                "name": "turkey carcass",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 8.0,
+                "unit": "cups",
+                "name": "water",
+                "prepare_type": "or more as needed"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "(16 ounce)",
+                "name": "package dried flat rice noodles",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "fish sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "name": "salt to taste",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "name": "shredded leftover cooked turkey",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "shredded fresh basil leaves (Optional)",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "chopped fresh cilantro (Optional)",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "",
+                "name": "onion",
+                "prepare_type": "thinly sliced (Optional)"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "",
+                "name": "lime",
+                "prepare_type": "cut into wedges (Optional)"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "chile-garlic sauce (such as Sriracha®)",
+                "prepare_type": "or to taste (Optional)"
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Vietnamese",
+        "category": "main-dishes",
+        "tags": ""
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/107366/my-chicken-pho-recipe/",
+        "name": "My Chicken Pho Recipe",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "This is one of my favorite soups!!! I love going to Vietnamese restaurants, but since I came up with this soup, we stay in!!!",
+        "ingredients": [
+            {
+                "quantity": 4.0,
+                "unit": "ounces",
+                "name": "dry Chinese egg noodles",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 6.0,
+                "unit": "cups",
+                "name": "chicken stock",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "fish sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 4.0,
+                "unit": "cloves",
+                "name": "garlic",
+                "prepare_type": "minced"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "teaspoons",
+                "name": "minced fresh ginger root",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "minced lemon grass",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 5.0,
+                "unit": "",
+                "name": "green onions",
+                "prepare_type": "chopped"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "cups",
+                "name": "cubed cooked chicken",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "name": "bean sprouts",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "name": "chopped bok choy",
+                "prepare_type": ""
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Vietnamese",
+        "category": "main-dishes",
+        "tags": ""
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/37707/vietnamese-chicken-and-long-grain-rice-congee/",
+        "name": "Vietnamese Chicken and Long-Grain Rice Congee",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "Congee is a much overlooked soup and a comfort food of a lot of Asian peoples. This recipe is flavorful, light, and goes down real easy when you are feeling a little out of the weather. It looks harder than it actually is. I usually just throw things together, go away, and wander into the kitchen later to see if it's done.",
+        "ingredients": [
+            {
+                "quantity": 0.375,
+                "unit": "cup",
+                "name": "uncooked jasmine rice",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "(2.5 pound)",
+                "name": "whole chicken",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 3.0,
+                "unit": "(2 inch)",
+                "name": "pieces fresh ginger root",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "stalk",
+                "name": "lemon grass",
+                "prepare_type": "chopped"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "salt",
+                "prepare_type": "or to taste"
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "chopped cilantro",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.375,
+                "unit": "cup",
+                "name": "chopped fresh chives",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "name": "ground black pepper to taste",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "",
+                "name": "lime",
+                "prepare_type": "cut into 8 wedges"
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Vietnamese",
+        "category": "main-dishes",
+        "tags": ""
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/245342/cha-gio-vietnamese-egg-rolls/",
+        "name": "Cha Gio Vietnamese Egg Rolls",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "These egg rolls freeze really well, so go ahead and make a double batch. Add shredded cabbage or julienned taro for a different twist. Add minced crab to make it even more flavorful.",
+        "ingredients": [
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "name": "uncooked bean threads (cellophane noodles)",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "",
+                "name": "large dried shiitake mushroom",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "pound",
+                "name": "ground pork",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "pound",
+                "name": "shrimp",
+                "prepare_type": "chopped"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "large",
+                "name": "carrot",
+                "prepare_type": "peeled and grated"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "small",
+                "name": "shallot",
+                "prepare_type": "minced"
+            },
+            {
+                "quantity": 2.25,
+                "unit": "teaspoons",
+                "name": "Vietnamese fish sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.25,
+                "unit": "teaspoons",
+                "name": "white sugar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.25,
+                "unit": "teaspoons",
+                "name": "salt",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.25,
+                "unit": "teaspoons",
+                "name": "ground black pepper",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 24.0,
+                "unit": "",
+                "name": "egg roll wrappers",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "",
+                "name": "egg",
+                "prepare_type": "beaten"
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "name": "oil for deep frying",
+                "prepare_type": ""
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Vietnamese",
+        "category": "main-dishes",
+        "tags": ""
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/244962/asian-garlic-beef-cubes-vietnamese-bo-luc-lac-or-shaking-beef/",
+        "name": "Asian Garlic Beef Cubes (Vietnamese Bo Luc Lac or Shaking Beef)",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "Delicious beef cubes that offer a variety of flavors and are usually the first to go in any of our dinners. Can be served on a bed of lettuce, onions, and tomatoes with white Jasmine or Thai sticky rice, if desired.",
+        "ingredients": [
+            {
+                "quantity": 1.5,
+                "unit": "pounds",
+                "name": "beef tenderloin",
+                "prepare_type": "cut into cubes"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "olive oil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "oyster sauce (such as Maekrua®)",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 4.0,
+                "unit": "large",
+                "name": "cloves garlic",
+                "prepare_type": "minced, or more to taste"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "Cabernet Sauvignon wine",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "fish sauce (Optional)",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "ground black pepper",
+                "prepare_type": "or more to taste (Optional)"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "soy sauce (Optional)",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "dark soy sauce (Optional)",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "drops",
+                "name": "sesame oil",
+                "prepare_type": "or more to taste"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "fish sauce (Optional)",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "lemon juice (Optional)",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "ground black pepper (Optional)",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "olive oil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "oyster sauce (such as Maekrua®)",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 4.0,
+                "unit": "cloves",
+                "name": "garlic",
+                "prepare_type": "minced, or more to taste"
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Vietnamese",
+        "category": "main-dishes",
+        "tags": ""
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/152156/vietnamese-aromatic-lamb-chops/",
+        "name": "Vietnamese Aromatic Lamb Chops",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "These are the most delicious lamb chops you'll ever taste! When I make it, this savory lamb dish has impressed EVERYONE and has had people coming back for more for many years. It's suitable for any occasion...even Christmas or Thanksgiving. Plan ahead so you can marinate the lamb overnight.",
+        "ingredients": [
+            {
+                "quantity": 15.0,
+                "unit": "(3 ounce)",
+                "name": "lamb loin chops (1-inch thick)",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "cloves",
+                "name": "garlic",
+                "prepare_type": "sliced"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "garlic powder",
+                "prepare_type": "or to taste"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "pinch",
+                "name": "chili powder",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "white sugar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "name": "freshly ground black pepper to taste",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "fresh lime juice",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "soy sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "olive oil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "chopped fresh cilantro",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "",
+                "name": "lime wedges",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "",
+                "name": "lemon wedges",
+                "prepare_type": ""
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Vietnamese",
+        "category": "main-dishes",
+        "tags": ""
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/82116/vietnamese-sandwich/",
+        "name": "Vietnamese Sandwich",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "While teaching English in Asia the past several years, I've been lucky to exchange some delicious and authentic recipes with local people. This Vietnamese banh mi sandwich is awesome, and it is a nice break from common sandwiches. The garlic chili sauce is common in Asian sections of markets but Indonesian sambal or Korean chili paste can also be substituted. Beer or red wine is the beverage of choice for this authentic recipe of French-influenced Vietnamese cuisine.",
+        "ingredients": [
+            {
+                "quantity": 4.0,
+                "unit": "",
+                "name": "boneless pork loin chops",
+                "prepare_type": "cut 1/4 inch thick"
+            },
+            {
+                "quantity": 4.0,
+                "unit": "(7 inch)",
+                "name": "French bread baguettes",
+                "prepare_type": "split lengthwise"
+            },
+            {
+                "quantity": 4.0,
+                "unit": "teaspoons",
+                "name": "mayonnaise",
+                "prepare_type": "or to taste"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "ounce",
+                "name": "chile sauce with garlic",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "fresh lime juice",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "small",
+                "name": "red onion",
+                "prepare_type": "sliced into rings"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "medium",
+                "name": "cucumber",
+                "prepare_type": "peeled and sliced lengthwise"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "chopped fresh cilantro",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "name": "salt and pepper to taste",
+                "prepare_type": ""
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Vietnamese",
+        "category": "main-dishes",
+        "tags": ""
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/263635/steamed-vegan-rice-cakes-banh-bo-hap/",
+        "name": "Steamed Vegan Rice Cakes (Banh Bo Hap)",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "Easy recipe for steamed rice cake, banh bo hap, a spongy, sweet, and gorgeous-looking vegan dessert. It costs next to nothing to make and fun for the kids.",
+        "ingredients": [
+            {
+                "quantity": 4.0,
+                "unit": "cups",
+                "name": "rice flour",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "cups",
+                "name": "lukewarm water",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "(14 ounce)",
+                "name": "can coconut milk",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "name": "white sugar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 4.0,
+                "unit": "teaspoons",
+                "name": "tapioca starch",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.5,
+                "unit": "teaspoons",
+                "name": "active dry yeast",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "name": "vanilla extract",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "teaspoon",
+                "name": "salt",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "teaspoons",
+                "name": "oil",
+                "prepare_type": "or as needed"
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Vietnamese",
+        "category": "main-dishes",
+        "tags": ""
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/100893/banh-mi-style-vietnamese-baguette/",
+        "name": "Banh-Mi Style Vietnamese Baguette",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "These are by far the best sandwiches to serve your guests and yourself! The ingredients are fresh, delicious, popular and fills your mouth with marinated joy. You can usually find the high-caloric sandwich (variety of meat on mayonnaise) in your local Vietnamese baguette shop but here is a hearty Vegetarian version (if you do not use fish sauce) using portabello mushrooms.",
+        "ingredients": [
+            {
+                "quantity": 2.0,
+                "unit": "",
+                "name": "portobello mushroom caps",
+                "prepare_type": "sliced"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "teaspoons",
+                "name": "olive oil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "name": "salt and pepper to taste",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "",
+                "name": "carrot",
+                "prepare_type": "sliced into sticks"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "",
+                "name": "daikon (white) radish",
+                "prepare_type": "sliced into sticks"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "name": "rice vinegar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "name": "fresh lime juice",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "name": "cold water",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "name": "chilled lime juice",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "teaspoons",
+                "name": "soy sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "nuoc mam (Vietnamese fish sauce)",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "name": "toasted sesame oil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "canola oil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "teaspoons",
+                "name": "minced garlic",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.33,
+                "unit": "cup",
+                "name": "white sugar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.33,
+                "unit": "cup",
+                "name": "cold water",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "",
+                "name": "jalapeno pepper",
+                "prepare_type": "thinly sliced"
+            },
+            {
+                "quantity": 8.0,
+                "unit": "sprigs",
+                "name": "fresh cilantro with stems",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "medium",
+                "name": "cucumber",
+                "prepare_type": "sliced into thin strips"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "sprigs",
+                "name": "fresh Thai basil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "(7 inch)",
+                "name": "French bread baguettes",
+                "prepare_type": "split lengthwise"
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Vietnamese",
+        "category": "main-dishes",
+        "tags": ""
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/245887/caramelized-pork-belly-thit-kho/",
+        "name": "Thit Kho (Caramelized Pork Belly)",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "Thit kho tau (or thit kho for short) is a very popular dish in Vietnamese households for everyday eating, but it's also traditionally served during Tết, the Vietnamese Lunar New Year. The longer you cook the pork belly, the more tender it becomes. If you make this dish ahead of time, the fat will congeal on the surface, making it easier to remove and a little healthier! This also allows the flavors to meld a little more. Serve with rice.",
+        "ingredients": [
+            {
+                "quantity": 2.0,
+                "unit": "pounds",
+                "name": "pork belly",
+                "prepare_type": "trimmed"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "white sugar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 5.0,
+                "unit": "",
+                "name": "shallots",
+                "prepare_type": "sliced"
+            },
+            {
+                "quantity": 3.0,
+                "unit": "cloves",
+                "name": "garlic",
+                "prepare_type": "chopped"
+            },
+            {
+                "quantity": 3.0,
+                "unit": "tablespoons",
+                "name": "fish sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "name": "ground black pepper to taste",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 13.0,
+                "unit": "fluid",
+                "name": "ounces coconut water",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 6.0,
+                "unit": "",
+                "name": "hard-boiled eggs",
+                "prepare_type": "peeled"
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Vietnamese",
+        "category": "main-dishes",
+        "tags": ""
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/214722/pickled-daikon-radish-and-carrot/",
+        "name": "Pickled Daikon Radish and Carrot",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "I love the pickled daikon radish and carrot that come alongside Vietnamese rice noodle salads, and realized that it's so easy to make at home! These are not only great in rice noodle salads but also in rice paper rolls.",
+        "ingredients": [
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "name": "distilled white vinegar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "white sugar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "small",
+                "name": "carrot",
+                "prepare_type": "peeled and cut into matchsticks"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "",
+                "name": "daikon radish",
+                "prepare_type": "peeled and cut into matchsticks"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "chopped fresh cilantro",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "",
+                "name": "Thai chile pepper",
+                "prepare_type": "seeded and chopped"
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Vietnamese",
+        "category": "main-dishes",
+        "tags": ""
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/223530/vietnamese-spring-rolls-with-dipping-sauce/",
+        "name": "Vietnamese Spring Rolls With Dipping Sauce",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "These Vietnamese spring rolls are the perfect recipe for beating the heat. Poached shrimp, rice noodles, herbs, and lettuce are rolled into a thin rice wrapper. Serve with the sweet and sour dipping sauce.",
+        "ingredients": [
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "white vinegar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "fish sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "white sugar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "lime juice",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "clove",
+                "name": "garlic",
+                "prepare_type": "minced"
+            },
+            {
+                "quantity": 0.25,
+                "unit": "teaspoon",
+                "name": "red pepper flakes",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "ounces",
+                "name": "rice vermicelli",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 8.0,
+                "unit": "",
+                "name": "large shrimp",
+                "prepare_type": "peeled and deveined"
+            },
+            {
+                "quantity": 4.0,
+                "unit": "",
+                "name": "rice wrappers (8.5 inch diameter)",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "leaves",
+                "name": "lettuce",
+                "prepare_type": "chopped"
+            },
+            {
+                "quantity": 3.0,
+                "unit": "tablespoons",
+                "name": "finely chopped fresh mint leaves",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 3.0,
+                "unit": "tablespoons",
+                "name": "finely chopped cilantro",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 4.0,
+                "unit": "teaspoons",
+                "name": "finely chopped Thai basil",
+                "prepare_type": ""
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Vietnamese",
+        "category": "main-dishes",
+        "tags": ""
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/77768/vietnamese-iced-coffee/",
+        "name": "Vietnamese Iced Coffee",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "A strong Vietnamese iced coffee recipe with sweetened condensed milk. Chilled on ice, this makes an unbeatable Southeast Asian treat. Even those who only take their coffee black will like this. Serve it on hot summer days or as an evening treat. We learned this in Vietnam, and now drink almost all our espresso this way.",
+        "ingredients": [
+            {
+                "quantity": 4.0,
+                "unit": "cups",
+                "name": "water",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "name": "dark roast ground coffee beans",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "name": "sweetened condensed milk",
+                "prepare_type": "divided"
+            },
+            {
+                "quantity": 16.0,
+                "unit": "",
+                "name": "ice cubes",
+                "prepare_type": ""
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Vietnamese",
+        "category": "main-dishes",
+        "tags": ""
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/267408/spicy-vietnamese-quick-pickled-vegetables/",
+        "name": "Spicy Vietnamese Quick-Pickled Vegetables",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "These Vietnamese-style pickled vegetables are traditionally served as a condiment for banh mi sandwiches, but they make a nice side for anything you'd normally pair with coleslaw, like fish and chips, barbecued meats, fish tacos, etc. Store in the refrigerator for up to one month.",
+        "ingredients": [
+            {
+                "quantity": 2.0,
+                "unit": "cups",
+                "name": "water",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.5,
+                "unit": "cups",
+                "name": "rice vinegar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "white sugar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "teaspoons",
+                "name": "salt",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "pound",
+                "name": "carrots",
+                "prepare_type": "peeled and cut into matchsticks"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "pound",
+                "name": "purple daikon radish",
+                "prepare_type": "peeled and cut into matchsticks"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "pound",
+                "name": "English cucumbers",
+                "prepare_type": "thinly sliced"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "medium",
+                "name": "jalapeno peppers",
+                "prepare_type": "sliced into rings"
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Vietnamese",
+        "category": "main-dishes",
+        "tags": ""
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/247054/banh-xeo-vietnamese-crepes/",
+        "name": "Bánh Xèo (Vietnamese Crêpes)",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "Bánh xèo (bahn SAY-oh) is a popular street snack in Vietnam. The name means \"sizzling pancakes or crêpes\" and refers to the sound the batter makes when it hits the hot skillet. Serve these shrimp-studded crêpes with lettuce, fresh mint and basil, and nuoc cham dipping sauce.",
+        "ingredients": [
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "name": "rice flour",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "name": "white sugar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "name": "salt",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "teaspoon",
+                "name": "ground turmeric",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "name": "coconut milk",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "name": "water",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "vegetable oil",
+                "prepare_type": "divided, or as needed"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "minced shallot",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "cloves",
+                "name": "garlic",
+                "prepare_type": "minced, or more to taste"
+            },
+            {
+                "quantity": 0.75,
+                "unit": "pound",
+                "name": "fresh shrimp",
+                "prepare_type": "peeled and deveined"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "fish sauce",
+                "prepare_type": "or more to taste"
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "name": "salt to taste",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "pound",
+                "name": "mung bean sprouts",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 4.0,
+                "unit": "",
+                "name": "lettuce leaves",
+                "prepare_type": "or as needed"
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Vietnamese",
+        "category": "main-dishes",
+        "tags": ""
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/149687/thai-chicken-spring-rolls/",
+        "name": "Thai Chicken Spring Rolls",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "These chicken spring rolls with a Thai-style peanut sauce are filled with marinated chicken breast and crisp vegetables, which make a beautiful presentation through the translucent spring roll wrappers. Serve as an appetizer or light entrée.",
+        "ingredients": [
+            {
+                "quantity": 1.5,
+                "unit": "cups",
+                "name": "peanut sauce",
+                "prepare_type": "divided"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "(1",
+                "name": "1/2 inch) piece fresh ginger root",
+                "prepare_type": "minced"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "cloves",
+                "name": "garlic",
+                "prepare_type": "minced"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "teaspoons",
+                "name": "soy sauce",
+                "prepare_type": "divided"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "pound",
+                "name": "skinless",
+                "prepare_type": "boneless chicken breast halves - cut into 1 inch pieces"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "teaspoons",
+                "name": "peanut oil",
+                "prepare_type": "divided"
+            },
+            {
+                "quantity": 12.0,
+                "unit": "ounces",
+                "name": "bean sprouts",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 6.0,
+                "unit": "ounces",
+                "name": "fresh snow pea pods",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 4.0,
+                "unit": "",
+                "name": "green onions",
+                "prepare_type": "chopped"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "pound",
+                "name": "watercress",
+                "prepare_type": "chopped"
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "chopped fresh cilantro",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "large",
+                "name": "carrots",
+                "prepare_type": "peeled"
+            },
+            {
+                "quantity": 12.0,
+                "unit": "",
+                "name": "spring roll wrappers",
+                "prepare_type": ""
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Vietnamese",
+        "category": "main-dishes",
+        "tags": ""
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/245936/vegetarian-pho-vietnamese-noodle-soup/",
+        "name": "Vegetarian Pho (Vietnamese Noodle Soup)",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "A vegetarian version of this tasty Vietnamese noodle soup.",
+        "ingredients": [
+            {
+                "quantity": 10.0,
+                "unit": "cups",
+                "name": "vegetable stock",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "",
+                "name": "onion",
+                "prepare_type": "peeled and halved"
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "soy sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 8.0,
+                "unit": "cloves",
+                "name": "garlic",
+                "prepare_type": "coarsely chopped"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "(3 inch)",
+                "name": "cinnamon sticks",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "teaspoons",
+                "name": "ground ginger",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "pods",
+                "name": "star anise",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "",
+                "name": "bay leaves",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "(16 ounce)",
+                "name": "package thin rice noodles (such as Thai Kitchen®)",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "vegetable oil",
+                "prepare_type": "or as needed"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "(14 ounce)",
+                "name": "packages firm tofu",
+                "prepare_type": "drained and cut into 1/4-inch slices"
+            },
+            {
+                "quantity": 8.0,
+                "unit": "ounces",
+                "name": "enoki mushrooms",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 4.0,
+                "unit": "",
+                "name": "scallions",
+                "prepare_type": "thinly sliced"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "name": "coarsely chopped cilantro",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "",
+                "name": "lime",
+                "prepare_type": "cut into wedges"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "",
+                "name": "jalapeno peppers",
+                "prepare_type": "sliced into rings"
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "mung bean sprouts",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "Thai basil leaves",
+                "prepare_type": "torn into bite-size pieces"
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Vietnamese",
+        "category": "main-dishes",
+        "tags": ""
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/245343/authentic-vietnamese-spring-rolls-nem-ran-hay-cha-gio/",
+        "name": "Authentic Vietnamese Spring Rolls (Nem Ran Hay Cha Gio)",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "These Vietnamese fried spring rolls are a recipe I learned while traveling through Vietnam. The ingredients are relatively simple and easy to find in any grocery store. I've cooked this several times since returning, and it's always been a hit. They taste great with dipping sauce.",
+        "ingredients": [
+            {
+                "quantity": 2.0,
+                "unit": "ounces",
+                "name": "dried thin rice noodles",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.75,
+                "unit": "cup",
+                "name": "ground chicken",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "shrimp - washed",
+                "prepare_type": "peeled, and cut into small pieces"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "large",
+                "name": "eggs",
+                "prepare_type": "beaten"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "",
+                "name": "carrot",
+                "prepare_type": "grated"
+            },
+            {
+                "quantity": 4.0,
+                "unit": "",
+                "name": "wood fungus mushrooms",
+                "prepare_type": "chopped"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "",
+                "name": "green onions",
+                "prepare_type": "chopped"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "name": "white sugar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "name": "salt",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "name": "ground black pepper",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 24.0,
+                "unit": "",
+                "name": "rice paper wrappers",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "cups",
+                "name": "vegetable oil for frying",
+                "prepare_type": ""
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Vietnamese",
+        "category": "main-dishes",
+        "tags": ""
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/246028/roasted-pork-banh-mi-vietnamese-sandwich/",
+        "name": "Roasted Pork Bánh Mì (Vietnamese Sandwich)",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "Bánh mì sandwiches are delicious. I'll never forget my first real bánh mì. I remember thinking to myself, this isn't just one of the best sandwiches I've ever had to eat, but one of the best things, period. Not only do we get amazing contrasts in flavor and texture, but also the temperature difference between the crisp, warm, meat-filled roll, and cool, crunchy vegetables makes this so much fun to eat.",
+        "ingredients": [
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "julienned (2-inch matchsticks) daikon radish",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "julienned (2-inch matchsticks) carrots",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "seasoned rice vinegar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "mayonnaise",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "hoisin sauce",
+                "prepare_type": "or to taste"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "sriracha hot sauce",
+                "prepare_type": "or more to taste"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "",
+                "name": "crusty French sandwich roll",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 4.0,
+                "unit": "ounces",
+                "name": "cooked pork roast",
+                "prepare_type": "thinly sliced"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "ounces",
+                "name": "smooth pate",
+                "prepare_type": "thinly sliced"
+            },
+            {
+                "quantity": 6.0,
+                "unit": "thin",
+                "name": "spears English cucumber",
+                "prepare_type": "diced"
+            },
+            {
+                "quantity": 6.0,
+                "unit": "thin",
+                "name": "slices  jalapeno pepper",
+                "prepare_type": "or more to taste"
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "cilantro leaves",
+                "prepare_type": ""
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Vietnamese",
+        "category": "main-dishes",
+        "tags": ""
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/223529/vermicelli-noodle-bowl/",
+        "name": "Vermicelli Noodle Bowl",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "This vermicelli bowl combines fresh herbs, rice vermicelli noodles, cucumber, bean sprouts, and grilled shrimp. Tossed with a tangy sweet-and-sour sauce, it's a simple and satisfying dinner that's perfect for hot weather.",
+        "ingredients": [
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "white vinegar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "fish sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "white sugar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "lime juice",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "clove",
+                "name": "garlic",
+                "prepare_type": "minced"
+            },
+            {
+                "quantity": 0.25,
+                "unit": "teaspoon",
+                "name": "red pepper flakes",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "name": "canola oil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "chopped shallots",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "",
+                "name": "skewers",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 8.0,
+                "unit": "",
+                "name": "medium shrimp",
+                "prepare_type": "with shells"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "(8 ounce)",
+                "name": "package rice vermicelli noodles",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "name": "finely chopped lettuce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "name": "bean sprouts",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "",
+                "name": "English cucumber",
+                "prepare_type": "cut into 2-inch matchsticks"
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "finely chopped pickled carrots",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "finely chopped diakon radish",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "crushed peanuts",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 3.0,
+                "unit": "tablespoons",
+                "name": "chopped cilantro",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 3.0,
+                "unit": "tablespoons",
+                "name": "finely chopped Thai basil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 3.0,
+                "unit": "tablespoons",
+                "name": "chopped fresh mint",
+                "prepare_type": ""
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Vietnamese",
+        "category": "main-dishes",
+        "tags": ""
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/241607/vietnamese-grilled-lemongrass-chicken/",
+        "name": "Vietnamese Grilled Lemongrass Chicken",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "This lemongrass chicken is marinated, then grilled until juicy and tender. Garnish with rice paper, lettuce, cucumber, bean sprouts, mint, and ground peanuts.",
+        "ingredients": [
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "canola oil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "finely chopped lemongrass",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "lemon juice",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "teaspoons",
+                "name": "soy sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "teaspoons",
+                "name": "light brown sugar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "teaspoons",
+                "name": "minced garlic",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "fish sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.5,
+                "unit": "pounds",
+                "name": "chicken thighs",
+                "prepare_type": "or more to taste, pounded to an even thickness"
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Vietnamese",
+        "category": "main-dishes",
+        "tags": ""
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/24239/vietnamese-fresh-spring-rolls/",
+        "name": "Vietnamese Fresh Spring Rolls",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "These Vietnamese spring rolls are a refreshing change from the usual fried variety and have become a family favorite. They are a great summertime appetizer and delicious dipped in one or both of the sauces.",
+        "ingredients": [
+            {
+                "quantity": 2.0,
+                "unit": "ounces",
+                "name": "rice vermicelli",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 8.0,
+                "unit": "",
+                "name": "rice wrappers (8.5 inch diameter)",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 8.0,
+                "unit": "large",
+                "name": "cooked shrimp - peeled",
+                "prepare_type": "deveined and cut in half"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "leaves",
+                "name": "lettuce",
+                "prepare_type": "chopped"
+            },
+            {
+                "quantity": 3.0,
+                "unit": "tablespoons",
+                "name": "chopped fresh mint leaves",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 3.0,
+                "unit": "tablespoons",
+                "name": "chopped fresh cilantro",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.33,
+                "unit": "tablespoons",
+                "name": "chopped fresh Thai basil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "water",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "fresh lime juice",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "white sugar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 4.0,
+                "unit": "teaspoons",
+                "name": "fish sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "clove",
+                "name": "garlic",
+                "prepare_type": "minced"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "name": "garlic chili sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 3.0,
+                "unit": "tablespoons",
+                "name": "hoisin sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "finely chopped peanuts",
+                "prepare_type": ""
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Vietnamese",
+        "category": "main-dishes",
+        "tags": ""
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/187342/banh-mi/",
+        "name": "Bánh Mì",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "This bánh mì (Vietnamese sandwich) is made with chicken and full of pickled vegetables. My husband works around a lot of Vietnamese restaurants, and I was making him bring me home these tasty sandwiches. Finally I attempted to make one, and here it is. I also love the pickled vegetables, so I make sure there are plenty of those.",
+        "ingredients": [
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "name": "rice vinegar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "white sugar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "water",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "matchstick-cut carrots",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "peeled and matchstick-cut daikon radish",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "thinly sliced white onion",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "",
+                "name": "skinless",
+                "prepare_type": "boneless chicken breast half"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "pinch",
+                "name": "garlic salt",
+                "prepare_type": "or to taste"
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "name": "ground black pepper to taste",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "(12 inch)",
+                "name": "French baguette",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 4.0,
+                "unit": "tablespoons",
+                "name": "mayonnaise",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "thinly sliced cucumber",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "fresh cilantro leaves",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "small",
+                "name": "jalapeño pepper",
+                "prepare_type": "cut into 1/16-inch-thick matchsticks"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "wedge",
+                "name": "lime",
+                "prepare_type": ""
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Vietnamese",
+        "category": "main-dishes",
+        "tags": ""
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/29945/vietnamese-style-vegetarian-curry-soup/",
+        "name": "Vietnamese Style Vegetarian Curry Soup",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "Vietnamese-style curry powder can be found in Asian markets. If you can't find it, use Madras curry powder. This spicy soup can be made into a thick stew by reducing the vegetable stock and water by half. Serve with rice and French bread.",
+        "ingredients": [
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "vegetable oil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "",
+                "name": "onion",
+                "prepare_type": "coarsely chopped"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "",
+                "name": "shallots",
+                "prepare_type": "thinly sliced"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "cloves",
+                "name": "garlic",
+                "prepare_type": "chopped"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "inch",
+                "name": "piece fresh ginger root",
+                "prepare_type": "thinly sliced"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "stalk",
+                "name": "lemon grass",
+                "prepare_type": "cut into 2 inch pieces"
+            },
+            {
+                "quantity": 4.0,
+                "unit": "tablespoons",
+                "name": "curry powder",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "",
+                "name": "green bell pepper",
+                "prepare_type": "coarsely chopped"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "",
+                "name": "carrots",
+                "prepare_type": "peeled and diagonally sliced"
+            },
+            {
+                "quantity": 8.0,
+                "unit": "",
+                "name": "mushrooms",
+                "prepare_type": "sliced"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "pound",
+                "name": "fried tofu",
+                "prepare_type": "cut into bite-size pieces"
+            },
+            {
+                "quantity": 4.0,
+                "unit": "cups",
+                "name": "vegetable broth",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 4.0,
+                "unit": "cups",
+                "name": "water",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "vegetarian fish sauce (Optional)",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "teaspoons",
+                "name": "red pepper flakes",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "",
+                "name": "bay leaf",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "",
+                "name": "makrut lime leaves",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 8.0,
+                "unit": "small",
+                "name": "potatoes",
+                "prepare_type": "quartered"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "(14 ounce)",
+                "name": "can coconut milk",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "cups",
+                "name": "fresh bean sprouts",
+                "prepare_type": "for garnish"
+            },
+            {
+                "quantity": 8.0,
+                "unit": "sprigs",
+                "name": "fresh chopped cilantro",
+                "prepare_type": "for garnish"
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Vietnamese",
+        "category": "main-dishes",
+        "tags": ""
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/282989/vietnamese-lemongrass-meatballs/",
+        "name": "Vietnamese Lemongrass Meatballs",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "We enjoy these tasty meatballs served over a bowl of rice or wrapped in lettuce cups. They're balanced with flavors of spicy, salty, tangy, and sweet, and also make wonderful appetizers. Leftover meatballs may be stored in the freezer in a resealable plastic bag.",
+        "ingredients": [
+            {
+                "quantity": 1.0,
+                "unit": "pound",
+                "name": "lean ground pork",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "panko bread crumbs",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "large",
+                "name": "shallot",
+                "prepare_type": "minced"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "lemongrass paste (such as Gourmet Garden®)",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "finely chopped mint",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "fish sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "brown sugar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "cloves",
+                "name": "garlic",
+                "prepare_type": "crushed"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "finely grated ginger root",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "teaspoon",
+                "name": "salt",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "water",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 3.0,
+                "unit": "tablespoons",
+                "name": "fish sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "fresh lime juice",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "white sugar",
+                "prepare_type": "or more to taste"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "rice vinegar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "small",
+                "name": "Thai chile pepper",
+                "prepare_type": "minced"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "small",
+                "name": "garlic clove",
+                "prepare_type": "finely chopped"
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Vietnamese",
+        "category": "main-dishes",
+        "tags": ""
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/271154/easy-crispy-vietnamese-shrimp-balls/",
+        "name": "Easy Crispy Vietnamese Shrimp Balls",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "This is my take on the classic Vietnamese sugar cane shrimp recipe and it works great! Serve with Vietnamese dipping sauce (nuoc cham) or mix of hoisin sauce and sriracha hot sauce or plain.",
+        "ingredients": [
+            {
+                "quantity": 1.0,
+                "unit": "pound",
+                "name": "uncooked medium shrimp",
+                "prepare_type": "peeled and deveined"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "large",
+                "name": "egg",
+                "prepare_type": "lightly beaten"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "minced shallot",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "sesame oil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "teaspoons",
+                "name": "cornstarch",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "teaspoons",
+                "name": "packed light brown sugar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "teaspoons",
+                "name": "fish sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "cloves",
+                "name": "garlic",
+                "prepare_type": "minced"
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "name": "salt and ground black pepper to taste",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.5,
+                "unit": "cups",
+                "name": "fine bread crumbs",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "large",
+                "name": "eggs",
+                "prepare_type": "beaten"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "name": "vegetable oil for frying",
+                "prepare_type": "or as needed"
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Vietnamese",
+        "category": "main-dishes",
+        "tags": ""
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/262405/vietnamese-beef-and-red-cabbage-bowl/",
+        "name": "Vietnamese Beef and Red Cabbage Bowl",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "I love the bold taste of Vietnamese dishes. This is packed with flavor and spice and is just beautiful in colors. I have tried doing individual bowls but prefer a family-style serving. Serve with a quality jasmine rice and spring roll for additional savory awesomeness. Add a little sliced habanero pepper if you want to increase the heat level. (I'm from Texas and like heat.)",
+        "ingredients": [
+            {
+                "quantity": 1.0,
+                "unit": "head",
+                "name": "red cabbage",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "",
+                "name": "red onion",
+                "prepare_type": "halved"
+            },
+            {
+                "quantity": 3.0,
+                "unit": "tablespoons",
+                "name": "canola oil",
+                "prepare_type": "divided"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "pound",
+                "name": "lean ground beef",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "",
+                "name": "red Fresno chile pepper",
+                "prepare_type": "sliced very thinly"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "teaspoons",
+                "name": "paprika",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "kosher salt",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "lime juice",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "fish sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "packed brown sugar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "name": "grated lime zest",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "name": "chopped fresh cilantro",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "chopped fresh mint",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "",
+                "name": "lime",
+                "prepare_type": "cut into wedges"
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Vietnamese",
+        "category": "main-dishes",
+        "tags": ""
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/236242/vietnamese-pork-and-five-spice/",
+        "name": "Vietnamese Pork and Five Spice",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "The entire house will be filled with a spicy aroma that will make your mouth water. I normally serve this over jasmine rice with sesame seeds sprinkled on top, along with a side dish of steamed kale and garlic or stir-fried green beans with garlic and mushrooms.",
+        "ingredients": [
+            {
+                "quantity": 4.0,
+                "unit": "pounds",
+                "name": "pork shoulder",
+                "prepare_type": "cut into cubes"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "salt",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "ground black pepper",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "olive oil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "cloves",
+                "name": "garlic",
+                "prepare_type": "minced"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "brown sugar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "soy sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "fish sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "Chinese five-spice powder",
+                "prepare_type": ""
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Vietnamese",
+        "category": "main-dishes",
+        "tags": ""
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/177185/vietnamese-caramelized-pork/",
+        "name": "Vietnamese Caramelized Pork",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "My quick home version of one of my favorite recipes. Serve with jasmine rice.",
+        "ingredients": [
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "vegetable oil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "name": "white sugar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "pounds",
+                "name": "pork spareribs",
+                "prepare_type": "cut into 1-inch pieces"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "",
+                "name": "green onions",
+                "prepare_type": "cut in 2-inch lengths"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "",
+                "name": "green chile pepper",
+                "prepare_type": "chopped"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "ground black pepper",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "",
+                "name": "shallots",
+                "prepare_type": "finely chopped"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "cloves",
+                "name": "garlic",
+                "prepare_type": "minced"
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "name": "salt to taste",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "Asian (toasted) sesame oil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "green onion",
+                "prepare_type": "thinly sliced and separated into rings"
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Vietnamese",
+        "category": "main-dishes",
+        "tags": ""
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/241266/pho-ga-soup/",
+        "name": "Pho Ga Soup",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "Vietnamese chicken noodle soup. After ordering this soup at a local Vietnamese restaurant, I decided to try to make it at home. This is a very flexible recipe. Feel free to substitute some of your favorite vegetables or try different noodles. Enjoy!",
+        "ingredients": [
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "vegetable oil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "small",
+                "name": "yellow onion",
+                "prepare_type": "chopped"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "(8 ounce)",
+                "name": "package baby bella mushrooms",
+                "prepare_type": "chopped"
+            },
+            {
+                "quantity": 4.0,
+                "unit": "cloves",
+                "name": "garlic",
+                "prepare_type": "minced"
+            },
+            {
+                "quantity": 8.0,
+                "unit": "cups",
+                "name": "water",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "(6.75 ounce)",
+                "name": "package rice stick noodles (such as Maifun®)",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 8.0,
+                "unit": "teaspoons",
+                "name": "chicken bouillon",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "",
+                "name": "cooked chicken breasts",
+                "prepare_type": "shredded"
+            },
+            {
+                "quantity": 4.0,
+                "unit": "",
+                "name": "green onions",
+                "prepare_type": "chopped"
+            },
+            {
+                "quantity": 0.33,
+                "unit": "cup",
+                "name": "chopped fresh cilantro",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "cups",
+                "name": "bean sprouts",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "",
+                "name": "lime",
+                "prepare_type": "sliced into wedges"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "dash",
+                "name": "Sriracha hot sauce",
+                "prepare_type": "or more to taste"
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Vietnamese",
+        "category": "main-dishes",
+        "tags": ""
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/16190/bo-nuong-xa/",
+        "name": "Bo Nuong Xa",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "Marinated lemon grass beef skewers that can be broiled or grilled. This is a traditional Vietnamese dish, best if dipped in Nuaoc Cham sauce.",
+        "ingredients": [
+            {
+                "quantity": 2.0,
+                "unit": "teaspoons",
+                "name": "white sugar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "soy sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "ground black pepper",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "cloves",
+                "name": "garlic",
+                "prepare_type": "minced"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "stalks",
+                "name": "lemon grass",
+                "prepare_type": "minced"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "teaspoons",
+                "name": "sesame seeds",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.5,
+                "unit": "pounds",
+                "name": "sirloin tip",
+                "prepare_type": "thinly sliced"
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "name": "skewers",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 12.0,
+                "unit": "leaves",
+                "name": "romaine lettuce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "name": "fresh cilantro for garnish",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "name": "fresh basil for garnish",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "name": "fresh mint for garnish",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "name": "thinly sliced green onion for garnish",
+                "prepare_type": ""
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Vietnamese",
+        "category": "main-dishes",
+        "tags": ""
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/214225/vietnamese-chicken-salad/",
+        "name": "Vietnamese Chicken Salad",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "This is a very simple-to-make salad with bold flavors. You can serve as a side dish or just have it alone. The salad can be refrigerated overnight and still taste good the next day.",
+        "ingredients": [
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "finely chopped green chile peppers",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "rice vinegar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "fresh lime juice",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 3.0,
+                "unit": "tablespoons",
+                "name": "Asian fish sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 3.0,
+                "unit": "cloves",
+                "name": "garlic",
+                "prepare_type": "minced"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "white sugar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "Asian (toasted) sesame oil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "vegetable oil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "black pepper",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "",
+                "name": "cooked skinless boneless chicken breast halves",
+                "prepare_type": "shredded"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "head",
+                "name": "cabbage",
+                "prepare_type": "cored and thinly sliced"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "",
+                "name": "carrot",
+                "prepare_type": "cut into matchsticks"
+            },
+            {
+                "quantity": 0.33,
+                "unit": "",
+                "name": "onion",
+                "prepare_type": "finely chopped"
+            },
+            {
+                "quantity": 0.33,
+                "unit": "cup",
+                "name": "finely chopped dry roasted peanuts",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.33,
+                "unit": "cup",
+                "name": "chopped fresh cilantro",
+                "prepare_type": ""
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Vietnamese",
+        "category": "main-dishes",
+        "tags": ""
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/14683/nuoc-cham-sauce/",
+        "name": "Nuoc Cham Sauce",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "A classic Vietnamese dipping sauce. Serve with grilled lemon grass beef (Bo Nuang Xa).",
+        "ingredients": [
+            {
+                "quantity": 2.0,
+                "unit": "cloves",
+                "name": "garlic",
+                "prepare_type": "minced"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "crushed red pepper flakes",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 3.0,
+                "unit": "tablespoons",
+                "name": "white sugar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "lime juice",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 4.0,
+                "unit": "tablespoons",
+                "name": "fish sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "name": "water",
+                "prepare_type": ""
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Vietnamese",
+        "category": "main-dishes",
+        "tags": ""
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/230330/nuoc-cham-vietnamese-spicy-dipping-sauce/",
+        "name": "Nuoc Cham (Vietnamese Spicy Dipping Sauce)",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "This sauce can be used for dipping veggies, meats, or egg rolls. It's also great spooned over a bowl of steaming hot pho or other rice noodle soup. For me this sauce IS the flavor of Vietnamese cooking. Enjoy! This can be stored in the fridge for up to two weeks.",
+        "ingredients": [
+            {
+                "quantity": 3.5,
+                "unit": "fluid",
+                "name": "ounces water",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 6.0,
+                "unit": "",
+                "name": "spicy red chile peppers",
+                "prepare_type": "seeded and minced"
+            },
+            {
+                "quantity": 6.0,
+                "unit": "cloves",
+                "name": "garlic",
+                "prepare_type": "minced"
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "fish sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "rice vinegar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "white sugar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "lemon juice",
+                "prepare_type": ""
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Vietnamese",
+        "category": "main-dishes",
+        "tags": ""
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/154950/dragon-fruit-shake/",
+        "name": "Dragon Fruit Shake",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "Tried this in a Vietnamese restaurant in Chinatown. So tasty and so refreshing!",
+        "ingredients": [
+            {
+                "quantity": 1.0,
+                "unit": "",
+                "name": "dragon fruit (pitaya)",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "",
+                "name": "tangerines",
+                "prepare_type": "peeled and segmented"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "",
+                "name": "lime",
+                "prepare_type": "juiced"
+            },
+            {
+                "quantity": 4.0,
+                "unit": "leaves",
+                "name": "fresh basil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "brown sugar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "name": "sparkling mineral water",
+                "prepare_type": "chilled"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "name": "crushed ice",
+                "prepare_type": ""
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Vietnamese",
+        "category": "main-dishes",
+        "tags": ""
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/269298/vietnamese-caramel-chicken/",
+        "name": "Vietnamese Caramel Chicken",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "Asian-style chicken with steamed rice.",
+        "ingredients": [
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "white sugar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "fish sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "name": "ground black pepper to taste",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 3.0,
+                "unit": "pounds",
+                "name": "chicken thighs",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 3.0,
+                "unit": "tablespoons",
+                "name": "water",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "fish sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "tablespoon",
+                "name": "white sugar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 3.0,
+                "unit": "teaspoons",
+                "name": "rice vinegar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 3.0,
+                "unit": "tablespoons",
+                "name": "vegetable oil",
+                "prepare_type": "divided"
+            },
+            {
+                "quantity": 5.0,
+                "unit": "cloves",
+                "name": "garlic",
+                "prepare_type": "minced"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "",
+                "name": "jalapeno peppers",
+                "prepare_type": "sliced"
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Vietnamese",
+        "category": "main-dishes",
+        "tags": ""
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/193835/caramel-coated-catfish/",
+        "name": "Caramel-Coated Catfish",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "Vietnamese-style catfish coated in a caramelized reduction.",
+        "ingredients": [
+            {
+                "quantity": 0.66,
+                "unit": "cup",
+                "name": "water",
+                "prepare_type": "divided"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "fish sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "medium",
+                "name": "shallots",
+                "prepare_type": "chopped"
+            },
+            {
+                "quantity": 4.0,
+                "unit": "cloves",
+                "name": "garlic",
+                "prepare_type": "minced"
+            },
+            {
+                "quantity": 1.5,
+                "unit": "teaspoons",
+                "name": "ground black pepper",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "teaspoon",
+                "name": "red pepper flakes",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.33,
+                "unit": "cup",
+                "name": "white sugar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "pounds",
+                "name": "catfish fillets",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "name": "white sugar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "fresh lime juice",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "",
+                "name": "green onion",
+                "prepare_type": "thinly sliced"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "name": "chopped cilantro",
+                "prepare_type": ""
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Vietnamese",
+        "category": "main-dishes",
+        "tags": ""
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/272704/vietnamese-lemongrass-beef-and-noodles/",
+        "name": "Vietnamese Lemongrass Beef and Noodles",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "This is a classic Vietnamese dish that is so simple to make. Sauteed beef marinated in lemongrass and garlic and tossed with cold vermicelli noodles and fresh herbs. Great on warm days or it makes a quick, weeknight meal.",
+        "ingredients": [
+            {
+                "quantity": 1.0,
+                "unit": "(8 ounce)",
+                "name": "package rice vermicelli noodles",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.33,
+                "unit": "cup",
+                "name": "minced lemongrass",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "soy-based liquid seasoning (such as Maggi®)",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "dry sherry",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "brown sugar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 3.0,
+                "unit": "cloves",
+                "name": "garlic",
+                "prepare_type": "minced"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "pound",
+                "name": "flank steak",
+                "prepare_type": "thinly sliced"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "warm water",
+                "prepare_type": "or more as needed"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "white sugar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "medium",
+                "name": "lemon",
+                "prepare_type": "juiced"
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "fish sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "",
+                "name": "fresh red Thai chile peppers",
+                "prepare_type": "minced"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "cloves",
+                "name": "garlic",
+                "prepare_type": "finely minced"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "bunch",
+                "name": "Thai basil leaves",
+                "prepare_type": "chopped, or to taste"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "bunch",
+                "name": "cilantro",
+                "prepare_type": "chopped, or to taste"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "name": "fresh bean sprouts",
+                "prepare_type": "or to taste"
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Vietnamese",
+        "category": "main-dishes",
+        "tags": ""
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/254330/vietnamese-coffee/",
+        "name": "Vietnamese Coffee",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "Traditional Vietnamese coffee with an optional delicious twist! This recipe is based on what I learned from my parents, who drink it every day, and from my 5 years of experience as a barista.",
+        "ingredients": [
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "sweetened condensed milk",
+                "prepare_type": "or more to taste"
+            },
+            {
+                "quantity": 0.66,
+                "unit": "cup",
+                "name": "strong brewed coffee",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "non-dairy creamer (such as Coffee-Mate®)",
+                "prepare_type": "or more to taste"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "hot cocoa mix (such as Godiva®)",
+                "prepare_type": "or more to taste"
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Vietnamese",
+        "category": "main-dishes",
+        "tags": ""
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/263345/chicken-pho/",
+        "name": "Chicken Pho",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "Mom's chicken pho recipe... straight from Vietnam. Serve with hoisin and sriracha sauce.",
+        "ingredients": [
+            {
+                "quantity": 10.0,
+                "unit": "quarts",
+                "name": "water",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 3.0,
+                "unit": "pounds",
+                "name": "chicken bones",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "",
+                "name": "whole chicken",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "medium",
+                "name": "onion",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "(1 inch)",
+                "name": "piece ginger",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "(32",
+                "name": "fluid ounce) container chicken broth",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "rock sugar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 3.0,
+                "unit": "teaspoons",
+                "name": "fish sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "cubes",
+                "name": "pho ga soup seasoning",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.5,
+                "unit": "teaspoons",
+                "name": "salt",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "(16 ounce)",
+                "name": "packages rice stick noodles (banh pho)",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "pound",
+                "name": "bean sprouts",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "bunch",
+                "name": "green onion",
+                "prepare_type": "chopped"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "bunch",
+                "name": "cilantro",
+                "prepare_type": "chopped"
+            },
+            {
+                "quantity": 6.0,
+                "unit": "sprigs",
+                "name": "Thai basil",
+                "prepare_type": "or as needed"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "",
+                "name": "lime",
+                "prepare_type": "cut in wedges"
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Vietnamese",
+        "category": "main-dishes",
+        "tags": ""
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/24231/vietnamese-salad-rolls/",
+        "name": "Vietnamese Salad Rolls",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "These salad rolls are a nice light appetizer. Delicate rice wrappers are filled with noodles, shrimp, carrots, lettuce, and basil. Cooked chicken or beef may be substituted for shrimp.",
+        "ingredients": [
+            {
+                "quantity": 1.0,
+                "unit": "(8 ounce)",
+                "name": "package rice vermicelli",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 8.0,
+                "unit": "ounces",
+                "name": "cooked",
+                "prepare_type": "peeled shrimp, cut in half lengthwise"
+            },
+            {
+                "quantity": 8.0,
+                "unit": "",
+                "name": "rice wrappers (6.5 inch diameter)",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "",
+                "name": "carrot",
+                "prepare_type": "julienned"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "name": "shredded lettuce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "chopped fresh basil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "name": "hoisin sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "name": "water as needed",
+                "prepare_type": ""
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Vietnamese",
+        "category": "main-dishes",
+        "tags": ""
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/126772/vietnamese-lemon-grass-chicken-curry/",
+        "name": "Vietnamese Lemongrass Chicken Curry",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "This lemongrass curry recipe has been passed down to me by my grandmother in Vietnam. This aromatic dish is the best slightly spicy chicken curry ever. Fresh lemongrass is the secret! When you serve this cloud-nine dish over white or sticky rice, you'll be in heaven.",
+        "ingredients": [
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "vegetable oil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "",
+                "name": "lemon grass",
+                "prepare_type": "minced"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "(3 pound)",
+                "name": "whole chicken",
+                "prepare_type": "cut into pieces"
+            },
+            {
+                "quantity": 0.66,
+                "unit": "cup",
+                "name": "water",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "fish sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.5,
+                "unit": "tablespoons",
+                "name": "curry powder",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "cornstarch",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "chopped cilantro (Optional)",
+                "prepare_type": ""
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Vietnamese",
+        "category": "main-dishes",
+        "tags": ""
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/215523/banh-mi-burgers/",
+        "name": "Banh Mi Burgers",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "I whipped up these burgers for a weekend meal after a Saturday morning visit to the farmer's market. A peek in the fridge told me I had baby cukes to use. They aren't traditional, but they were a hit and instantly became a favorite with the hubby and me. Burgers can also be cooked on the stovetop. Grilling will add a nice flavor, and I prefer charcoal for a nice smoky finish.",
+        "ingredients": [
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "name": "chopped cucumber",
+                "prepare_type": "seeded if large"
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "thinly sliced green onion",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "chopped carrot",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "name": "rice vinegar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "mirin (Japanese rice wine)",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "white sugar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "pounds",
+                "name": "ground pork",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "tamari sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "toasted sesame oil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "mirin (Japanese rice wine)",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "grated fresh ginger",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "chili garlic sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "fish sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 6.0,
+                "unit": "",
+                "name": "sesame seed hamburger buns",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "chopped fresh basil (Optional)",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "chopped fresh mint (Optional)",
+                "prepare_type": ""
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Vietnamese",
+        "category": "main-dishes",
+        "tags": ""
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/14680/thit-bo-xao-dau/",
+        "name": "Thịt Bò Xào Đậu (Vietnamese Stir-Fried Beef and Green Beans)",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "This is a wonderful Vietnamese stir-fry dish with thinly sliced beef, onion, garlic, and green beans. Serve over hot rice.",
+        "ingredients": [
+            {
+                "quantity": 1.0,
+                "unit": "clove",
+                "name": "garlic",
+                "prepare_type": "minced"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "cornstarch",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "vegetable oil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "teaspoon",
+                "name": "ground black pepper",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "pound",
+                "name": "sirloin tips",
+                "prepare_type": "thinly sliced"
+            },
+            {
+                "quantity": 3.0,
+                "unit": "tablespoons",
+                "name": "vegetable oil",
+                "prepare_type": "divided"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "",
+                "name": "onion",
+                "prepare_type": "thinly sliced"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "cups",
+                "name": "fresh green beans",
+                "prepare_type": "washed and trimmed"
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "chicken broth",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "soy sauce",
+                "prepare_type": ""
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Vietnamese",
+        "category": "main-dishes",
+        "tags": ""
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/271155/goi-ga-vietnamese-chicken-and-cabbage-salad/",
+        "name": "Goi Ga (Vietnamese Chicken and Cabbage Salad)",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "Crisp, fresh, and delicious! The key to a good plate of goi ga is tossing the shredded chicken in a balance of dressing and fresh vegetables and herbs. This is a taste of summer - right to your plate.",
+        "ingredients": [
+            {
+                "quantity": 4.0,
+                "unit": "",
+                "name": "skinless cooked chicken breasts",
+                "prepare_type": "shredded"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "small",
+                "name": "head cabbage",
+                "prepare_type": "finely shredded"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "bunch",
+                "name": "fresh cilantro",
+                "prepare_type": "chopped"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "",
+                "name": "red onion",
+                "prepare_type": "thinly sliced"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "small",
+                "name": "carrot",
+                "prepare_type": "peeled and cut into matchsticks"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "name": "white vinegar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 4.0,
+                "unit": "tablespoons",
+                "name": "white sugar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "lime juice",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "fish sauce (Optional)",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 4.0,
+                "unit": "cloves",
+                "name": "garlic",
+                "prepare_type": "minced"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "name": "cayenne pepper",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "name": "salt and ground black pepper to taste",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "name": "chopped roasted peanuts (Optional)",
+                "prepare_type": ""
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Vietnamese",
+        "category": "main-dishes",
+        "tags": ""
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/261122/vietnamese-grilled-pork-skewers/",
+        "name": "Vietnamese Grilled Pork Skewers",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "For this dish, we need to prepare two things (1) the grilled pork, and (2) the dipping sauce.",
+        "ingredients": [
+            {
+                "quantity": 1.0,
+                "unit": "pound",
+                "name": "pork belly",
+                "prepare_type": "cubed"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "",
+                "name": "fresh red chile pepper",
+                "prepare_type": "minced"
+            },
+            {
+                "quantity": 3.0,
+                "unit": "stalks",
+                "name": "lemongrass",
+                "prepare_type": "minced"
+            },
+            {
+                "quantity": 3.0,
+                "unit": "tablespoons",
+                "name": "fish sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 3.0,
+                "unit": "cloves",
+                "name": "garlic",
+                "prepare_type": "minced, or more to taste"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "monosodium glutamate (MSG)",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "white sugar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "Chinese five-spice powder",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "name": "bamboo skewers",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "fish sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "white sugar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "",
+                "name": "fresh red chile pepper",
+                "prepare_type": "minced, or more to taste"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "",
+                "name": "lime",
+                "prepare_type": "juiced"
+            },
+            {
+                "quantity": 5.0,
+                "unit": "cloves",
+                "name": "garlic",
+                "prepare_type": "minced, or more to taste"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "monosodium glutamate (MSG)",
+                "prepare_type": "or to taste"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "name": "water",
+                "prepare_type": ""
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Vietnamese",
+        "category": "main-dishes",
+        "tags": ""
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/280088/instant-pot-pho/",
+        "name": "Instant Pot® Pho",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "Pho in the Instant Pot® takes only 2 1/2 hours versus a whole day of cooking and simmering! Serve with greens, bean sprouts, cilantro, Thai basil. Garnish with hoisin sauce, Sriracha, and quartered limes.",
+        "ingredients": [
+            {
+                "quantity": 3.0,
+                "unit": "pounds",
+                "name": "oxtail",
+                "prepare_type": "or more to taste"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "(1 inch)",
+                "name": "piece ginger",
+                "prepare_type": "peeled"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "medium",
+                "name": "onion",
+                "prepare_type": "quartered"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "",
+                "name": "cinnamon stick",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 3.0,
+                "unit": "",
+                "name": "cardamom pods",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 3.0,
+                "unit": "",
+                "name": "whole cloves",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "",
+                "name": "whole star anise pods",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "coriander seeds",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "fennel seeds",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 6.0,
+                "unit": "cups",
+                "name": "water",
+                "prepare_type": "or more as needed"
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "fish sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 3.0,
+                "unit": "",
+                "name": "green onions",
+                "prepare_type": "cut into 3 pieces"
+            },
+            {
+                "quantity": 1.5,
+                "unit": "tablespoons",
+                "name": "white sugar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "salt",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "(8 ounce)",
+                "name": "package dried rice noodles",
+                "prepare_type": ""
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Vietnamese",
+        "category": "main-dishes",
+        "tags": ""
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/14681/vietnamese-beef-pho/",
+        "name": "Vietnamese Beef Pho",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "This lemongrass pho is served with a plate full of fresh garnishes and various sauces, allowing each person to customize the soup to their taste. The soup is somewhat unusual because the thinly sliced beef is cooked directly in the serving bowl when the boiling broth is poured over top. By the time you garnish your soup, it will be cooked.",
+        "ingredients": [
+            {
+                "quantity": 4.0,
+                "unit": "quarts",
+                "name": "beef broth",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "large",
+                "name": "onion",
+                "prepare_type": "sliced into rings"
+            },
+            {
+                "quantity": 6.0,
+                "unit": "slices",
+                "name": "fresh ginger root",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "stalk",
+                "name": "lemongrass",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "",
+                "name": "cinnamon stick",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "whole black peppercorns",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "(8 ounce)",
+                "name": "package bean sprouts",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "name": "fresh basil leaves",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "name": "fresh mint leaves",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "name": "loosely packed cilantro leaves",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 3.0,
+                "unit": "fresh",
+                "name": "jalapeño peppers",
+                "prepare_type": "sliced into rings"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "",
+                "name": "limes",
+                "prepare_type": "cut into wedges"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "(8 ounce)",
+                "name": "packages dried rice noodles",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "pound",
+                "name": "sirloin tip",
+                "prepare_type": "cut into thin slices"
+            },
+            {
+                "quantity": 3.0,
+                "unit": "tablespoons",
+                "name": "fish sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "tablespoon",
+                "name": "hoisin sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "dash",
+                "name": "hot pepper sauce",
+                "prepare_type": ""
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Vietnamese",
+        "category": "main-dishes",
+        "tags": ""
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/283318/vietnamese-egg-coffee/",
+        "name": "Vietnamese Egg Coffee",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "Whipping an egg yolk into sweetened condensed milk will give you a meringue-like, silky, smooth fluff. Top your coffee or iced coffee with this topping and you will have a Vietnamese specialty coffee.",
+        "ingredients": [
+            {
+                "quantity": 1.0,
+                "unit": "large",
+                "name": "egg yolk",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "sweetened condensed milk",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "name": "hot strong coffee",
+                "prepare_type": ""
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Vietnamese",
+        "category": "main-dishes",
+        "tags": ""
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/274949/vietnamese-coconut-caramel-shrimp-tom-rim/",
+        "name": "Vietnamese Coconut-Caramel Shrimp (Tom Rim)",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "This is a Vietnamese caramelized shrimp dish called Tom Rim that is both sweet and savory at the same time! It's made with a simple syrup and some fish sauce. Super easy, super quick! Serve it with bowls of rice and you'll have your very own authentic taste of Vietnam at home.",
+        "ingredients": [
+            {
+                "quantity": 1.0,
+                "unit": "pound",
+                "name": "uncooked medium shrimp",
+                "prepare_type": "peeled and deveined"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "salt",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "white sugar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "coconut water",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "maple syrup",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "olive oil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "dash",
+                "name": "sesame oil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "",
+                "name": "shallot",
+                "prepare_type": "minced"
+            },
+            {
+                "quantity": 3.0,
+                "unit": "cloves",
+                "name": "garlic",
+                "prepare_type": "minced"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "fish sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "chopped fresh chives",
+                "prepare_type": ""
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Vietnamese",
+        "category": "main-dishes",
+        "tags": ""
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/268913/vegetarian-banh-mi-bowls/",
+        "name": "Vegetarian Banh Mi Bowls",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "This vegetarian bowl version of the beloved Vietnamese banh mi sandwich gets its protein from quinoa and has a kick from a spicy vegetarian mayo sauce.",
+        "ingredients": [
+            {
+                "quantity": 3.0,
+                "unit": "quarts",
+                "name": "water",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "(14 ounce)",
+                "name": "package boil-in-bag brown rice",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "quart",
+                "name": "water",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "(12 ounce)",
+                "name": "package boil-in-bag quinoa",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "",
+                "name": "cucumber",
+                "prepare_type": "thinly sliced"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "",
+                "name": "carrots",
+                "prepare_type": "thinly sliced, or more to taste"
+            },
+            {
+                "quantity": 6.0,
+                "unit": "",
+                "name": "radishes",
+                "prepare_type": "thinly sliced, or more to taste"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "name": "rice vinegar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "water",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "white sugar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "sesame oil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "salt",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "name": "egg-free mayonnaise",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "sriracha sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "name": "chopped peanuts",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "name": "chopped cilantro",
+                "prepare_type": ""
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Vietnamese",
+        "category": "main-dishes",
+        "tags": ""
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/71346/vietnamese-beef-and-lettuce-curry/",
+        "name": "Vietnamese Beef And Lettuce Curry",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "A delicious mild curry to serve with steamed or boiled rice that's relatively simple to prepare. The use of lettuce in cooked meals is also an interesting novelty for Western tastes used to having it only in salads and buffet dishes.",
+        "ingredients": [
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "name": "uncooked long grain white rice",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "cups",
+                "name": "water",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 5.0,
+                "unit": "teaspoons",
+                "name": "white sugar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "clove",
+                "name": "garlic",
+                "prepare_type": "minced"
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "fish sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 5.0,
+                "unit": "tablespoons",
+                "name": "water",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.5,
+                "unit": "tablespoons",
+                "name": "chile sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "",
+                "name": "lemon",
+                "prepare_type": "juiced"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "vegetable oil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 3.0,
+                "unit": "cloves",
+                "name": "garlic",
+                "prepare_type": "minced"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "pound",
+                "name": "ground beef",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "ground cumin",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "(28 ounce)",
+                "name": "can canned diced tomatoes",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "cups",
+                "name": "lettuce leaves",
+                "prepare_type": "torn into 1/2 inch wide strips"
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Vietnamese",
+        "category": "main-dishes",
+        "tags": ""
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/257405/vietnamese-eggplant-with-spicy-sauce/",
+        "name": "Vietnamese Eggplant with Spicy Sauce",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "I got this recipe from a cooking class in Hoi An, Vietnam. Such a flavorful and easy way to prepare eggplant. Now this is a family favorite! Serve garnished with green onion and basil.",
+        "ingredients": [
+            {
+                "quantity": 3.0,
+                "unit": "tablespoons",
+                "name": "vegetable oil",
+                "prepare_type": "divided"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "",
+                "name": "white eggplant",
+                "prepare_type": "sliced"
+            },
+            {
+                "quantity": 3.0,
+                "unit": "tablespoons",
+                "name": "minced lemongrass",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "crushed garlic",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "chopped green onion",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "chopped fresh basil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "minced red chile pepper",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "minced fresh ginger",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "oyster sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "white sugar",
+                "prepare_type": ""
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Vietnamese",
+        "category": "main-dishes",
+        "tags": ""
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/268807/vegetable-banh-mi/",
+        "name": "Vegetable Banh Mi",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "This vegetable banh mi for two stars quick-pickled vegetables and portobello mushrooms sauteed with fish sauce, sriracha, and five-spice. If you omit the fish sauce it's vegetarian.",
+        "ingredients": [
+            {
+                "quantity": 0.33,
+                "unit": "cup",
+                "name": "matchstick-cut carrots",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.33,
+                "unit": "cup",
+                "name": "matchstick-cut jicama",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "thinly sliced onion",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.75,
+                "unit": "cup",
+                "name": "rice vinegar",
+                "prepare_type": "divided"
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "water",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "white sugar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "fish sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "soy sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "teaspoons",
+                "name": "sriracha sauce",
+                "prepare_type": "or more to taste"
+            },
+            {
+                "quantity": 1.5,
+                "unit": "teaspoons",
+                "name": "garlic powder",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "Chinese five-spice powder",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0,
+                "unit": "",
+                "name": "salt and ground black pepper to taste",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "",
+                "name": "portobello mushrooms - stems and gills removed",
+                "prepare_type": "cut into 1/4-inch slices"
+            },
+            {
+                "quantity": 4.0,
+                "unit": "tablespoons",
+                "name": "mayonnaise",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "",
+                "name": "hoagie rolls",
+                "prepare_type": "split lengthwise and toasted"
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "thinly sliced cucumber",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "",
+                "name": "jalapeno pepper",
+                "prepare_type": "sliced, or to taste (Optional)"
+            },
+            {
+                "quantity": 6.0,
+                "unit": "sprigs",
+                "name": "fresh cilantro",
+                "prepare_type": "or to taste"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "",
+                "name": "lime wedges",
+                "prepare_type": ""
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Vietnamese",
+        "category": "main-dishes",
+        "tags": ""
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/237833/cao-lau-vietnamese-noodle-bowl/",
+        "name": "Cao Lầu (Vietnamese Noodle Bowl)",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "Cao lầu is made with noodles, pork, and greens and is traditionally found only in the town of Hoi An, Vietnam. This recipe approximates authentic cao lầu with easy-to-find ingredients. Use fresh rice noodles about the same thickness as linguine.",
+        "ingredients": [
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "soy sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 4.0,
+                "unit": "cloves",
+                "name": "garlic",
+                "prepare_type": "minced, or more to taste"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "teaspoons",
+                "name": "five-spice powder",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "teaspoons",
+                "name": "white sugar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "paprika",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "teaspoon",
+                "name": "chicken bouillon granules",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.5,
+                "unit": "pounds",
+                "name": "pork tenderloin",
+                "prepare_type": "cut into cubes"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "vegetable oil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "water",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "pounds",
+                "name": "fresh thick Vietnamese-style rice noodles",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "cups",
+                "name": "bean sprouts",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "name": "torn lettuce leaves",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "bunch",
+                "name": "green onions",
+                "prepare_type": "chopped"
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "fresh basil leaves",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "fresh cilantro leaves",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "crispy chow mein noodles",
+                "prepare_type": "or more to taste"
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Vietnamese",
+        "category": "main-dishes",
+        "tags": ""
+    },
+    {
+        "url": "https://www.allrecipes.com/recipe/107870/vietnamese-stir-fry/",
+        "name": "Vietnamese Stir-Fry",
+        "cook_time": "",
+        "prep_time": "",
+        "total_time": "",
+        "description": "This is a tangy stir-fry with beef and green beans. If you have an electric wok, they work perfect to cook this in! Add any extra veggies that you prefer!",
+        "ingredients": [
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "olive oil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 4.0,
+                "unit": "cloves",
+                "name": "garlic",
+                "prepare_type": "minced"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "(1 inch)",
+                "name": "piece fresh ginger root",
+                "prepare_type": "minced"
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "fish sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "reduced-sodium soy sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "dash",
+                "name": "sesame oil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "pounds",
+                "name": "sirloin tip",
+                "prepare_type": "thinly sliced"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "vegetable oil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "cloves",
+                "name": "garlic",
+                "prepare_type": "minced"
+            },
+            {
+                "quantity": 3.0,
+                "unit": "",
+                "name": "green onions",
+                "prepare_type": "cut into 2 inch pieces"
+            },
+            {
+                "quantity": 1.0,
+                "unit": "large",
+                "name": "onion",
+                "prepare_type": "thinly sliced"
+            },
+            {
+                "quantity": 2.0,
+                "unit": "cups",
+                "name": "frozen whole green beans",
+                "prepare_type": "partially thawed"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "name": "reduced-sodium beef broth",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "lime juice",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "chopped fresh Thai basil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "chopped fresh mint",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "pinch",
+                "name": "red pepper flakes",
+                "prepare_type": "or to taste"
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "name": "ground black pepper",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "chopped fresh cilantro",
+                "prepare_type": ""
+            }
+        ],
+        "nutrition": "",
+        "image": [],
+        "video": "",
+        "cuisine": "Vietnamese",
+        "category": "main-dishes",
+        "tags": ""
+    }
+]

@@ -1,0 +1,288 @@
+[
+    {
+        "name": "Prawn Malai Curry",
+        "cook_time": "0:20:00",
+        "prep_time": "0:20:00",
+        "total_time": "0:40:00",
+        "nutrition": {
+            "calories": "343 kcal",
+            "carbohydrateContent": "14 g",
+            "cholesterolContent": "175 mg",
+            "fiberContent": "4 g",
+            "proteinContent": "25 g",
+            "saturatedFatContent": "13 g",
+            "sodiumContent": "71 mg",
+            "sugarContent": "3 g",
+            "fatContent": "21 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "description": "This malai curry dish combines prawns with coconut milk, onion, ginger, garlic paste, tomato, and ground spices and is served with basmati rice.",
+        "cuisine": "bangladeshi",
+        "category": "Dinner",
+        "instructions": [
+            "To prepare fresh garam masala, in a coffee grinder, grind cardamom seeds, 3 whole cloves, and 3 cinnamon sticks to a fine powder. Set aside.",
+            "Heat vegetable oil in a skillet over medium heat. Add 4 whole cloves, 4 cardamom pods, and 2 sticks of cinnamon and fry for a few seconds (take care as cloves tend to pop out of the pan). Stir in grated onion and reduce the heat to medium-low. Cook and stir until liquid dries and onion no longer smells raw, about 5 minutes. Add ginger paste and garlic paste and cook for 2 minutes, stirring constantly.",
+            "Stir in turmeric and cayenne pepper. Add chopped tomatoes and cook until tomatoes are soft, about 5 minutes. Pour in water, cover the pan, and cook for an additional 5 minutes.",
+            "Pour in coconut milk and stir well. When mixture is just below boiling, stir in prawns. Sprinkle mixture with almost all of the fresh garam masala powder, reserving a pinch to use as a garnish. Gently stir to combine. Do not cover the pan at this stage, as coconut milk will curdle.",
+            "As soon as prawns are pink and cooked through, 3 to 5 minutes, add ghee. Remove the pan from the heat. Sprinkle reserved garam masala over the dish and serve."
+        ],
+        "image": "https://www.allrecipes.com/thmb/49AwiZGqQ8GhvbvLd6b12CnyE_o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1066644-d83c3678a7e848109bb0d4d8d086f829.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/m6FKZIYW-ma1DlVvV.mp4",
+            "description": "Coconut milk gives this sea food style curry its creamy base. Spices of cardamom, ginger, cinnamon, and garlic give the curry this beautifully layered flavor profile. A bit of cayenne pepper adds spice while tomatoes give this curry a refreshing savory side. Add in tiger prawns and this is a gorgeous Prawn Malai Curry!",
+            "duration": "0:01:48",
+            "name": "Prawn Malai Curry"
+        },
+        "url": "https://www.allrecipes.com/recipe/213244/prawn-malai-curry/",
+        "tags": [],
+        "ingredients": [
+            {
+                "quantity": 0.25,
+                "unit": "teaspoon",
+                "name": "cardamom seeds",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 3.0,
+                "unit": null,
+                "name": "whole cloves",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 3.0,
+                "unit": "(1-inch) pieces",
+                "name": "cinnamon stick",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "vegetable oil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 4.0,
+                "unit": null,
+                "name": "whole cloves",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 4.0,
+                "unit": null,
+                "name": "green cardamom pods ",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "(1 1/2-inch) pieces",
+                "name": "stick cinnamon",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": null,
+                "name": "onion, grated",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.25,
+                "unit": "teaspoons",
+                "name": "ginger paste",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.25,
+                "unit": "teaspoons",
+                "name": "garlic paste",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "name": "ground turmeric",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "teaspoon",
+                "name": "cayenne pepper",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "name": "finely chopped tomato",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "name": "water",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "cup",
+                "name": "coconut milk",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "pound",
+                "name": "tiger prawns, peeled and deveined",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "ghee (clarified butter) (Optional)",
+                "prepare_type": ""
+            }
+        ]
+    },
+    {
+        "name": "Indian Fish Curry",
+        "cook_time": "0:30:00",
+        "prep_time": "0:15:00",
+        "total_time": "1:15:00",
+        "nutrition": {
+            "calories": "338 kcal",
+            "carbohydrateContent": "12 g",
+            "cholesterolContent": "56 mg",
+            "fiberContent": "2 g",
+            "proteinContent": "42 g",
+            "saturatedFatContent": "1 g",
+            "sodiumContent": "2715 mg",
+            "sugarContent": "5 g",
+            "fatContent": "14 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "description": "This Indian fish curry features mustard-marinated fish baked with tomatoes in a spicy cashew purée. The recipe was inspired by a Bengali fish recipe.",
+        "cuisine": "bangladeshi",
+        "category": "Dinner",
+        "instructions": [
+            "Gather the ingredients.",
+            "Mix 2 tablespoons oil, mustard, black pepper, and 1/2 teaspoon salt together in a shallow glass bowl.",
+            "Add fish and turn to coat. Cover and refrigerate for 30 minutes.",
+            "While the fish is marinating, combine onion, garlic, ginger, and cashews in a blender or food processor; pulse until mixture forms a paste.",
+            "Preheat the oven to 350 degrees F (175 degrees C).",
+            "Heat remaining 1 tablespoon oil in a skillet over medium-low heat. Add cashew paste; cook and stir until fragrant, 1 to 2 minutes.",
+            "Add cayenne pepper, remaining 1 teaspoon salt, cumin, coriander, sugar, and turmeric to the cashew paste in the skillet; cook and stir for 5 minutes. Stir in tomato and broth.",
+            "Remove fish from marinade and shake off excess; discard remaining marinade. Arrange fish in a baking dish and pour sauce over top.",
+            "Bake, covered, in the preheated oven until fish flakes easily with a fork, about 30 minutes. Garnish with cilantro."
+        ],
+        "image": "https://www.allrecipes.com/thmb/LGbYFusqFDwtL-Xm7TFRhee1kws=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/213238-Indian-Fish-Curry-ddmfs-4x3-step-08-46612cbd8b584b3fa87b6bc6075233b7.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/Y03UBSs8-ma1DlVvV.mp4",
+            "description": "AR0916",
+            "duration": "0:04:21",
+            "name": "Indian Fish Curry"
+        },
+        "url": "https://www.allrecipes.com/recipe/213238/indian-fish-curry/",
+        "tags": [],
+        "ingredients": [
+            {
+                "quantity": 3.0,
+                "unit": "tablespoons",
+                "name": "canola oil, divided ",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "teaspoons",
+                "name": "Dijon mustard",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "ground black pepper",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.5,
+                "unit": "teaspoons",
+                "name": "salt, divided",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 4.0,
+                "unit": null,
+                "name": "white fish fillets",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "medium",
+                "name": "onion, coarsely chopped",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 4.0,
+                "unit": "cloves",
+                "name": "garlic, roughly chopped",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "(1 inch) piece",
+                "name": "fresh ginger root, peeled and chopped",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 5.0,
+                "unit": null,
+                "name": "cashew halves",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "teaspoons",
+                "name": "cayenne pepper, or to taste",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "ground cumin",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "ground coriander",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "teaspoon",
+                "name": "white sugar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "teaspoon",
+                "name": "ground turmeric",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "cup",
+                "name": "chopped tomato",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "vegetable broth",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "chopped fresh cilantro",
+                "prepare_type": ""
+            }
+        ]
+    }
+]

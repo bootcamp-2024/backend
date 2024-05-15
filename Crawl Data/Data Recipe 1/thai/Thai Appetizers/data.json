@@ -1,0 +1,132 @@
+[
+    {
+        "name": "One-Bite Thai &#34;Flavor Bomb&#34; Salad Wraps (Miang Kham)",
+        "cook_time": "PT5M",
+        "prep_time": "PT45M",
+        "total_time": "PT60M",
+        "nutrition": {
+            "calories": "225 kcal",
+            "carbohydrateContent": "24 g",
+            "cholesterolContent": "13 mg",
+            "fiberContent": "4 g",
+            "proteinContent": "9 g",
+            "saturatedFatContent": "7 g",
+            "sodiumContent": "327 mg",
+            "sugarContent": "16 g",
+            "fatContent": "12 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "description": "Chef John&#39;s version of one-bite Thai salad wraps, or miang kham, features the classic sauce that ties together the immense flavors they hold. The perfect appetizer for parties!",
+        "cuisine": "thai",
+        "category": "Dinner",
+        "ingredient": [
+            {
+                "quantity": "⅓",
+                "unit": "cup",
+                "name": "unsweetened shredded dried coconut "
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "name": "finely chopped roasted peanuts"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "name": "minced shallot"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "name": "finely minced fresh ginger"
+            },
+            {
+                "quantity": "1",
+                "unit": "small",
+                "name": "lime, zested and juiced"
+            },
+            {
+                "quantity": "½",
+                "unit": "cup",
+                "name": "packed dark brown sugar"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "name": "fish sauce"
+            },
+            {
+                "quantity": "⅔",
+                "unit": "cup",
+                "name": "water"
+            },
+            {
+                "quantity": "1",
+                "unit": "cup",
+                "name": "cubed cooked chicken"
+            },
+            {
+                "quantity": "32",
+                "unit": "leaves",
+                "name": "fresh spinach"
+            },
+            {
+                "quantity": "½",
+                "unit": "cup",
+                "name": "toasted unsweetened coconut flakes"
+            },
+            {
+                "quantity": "⅓",
+                "unit": "cup",
+                "name": "roasted peanuts"
+            },
+            {
+                "quantity": "32",
+                "unit": "leaves",
+                "name": "Thai basil"
+            },
+            {
+                "quantity": "8",
+                "unit": "slices ",
+                "name": "lime, quartered"
+            },
+            {
+                "quantity": "¼",
+                "unit": "cup",
+                "name": "finely chopped Thai chile peppers"
+            },
+            {
+                "quantity": "⅓",
+                "unit": "cup",
+                "name": "diced shallot"
+            },
+            {
+                "quantity": "⅓",
+                "unit": "cup",
+                "name": "diced fresh ginger"
+            }
+        ],
+        "instructions": [
+            {
+                "text": "Combine coconut, peanuts, shallot, ginger, lime zest and juice, brown sugar, fish sauce, and water in a small saucepan, swirl to mix, and bring to a simmer over medium-high heat. Reduce heat to medium and simmer, stirring occasionally, until the mixture reduces by about half and starts to thicken up."
+            },
+            {
+                "text": "Remove from heat and let cool to room temperature before using. Sauce will get thicker once cooled. If sauce is too thick, thin out with a little bit of water. If it&#39;s too runny, simply put it back on the heat and reduce it a little more."
+            },
+            {
+                "text": "To make the wraps, place a heaping teaspoon of chicken in a spinach leaf, top with a big pinch of toasted coconut, a few peanuts, a Thai basil leaf, one piece of lime, one piece of Thai chili, one or two pieces of shallots, and one or two cubes of ginger."
+            },
+            {
+                "text": "Top with 1 teaspoon of the sauce and wrap everything into one neat bite. These must be eaten in a single bite to get all the flavors working properly together."
+            }
+        ],
+        "image": "https://www.allrecipes.com/thmb/1HYDPkj08bJD3lO0Ym29NtqfZbs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-243-e4dbf262958f456697f7addbd8d23780.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/Q3lLrQVW-K3AjnAEN.mp4",
+            "description": "This is one of the most delicious, most exciting appetizers of all time. I've only had my mind blown a few times, but when I tried miang kham, that was one of those times. ",
+            "duration": "PT9M48S",
+            "name": "One-Bite Thai \"Flavor Bomb\" Salad Wraps (Miang Kham)"
+        },
+        "url": "https://www.allrecipes.com/recipe/284874/one-bite-thai-flavor-bomb-salad-wraps-miang-kham/"
+    }
+]

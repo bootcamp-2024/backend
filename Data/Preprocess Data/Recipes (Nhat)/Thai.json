@@ -1,0 +1,122 @@
+[
+    {
+        "name": "The Best Thai Coconut Soup",
+        "cook_time": "0:30:00",
+        "prep_time": "0:30:00",
+        "total_time": "1:00:00",
+        "nutrition": {
+            "calories": "368 kcal",
+            "carbohydrateContent": "9 g",
+            "cholesterolContent": "86 mg",
+            "fiberContent": "2 g",
+            "proteinContent": "13 g",
+            "saturatedFatContent": "28 g",
+            "sodiumContent": "579 mg",
+            "sugarContent": "2 g",
+            "fatContent": "33 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "description": "This Thai coconut soup made with red curry paste, lemongrass, lime juice, shrimp, and fish sauce is full of authentic, bold, and tasty Thai flavors.",
+        "cuisine": "thai",
+        "category": "Dinner",
+        "instructions": [
+            "Gather all ingredients.",
+            "Heat oil in a large pot over medium heat. Add ginger, curry paste, and lemongrass; cook and stir in the hot oil for 1 minute.",
+            "Gradually stir in chicken broth, then stir in fish sauce and brown sugar; reduce heat to low and simmer for 15 minutes.",
+            "Add coconut milk and mushrooms; cook and stir until mushrooms are soft, about 5 minutes.",
+            "Add shrimp; cook until no longer translucent, about 5 minutes. Stir in lime juice; season with salt and garnish with cilantro.",
+            "Enjoy!"
+        ],
+        "image": "https://www.allrecipes.com/thmb/kPvSC54TM7mio78ADIO3TBncrR4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/RM-146035-the-best-thai-coconut-soup-ddmfs-3x4-1741-96cd61c69f0b442392f629a0c65809b7.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/UiBWs6hK-ma1DlVvV.mp4",
+            "description": "The bold and delicious flavors of south-east Asia come together in this irresistible recipe for Thai coconut soup. In this video, you see how using some distinctive flavors like, lemongrass, ginger, red curry paste, fish sauce and of course coconut milk can bring out delicious results. If you're craving those flavors that fill up your body and soul, be sure to get the recipe for The Best Thai Coconut Soup.",
+            "duration": "0:02:01",
+            "name": "The Best Thai Coconut Soup"
+        },
+        "url": "https://www.allrecipes.com/recipe/146035/the-best-thai-coconut-soup/",
+        "tags": [
+            "Thai Soups and Stews"
+        ],
+        "ingredients": [
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "vegetable oil",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "grated fresh ginger ",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "teaspoons",
+                "name": "red curry paste",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "stalk",
+                "name": "lemon grass, minced",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 4.0,
+                "unit": "cups",
+                "name": "chicken broth",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 3.0,
+                "unit": "tablespoons",
+                "name": "fish sauce",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "tablespoon",
+                "name": "light brown sugar",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 3.0,
+                "unit": "(13.5 ounce) cans",
+                "name": "coconut milk",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "pound",
+                "name": "fresh shiitake mushrooms, sliced",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "pound",
+                "name": "medium shrimp - peeled and deveined",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "fresh lime juice",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0,
+                "unit": null,
+                "name": "salt to taste",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.25,
+                "unit": "cup",
+                "name": "chopped fresh cilantro",
+                "prepare_type": ""
+            }
+        ]
+    }
+]

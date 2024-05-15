@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Phi lê cá tuyết nhập khẩu không da",
+        "price": "360,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/phi-le-ca-tuyet-nhap-khau-khong-da-1-kg-10/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "1kg",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Phi lê cá tuyết nhập khẩu còn da",
+        "price": "349,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/phi-le-ca-tuyet-nhap-khau-con-da-1-kg-2/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "1kg",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Đùi tỏi gà CP",
+        "price": "55,000",
+        "unit": "Khay",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/dui-toi-khay-cp-5/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "500g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Đùi gà tháo khớp CP",
+        "price": "42,900",
+        "unit": "Khay",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/dui-thao-khop-khay-cp-12/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "500g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Ức phi lê gà khay CP",
+        "price": "43,000",
+        "unit": "Khay",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/uc-phi-le-ga-khay-cp-19/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "500g",
+        "domain_url": "https://online.mmvietnam.com/"
+    }
+]

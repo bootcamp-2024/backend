@@ -1,0 +1,697 @@
+[
+    {
+        "name": "Perfect Pot Stickers",
+        "cook_time": "PT5M",
+        "prep_time": "PT25M",
+        "total_time": "PT60M",
+        "nutrition": {
+            "calories": "439 kcal",
+            "carbohydrateContent": "46 g",
+            "cholesterolContent": "55 mg",
+            "fiberContent": "2 g",
+            "proteinContent": "20 g",
+            "saturatedFatContent": "6 g",
+            "sodiumContent": "1453 mg",
+            "sugarContent": "4 g",
+            "fatContent": "19 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "description": "Homemade pot stickers filled with pork, ginger, and cabbage are fried and steamed, then fried again until golden and crispy for a truly unique dumpling.",
+        "cuisine": "chinese",
+        "category": "Appetizer",
+        "ingredient": [
+            {
+                "quantity": "1",
+                "unit": "pound",
+                "name": "ground pork"
+            },
+            {
+                "quantity": "4",
+                "unit": "cloves",
+                "name": "minced garlic"
+            },
+            {
+                "quantity": "½",
+                "unit": "cup",
+                "name": "finely chopped green onions"
+            },
+            {
+                "quantity": "3",
+                "unit": "tablespoons",
+                "name": "very finely minced fresh ginger"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "name": "soy sauce"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "soy sauce"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "sesame oil"
+            },
+            {
+                "quantity": "1",
+                "unit": "pinch",
+                "name": "cayenne pepper"
+            },
+            {
+                "quantity": "1 ½",
+                "unit": "cups",
+                "name": "finely chopped green cabbage"
+            },
+            {
+                "quantity": "2 ½",
+                "unit": "cups",
+                "name": "all-purpose flour, or more as needed"
+            },
+            {
+                "quantity": "¾",
+                "unit": "teaspoon",
+                "name": "kosher salt"
+            },
+            {
+                "quantity": "1",
+                "unit": "cup",
+                "name": "hot water, about 130 - 150 F (55-65 C)"
+            },
+            {
+                "quantity": "¼",
+                "unit": "cup",
+                "name": "seasoned rice vinegar"
+            },
+            {
+                "quantity": "¼",
+                "unit": "cup",
+                "name": "soy sauce"
+            },
+            {
+                "quantity": "6",
+                "unit": "tablespoons",
+                "name": "vegetable oil for frying, or as needed - divided"
+            },
+            {
+                "quantity": "8",
+                "unit": "tablespoons",
+                "name": "water for steaming, divided"
+            }
+        ],
+        "instructions": [
+            {
+                "text": "Place ground pork, green onions, garlic, ginger, 2 tablespoon plus 1 teaspoon soy sauce, sesame oil, and cayenne in a mixing bowl. Top with chopped green cabbage. Mix with fork until thoroughly combined. Tamp down lightly; cover with plastic. Refrigerate until chilled, about an hour."
+            },
+            {
+                "text": "Place 2 ½ cups of flour and kosher salt in a mixing bowl. Slowly pour in hot water. Stir with a wooden spoon until mixture forms a shaggy dough. Flour your hands and transfer dough to a work surface. Knead dough until it becomes smooth and elastic, about 3 to 5 minutes. If dough seems too sticky, sprinkle with a bit more flour, up to an additional 1/2 cup, and continue to knead. Wrap dough ball in plastic, and let it rest about 30 minutes."
+            },
+            {
+                "text": "When dough has rested, divide into 4 equal pieces. Cover 3 pieces with a dish cloth while you work the first piece. Roll into a small log about the thickness of a thumb, about 3/4 inch. Divide each log into 6 equal pieces. Roll each piece into a thin 3 ½-inch circle on a lightly floured surface to form the pot sticker wrappers. Repeat with the remaining dough pieces."
+            },
+            {
+                "text": "Lightly moisten the edges of a wrapper with your wet finger. Place a small scoop of the ground pork mixture onto the center of a wrapper. Fold up the 2 sides and pinch together in the center. Pinch together the remaining edges, forming &#34;pleats&#34; along one side. Tap the pot sticker on the work surface to slightly flatten the bottom; form a slight curve in it so it stands upright in the pan. Transfer to a well-floured plate. Repeat with remaining dough and filling."
+            },
+            {
+                "text": "Mix together seasoned rice vinegar and soy sauce in a small mixing bowl for the dipping sauce."
+            },
+            {
+                "text": "Heat oil in skillet over medium-high heat. Place about 6 or 7 pot stickers in the hot oil, flat side down. Cook until bottoms are golden brown, about 2 minutes. Drizzle in water and quickly cover the pan; steam for 3 minutes. Uncover; reduce heat to medium. Continue cooking until water evaporates and bottoms are browned and crunchy, 1 or 2 minutes. Transfer to a warm serving dish. Repeat with remaining pot stickers. Serve with dipping sauce."
+            },
+            {
+                "text": "Serve hot and enjoy!"
+            }
+        ],
+        "image": "https://www.allrecipes.com/thmb/QeJ0kHR61Zq8AioeSKptJtMVsnc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/261153-PerfectPotStickers-ddmfs-3X4-0038-1-2e553253046a4d06b619faeb27ee4d04.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/iuIjaLjq-K3AjnAEN.mp4",
+            "description": "The journey to a great, Chef John-approved dumpling begins with an easy and delicious pork filling! Combine ground pork, minced garlic, green onions, ginger, soy sauce, sesame oil, cayenne and green cabbage until just mixed, then chill. Create a dough with flour, salt and hot water, then knead until a fairly elastic dough and rest. Roll out the silky dough into 3 inch circles and fill with the meat mixture. Then fry, steam and fry again and start dipping your way to potsticker joy!",
+            "duration": "PT10M7S",
+            "name": "Perfect Pot Stickers"
+        },
+        "url": "https://www.allrecipes.com/recipe/261153/perfect-pot-stickers/"
+    },
+    {
+        "name": "Chef John&#39;s Shrimp Toast",
+        "cook_time": "PT4M",
+        "prep_time": "PT20M",
+        "total_time": "PT84M",
+        "nutrition": {
+            "calories": "212 kcal",
+            "carbohydrateContent": "20 g",
+            "cholesterolContent": "87 mg",
+            "fiberContent": "2 g",
+            "proteinContent": "14 g",
+            "saturatedFatContent": "1 g",
+            "sodiumContent": "714 mg",
+            "sugarContent": "3 g",
+            "fatContent": "9 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "description": "These crispy shrimp toasts made with a savory paste of shrimp, water chestnuts, garlic, and ginger make a fantastic appetizer for a cocktail party.",
+        "cuisine": "chinese",
+        "category": "Appetizer",
+        "ingredient": [
+            {
+                "quantity": "½",
+                "unit": "pound",
+                "name": "raw shrimp, peeled and deveined "
+            },
+            {
+                "quantity": "¼",
+                "unit": "cup",
+                "name": "diced water chestnuts"
+            },
+            {
+                "quantity": "¼",
+                "unit": "cup",
+                "name": "chopped cilantro leaves"
+            },
+            {
+                "quantity": "½",
+                "unit": "cup",
+                "name": "finely sliced green onions, plus more for garnish if desired"
+            },
+            {
+                "quantity": "3",
+                "unit": null,
+                "name": "garlic cloves, crushed"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "name": "finely grated ginger root"
+            },
+            {
+                "quantity": "1",
+                "unit": null,
+                "name": "anchovy filet"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "toasted sesame oil"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "Asian fish sauce"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "name": "soy sauce, or more to taste"
+            },
+            {
+                "quantity": "1",
+                "unit": null,
+                "name": "egg white"
+            },
+            {
+                "quantity": "½",
+                "unit": "teaspoon",
+                "name": "white sugar"
+            },
+            {
+                "quantity": "½",
+                "unit": "teaspoon",
+                "name": "paprika"
+            },
+            {
+                "quantity": "1",
+                "unit": "pinch",
+                "name": "cayenne pepper"
+            },
+            {
+                "quantity": "1",
+                "unit": "pinch",
+                "name": "salt"
+            },
+            {
+                "quantity": "4",
+                "unit": "thick slices",
+                "name": "white bread"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "Sesame seeds"
+            },
+            {
+                "quantity": "1",
+                "unit": "cup",
+                "name": "vegetable oil for frying, or as needed"
+            }
+        ],
+        "instructions": [
+            {
+                "text": "Place shrimp, water chestnuts, cilantro leaves, green onions, garlic, grated ginger, anchovy filet, sesame oil, fish sauce, soy sauce, egg white, sugar, paprika, cayenne pepper, and salt into the bowl of a food processor. Pulse several times; scrape down the sides of the bowl. Continue to process until mixture is well blended and reaches a paste consistency, 1 or 2 minutes. Transfer mixture to a bowl; cover with plastic wrap and refrigerate to blend the flavors, about 1 hour."
+            },
+            {
+                "text": "Very lightly toast bread slices. Trim crusts from bread. Spread shrimp paste onto bread in an equal thickness as the bread. Cut slices in half and then diagonally into diamond shapes. Sprinkle with sesame seeds."
+            },
+            {
+                "text": "Place a heavy skillet over medium-high heat; pour in about 1/2 inch of vegetable oil. When oil is hot, add bread slices, paste-side down, and fry until crispy, 2 to 3 minutes per side. Transfer to a paper towel-lined plate. Serve hot or warm garnished with additional sliced green onions."
+            }
+        ],
+        "image": "https://www.allrecipes.com/thmb/XUEFlrFezYnIpKuo2l6xum3GQlM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3345838-chef-johns-shrimp-toast-Chef-John-1x1-1-922fbf99a2c3456383e774352cbaed85.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/OyDail34-K3AjnAEN.mp4",
+            "description": "Mix it, spread it, fry it and serve. This delicious appetizer fare will surprise and just possibly become the centerpiece of your game day buffet table. Shrimp, anchovy, garlic and plenty of spices give full-on flavor with the satisfying crunch of toast. The game may be forgettable or not, but you’re guaranteed a favorable score with these delicious toasts. Get the recipe for [Chef John's Shrimp Toast](http://allrecipes.com/recipe/246030/chef-johns-shrimp-toast/?src=VD_Summary).",
+            "duration": "PT7M38S",
+            "name": "Chef John's Shrimp Toast"
+        },
+        "url": "https://www.allrecipes.com/recipe/246030/chef-johns-shrimp-toast/"
+    },
+    {
+        "name": "Chef John&#39;s Chinese Scallion Pancakes",
+        "cook_time": "PT20M",
+        "prep_time": "PT30M",
+        "total_time": "PT170M",
+        "nutrition": {
+            "calories": "200 kcal",
+            "carbohydrateContent": "25 g",
+            "fiberContent": "2 g",
+            "proteinContent": "4 g",
+            "saturatedFatContent": "2 g",
+            "sodiumContent": "366 mg",
+            "sugarContent": "1 g",
+            "fatContent": "9 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "description": "Moist, oniony inner layers accompany each bite of these crispy, fragrant scallion pancakes.",
+        "cuisine": "chinese",
+        "category": "Dinner",
+        "ingredient": [
+            {
+                "quantity": "2",
+                "unit": "cups",
+                "name": "bread flour"
+            },
+            {
+                "quantity": "1 ½",
+                "unit": "teaspoons",
+                "name": "kosher salt"
+            },
+            {
+                "quantity": "¾",
+                "unit": "cup",
+                "name": "very hot water"
+            },
+            {
+                "quantity": "3",
+                "unit": "tablespoons",
+                "name": "vegetable oil"
+            },
+            {
+                "quantity": "2",
+                "unit": "teaspoons",
+                "name": "sesame oil"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "name": "all-purpose flour"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "all-purpose flour"
+            },
+            {
+                "quantity": "1",
+                "unit": "bunch",
+                "name": "green onions, mostly green parts, thinly sliced"
+            },
+            {
+                "quantity": "1 ½",
+                "unit": "tablespoons",
+                "name": "vegetable oil, or as needed"
+            }
+        ],
+        "instructions": [
+            {
+                "text": "Combine bread flour and salt in a large bowl. Make a well in the middle and pour in hot water. Mix together with a wooden spoon to form a shaggy dough."
+            },
+            {
+                "text": "Transfer dough onto a lightly floured work surface. Knead dough until sticky but relatively smooth and elastic, dusting with a minimal amount of flour if needed. Wrap in plastic wrap and let dough rest for 2 hours."
+            },
+            {
+                "text": "Mix vegetable oil, sesame oil, and flour together in a skillet over medium heat until starting to bubble, about 3 minutes. Cook for 1 minute more. Remove from heat and cool to room temperature."
+            },
+            {
+                "text": "Unwrap dough and cut in half. Roll out into a tube and press down with your fingers. Use a rolling pin to flatten dough into a rectangular shape about 1/8-inch thick, flipping over and dusting lightly with flour halfway through."
+            },
+            {
+                "text": "Paint surface of the dough with the oil mixture until just covered, leaving 1 inch of space on the edges. Sprinkle scallions on top. Roll dough up tightly to seal in the scallions, starting with the long side. Pull the opposite edge over the top once you have reached it."
+            },
+            {
+                "text": "Coil 1 end of the dough inward toward the middle; wrap the opposite end around the coil to finish, tucking the tip under the bottom. Dust the coil with flour and roll dough out into a pancake about 1/4-inch thick. Repeat with remaining dough, oil, and green onions to make the second pancake."
+            },
+            {
+                "text": "Heat vegetable oil in a cast iron skillet over high heat. Add 1 pancake; lower heat to medium. Cook until crispy and browned, about 4 minutes per side. Repeat with the other pancake. Cut into wedges."
+            }
+        ],
+        "image": "https://www.allrecipes.com/thmb/OqdM8ti36jVpd7jWKajKOJJdyKE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Chef-Johns-Chinese-Scallion-Pancakes-Still-4x3-8db5e13578fd4b5484ac2c87e62a6c28.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/iUlGcpoQ-K3AjnAEN.mp4",
+            "description": "These fun-to-make flatbreads are a common fixture on menus in China, and while they all feature the same few ingredients, they come in a variety of thicknesses. ",
+            "duration": "PT9M57S",
+            "name": "Chinese Scallion Pancakes"
+        },
+        "url": "https://www.allrecipes.com/recipe/263821/chef-johns-chinese-scallion-pancakes/"
+    },
+    {
+        "name": "Pot Stickers Traditional",
+        "cook_time": "PT10M",
+        "prep_time": "PT60M",
+        "total_time": "PT430M",
+        "nutrition": {
+            "calories": "166 kcal",
+            "carbohydrateContent": "17 g",
+            "cholesterolContent": "12 mg",
+            "fiberContent": "1 g",
+            "proteinContent": "6 g",
+            "saturatedFatContent": "2 g",
+            "sodiumContent": "378 mg",
+            "sugarContent": "1 g",
+            "fatContent": "8 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "description": "This traditional recipe is from the area of Northern China. Wonton wrappers are stuffed with finely chopped vegetables and pork, then fried and served with a spicy dipping sauce.",
+        "cuisine": "chinese",
+        "category": "Appetizer",
+        "ingredient": [
+            {
+                "quantity": "½",
+                "unit": "pound",
+                "name": "ground pork"
+            },
+            {
+                "quantity": "½",
+                "unit": "medium head",
+                "name": "cabbage, finely chopped"
+            },
+            {
+                "quantity": "1",
+                "unit": null,
+                "name": "green onion, finely chopped"
+            },
+            {
+                "quantity": "2",
+                "unit": "slices",
+                "name": "fresh ginger root, finely chopped"
+            },
+            {
+                "quantity": "2",
+                "unit": null,
+                "name": "water chestnuts, drained and finely chopped"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "salt"
+            },
+            {
+                "quantity": "½",
+                "unit": "teaspoon",
+                "name": "white sugar"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "sesame oil"
+            },
+            {
+                "quantity": "1",
+                "unit": "(14 ounce) package",
+                "name": "wonton wrappers"
+            },
+            {
+                "quantity": "5",
+                "unit": "tablespoons",
+                "name": "vegetable oil"
+            },
+            {
+                "quantity": "¾",
+                "unit": "cup",
+                "name": "water"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "name": "chili oil"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "name": "soy sauce"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "rice vinegar"
+            }
+        ],
+        "instructions": [
+            {
+                "text": "Crumble pork into a large, deep skillet. Cook over medium high heat until evenly brown. Drain and set aside."
+            },
+            {
+                "text": "In a medium bowl, mix together the pork, cabbage, green onion, ginger, water chestnuts, salt, sugar and sesame oil. Chill in the refrigerator 6 to 8 hours, or overnight."
+            },
+            {
+                "text": "Place a tablespoon of the pork mixture into each of the wonton wrappers. Fold the wrappers, and seal the edges with a moistened fork."
+            },
+            {
+                "text": "In a large, deep skillet, heat 3 tablespoons vegetable oil over medium high heat. Place the pot stickers into the oil seam sides up. Heat 30 seconds to a minute. Pour water into the skillet. Gently boil 7 to 8 minutes, until oil and water begins to sizzle, then add remaining oil. When the bottoms begin to brown, remove pot stickers from heat."
+            },
+            {
+                "text": "In a small serving bowl, mix together the chili oil, soy sauce, and vinegar, adjusting proportions to taste."
+            }
+        ],
+        "image": "https://www.allrecipes.com/thmb/6XuWxjgURFe4f9adr4kKRtQCLJM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2432892-pot-stickers-traditional-Allrecipes-Magazine-1x1-1-b9be0e9a8e1442af89110a299216158d.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/rEhoytP7-K3AjnAEN.mp4",
+            "description": "There’s something wonderfully satisfying about making your own homemade\npot stickers—and especially flavorful, too. Mix cooked pork, cabbage, \ngreen onion, ginger, water chestnuts, salt, sugar and sesame oil to \ncreate the savory filling, and chill overnight. Seal tablespoons of the pork \nmixture inside of wonton wrappers and fry in vegetable oil and boil in water. \nServe these dumplings around a dish of flavorful Asian sauce created by \nmixing chili oil, soy sauce and rice vinegar. Great as an appetizer or as \npart of a satisfying Chinese meal. ",
+            "duration": "PT1M3S",
+            "name": "Traditional Potstickers "
+        },
+        "url": "https://www.allrecipes.com/recipe/22460/pot-stickers-traditional/"
+    },
+    {
+        "name": "Authentic Chinese Egg Rolls (from a Chinese person)",
+        "cook_time": "PT30M",
+        "prep_time": "PT60M",
+        "total_time": "PT150M",
+        "nutrition": {
+            "calories": "169 kcal",
+            "carbohydrateContent": "16 g",
+            "cholesterolContent": "46 mg",
+            "fiberContent": "3 g",
+            "proteinContent": "10 g",
+            "saturatedFatContent": "1 g",
+            "sodiumContent": "315 mg",
+            "sugarContent": "2 g",
+            "fatContent": "7 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "description": "Chinese egg rolls that are easy and delicious with lots of rich flavor. You can&#39;t get much more authentic than this 300 year-old family recipe.",
+        "cuisine": "chinese",
+        "category": "Dinner",
+        "ingredient": [
+            {
+                "quantity": "4",
+                "unit": "teaspoons",
+                "name": "vegetable oil, divided"
+            },
+            {
+                "quantity": "3",
+                "unit": "large",
+                "name": "eggs, beaten"
+            },
+            {
+                "quantity": "1",
+                "unit": "medium head",
+                "name": "cabbage, finely shredded"
+            },
+            {
+                "quantity": "½",
+                "unit": null,
+                "name": "carrot, julienned"
+            },
+            {
+                "quantity": "1",
+                "unit": "pound",
+                "name": "Chinese barbequed or roasted pork, cut into matchsticks"
+            },
+            {
+                "quantity": "1",
+                "unit": "(8 ounce) can",
+                "name": "shredded bamboo shoots"
+            },
+            {
+                "quantity": "1",
+                "unit": "cup",
+                "name": "dried, shredded wood ear mushroom, rehydrated"
+            },
+            {
+                "quantity": "2",
+                "unit": null,
+                "name": "green onions, thinly sliced"
+            },
+            {
+                "quantity": "2 ½",
+                "unit": "teaspoons",
+                "name": "soy sauce"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "salt"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "sugar"
+            },
+            {
+                "quantity": "½",
+                "unit": "teaspoon",
+                "name": "monosodium glutamate (MSG)"
+            },
+            {
+                "quantity": "1",
+                "unit": "(14 ounce) package",
+                "name": "egg roll wrappers"
+            },
+            {
+                "quantity": "1",
+                "unit": null,
+                "name": "egg white, beaten"
+            },
+            {
+                "quantity": "4",
+                "unit": "cups",
+                "name": "oil for frying, or as needed"
+            }
+        ],
+        "instructions": [
+            {
+                "text": "Heat 1 teaspoon vegetable oil in a wok or large skillet over medium heat. Pour in beaten eggs and cook, without stirring, until firmed up. Flip eggs over and cook for an additional 20 seconds to firm the other side. Set egg pancake aside to cool, then slice into thin strips."
+            },
+            {
+                "text": "Heat remaining vegetable oil in a wok or large skillet over high heat. Stir in cabbage and carrot; cook for 2 minutes to wilt. Add pork, bamboo shoots, mushroom, green onions, soy sauce, salt, sugar, and MSG; continue cooking until vegetables soften, about 6 minutes. Stir in sliced egg, then spread the mixture out onto a pan, and refrigerate until cold, about 1 hour."
+            },
+            {
+                "text": "To assemble the egg rolls: Place a wrapper onto your work surface with one corner pointing towards you. Place about 3 tablespoons of cooled filling in a heap onto the bottom third of the wrapper. Brush a little beaten egg white onto the top two edges of the wrapper, then fold the bottom corner over the filling and roll firmly to the halfway point. Fold the left and right sides snugly over the egg roll, then continue rolling until the top corners seal the egg roll with the egg white. Repeat with remaining egg roll wrappers, covering finished egg rolls with plastic wrap to keep from drying out."
+            },
+            {
+                "text": "Heat about 6 inches of oil in a wok or deep-fryer to 350 degrees F (175 degrees C)."
+            },
+            {
+                "text": "Fry egg rolls 3 or 4 at a time until golden brown, 5 to 7 minutes. Drain on paper towels."
+            }
+        ],
+        "image": "https://www.allrecipes.com/thmb/EaqgfIWvPCiXFvMhJQ6RU4BXk2c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6406632-authentic-chinese-egg-rolls-from-a-chinese-person-moodtwofood-1x1-1-8c90562351aa4d94b56894bdd991e755.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/c6mAY0l7-ma1DlVvV.mp4",
+            "description": "In this video, you’ll see how to make pork egg rolls following a recipe that’s been in the Ling family for at least 300 years. Shredded pork roast combines with mushrooms, bamboo, egg, and finely shredded carrots and cabbage. You'll also see a great technique for rolling your egg rolls nice and tight.",
+            "duration": "PT5M15S",
+            "name": "Authentic Chinese Egg Rolls"
+        },
+        "url": "https://www.allrecipes.com/recipe/61913/authentic-chinese-egg-rolls-from-a-chinese-person/"
+    },
+    {
+        "name": "Pork Dumplings",
+        "cook_time": "PT15M",
+        "prep_time": "PT45M",
+        "total_time": "PT60M",
+        "nutrition": {
+            "calories": "752 kcal",
+            "carbohydrateContent": "81 g",
+            "cholesterolContent": "129 mg",
+            "fiberContent": "3 g",
+            "proteinContent": "39 g",
+            "saturatedFatContent": "9 g",
+            "sodiumContent": "1449 mg",
+            "sugarContent": "1 g",
+            "fatContent": "29 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "description": "These amazingly easy steamed pork dumplings have a tasty filling made with pork, ginger, garlic, and soy sauce for the most delectable Chinese dim sum!",
+        "cuisine": "chinese",
+        "category": "Dinner",
+        "ingredient": [
+            {
+                "quantity": "100",
+                "unit": " (3.5 inch square)",
+                "name": "wonton wrappers"
+            },
+            {
+                "quantity": "1 ¾",
+                "unit": "pounds",
+                "name": "ground pork"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "name": "minced fresh ginger root"
+            },
+            {
+                "quantity": "4",
+                "unit": "cloves",
+                "name": "garlic, minced"
+            },
+            {
+                "quantity": "2",
+                "unit": "tablespoons",
+                "name": "thinly sliced green onion"
+            },
+            {
+                "quantity": "4",
+                "unit": "tablespoons",
+                "name": "soy sauce"
+            },
+            {
+                "quantity": "3",
+                "unit": "tablespoons",
+                "name": "sesame oil"
+            },
+            {
+                "quantity": "1",
+                "unit": null,
+                "name": "egg, beaten"
+            },
+            {
+                "quantity": "5",
+                "unit": "cups",
+                "name": "finely shredded Chinese cabbage"
+            }
+        ],
+        "instructions": [
+            {
+                "text": "In a large bowl, combine the pork, ginger, garlic, green onion, soy sauce, sesame oil, egg and cabbage. Stir until well mixed."
+            },
+            {
+                "text": "Place 1 heaping teaspoon of pork filling onto each wonton skin. Moisten edges with water and fold edges over to form a triangle shape. Roll edges slightly to seal in filling. Set dumplings aside on a lightly floured surface until ready to cook."
+            },
+            {
+                "text": "Arrange dumplings in a covered bamboo or metal steamer so they don&#39;t touch to prevent them from sticking together; steam for 15 minutes, or until pork is cooked through."
+            },
+            {
+                "text": "Serve hot and enjoy!"
+            }
+        ],
+        "image": "https://www.allrecipes.com/thmb/tCt2q6Sly6Spyu7fsM5c3Vxs8DI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14759-pork-dumplings-DDMFS-4x3-f87c9459ec73475f9dcab4cc651c46d3.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/QzI21Rp3-K3AjnAEN.mp4",
+            "description": "You can find some pretty good frozen dumplings at the right grocery store, but once you’ve tasted the homemade version, you may never return to the freezer aisle for them. In this video, learn how to make pork dumplings loaded with flavorful ingredients like ginger, garlic, green onion, soy sauce, and sesame oil. Serve them with hoisin sauce, hot Chinese-style mustard, and toasted sesame seeds.",
+            "duration": "PT50S",
+            "name": "How to Make Pork Dumplings"
+        },
+        "url": "https://www.allrecipes.com/recipe/14759/pork-dumplings/"
+    }
+]

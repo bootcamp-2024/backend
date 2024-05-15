@@ -1,0 +1,76 @@
+[
+    {
+        "name": "Easy Malai Kulfi",
+        "cook_time": "PT20M",
+        "prep_time": "PT5M",
+        "total_time": "PT85M",
+        "nutrition": {
+            "calories": "194 kcal",
+            "carbohydrateContent": "23 g",
+            "cholesterolContent": "22 mg",
+            "fiberContent": "1 g",
+            "proteinContent": "7 g",
+            "saturatedFatContent": "4 g",
+            "sodiumContent": "108 mg",
+            "sugarContent": "21 g",
+            "fatContent": "9 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "description": "Kulfi is best described as Indian-style ice cream. However, unlike ice cream, kulfi is not churned. This is a fantastic summer dessert. This is a quick and easy version of kulfi with pistachios.",
+        "cuisine": "indian",
+        "category": "Dessert",
+        "ingredient": [
+            {
+                "quantity": "2",
+                "unit": "cups",
+                "name": "whole milk"
+            },
+            {
+                "quantity": "½",
+                "unit": "cup",
+                "name": "condensed milk"
+            },
+            {
+                "quantity": "¼",
+                "unit": "cup",
+                "name": "dry milk powder"
+            },
+            {
+                "quantity": "2",
+                "unit": "teaspoons",
+                "name": "white sugar, or to taste (Optional)"
+            },
+            {
+                "quantity": "½",
+                "unit": "teaspoon",
+                "name": "ground cardamom"
+            },
+            {
+                "quantity": "1",
+                "unit": "pinch",
+                "name": "saffron threads"
+            },
+            {
+                "quantity": "¼",
+                "unit": "cup",
+                "name": "chopped pistachio nuts"
+            }
+        ],
+        "instructions": [
+            {
+                "text": "Stir the milk, condensed milk, and dry milk powder together in a heavy-bottomed pan and bring to a boil. Add the sugar, cardamom, and saffron to the boiling milk; reduce heat to low and simmer, stirring frequently, for 10 minutes. Remove from heat and allow to cool to room temperature; fold the pistachio nuts into the mixture."
+            },
+            {
+                "text": "Pour the mixture into popsicle molds and freeze until solid, about 1 hour"
+            }
+        ],
+        "image": "https://www.allrecipes.com/thmb/ztl0f4CYRng-66ppXDWnqU7_cAE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4550887-easy-malai-kulfi-Buckwheat-Queen-1x1-1-90d79ec37a684200ae35faebe1ae2ea7.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/tX2MB9C5-K3AjnAEN.mp4",
+            "description": "Kulfi, or Indian ice cream, is normally reduced over a hot stove for hours before being frozen. This quick and easy version uses condensed milk to speed things up a bit! Frozen in popsicle molds, this is a no-churn ice cream that is about as easy as it gets!",
+            "duration": "PT1M9S",
+            "name": "Easy Malai Kulfi"
+        },
+        "url": "https://www.allrecipes.com/recipe/210541/easy-malai-kulfi/"
+    }
+]

@@ -1,0 +1,100 @@
+[
+    {
+        "name": "Thai Sweet Sticky Rice With Mango (Khao Neeo Mamuang)",
+        "cook_time": "PT20M",
+        "prep_time": "PT10M",
+        "total_time": "PT90M",
+        "nutrition": {
+            "calories": "817 kcal",
+            "carbohydrateContent": "144 g",
+            "fiberContent": "6 g",
+            "proteinContent": "8 g",
+            "saturatedFatContent": "22 g",
+            "sodiumContent": "458 mg",
+            "sugarContent": "76 g",
+            "fatContent": "26 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "description": "Mango sticky rice is a classic Thai dessert that&#39;s easy to make at home with sticky white rice, a sweet coconut sauce, and slices of fresh ripe mango.",
+        "cuisine": "thai",
+        "category": "Dessert",
+        "ingredient": [
+            {
+                "quantity": "2",
+                "unit": "cups",
+                "name": "water"
+            },
+            {
+                "quantity": "1 ½",
+                "unit": "cups",
+                "name": "uncooked glutinous sticky white rice, rinsed"
+            },
+            {
+                "quantity": "2",
+                "unit": "cups",
+                "name": "coconut milk, divided"
+            },
+            {
+                "quantity": "1",
+                "unit": "cup",
+                "name": "white sugar, or to taste"
+            },
+            {
+                "quantity": "¾",
+                "unit": "teaspoon",
+                "name": "salt, divided"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "name": "white sugar, or to taste"
+            },
+            {
+                "quantity": "1",
+                "unit": "teaspoon",
+                "name": "tapioca starch"
+            },
+            {
+                "quantity": "3",
+                "unit": null,
+                "name": "mangos, peeled and sliced"
+            },
+            {
+                "quantity": "1",
+                "unit": "tablespoon",
+                "name": "toasted sesame seeds"
+            }
+        ],
+        "instructions": [
+            {
+                "text": "Gather all ingredients."
+            },
+            {
+                "text": "Combine water and rice in a saucepan. Bring to a boil, cover, and reduce heat to low. Simmer until water is absorbed, 15 to 20 minutes."
+            },
+            {
+                "text": "While the rice is cooking, combine 1 ½ cups coconut milk, 1 cup sugar, and 1/2 teaspoon salt in another saucepan. Bring to a boil over medium heat; remove from the heat and set aside."
+            },
+            {
+                "text": "Stir cooked rice into coconut milk mixture. Cover and allow to cool for 1 hour."
+            },
+            {
+                "text": "Make a sauce by combining 1/2 cup coconut milk, 1 tablespoon sugar, 1/4 teaspoon salt, and tapioca starch in another saucepan; bring to a boil. Cook and stir just until thickened."
+            },
+            {
+                "text": "Place coconut rice on a serving dish and arrange mangos on top. Pour sauce over mangos and rice."
+            },
+            {
+                "text": "Sprinkle with sesame seeds."
+            }
+        ],
+        "image": "https://www.allrecipes.com/thmb/yeUwoCu2irwqGDb-3PHJHnaX2C4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-150313-thai-sweet-sticky-rice-with-mango-khao-neeo-mamuang-ddmfs-4x3-hero-0da7a9b26cce4d07aea44f2f2b6abd95.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/oaULnCZz-K3AjnAEN.mp4",
+            "description": "The mango sticky rice in this recipe video is a wonderful and authentic-tasting Thai dessert that's as good, if not better, than what you find in many Thai restaurants. Fun and exotic ingredients like tapioca starch and sesame seeds contribute a unique flavor to the dish. Preparing it is as simple as putting coconut rice on a serving dish and arrange mangos on top before pouring the sweet sauce over it then sprinkling sesame seeds on top.",
+            "duration": "PT1M13S",
+            "name": "How to Make Sweet Sticky Mango Rice"
+        },
+        "url": "https://www.allrecipes.com/recipe/150313/thai-sweet-sticky-rice-with-mango-khao-neeo-mamuang/"
+    }
+]

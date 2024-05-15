@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Kem Haagen Dazs socola Bỉ vani",
+        "price": "255,000",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/kem-haagen-dazs-socola-bi-vani-420ml-741635/",
+        "category": "thuc pham dong lanh",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/399917-300x300.jpg",
+        "quantity": "420ml",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Kem Pongta vị soda 4 mùi",
+        "price": "99,000",
+        "unit": "Cây",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/kem-pongta-vi-soda-4-mui-130ml-740921/",
+        "category": "thuc pham dong lanh",
+        "image": "https://storage.googleapis.com/mm-online-bucket/ecommerce-website/uploads/media/199992-300x300.jpg",
+        "quantity": "130ml",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Kem bánh cá đậu đỏ/dâu/socola",
+        "price": "89,000",
+        "unit": "Lốc",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/kem-banh-ca-dau-do-dau-socola-150ml-740940/",
+        "category": "thuc pham dong lanh",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "3 cây",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Kem viên Atom Cremo",
+        "price": "59,000",
+        "unit": "Cây",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/kem-vien-atom-cremo-60g3-740977/",
+        "category": "thuc pham dong lanh",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "3 viên",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Kem Haagen-Dazs vị bánh quy",
+        "price": "296,000",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/kem-haagen-dazs-vi-banh-quy-473ml-740983/",
+        "category": "thuc pham dong lanh",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "473ml",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Kem bánh cá vani đậu đỏ",
+        "price": "27,000",
+        "unit": "Cây",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/kem-banh-ca-vani-dau-do-150ml-741003/",
+        "category": "thuc pham dong lanh",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "150ml",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Kem hộp sầu riêng sữa dừa",
+        "price": "71,000",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/kem-hop-sau-rieng-sua-dua-900ml-741065/",
+        "category": "thuc pham dong lanh",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "900ml",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Kem Vinamilk hương dâu",
+        "price": "47,600",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/kem-huong-dau-vinamilk-450ml-740796/",
+        "category": "thuc pham dong lanh",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "450ml",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Kem Excellent Binggrae Hàn Quốc Đại Thuận",
+        "price": "187,000",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/kem-excellent-binggrae-han-quoc-dai-thuan-800ml-740836/",
+        "category": "thuc pham dong lanh",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "800ml",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Kem Twin Cows Vinamilk Tiramisu",
+        "price": "79,000",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/kem-twin-cows-tiramisu-vinamilk-450ml-740855/",
+        "category": "thuc pham dong lanh",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "450ml",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Kem Wall’s 3 vị trà sữa + dừa + cà phê",
+        "price": "86,000",
+        "unit": "Hộp",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/kem-walls-vi-tra-sua-dua-cafe-380g-738416/",
+        "category": "thuc pham dong lanh",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "380g",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Gà 99 Poultry Chips 20-22M",
+        "price": "78,000",
+        "unit": "Gói",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/ga-99-poultry-chips-20-22m-500g-732518/",
+        "category": "thuc pham dong lanh",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "500g",
+        "domain_url": "https://online.mmvietnam.com/"
+    }
+]

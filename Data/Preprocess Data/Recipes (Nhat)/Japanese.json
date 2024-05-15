@@ -1,0 +1,163 @@
+[
+    {
+        "name": "Chef John&#39;s Miso Soup",
+        "cook_time": "0:20:00",
+        "prep_time": "0:20:00",
+        "total_time": "1:20:00",
+        "nutrition": {
+            "calories": "80 kcal",
+            "carbohydrateContent": "11 g",
+            "fiberContent": "1 g",
+            "proteinContent": "7 g",
+            "saturatedFatContent": "0 g",
+            "sodiumContent": "927 mg",
+            "fatContent": "1 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "description": "This classic Japanese miso soup is made entirely from scratch including the dashi.",
+        "cuisine": "japanese",
+        "category": "Lunch",
+        "instructions": [
+            "Gather all ingredients.",
+            "Pour cold water into a saucepan. Add kombu and soak for 30 minutes.",
+            "Set pan on the stove over medium heat, and wait until water just starts to simmer. Turn off heat, and remove kombu with a strainer. Squeeze out any liquid back into the pan, and discard kombu.",
+            "Turn heat back on to med-high, and bring to a simmer. Stir bonito flakes into the simmering liquid, and turn off the heat. Let sit for 10 minutes, before staining and reserving the liquid, also known as the &#34;dashi.&#34;",
+            "Pour dashi into a saucepan over medium heat. Add pre-soaked, shredded seaweed, soy sauce, and green onions. Bring to a simmer, and reduce heat to low. Place a small strainer over the pan, and add miso pastes. Submerge strainer halfway down into the hot dashi, and stir slowly until all the miso has dissolved and passed through into the soup.",
+            "Stir in tofu, and continue cooking on low until tofu is heated through, about 2 minutes. Taste and season with more soy sauce if needed.",
+            "Serve immediately with sliced green onions on top."
+        ],
+        "image": "https://www.allrecipes.com/thmb/vfXAwkfw4f23PCzgZtG8WUUZCis=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-recipe-8533278-chef-johns-miso-soup-hero-01-4x3-08fc674e63474da5959144ceccd9296d.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/mRcHRGjh-K3AjnAEN.mp4",
+            "description": "In this video, learn how to make Chef John’s miso soup, the perfect light soup to serve as an \nappetizer or to help you get some soothing nutrition when you feel sick. His miso soup recipe is bold, flavorful, and easy to make with just a few simple and traditional Japanese ingredients, like miso paste, dried fish, dashi, and tofu . You can store this wholesome soup in the refrigerator for a few days, and it freezes well, too.",
+            "duration": "0:10:41",
+            "name": "How to Make Chef John's Miso Soup"
+        },
+        "url": "https://www.allrecipes.com/recipe/8533278/chef-johns-miso-soup/",
+        "tags": [
+            "Japanese Soups and Stews"
+        ],
+        "ingredients": [
+            {
+                "quantity": 6.0,
+                "unit": "cups",
+                "name": "cold water",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0.5,
+                "unit": "ounce",
+                "name": "dried kombu (dried kelp)",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "cups",
+                "name": "lightly packed dried bonito flakes",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 7.0,
+                "unit": "ounces",
+                "name": "silken tofu, drained and cut into 1/2-inch cubes",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 4.0,
+                "unit": "tablespoons",
+                "name": "white miso",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "tablespoons",
+                "name": "red miso",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0,
+                "unit": null,
+                "name": "dried wakame seaweed flakes",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 0,
+                "unit": null,
+                "name": "shredded wakame or hijiki seaweed (soaked in water until soft) (Optional)",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": null,
+                "name": "green onions, thinly sliced, plus more to garnish",
+                "prepare_type": ""
+            }
+        ]
+    },
+    {
+        "name": "Miso Soup",
+        "cook_time": "0:10:00",
+        "prep_time": "0:05:00",
+        "total_time": "0:15:00",
+        "nutrition": {
+            "calories": "63 kcal",
+            "carbohydrateContent": "5 g",
+            "fiberContent": "1 g",
+            "proteinContent": "6 g",
+            "saturatedFatContent": "0 g",
+            "sodiumContent": "513 mg",
+            "sugarContent": "2 g",
+            "fatContent": "2 g",
+            "unsaturatedFatContent": "0 g"
+        },
+        "description": "This miso soup is easy to make in just 15 minutes with dashi stock, miso paste, silken tofu, and green onions for a deliciously savory appetizer.",
+        "cuisine": "japanese",
+        "category": "Appetizer",
+        "instructions": [
+            "Combine water and dashi granules in a medium saucepan over medium-high heat; bring to a boil. Reduce heat to medium and whisk in miso paste. Stir in tofu. Separate the layers of green onions, and add them to the soup. Simmer gently for 2 to 3 minutes before serving."
+        ],
+        "image": "https://www.allrecipes.com/thmb/T7eho8sl1fY9jPYYxarvQ4DG1Ew=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13107-miso-soup-Melissa-Goff-1x1-1-2962011c74e340fd8afbfaf43ac4b6f2.jpg",
+        "video": {
+            "contentUrl": "https://content.jwplatform.com/videos/GCO6fKUm-K3AjnAEN.mp4",
+            "description": "This fan-favorite side dish is packed with flavor and only uses three ingredients! In this video, learn how to make a delicious miso soup with this stovetop recipe. Made in only 15 minutes, this appetizer combines fresh green onions, silken tofu, and dashi granules into a boiling pot. After allowing the soup to simmer, transfer it to a serving bowl. It’s so easy to make and will give you a warm pick-me-up on a chilly day!",
+            "duration": "0:00:43",
+            "name": "How to Make Miso Soup"
+        },
+        "url": "https://www.allrecipes.com/recipe/13107/miso-soup/",
+        "tags": [
+            "Japanese Soups and Stews"
+        ],
+        "ingredients": [
+            {
+                "quantity": 4.0,
+                "unit": "cups",
+                "name": "water",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": "teaspoons",
+                "name": "dashi granules",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 3.0,
+                "unit": "tablespoons",
+                "name": "miso paste",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 1.0,
+                "unit": "(8 ounce) package",
+                "name": "silken tofu, diced",
+                "prepare_type": ""
+            },
+            {
+                "quantity": 2.0,
+                "unit": null,
+                "name": "green onions, sliced diagonally into 1/2 inch pieces",
+                "prepare_type": ""
+            }
+        ]
+    }
+]

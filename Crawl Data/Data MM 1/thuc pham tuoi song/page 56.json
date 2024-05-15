@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Tôm sú sống",
+        "price": "310,000",
+        "unit": "Ký",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/tom-su-song-35-40-con-kg/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "35-40 con/kg",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Ghẹ xanh sống",
+        "price": "719,000",
+        "unit": "Ký",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/ghe-xanh-song-200-250-g-con-5/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "200-250 g/con",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Cổ/ụ vai bò tinh loại 1",
+        "price": "219,000",
+        "unit": "Ký",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/co-u-vai-bo-tinh-loai-1/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "200-250 g/con",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Gầu bò tinh loại 1",
+        "price": "249,000",
+        "unit": "Ký",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/gau-bo-tinh-loai-1-11/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "200-250 g/con",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Nạm bò tinh loại 1",
+        "price": "229,000",
+        "unit": "Ký",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/nam-bo-tinh-loai-1/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "200-250 g/con",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Phi lê bò tinh loại 1",
+        "price": "379,000",
+        "unit": "Ký",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/phi-le-bo-tinh-loai-1/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "200-250 g/con",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Thăn ngoại bò tinh loại 1",
+        "price": "369,000",
+        "unit": "Ký",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/than-ngoai-bo-tinh-loai-1/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "200-250 g/con",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Vịt siêu thịt",
+        "price": "80,000",
+        "unit": "Ký",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/vit-sieu-thit-19/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "200-250 g/con",
+        "domain_url": "https://online.mmvietnam.com/"
+    },
+    {
+        "name": "Cá diêu hồng sống",
+        "price": "61,000",
+        "unit": "Ký",
+        "url": "https://online.mmvietnam.com/san-pham/mm-an-phu/ca-dieu-hong-song-0-5-0-8-kg-con-2/",
+        "category": "thuc pham tuoi song",
+        "image": "data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 300 300'%2F%3E",
+        "quantity": "0.5-0.8 kg/con",
+        "domain_url": "https://online.mmvietnam.com/"
+    }
+]
