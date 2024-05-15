@@ -1,9 +1,0 @@
-Data MM (Mega Market):
-- Tui phân loại thư mục theo category, trong mỗi category là các trang sản phẩm
-
-Data BHX (Bách Hóa Xanh): 
-- Nó không phân trang nên tui ghi hẳn ra file theo category tương ứng nha
-
-Data WSS 1 (Web So Sánh):
-- Trang này chỉ có 1 mục duy nhất về thực phẩm nên tui crawl mỗi mục này nha
-- Có 30 trang, mỗi trang tui có crawl các đường dẫn đính kèm lấy được từ web wss
