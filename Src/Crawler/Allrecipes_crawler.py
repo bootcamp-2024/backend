@@ -130,7 +130,7 @@ def Per_Cuisine_Crawler(crawl_urls, cuisine):
     '''
 
     # Initialize the ApifyClient with your API token
-    client = ApifyClient("apify_api_dVVQ5w9MhasXrCO5SPGTurSJr2fyBg1uIq7b")
+    client = ApifyClient("apify_api_KeqCx8eA8w6cp6jNXQIezKpOBY4fJZ0LwLcs")
     recipes = []
     
     for crawl_url in crawl_urls:
@@ -138,15 +138,6 @@ def Per_Cuisine_Crawler(crawl_urls, cuisine):
         run_input = {
             "startUrls": [crawl_url],
             "maxItems": 500,
-            "extendOutputFunction": """($) => { return {
-                "scrapedType": undefined, 
-                "reviews":undefined, 
-                "Yield": undefined,  
-                "nutritionFacts":undefined, 
-                "rating": undefined,
-                "author": undefined, 
-                "breadcrumbs": undefined   
-            } }""",
             "proxy": { "useApifyProxy": True },
         }
 
@@ -183,9 +174,9 @@ def Recipe_Crawler():
     for index in range(len(CUISINE)):
         # print(URL[index], CUISINE[index])
         recipes = Per_Cuisine_Crawler(URL[index], CUISINE[index])
-        all_recipes = all_recipes + recipes
+        all_recipes.extend(recipes)
 
-        file_name = CUISINE[index] + '.json'
+        file_name = 'Recipes.json'
         file_dir = os.path.join(save_path, file_name)
         with open(file_dir, 'w') as f:
             json.dump(all_recipes, f, indent=4, ensure_ascii=True)
